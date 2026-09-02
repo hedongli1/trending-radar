@@ -447,6 +447,11 @@
       <button class="tab-btn" data-cat="aiEco">🤖 AI / LLM / Agent 榜</button>
     </div>
 
+    <!-- 趋势洞察：新上榜 / 排名上升 -->
+    <div class="filter-bar" id="insight-bar" style="display:none">
+      <div class="stats-pill" id="insight-text" style="font-weight:600"></div>
+    </div>
+
     <!-- 过滤与搜索 -->
     <div class="filter-bar">
       <div class="search-box">
@@ -492,6 +497,7 @@
     };
 
     let dataset = null;
+    let insight = null;
     let currentCat = 'allTime';
     let searchQuery = '';
     let selectedLang = 'ALL';
@@ -509,9 +515,15 @@
         if (!res.ok) throw new Error('Data file not found');
         dataset = await res.json();
 
+        // 顺带拉取趋势洞察（可能首次运行尚未生成）
+        try {
+          const ir = await fetch('data/insight-latest.json');
+          if (ir.ok) insight = await ir.json();
+        } catch { /* 无洞察数据忽略 */ }
+
         // 更新头部时间
         const dt = new Date(dataset.updatedAt);
-        document.getElementById('update-time').textContent = `🕒 更新于: ${dt.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })} (每12小时自动刷新)`;
+        document.getElementById('update-time').textContent = `🕒 更新于: ${dt.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })} (每日晨报+晚报)`;
 
         // 填充语言下拉框
         const langSelect = document.getElementById('lang-filter');
@@ -555,6 +567,25 @@
       });
 
       document.getElementById('stats-pill').textContent = `显示 ${filtered.length} / ${repos.length} 个项目`;
+
+      // 更新趋势洞察栏
+      const insightBar = document.getElementById('insight-bar');
+      const insightText = document.getElementById('insight-text');
+      if (insight && insight.categories && insight.categories[currentCat]) {
+        const s = insight.categories[currentCat];
+        const parts = [];
+        if (s.newcomers && s.newcomers.length) parts.push(`🆕 新上榜 ${s.newcomers.length}`);
+        if (s.risers && s.risers.length) parts.push(`📈 排名上升 ${s.risers.length}`);
+        if (s.dropped && s.dropped.length) parts.push(`📉 掉榜 ${s.dropped.length}`);
+        if (parts.length) {
+          insightText.textContent = `趋势洞察（对比上一份数据）：` + parts.join(' · ');
+          insightBar.style.display = 'flex';
+        } else {
+          insightBar.style.display = 'none';
+        }
+      } else {
+        insightBar.style.display = 'none';
+      }
 
       const grid = document.getElementById('repo-grid');
       if (filtered.length === 0) {

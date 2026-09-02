@@ -108,7 +108,68 @@ export async function run() {
   await fs.writeFile(historyPath, JSON.stringify(dataset, null, 2), 'utf8');
   console.log(`💾 成功存档历史数据至 ${historyPath}`);
 
+  // ── 自动整理：与上一份数据做榜单变化分析（新上榜 / 排名上升最快 / 掉榜）──
+  const insight = await buildInsight(outDir, dataset, dateStr);
+
   return dataset;
+}
+
+// 自动整理：对比最近一份「非当天」的历史存档，生成榜单变化洞察
+async function buildInsight(outDir, current, dateStr) {
+  const insight = {
+    generatedAt: new Date().toISOString(),
+    date: dateStr,
+    categories: {},
+    summary: {},
+  };
+  let prev = null;
+  try {
+    // 列出历史存档，取最近一份非当天的（避免与自己今天刚写的最新文件对比）
+    const files = (await fs.readdir(outDir))
+      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+      .filter((f) => !f.startsWith(dateStr))
+      .sort();
+    if (files.length) {
+      prev = JSON.parse(await fs.readFile(path.join(outDir, files[files.length - 1]), 'utf8'));
+    }
+  } catch {
+    // 无历史可对比（首次运行）
+  }
+
+  for (const cat of Object.keys(current.categories)) {
+    const cur = current.categories[cat] || [];
+    const pre = (prev && prev.categories[cat]) || [];
+    const preRank = new Map(pre.map((r, i) => [r.fullName, i + 1]));
+    const curRank = new Map(cur.map((r, i) => [r.fullName, i + 1]));
+
+    // 新上榜（本次有、上次无）
+    const newcomers = cur.filter((r) => !preRank.has(r.fullName)).slice(0, 10);
+
+    // 排名上升最快的（上次在榜且名次前进最多）
+    const risers = cur
+      .filter((r) => preRank.has(r.fullName))
+      .map((r) => ({ repo: r, gained: (preRank.get(r.fullName) || 999) - curRank.get(r.fullName) }))
+      .filter((x) => x.gained > 0)
+      .sort((a, b) => b.gained - a.gained)
+      .slice(0, 10)
+      .map((x) => ({ ...x.repo, rankGain: x.gained }));
+
+    // 掉榜（上次在榜、本次消失）
+    const dropped = pre.filter((r) => !curRank.has(r.fullName)).slice(0, 10);
+
+    insight.categories[cat] = { newcomers, risers, dropped };
+    insight.summary[cat] = {
+      total: cur.length,
+      newcomers: newcomers.length,
+      risers: risers.length,
+      dropped: dropped.length,
+    };
+  }
+
+  const insightPath = path.join(outDir, 'insight-latest.json');
+  await fs.writeFile(insightPath, JSON.stringify(insight, null, 2), 'utf8');
+  console.log(`📊 自动整理：榜单变化洞察已写入 ${insightPath}`);
+  return insight;
 }
 
 if (process.argv[1] && process.argv[1].endsWith('fetch-trending.js')) {

@@ -2,7 +2,8 @@ name: Update Trending Radar
 
 on:
   schedule:
-    - cron: '0 2,14 * * *' # 每天 UTC 02:00 和 14:00 定时执行更新（每12小时刷新一次趋势）
+    - cron: '30 0 * * *'   # 晨报：UTC 00:30（北京 08:30）错开整点，起床可见
+    - cron: '14 14 * * *'  # 晚报：UTC 14:14（北京 22:14）错开分秒，睡前看当日完整趋势
   workflow_dispatch: # 支持手动触发
 
 permissions:
