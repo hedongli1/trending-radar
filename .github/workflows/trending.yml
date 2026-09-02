@@ -1,0 +1,61 @@
+name: Update Trending Radar
+
+on:
+  schedule:
+    - cron: '0 2,14 * * *' # 每天 UTC 02:00 和 14:00 定时执行更新（每12小时刷新一次趋势）
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch-and-deploy:
+    name: 抓取榜单数据并更新看板
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 运行榜单数据抓取引擎
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node scripts/fetch-trending.js
+
+      - name: 生成工作流摘要
+        if: always()
+        run: |
+          {
+            echo "## 🚀 GitHub Trending Radar 榜单更新完成"
+            echo ""
+            echo "**更新时间**：$(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo ""
+            echo "最新数据已落盘到 \`docs/data/trending-latest.json\`。"
+            echo "在线看板：https://hedongli1.github.io/trending-radar/"
+          } >> $GITHUB_STEP_SUMMARY
+
+      - name: 提交并推送到仓库
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          git diff --cached --quiet || (git commit -m "chore(data): auto update trending ranking [skip ci]" && git push)
+
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs/'
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

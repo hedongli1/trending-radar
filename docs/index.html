@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GitHub Trending Radar · 热门与飙升项目风向标</title>
+  <meta name="description" content="自动化追踪 GitHub 全站高 Star 与近期飙升黑马开源项目">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #090b10;
+      --bg-card: #121620;
+      --bg-card-hover: #181e2c;
+      --border: #212838;
+      --border-focus: #3b82f6;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --primary: #38bdf8;
+      --primary-glow: rgba(56, 189, 248, 0.15);
+      --gold: #f59e0b;
+      --gold-glow: rgba(245, 158, 11, 0.15);
+      --emerald: #10b981;
+      --purple: #a855f7;
+      --font-display: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.5;
+    }
+
+    /* 背景炫酷网格 + 光斑 */
+    .bg-canvas {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 40px 40px;
+      mask-image: radial-gradient(circle at 50% 30%, #000 10%, transparent 80%);
+      -webkit-mask-image: radial-gradient(circle at 50% 30%, #000 10%, transparent 80%);
+    }
+
+    .glow-sphere {
+      position: fixed;
+      top: -100px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 600px;
+      height: 350px;
+      background: radial-gradient(circle, rgba(56, 189, 248, 0.12) 0%, rgba(168, 85, 247, 0.06) 50%, transparent 80%);
+      filter: blur(60px);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 14px;
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.25);
+      border-radius: 9999px;
+      color: var(--primary);
+      font-size: 13px;
+      font-family: var(--font-mono);
+      margin-bottom: 16px;
+    }
+
+    .pulse {
+      width: 8px;
+      height: 8px;
+      background: var(--emerald);
+      border-radius: 50%;
+      box-shadow: 0 0 10px var(--emerald);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(1.2); }
+    }
+
+    h1 {
+      font-family: var(--font-display);
+      font-size: clamp(32px, 5vw, 48px);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      background: linear-gradient(135deg, #ffffff 40%, var(--primary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 12px;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 16px;
+      max-width: 600px;
+      margin: 0 auto 20px;
+    }
+
+    .meta-info {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+      font-size: 13px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+    }
+
+    .meta-info a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    .meta-info a:hover {
+      text-decoration: underline;
+    }
+
+    /* 榜单分类 Tabs */
+    .tabs-wrap {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 30px;
+    }
+
+    .tab-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 10px 20px;
+      border-radius: 12px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .tab-btn:hover {
+      background: var(--bg-card-hover);
+      color: var(--text);
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .tab-btn.active {
+      background: rgba(56, 189, 248, 0.1);
+      border-color: var(--primary);
+      color: #ffffff;
+      box-shadow: 0 0 20px var(--primary-glow);
+    }
+
+    /* 过滤与搜索条 */
+    .filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      justify-content: space-between;
+      align-items: center;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px 20px;
+      margin-bottom: 32px;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 260px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      background: #090b10;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 16px 10px 38px;
+      color: var(--text);
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-input:focus {
+      border-color: var(--primary);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    .lang-select {
+      background: #090b10;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 16px;
+      color: var(--text);
+      font-size: 14px;
+      outline: none;
+      cursor: pointer;
+    }
+
+    .lang-select:focus {
+      border-color: var(--primary);
+    }
+
+    .stats-pill {
+      font-size: 13px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+    }
+
+    /* 列表与卡片 */
+    .repo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+      gap: 20px;
+    }
+
+    .repo-card {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 22px;
+      transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .repo-card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(56, 189, 248, 0.4);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4), 0 0 20px var(--primary-glow);
+    }
+
+    .card-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .rank-num {
+      font-family: var(--font-mono);
+      font-weight: 700;
+      font-size: 14px;
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-muted);
+    }
+
+    .rank-1 { background: rgba(245, 158, 11, 0.2); color: var(--gold); border: 1px solid rgba(245, 158, 11, 0.4); }
+    .rank-2 { background: rgba(226, 232, 240, 0.2); color: #f8fafc; border: 1px solid rgba(226, 232, 240, 0.4); }
+    .rank-3 { background: rgba(217, 119, 6, 0.2); color: #fb923c; border: 1px solid rgba(217, 119, 6, 0.4); }
+
+    .owner-avatar {
+      width: 28px;
+      height: 28px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+    }
+
+    .repo-title {
+      font-family: var(--font-display);
+      font-size: 16px;
+      font-weight: 700;
+      color: #ffffff;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      flex: 1;
+    }
+
+    .repo-desc {
+      font-size: 14px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 18px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      flex-grow: 1;
+    }
+
+    .topics-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+
+    .topic-tag {
+      font-size: 11px;
+      font-family: var(--font-mono);
+      padding: 2px 8px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 6px;
+      color: var(--text-muted);
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      padding-top: 14px;
+      font-size: 13px;
+      color: var(--text-muted);
+      font-family: var(--font-mono);
+    }
+
+    .metrics {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .metric-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .star-metric {
+      color: var(--gold);
+      font-weight: 600;
+    }
+
+    .lang-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+    }
+
+    .lang-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+    }
+
+    /* 空状态与加载中 */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      background: var(--bg-card);
+      border: 1px dashed var(--border);
+      border-radius: 16px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 13px;
+      font-family: var(--font-mono);
+    }
+
+    footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 640px) {
+      .repo-grid { grid-template-columns: 1fr; }
+      .filter-bar { flex-direction: column; align-items: stretch; }
+    }
+  </style>
+</head>
+<body>
+  <div class="bg-canvas"></div>
+  <div class="glow-sphere"></div>
+
+  <div class="container">
+    <header>
+      <div class="badge">
+        <span class="pulse"></span>
+        <span>GITHUB ACTIONS POWERED</span>
+      </div>
+      <h1>GitHub Trending Radar</h1>
+      <p class="subtitle">自动化追踪全站高 Star 标杆、近 30 天新建黑马与近期爆发技术风口</p>
+      <div class="meta-info">
+        <span id="update-time">⏳ 数据加载中...</span>
+        <span>•</span>
+        <a href="https://github.com/hedongli1/trending-radar" target="_blank">View on GitHub ↗</a>
+      </div>
+    </header>
+
+    <!-- 维度切换 Tabs -->
+    <div class="tabs-wrap" id="category-tabs">
+      <button class="tab-btn active" data-cat="allTime">⭐ 全站总榜 Top</button>
+      <button class="tab-btn" data-cat="breakout">🚀 近30天新建黑马</button>
+      <button class="tab-btn" data-cat="activeWeek">🔥 本周活跃飙升</button>
+      <button class="tab-btn" data-cat="aiEco">🤖 AI / LLM / Agent 榜</button>
+    </div>
+
+    <!-- 过滤与搜索 -->
+    <div class="filter-bar">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" class="search-input" placeholder="搜索项目名、组织、描述或标签...">
+      </div>
+      <select id="lang-filter" class="lang-select">
+        <option value="ALL">全部编程语言 (All Languages)</option>
+      </select>
+      <div class="stats-pill" id="stats-pill">显示 0 个项目</div>
+    </div>
+
+    <!-- 卡片网格 -->
+    <div class="repo-grid" id="repo-grid">
+      <div class="empty-state">正在从 GitHub Actions 数据库加载最新榜单...</div>
+    </div>
+
+    <footer>
+      <p>由 <a href="https://github.com/hedongli1">hedongli1</a> 通过 GitHub Actions 自动化每 12 小时调度更新 · 零依赖纯静态部署</p>
+    </footer>
+  </div>
+
+  <script>
+    // 语言颜色映射
+    const LANG_COLORS = {
+      JavaScript: '#f1e05a',
+      TypeScript: '#3178c6',
+      Python: '#3572A5',
+      Rust: '#dea584',
+      Go: '#00ADD8',
+      Java: '#b07219',
+      'C++': '#f34b7d',
+      C: '#555555',
+      Ruby: '#701516',
+      PHP: '#4F5D95',
+      Swift: '#F05138',
+      Kotlin: '#A97BFF',
+      Vue: '#41b883',
+      HTML: '#e34c26',
+      Shell: '#89e051',
+      Dart: '#00B4AB',
+      Other: '#8b949e',
+    };
+
+    let dataset = null;
+    let currentCat = 'allTime';
+    let searchQuery = '';
+    let selectedLang = 'ALL';
+
+    function formatNumber(num) {
+      if (num >= 1000) {
+        return (num / 1000).toFixed(1) + 'k';
+      }
+      return num.toLocaleString();
+    }
+
+    async function init() {
+      try {
+        const res = await fetch('data/trending-latest.json');
+        if (!res.ok) throw new Error('Data file not found');
+        dataset = await res.json();
+
+        // 更新头部时间
+        const dt = new Date(dataset.updatedAt);
+        document.getElementById('update-time').textContent = `🕒 更新于: ${dt.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })} (每12小时自动刷新)`;
+
+        // 填充语言下拉框
+        const langSelect = document.getElementById('lang-filter');
+        (dataset.availableLanguages || []).forEach(lang => {
+          const opt = document.createElement('option');
+          opt.value = lang;
+          opt.textContent = lang;
+          langSelect.appendChild(opt);
+        });
+
+        render();
+      } catch (err) {
+        document.getElementById('repo-grid').innerHTML = `
+          <div class="empty-state">
+            ⚠️ 榜单数据加载失败或正在由 GitHub Action 首次生成中...<br>
+            <small style="color:var(--text-muted)">若刚部署，请等待 Actions 工作流运行完成。</small>
+          </div>
+        `;
+      }
+    }
+
+    function render() {
+      if (!dataset) return;
+      const repos = dataset.categories[currentCat] || [];
+
+      // 过滤
+      const filtered = repos.filter(r => {
+        // 语言过滤
+        if (selectedLang !== 'ALL' && r.language !== selectedLang) {
+          return false;
+        }
+        // 文本搜索
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          const matchName = r.fullName.toLowerCase().includes(q);
+          const matchDesc = (r.description || '').toLowerCase().includes(q);
+          const matchTopics = (r.topics || []).some(t => t.toLowerCase().includes(q));
+          return matchName || matchDesc || matchTopics;
+        }
+        return true;
+      });
+
+      document.getElementById('stats-pill').textContent = `显示 ${filtered.length} / ${repos.length} 个项目`;
+
+      const grid = document.getElementById('repo-grid');
+      if (filtered.length === 0) {
+        grid.innerHTML = '<div class="empty-state">没有找到匹配的项目，换个关键词或语言试试看 🎯</div>';
+        return;
+      }
+
+      grid.innerHTML = filtered.map((r, idx) => {
+        const rank = idx + 1;
+        let rankClass = '';
+        if (rank === 1) rankClass = 'rank-1';
+        else if (rank === 2) rankClass = 'rank-2';
+        else if (rank === 3) rankClass = 'rank-3';
+
+        const langColor = LANG_COLORS[r.language] || LANG_COLORS.Other;
+        const topicsHtml = (r.topics || []).slice(0, 3).map(t => `<span class="topic-tag">#${t}</span>`).join('');
+
+        return `
+          <a class="repo-card" href="${r.url}" target="_blank" rel="noopener noreferrer">
+            <div class="card-top">
+              <div class="rank-num ${rankClass}">${rank}</div>
+              <img class="owner-avatar" src="${r.owner.avatarUrl}" alt="${r.owner.login}" loading="lazy" />
+              <div class="repo-title" title="${r.fullName}">${r.fullName}</div>
+            </div>
+            <div class="repo-desc">${r.description}</div>
+            ${topicsHtml ? `<div class="topics-wrap">${topicsHtml}</div>` : ''}
+            <div class="card-footer">
+              <div class="lang-badge">
+                <span class="lang-dot" style="background:${langColor}"></span>
+                <span>${r.language}</span>
+              </div>
+              <div class="metrics">
+                <div class="metric-item star-metric">
+                  <span>★</span>
+                  <span>${formatNumber(r.stars)}</span>
+                </div>
+                <div class="metric-item">
+                  <span>⑂</span>
+                  <span>${formatNumber(r.forks)}</span>
+                </div>
+              </div>
+            </div>
+          </a>
+        `;
+      }).join('');
+    }
+
+    // 事件绑定
+    document.getElementById('category-tabs').addEventListener('click', (e) => {
+      const btn = e.target.closest('.tab-btn');
+      if (!btn) return;
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCat = btn.getAttribute('data-cat');
+      render();
+    });
+
+    document.getElementById('search-input').addEventListener('input', (e) => {
+      searchQuery = e.target.value.trim();
+      render();
+    });
+
+    document.getElementById('lang-filter').addEventListener('change', (e) => {
+      selectedLang = e.target.value;
+      render();
+    });
+
+    init();
+  </script>
+</body>
+</html>

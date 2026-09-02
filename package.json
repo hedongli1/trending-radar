@@ -1,0 +1,14 @@
+{
+  "name": "trending-radar",
+  "version": "1.0.0",
+  "description": "GitHub Trending Radar — Automated Hot & Breakout Repos Dashboard powered by GitHub Actions",
+  "main": "scripts/fetch-trending.js",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-trending.js",
+    "test": "node --check scripts/fetch-trending.js"
+  },
+  "keywords": ["github", "trending", "ranking", "actions", "dashboard"],
+  "author": "hedongli1",
+  "license": "MIT"
+}
