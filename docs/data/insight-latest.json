@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T00:40:48.396Z",
+  "generatedAt": "2026-09-04T14:21:14.507Z",
   "date": "2026-09-04",
   "categories": {
     "allTime": {
@@ -11,8 +11,8 @@
           "fullName": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "stars": 247376,
-          "forks": 20971,
+          "stars": 249200,
+          "forks": 21090,
           "openIssues": 461,
           "language": "Shell",
           "owner": {
@@ -22,10 +22,37 @@
           },
           "topics": [],
           "createdAt": "2026-02-03T11:15:53Z",
-          "pushedAt": "2026-09-03T15:03:25Z",
-          "updatedAt": "2026-09-04T00:40:23Z",
+          "pushedAt": "2026-09-04T08:45:43Z",
+          "updatedAt": "2026-09-04T14:21:09Z",
           "license": "MIT",
-          "rankGain": 2
+          "rankGain": 3
+        },
+        {
+          "id": 1333065091,
+          "name": "deepseek-harness",
+          "fullName": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "stars": 211941,
+          "forks": 24858,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "deepseek-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
+            "url": "https://github.com/deepseek-ai"
+          },
+          "topics": [
+            "ai-agents",
+            "cordis",
+            "dsh",
+            "dsh-plugin"
+          ],
+          "createdAt": "2026-08-13T11:56:32Z",
+          "pushedAt": "2026-09-04T11:34:31Z",
+          "updatedAt": "2026-09-04T14:20:44Z",
+          "license": "MIT",
+          "rankGain": 1
         }
       ],
       "dropped": []
@@ -33,25 +60,55 @@
     "breakout": {
       "newcomers": [
         {
-          "id": 1338435811,
-          "name": "deploy-vercel",
-          "fullName": "vvxw/deploy-vercel",
-          "url": "https://github.com/vvxw/deploy-vercel",
-          "description": "Install Command：npm install",
-          "stars": 1594,
-          "forks": 326,
-          "openIssues": 5,
-          "language": "JavaScript",
+          "id": 1353548665,
+          "name": "commerce-agents",
+          "fullName": "anthropics/commerce-agents",
+          "url": "https://github.com/anthropics/commerce-agents",
+          "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+          "stars": 1837,
+          "forks": 296,
+          "openIssues": 4,
+          "language": "Python",
           "owner": {
-            "login": "vvxw",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/142342666?v=4",
-            "url": "https://github.com/vvxw"
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
           },
           "topics": [],
-          "createdAt": "2026-08-18T13:25:45Z",
-          "pushedAt": "2026-08-18T13:33:29Z",
-          "updatedAt": "2026-09-04T00:23:46Z",
-          "license": null
+          "createdAt": "2026-09-01T12:30:12Z",
+          "pushedAt": "2026-09-01T20:41:14Z",
+          "updatedAt": "2026-09-04T14:14:46Z",
+          "license": "Apache-2.0"
+        },
+        {
+          "id": 1342461518,
+          "name": "FrontierAgent",
+          "fullName": "ApodexAI/FrontierAgent",
+          "url": "https://github.com/ApodexAI/FrontierAgent",
+          "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+          "stars": 1661,
+          "forks": 137,
+          "openIssues": 11,
+          "language": "Python",
+          "owner": {
+            "login": "ApodexAI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/276468590?v=4",
+            "url": "https://github.com/ApodexAI"
+          },
+          "topics": [
+            "agent-orchestration",
+            "agentic-ai",
+            "agentic-framework",
+            "ai-agents",
+            "harness",
+            "multi-agent",
+            "terminal-agent",
+            "tui"
+          ],
+          "createdAt": "2026-08-22T05:07:35Z",
+          "pushedAt": "2026-09-04T11:15:11Z",
+          "updatedAt": "2026-09-04T14:18:26Z",
+          "license": "Apache-2.0"
         }
       ],
       "risers": [
@@ -61,9 +118,9 @@
           "fullName": "deeplethe/utopia",
           "url": "https://github.com/deeplethe/utopia",
           "description": "World's first open-source enterprise world model.",
-          "stars": 3609,
-          "forks": 313,
-          "openIssues": 13,
+          "stars": 4253,
+          "forks": 357,
+          "openIssues": 19,
           "language": "Rust",
           "owner": {
             "login": "deeplethe",
@@ -88,102 +145,67 @@
             "world-model"
           ],
           "createdAt": "2026-08-07T19:33:17Z",
-          "pushedAt": "2026-09-04T00:39:30Z",
-          "updatedAt": "2026-09-04T00:40:17Z",
+          "pushedAt": "2026-09-04T10:57:31Z",
+          "updatedAt": "2026-09-04T14:16:26Z",
           "license": "Apache-2.0",
-          "rankGain": 3
+          "rankGain": 7
         },
         {
-          "id": 1332781509,
-          "name": "rakazo",
-          "fullName": "elie222/rakazo",
-          "url": "https://github.com/elie222/rakazo",
-          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-          "stars": 1870,
-          "forks": 316,
-          "openIssues": 62,
-          "language": "TypeScript",
+          "id": 1349253750,
+          "name": "sepia",
+          "fullName": "Nanako0129/sepia",
+          "url": "https://github.com/Nanako0129/sepia",
+          "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+          "stars": 1957,
+          "forks": 119,
+          "openIssues": 3,
+          "language": "Python",
           "owner": {
-            "login": "elie222",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?v=4",
-            "url": "https://github.com/elie222"
+            "login": "Nanako0129",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44753291?v=4",
+            "url": "https://github.com/Nanako0129"
           },
           "topics": [
-            "ai-agents",
-            "chatgpt",
-            "docker",
-            "electron",
-            "expo",
+            "agent-skills",
+            "ai-writing",
+            "antigravity",
+            "claude-code",
+            "codex",
+            "developer-tools",
+            "fiction",
             "grok",
+            "humanizer",
             "llm",
-            "self-hosted",
-            "typescript"
+            "prompt-engineering",
+            "writing-tools"
           ],
-          "createdAt": "2026-08-13T06:28:56Z",
-          "pushedAt": "2026-09-03T22:55:40Z",
-          "updatedAt": "2026-09-04T00:18:10Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
+          "createdAt": "2026-08-28T05:56:49Z",
+          "pushedAt": "2026-09-04T13:30:16Z",
+          "updatedAt": "2026-09-04T14:11:17Z",
+          "license": "MIT",
+          "rankGain": 6
         },
         {
-          "id": 1344939825,
-          "name": "goldie",
-          "fullName": "kacperkapusciak/goldie",
-          "url": "https://github.com/kacperkapusciak/goldie",
-          "description": "✨ agentic app store previews and screenshots",
-          "stars": 1710,
-          "forks": 146,
-          "openIssues": 4,
-          "language": "TypeScript",
+          "id": 1331728719,
+          "name": "ASu-skills",
+          "fullName": "Hisn00w/ASu-skills",
+          "url": "https://github.com/Hisn00w/ASu-skills",
+          "description": "🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。",
+          "stars": 3493,
+          "forks": 221,
+          "openIssues": 7,
+          "language": "HTML",
           "owner": {
-            "login": "kacperkapusciak",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/39658211?v=4",
-            "url": "https://github.com/kacperkapusciak"
+            "login": "Hisn00w",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/212549348?v=4",
+            "url": "https://github.com/Hisn00w"
           },
           "topics": [],
-          "createdAt": "2026-08-24T12:36:59Z",
-          "pushedAt": "2026-09-02T13:56:08Z",
-          "updatedAt": "2026-09-04T00:40:37Z",
-          "license": "NOASSERTION",
-          "rankGain": 3
-        },
-        {
-          "id": 1342930695,
-          "name": "scroll-craft",
-          "fullName": "nateherkai/scroll-craft",
-          "url": "https://github.com/nateherkai/scroll-craft",
-          "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-          "stars": 1681,
-          "forks": 261,
-          "openIssues": 4,
-          "language": "JavaScript",
-          "owner": {
-            "login": "nateherkai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/253835467?v=4",
-            "url": "https://github.com/nateherkai"
-          },
-          "topics": [
-            "accessibility",
-            "agent-skills",
-            "ai-web-design",
-            "anthropic",
-            "claude-code",
-            "claude-code-plugin",
-            "creative-coding",
-            "design-system",
-            "frontend",
-            "interaction-design",
-            "landing-page",
-            "scroll-animation",
-            "scrollytelling",
-            "typography",
-            "web-design"
-          ],
-          "createdAt": "2026-08-22T15:25:08Z",
-          "pushedAt": "2026-09-02T04:22:53Z",
-          "updatedAt": "2026-09-04T00:17:30Z",
+          "createdAt": "2026-08-12T07:12:05Z",
+          "pushedAt": "2026-09-04T13:43:45Z",
+          "updatedAt": "2026-09-04T14:11:22Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 4
         },
         {
           "id": 1348483831,
@@ -191,9 +213,9 @@
           "fullName": "crmne/fastpotify",
           "url": "https://github.com/crmne/fastpotify",
           "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-          "stars": 2797,
-          "forks": 118,
-          "openIssues": 46,
+          "stars": 2953,
+          "forks": 122,
+          "openIssues": 53,
           "language": "Rust",
           "owner": {
             "login": "crmne",
@@ -219,30 +241,91 @@
             "windows"
           ],
           "createdAt": "2026-08-27T12:46:32Z",
-          "pushedAt": "2026-09-03T21:30:36Z",
-          "updatedAt": "2026-09-04T00:38:42Z",
+          "pushedAt": "2026-09-04T08:39:29Z",
+          "updatedAt": "2026-09-04T14:21:09Z",
           "license": "MIT",
+          "rankGain": 4
+        },
+        {
+          "id": 1332781509,
+          "name": "rakazo",
+          "fullName": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "stars": 1902,
+          "forks": 322,
+          "openIssues": 51,
+          "language": "TypeScript",
+          "owner": {
+            "login": "elie222",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?v=4",
+            "url": "https://github.com/elie222"
+          },
+          "topics": [
+            "ai-agents",
+            "chatgpt",
+            "docker",
+            "electron",
+            "expo",
+            "grok",
+            "llm",
+            "self-hosted",
+            "typescript"
+          ],
+          "createdAt": "2026-08-13T06:28:56Z",
+          "pushedAt": "2026-09-04T14:04:30Z",
+          "updatedAt": "2026-09-04T13:54:23Z",
+          "license": "Apache-2.0",
+          "rankGain": 3
+        },
+        {
+          "id": 1325096132,
+          "name": "shuohao-skills",
+          "fullName": "eternityspring/shuohao-skills",
+          "url": "https://github.com/eternityspring/shuohao-skills",
+          "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
+          "stars": 2767,
+          "forks": 356,
+          "openIssues": 3,
+          "language": "JavaScript",
+          "owner": {
+            "login": "eternityspring",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5795147?v=4",
+            "url": "https://github.com/eternityspring"
+          },
+          "topics": [],
+          "createdAt": "2026-08-06T10:38:49Z",
+          "pushedAt": "2026-08-26T14:20:50Z",
+          "updatedAt": "2026-09-04T14:13:53Z",
+          "license": "Apache-2.0",
           "rankGain": 2
         },
         {
-          "id": 1344273611,
-          "name": "walgit",
-          "fullName": "tobi/walgit",
-          "url": "https://github.com/tobi/walgit",
-          "description": "暂无描述",
-          "stars": 2416,
-          "forks": 132,
-          "openIssues": 26,
-          "language": "Rust",
+          "id": 1349601607,
+          "name": "codex-with-chatgpt",
+          "fullName": "XiaoDuoYa/codex-with-chatgpt",
+          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+          "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+          "stars": 2461,
+          "forks": 255,
+          "openIssues": 3,
+          "language": "TypeScript",
           "owner": {
-            "login": "tobi",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/347?v=4",
-            "url": "https://github.com/tobi"
+            "login": "XiaoDuoYa",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113528266?v=4",
+            "url": "https://github.com/XiaoDuoYa"
           },
-          "topics": [],
-          "createdAt": "2026-08-23T22:28:01Z",
-          "pushedAt": "2026-08-27T01:50:20Z",
-          "updatedAt": "2026-09-03T22:11:30Z",
+          "topics": [
+            "ai-agents",
+            "chatgpt",
+            "codex",
+            "mcp",
+            "model-context-protocol",
+            "oauth"
+          ],
+          "createdAt": "2026-08-28T12:57:24Z",
+          "pushedAt": "2026-09-04T10:46:18Z",
+          "updatedAt": "2026-09-04T14:12:38Z",
           "license": "MIT",
           "rankGain": 2
         },
@@ -252,8 +335,8 @@
           "fullName": "yanliudesign/mono-color-skill",
           "url": "https://github.com/yanliudesign/mono-color-skill",
           "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
-          "stars": 2184,
-          "forks": 35,
+          "stars": 2270,
+          "forks": 40,
           "openIssues": 6,
           "language": "Python",
           "owner": {
@@ -277,103 +360,58 @@
           ],
           "createdAt": "2026-08-19T06:07:45Z",
           "pushedAt": "2026-09-02T18:49:42Z",
-          "updatedAt": "2026-09-04T00:39:28Z",
+          "updatedAt": "2026-09-04T14:15:27Z",
           "license": "MIT",
           "rankGain": 2
         },
         {
-          "id": 1349253750,
-          "name": "sepia",
-          "fullName": "Nanako0129/sepia",
-          "url": "https://github.com/Nanako0129/sepia",
-          "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-          "stars": 1869,
-          "forks": 111,
-          "openIssues": 2,
-          "language": "Python",
-          "owner": {
-            "login": "Nanako0129",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/44753291?v=4",
-            "url": "https://github.com/Nanako0129"
-          },
-          "topics": [
-            "agent-skills",
-            "ai-writing",
-            "antigravity",
-            "claude-code",
-            "codex",
-            "developer-tools",
-            "fiction",
-            "grok",
-            "humanizer",
-            "llm",
-            "prompt-engineering",
-            "writing-tools"
-          ],
-          "createdAt": "2026-08-28T05:56:49Z",
-          "pushedAt": "2026-09-03T18:25:40Z",
-          "updatedAt": "2026-09-04T00:05:52Z",
-          "license": "MIT",
-          "rankGain": 2
-        },
-        {
-          "id": 1336502227,
-          "name": "OpenBot",
-          "fullName": "CopilotKit/OpenBot",
-          "url": "https://github.com/CopilotKit/OpenBot",
-          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-          "stars": 4125,
-          "forks": 497,
-          "openIssues": 26,
+          "id": 1344939825,
+          "name": "goldie",
+          "fullName": "kacperkapusciak/goldie",
+          "url": "https://github.com/kacperkapusciak/goldie",
+          "description": "✨ agentic app store previews and screenshots",
+          "stars": 1744,
+          "forks": 149,
+          "openIssues": 4,
           "language": "TypeScript",
           "owner": {
-            "login": "CopilotKit",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
-            "url": "https://github.com/CopilotKit"
+            "login": "kacperkapusciak",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/39658211?v=4",
+            "url": "https://github.com/kacperkapusciak"
           },
-          "topics": [
-            "ag-ui",
-            "agent-governance",
-            "ai-agents",
-            "browser-automation",
-            "copilotkit",
-            "generative-ui",
-            "mcp"
-          ],
-          "createdAt": "2026-08-17T00:44:59Z",
-          "pushedAt": "2026-09-03T19:08:03Z",
-          "updatedAt": "2026-09-04T00:30:01Z",
-          "license": "MIT",
-          "rankGain": 1
+          "topics": [],
+          "createdAt": "2026-08-24T12:36:59Z",
+          "pushedAt": "2026-09-02T13:56:08Z",
+          "updatedAt": "2026-09-04T14:13:42Z",
+          "license": "NOASSERTION",
+          "rankGain": 2
         },
         {
-          "id": 1337955304,
-          "name": "sprix-sage-router",
-          "fullName": "wang2122/sprix-sage-router",
-          "url": "https://github.com/wang2122/sprix-sage-router",
-          "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-          "stars": 3359,
-          "forks": 398,
-          "openIssues": 1,
-          "language": "Python",
+          "id": 1326893710,
+          "name": "DSH-better-sidebar",
+          "fullName": "omdsh-dev/DSH-better-sidebar",
+          "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+          "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+          "stars": 3325,
+          "forks": 292,
+          "openIssues": 135,
+          "language": "TypeScript",
           "owner": {
-            "login": "wang2122",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/78741078?v=4",
-            "url": "https://github.com/wang2122"
+            "login": "omdsh-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/312905287?v=4",
+            "url": "https://github.com/omdsh-dev"
           },
           "topics": [
-            "a2a",
-            "agent-orchestration",
-            "agent-routing",
-            "ai-agents",
-            "multi-agent-systems",
-            "python",
-            "sprix-ai",
-            "task-scheduling"
+            "deepseek",
+            "deepseek-harness",
+            "dsh",
+            "dsh-better-sidebar",
+            "dsh-plugin",
+            "sidebar"
           ],
-          "createdAt": "2026-08-18T04:08:11Z",
-          "pushedAt": "2026-08-28T09:12:08Z",
-          "updatedAt": "2026-09-03T23:29:55Z",
+          "createdAt": "2026-08-07T16:04:00Z",
+          "pushedAt": "2026-09-04T09:33:43Z",
+          "updatedAt": "2026-09-04T14:17:35Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -404,6 +442,35 @@
           "pushedAt": "2026-08-11T15:07:45Z",
           "updatedAt": "2026-09-03T14:06:15Z",
           "license": "MIT"
+        },
+        {
+          "id": 1333718792,
+          "name": "deepseek-harness-desktop",
+          "fullName": "dsh-tauri-desk/deepseek-harness-desktop",
+          "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
+          "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+          "stars": 1618,
+          "forks": 105,
+          "openIssues": 37,
+          "language": "Rust",
+          "owner": {
+            "login": "dsh-tauri-desk",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/320038577?v=4",
+            "url": "https://github.com/dsh-tauri-desk"
+          },
+          "topics": [
+            "deepseek",
+            "deepseek-harness",
+            "desktop",
+            "dsh",
+            "dsh-desktop",
+            "dsh-plugin",
+            "tauri"
+          ],
+          "createdAt": "2026-08-14T02:36:29Z",
+          "pushedAt": "2026-09-03T13:12:04Z",
+          "updatedAt": "2026-09-03T14:18:51Z",
+          "license": "MIT"
         }
       ]
     },
@@ -415,8 +482,8 @@
           "fullName": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "stars": 247376,
-          "forks": 20971,
+          "stars": 249200,
+          "forks": 21090,
           "openIssues": 461,
           "language": "Shell",
           "owner": {
@@ -426,12 +493,72 @@
           },
           "topics": [],
           "createdAt": "2026-02-03T11:15:53Z",
-          "pushedAt": "2026-09-03T15:03:25Z",
-          "updatedAt": "2026-09-04T00:40:23Z",
+          "pushedAt": "2026-09-04T08:45:43Z",
+          "updatedAt": "2026-09-04T14:21:09Z",
           "license": "MIT"
         }
       ],
-      "risers": [],
+      "risers": [
+        {
+          "id": 721767116,
+          "name": "clash-verge-rev",
+          "fullName": "clash-verge-rev/clash-verge-rev",
+          "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+          "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+          "stars": 142159,
+          "forks": 10225,
+          "openIssues": 415,
+          "language": "TypeScript",
+          "owner": {
+            "login": "clash-verge-rev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
+            "url": "https://github.com/clash-verge-rev"
+          },
+          "topics": [
+            "clash",
+            "clash-meta",
+            "clash-verge",
+            "linux",
+            "mac",
+            "mihomo",
+            "tauri-app",
+            "windows"
+          ],
+          "createdAt": "2023-11-21T18:24:03Z",
+          "pushedAt": "2026-09-04T13:45:07Z",
+          "updatedAt": "2026-09-04T14:18:34Z",
+          "license": "GPL-3.0",
+          "rankGain": 1
+        },
+        {
+          "id": 157616880,
+          "name": "iptv",
+          "fullName": "iptv-org/iptv",
+          "url": "https://github.com/iptv-org/iptv",
+          "description": "Collection of publicly available IPTV channels from all over the world",
+          "stars": 137558,
+          "forks": 7977,
+          "openIssues": 167,
+          "language": "TypeScript",
+          "owner": {
+            "login": "iptv-org",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4",
+            "url": "https://github.com/iptv-org"
+          },
+          "topics": [
+            "iptv",
+            "m3u",
+            "playlist",
+            "streams",
+            "tv"
+          ],
+          "createdAt": "2018-11-14T22:00:57Z",
+          "pushedAt": "2026-09-04T08:25:51Z",
+          "updatedAt": "2026-09-04T14:01:01Z",
+          "license": "Unlicense",
+          "rankGain": 1
+        }
+      ],
       "dropped": [
         {
           "id": 58028038,
@@ -462,7 +589,49 @@
       ]
     },
     "aiEco": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 612344730,
+          "name": "NextChat",
+          "fullName": "ChatGPTNextWeb/NextChat",
+          "url": "https://github.com/ChatGPTNextWeb/NextChat",
+          "description": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
+          "stars": 88709,
+          "forks": 59136,
+          "openIssues": 856,
+          "language": "TypeScript",
+          "owner": {
+            "login": "ChatGPTNextWeb",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/153288546?v=4",
+            "url": "https://github.com/ChatGPTNextWeb"
+          },
+          "topics": [
+            "calclaude",
+            "chatgpt",
+            "claude",
+            "cross-platform",
+            "desktop",
+            "fe",
+            "gemini",
+            "gemini-pro",
+            "gemini-server",
+            "gemini-ultra",
+            "gpt-4o",
+            "groq",
+            "nextjs",
+            "ollama",
+            "react",
+            "tauri",
+            "tauri-app",
+            "vercel",
+            "webui"
+          ],
+          "createdAt": "2023-03-10T18:27:54Z",
+          "pushedAt": "2026-08-11T02:07:25Z",
+          "updatedAt": "2026-09-04T14:00:23Z",
+          "license": "MIT"
+        }
+      ],
       "risers": [
         {
           "id": 1148788086,
@@ -470,8 +639,8 @@
           "fullName": "mattpocock/skills",
           "url": "https://github.com/mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "stars": 247376,
-          "forks": 20971,
+          "stars": 249201,
+          "forks": 21090,
           "openIssues": 461,
           "language": "Shell",
           "owner": {
@@ -481,39 +650,79 @@
           },
           "topics": [],
           "createdAt": "2026-02-03T11:15:53Z",
-          "pushedAt": "2026-09-03T15:03:25Z",
-          "updatedAt": "2026-09-04T00:40:23Z",
+          "pushedAt": "2026-09-04T08:45:43Z",
+          "updatedAt": "2026-09-04T14:21:13Z",
           "license": "MIT",
           "rankGain": 1
         }
       ],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 1165277268,
+          "name": "Agent-Reach",
+          "fullName": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "stars": 77750,
+          "forks": 6670,
+          "openIssues": 114,
+          "language": "Python",
+          "owner": {
+            "login": "Panniantong",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?v=4",
+            "url": "https://github.com/Panniantong"
+          },
+          "topics": [
+            "agent-infrastructure",
+            "ai-agent",
+            "ai-search",
+            "automation",
+            "bilibili",
+            "claude-code",
+            "cli",
+            "cursor",
+            "free-api",
+            "llm-tools",
+            "mcp",
+            "python",
+            "reddit-scraper",
+            "twitter-scraper",
+            "web-scraper",
+            "xiaohongshu",
+            "youtube-transcript"
+          ],
+          "createdAt": "2026-02-24T02:10:24Z",
+          "pushedAt": "2026-09-01T08:09:58Z",
+          "updatedAt": "2026-09-03T14:22:10Z",
+          "license": "MIT"
+        }
+      ]
     }
   },
   "summary": {
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 1,
+      "newcomers": 2,
       "risers": 10,
-      "dropped": 1
+      "dropped": 2
     },
     "activeWeek": {
       "total": 50,
       "newcomers": 1,
-      "risers": 0,
+      "risers": 2,
       "dropped": 1
     },
     "aiEco": {
       "total": 50,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 1,
-      "dropped": 0
+      "dropped": 1
     }
   }
 }
