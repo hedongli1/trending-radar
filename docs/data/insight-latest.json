@@ -1,19 +1,50 @@
 {
-  "generatedAt": "2026-09-05T00:41:29.942Z",
+  "generatedAt": "2026-09-05T14:19:41.459Z",
   "date": "2026-09-05",
   "categories": {
     "allTime": {
       "newcomers": [],
       "risers": [
         {
+          "id": 1136590548,
+          "name": "ECC",
+          "fullName": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "stars": 249243,
+          "forks": 37555,
+          "openIssues": 146,
+          "language": "JavaScript",
+          "owner": {
+            "login": "affaan-m",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
+            "url": "https://github.com/affaan-m"
+          },
+          "topics": [
+            "ai-agents",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "productivity"
+          ],
+          "createdAt": "2026-01-18T00:51:51Z",
+          "pushedAt": "2026-09-04T19:02:58Z",
+          "updatedAt": "2026-09-05T14:18:32Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
           "id": 58028038,
           "name": "HelloGitHub",
           "fullName": "521xueweihan/HelloGitHub",
           "url": "https://github.com/521xueweihan/HelloGitHub",
           "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-          "stars": 174740,
-          "forks": 12721,
-          "openIssues": 688,
+          "stars": 174854,
+          "forks": 12728,
+          "openIssues": 691,
           "language": "Python",
           "owner": {
             "login": "521xueweihan",
@@ -28,7 +59,7 @@
           ],
           "createdAt": "2016-05-04T06:24:11Z",
           "pushedAt": "2026-08-28T00:38:12Z",
-          "updatedAt": "2026-09-04T23:44:40Z",
+          "updatedAt": "2026-09-05T14:10:33Z",
           "license": null,
           "rankGain": 1
         }
@@ -43,9 +74,9 @@
           "fullName": "lnkiai/m3e-canvas",
           "url": "https://github.com/lnkiai/m3e-canvas",
           "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-          "stars": 1946,
-          "forks": 133,
-          "openIssues": 7,
+          "stars": 3197,
+          "forks": 254,
+          "openIssues": 1,
           "language": "TypeScript",
           "owner": {
             "login": "lnkiai",
@@ -63,8 +94,29 @@
             "vibe-coding"
           ],
           "createdAt": "2026-09-02T04:36:34Z",
-          "pushedAt": "2026-09-04T14:31:48Z",
-          "updatedAt": "2026-09-05T00:40:28Z",
+          "pushedAt": "2026-09-05T13:56:02Z",
+          "updatedAt": "2026-09-05T14:18:57Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1350984217,
+          "name": "DLSS5-Swapper",
+          "fullName": "rakanki911/DLSS5-Swapper",
+          "url": "https://github.com/rakanki911/DLSS5-Swapper",
+          "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+          "stars": 1710,
+          "forks": 80,
+          "openIssues": 58,
+          "language": "JavaScript",
+          "owner": {
+            "login": "rakanki911",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/199753947?v=4",
+            "url": "https://github.com/rakanki911"
+          },
+          "topics": [],
+          "createdAt": "2026-08-29T23:51:32Z",
+          "pushedAt": "2026-09-04T15:31:26Z",
+          "updatedAt": "2026-09-05T14:16:57Z",
           "license": "MIT"
         },
         {
@@ -73,9 +125,9 @@
           "fullName": "dsh-tauri-desk/deepseek-harness-desktop",
           "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
           "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-          "stars": 1678,
-          "forks": 107,
-          "openIssues": 32,
+          "stars": 1697,
+          "forks": 110,
+          "openIssues": 37,
           "language": "Rust",
           "owner": {
             "login": "dsh-tauri-desk",
@@ -92,98 +144,20 @@
             "tauri"
           ],
           "createdAt": "2026-08-14T02:36:29Z",
-          "pushedAt": "2026-09-04T23:54:13Z",
-          "updatedAt": "2026-09-05T00:34:54Z",
+          "pushedAt": "2026-09-05T13:03:53Z",
+          "updatedAt": "2026-09-05T14:18:19Z",
           "license": "MIT"
-        },
-        {
-          "id": 1338435811,
-          "name": "deploy-vercel",
-          "fullName": "vvxw/deploy-vercel",
-          "url": "https://github.com/vvxw/deploy-vercel",
-          "description": "Install Command：npm install",
-          "stars": 1616,
-          "forks": 337,
-          "openIssues": 6,
-          "language": "JavaScript",
-          "owner": {
-            "login": "vvxw",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/142342666?v=4",
-            "url": "https://github.com/vvxw"
-          },
-          "topics": [],
-          "createdAt": "2026-08-18T13:25:45Z",
-          "pushedAt": "2026-08-18T13:33:29Z",
-          "updatedAt": "2026-09-04T22:35:08Z",
-          "license": null
         }
       ],
       "risers": [
-        {
-          "id": 1353548665,
-          "name": "commerce-agents",
-          "fullName": "anthropics/commerce-agents",
-          "url": "https://github.com/anthropics/commerce-agents",
-          "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-          "stars": 1927,
-          "forks": 319,
-          "openIssues": 4,
-          "language": "Python",
-          "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
-          },
-          "topics": [],
-          "createdAt": "2026-09-01T12:30:12Z",
-          "pushedAt": "2026-09-01T20:41:14Z",
-          "updatedAt": "2026-09-05T00:31:07Z",
-          "license": "Apache-2.0",
-          "rankGain": 7
-        },
-        {
-          "id": 1349253750,
-          "name": "sepia",
-          "fullName": "Nanako0129/sepia",
-          "url": "https://github.com/Nanako0129/sepia",
-          "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-          "stars": 2046,
-          "forks": 127,
-          "openIssues": 2,
-          "language": "Python",
-          "owner": {
-            "login": "Nanako0129",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/44753291?v=4",
-            "url": "https://github.com/Nanako0129"
-          },
-          "topics": [
-            "agent-skills",
-            "ai-writing",
-            "antigravity",
-            "claude-code",
-            "codex",
-            "developer-tools",
-            "fiction",
-            "grok",
-            "humanizer",
-            "llm",
-            "prompt-engineering",
-            "writing-tools"
-          ],
-          "createdAt": "2026-08-28T05:56:49Z",
-          "pushedAt": "2026-09-04T17:59:37Z",
-          "updatedAt": "2026-09-05T00:32:14Z",
-          "license": "MIT",
-          "rankGain": 4
-        },
         {
           "id": 1339161831,
           "name": "mono-color-skill",
           "fullName": "yanliudesign/mono-color-skill",
           "url": "https://github.com/yanliudesign/mono-color-skill",
           "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
-          "stars": 2399,
-          "forks": 44,
+          "stars": 2665,
+          "forks": 54,
           "openIssues": 6,
           "language": "Python",
           "owner": {
@@ -207,53 +181,31 @@
           ],
           "createdAt": "2026-08-19T06:07:45Z",
           "pushedAt": "2026-09-02T18:49:42Z",
-          "updatedAt": "2026-09-05T00:37:56Z",
+          "updatedAt": "2026-09-05T14:09:51Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 8
         },
         {
-          "id": 1326654671,
-          "name": "oil-motion",
-          "fullName": "oil-oil/oil-motion",
-          "url": "https://github.com/oil-oil/oil-motion",
-          "description": "Create smooth, responsive interactive web animations.",
-          "stars": 2171,
-          "forks": 163,
-          "openIssues": 1,
+          "id": 1353548665,
+          "name": "commerce-agents",
+          "fullName": "anthropics/commerce-agents",
+          "url": "https://github.com/anthropics/commerce-agents",
+          "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+          "stars": 2011,
+          "forks": 337,
+          "openIssues": 4,
           "language": "Python",
           "owner": {
-            "login": "oil-oil",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/57465570?v=4",
-            "url": "https://github.com/oil-oil"
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
           },
           "topics": [],
-          "createdAt": "2026-08-07T12:36:33Z",
-          "pushedAt": "2026-08-28T09:30:49Z",
-          "updatedAt": "2026-09-04T23:12:13Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1331261687,
-          "name": "OpenMausBot",
-          "fullName": "milind-soni/OpenMausBot",
-          "url": "https://github.com/milind-soni/OpenMausBot",
-          "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
-          "stars": 2119,
-          "forks": 389,
-          "openIssues": 135,
-          "language": "TypeScript",
-          "owner": {
-            "login": "milind-soni",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/46266943?v=4",
-            "url": "https://github.com/milind-soni"
-          },
-          "topics": [],
-          "createdAt": "2026-08-11T18:58:55Z",
-          "pushedAt": "2026-09-04T21:33:15Z",
-          "updatedAt": "2026-09-04T23:42:01Z",
+          "createdAt": "2026-09-01T12:30:12Z",
+          "pushedAt": "2026-09-01T20:41:14Z",
+          "updatedAt": "2026-09-05T14:13:05Z",
           "license": "Apache-2.0",
-          "rankGain": 3
+          "rankGain": 8
         },
         {
           "id": 1342930695,
@@ -261,9 +213,9 @@
           "fullName": "nateherkai/scroll-craft",
           "url": "https://github.com/nateherkai/scroll-craft",
           "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
-          "stars": 1735,
-          "forks": 266,
-          "openIssues": 5,
+          "stars": 1896,
+          "forks": 282,
+          "openIssues": 6,
           "language": "JavaScript",
           "owner": {
             "login": "nateherkai",
@@ -289,137 +241,223 @@
           ],
           "createdAt": "2026-08-22T15:25:08Z",
           "pushedAt": "2026-09-04T23:33:30Z",
-          "updatedAt": "2026-09-05T00:40:19Z",
+          "updatedAt": "2026-09-05T14:15:55Z",
+          "license": "MIT",
+          "rankGain": 7
+        },
+        {
+          "id": 1349253750,
+          "name": "sepia",
+          "fullName": "Nanako0129/sepia",
+          "url": "https://github.com/Nanako0129/sepia",
+          "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+          "stars": 2227,
+          "forks": 136,
+          "openIssues": 2,
+          "language": "Python",
+          "owner": {
+            "login": "Nanako0129",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44753291?v=4",
+            "url": "https://github.com/Nanako0129"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-writing",
+            "antigravity",
+            "claude-code",
+            "codex",
+            "developer-tools",
+            "fiction",
+            "grok",
+            "humanizer",
+            "llm",
+            "prompt-engineering",
+            "writing-tools"
+          ],
+          "createdAt": "2026-08-28T05:56:49Z",
+          "pushedAt": "2026-09-05T13:39:31Z",
+          "updatedAt": "2026-09-05T14:13:31Z",
+          "license": "MIT",
+          "rankGain": 5
+        },
+        {
+          "id": 1342461518,
+          "name": "FrontierAgent",
+          "fullName": "ApodexAI/FrontierAgent",
+          "url": "https://github.com/ApodexAI/FrontierAgent",
+          "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+          "stars": 1781,
+          "forks": 139,
+          "openIssues": 11,
+          "language": "Python",
+          "owner": {
+            "login": "ApodexAI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/276468590?v=4",
+            "url": "https://github.com/ApodexAI"
+          },
+          "topics": [
+            "agent-orchestration",
+            "agentic-ai",
+            "agentic-framework",
+            "ai-agents",
+            "harness",
+            "multi-agent",
+            "terminal-agent",
+            "tui"
+          ],
+          "createdAt": "2026-08-22T05:07:35Z",
+          "pushedAt": "2026-09-05T10:32:16Z",
+          "updatedAt": "2026-09-05T14:14:43Z",
+          "license": "Apache-2.0",
+          "rankGain": 4
+        },
+        {
+          "id": 1337955304,
+          "name": "sprix-sage-router",
+          "fullName": "wang2122/sprix-sage-router",
+          "url": "https://github.com/wang2122/sprix-sage-router",
+          "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+          "stars": 3555,
+          "forks": 422,
+          "openIssues": 1,
+          "language": "Python",
+          "owner": {
+            "login": "wang2122",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/78741078?v=4",
+            "url": "https://github.com/wang2122"
+          },
+          "topics": [
+            "a2a",
+            "agent-orchestration",
+            "agent-routing",
+            "ai-agents",
+            "multi-agent-systems",
+            "python",
+            "sprix-ai",
+            "task-scheduling"
+          ],
+          "createdAt": "2026-08-18T04:08:11Z",
+          "pushedAt": "2026-08-28T09:12:08Z",
+          "updatedAt": "2026-09-05T12:31:51Z",
           "license": "MIT",
           "rankGain": 3
         },
         {
-          "id": 1336502227,
-          "name": "OpenBot",
-          "fullName": "CopilotKit/OpenBot",
-          "url": "https://github.com/CopilotKit/OpenBot",
-          "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-          "stars": 4262,
-          "forks": 520,
-          "openIssues": 22,
+          "id": 1332781509,
+          "name": "rakazo",
+          "fullName": "elie222/rakazo",
+          "url": "https://github.com/elie222/rakazo",
+          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+          "stars": 1976,
+          "forks": 337,
+          "openIssues": 57,
           "language": "TypeScript",
           "owner": {
-            "login": "CopilotKit",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
-            "url": "https://github.com/CopilotKit"
+            "login": "elie222",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?v=4",
+            "url": "https://github.com/elie222"
           },
           "topics": [
-            "ag-ui",
-            "agent-governance",
             "ai-agents",
-            "browser-automation",
-            "copilotkit",
-            "generative-ui",
-            "mcp"
-          ],
-          "createdAt": "2026-08-17T00:44:59Z",
-          "pushedAt": "2026-09-04T21:02:46Z",
-          "updatedAt": "2026-09-05T00:11:15Z",
-          "license": "MIT",
-          "rankGain": 2
-        },
-        {
-          "id": 1333165619,
-          "name": "dsh-desktop",
-          "fullName": "dataelement/dsh-desktop",
-          "url": "https://github.com/dataelement/dsh-desktop",
-          "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
-          "stars": 4161,
-          "forks": 218,
-          "openIssues": 67,
-          "language": "TypeScript",
-          "owner": {
-            "login": "dataelement",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/103249391?v=4",
-            "url": "https://github.com/dataelement"
-          },
-          "topics": [
-            "agent",
-            "apps",
-            "deepseek",
-            "deepseek-harness",
-            "deepseek-harness-desktop",
-            "desktop",
-            "dsh-plugins",
-            "dshdesktop",
-            "harness"
-          ],
-          "createdAt": "2026-08-13T13:45:50Z",
-          "pushedAt": "2026-09-04T13:15:07Z",
-          "updatedAt": "2026-09-05T00:33:44Z",
-          "license": "MIT",
-          "rankGain": 2
-        },
-        {
-          "id": 1332080070,
-          "name": "anti-slop",
-          "fullName": "dmmulroy/anti-slop",
-          "url": "https://github.com/dmmulroy/anti-slop",
-          "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-          "stars": 4079,
-          "forks": 89,
-          "openIssues": 2,
-          "language": "TypeScript",
-          "owner": {
-            "login": "dmmulroy",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2755722?v=4",
-            "url": "https://github.com/dmmulroy"
-          },
-          "topics": [
-            "agent-skills",
-            "linting",
-            "oxlint",
+            "chatgpt",
+            "docker",
+            "electron",
+            "expo",
+            "grok",
+            "llm",
+            "self-hosted",
             "typescript"
           ],
-          "createdAt": "2026-08-12T13:48:50Z",
-          "pushedAt": "2026-08-31T21:35:30Z",
-          "updatedAt": "2026-09-04T23:57:07Z",
-          "license": "MIT",
+          "createdAt": "2026-08-13T06:28:56Z",
+          "pushedAt": "2026-09-05T14:07:36Z",
+          "updatedAt": "2026-09-05T14:14:01Z",
+          "license": "Apache-2.0",
           "rankGain": 2
         },
         {
-          "id": 1348483831,
-          "name": "fastpotify",
-          "fullName": "crmne/fastpotify",
-          "url": "https://github.com/crmne/fastpotify",
-          "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-          "stars": 3065,
-          "forks": 125,
-          "openIssues": 59,
-          "language": "Rust",
+          "id": 1331636953,
+          "name": "dsh-web",
+          "fullName": "zhu1090093659/dsh-web",
+          "url": "https://github.com/zhu1090093659/dsh-web",
+          "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+          "stars": 6928,
+          "forks": 455,
+          "openIssues": 5,
+          "language": "TypeScript",
           "owner": {
-            "login": "crmne",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/106617?v=4",
-            "url": "https://github.com/crmne"
+            "login": "zhu1090093659",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/46916148?v=4",
+            "url": "https://github.com/zhu1090093659"
           },
           "topics": [
-            "audio",
-            "cross-platform",
-            "desktop-app",
-            "egui",
-            "gui",
-            "librespot",
-            "linux",
-            "macos",
-            "mpris",
-            "music",
-            "music-player",
-            "rust",
-            "spotify",
-            "spotify-client",
-            "spotify-connect",
-            "windows"
+            "cordis",
+            "deepseek-harness",
+            "dsh",
+            "dsh-plugin",
+            "dsh-web",
+            "dsh-web-ui"
           ],
-          "createdAt": "2026-08-27T12:46:32Z",
-          "pushedAt": "2026-09-04T14:49:34Z",
-          "updatedAt": "2026-09-05T00:23:03Z",
+          "createdAt": "2026-08-12T05:15:20Z",
+          "pushedAt": "2026-09-05T14:17:55Z",
+          "updatedAt": "2026-09-05T14:18:00Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        },
+        {
+          "id": 1341759590,
+          "name": "threeui",
+          "fullName": "MengTo/threeui",
+          "url": "https://github.com/MengTo/threeui",
+          "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+          "stars": 5162,
+          "forks": 508,
+          "openIssues": 9,
+          "language": "HTML",
+          "owner": {
+            "login": "MengTo",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1065452?v=4",
+            "url": "https://github.com/MengTo"
+          },
+          "topics": [
+            "react",
+            "shaders",
+            "threejs",
+            "ui-components",
+            "webgl"
+          ],
+          "createdAt": "2026-08-21T11:56:39Z",
+          "pushedAt": "2026-09-03T05:36:26Z",
+          "updatedAt": "2026-09-05T14:19:26Z",
           "license": "MIT",
-          "rankGain": 2
+          "rankGain": 1
+        },
+        {
+          "id": 1338470635,
+          "name": "ip-as-logo-skill",
+          "fullName": "s1dashu/ip-as-logo-skill",
+          "url": "https://github.com/s1dashu/ip-as-logo-skill",
+          "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+          "stars": 4954,
+          "forks": 245,
+          "openIssues": 9,
+          "language": "Other",
+          "owner": {
+            "login": "s1dashu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/129982137?v=4",
+            "url": "https://github.com/s1dashu"
+          },
+          "topics": [
+            "codex",
+            "codex-skill",
+            "image-generation",
+            "logo-design",
+            "mascot-design"
+          ],
+          "createdAt": "2026-08-18T13:59:23Z",
+          "pushedAt": "2026-08-22T16:48:59Z",
+          "updatedAt": "2026-09-05T13:25:42Z",
+          "license": "MIT",
+          "rankGain": 1
         }
       ],
       "dropped": [
@@ -501,12 +539,100 @@
     },
     "activeWeek": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1136590548,
+          "name": "ECC",
+          "fullName": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "stars": 249243,
+          "forks": 37555,
+          "openIssues": 146,
+          "language": "JavaScript",
+          "owner": {
+            "login": "affaan-m",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
+            "url": "https://github.com/affaan-m"
+          },
+          "topics": [
+            "ai-agents",
+            "anthropic",
+            "claude",
+            "claude-code",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "productivity"
+          ],
+          "createdAt": "2026-01-18T00:51:51Z",
+          "pushedAt": "2026-09-04T19:02:58Z",
+          "updatedAt": "2026-09-05T14:18:32Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "aiEco": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1266797999,
+          "name": "ponytail",
+          "fullName": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "stars": 127316,
+          "forks": 6814,
+          "openIssues": 219,
+          "language": "JavaScript",
+          "owner": {
+            "login": "DietrichGebert",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
+            "url": "https://github.com/DietrichGebert"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude",
+            "claude-code",
+            "claude-code-plugin",
+            "cursor-rules",
+            "developer-tools",
+            "llm",
+            "prompt-engineering",
+            "yagni"
+          ],
+          "createdAt": "2026-06-12T00:52:37Z",
+          "pushedAt": "2026-09-04T12:35:29Z",
+          "updatedAt": "2026-09-05T14:19:26Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 798201435,
+          "name": "crawl4ai",
+          "fullName": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "stars": 81458,
+          "forks": 8399,
+          "openIssues": 173,
+          "language": "Python",
+          "owner": {
+            "login": "unclecode",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12494079?v=4",
+            "url": "https://github.com/unclecode"
+          },
+          "topics": [],
+          "createdAt": "2024-05-09T09:48:50Z",
+          "pushedAt": "2026-09-01T07:58:26Z",
+          "updatedAt": "2026-09-05T14:16:33Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     }
   },
@@ -514,7 +640,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "breakout": {
@@ -526,13 +652,13 @@
     "activeWeek": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 2,
       "dropped": 0
     }
   }
