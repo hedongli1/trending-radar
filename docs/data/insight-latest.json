@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T00:44:30.298Z",
+  "generatedAt": "2026-09-06T14:20:28.649Z",
   "date": "2026-09-06",
   "categories": {
     "allTime": {
@@ -10,9 +10,9 @@
           "fullName": "huggingface/transformers",
           "url": "https://github.com/huggingface/transformers",
           "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-          "stars": 164834,
-          "forks": 34458,
-          "openIssues": 2397,
+          "stars": 164873,
+          "forks": 34471,
+          "openIssues": 2404,
           "language": "Python",
           "owner": {
             "login": "huggingface",
@@ -41,12 +41,37 @@
             "vlm"
           ],
           "createdAt": "2018-10-29T13:56:00Z",
-          "pushedAt": "2026-09-05T23:00:42Z",
-          "updatedAt": "2026-09-06T00:34:22Z",
+          "pushedAt": "2026-09-06T13:49:59Z",
+          "updatedAt": "2026-09-06T14:10:48Z",
           "license": "Apache-2.0"
         }
       ],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1061953414,
+          "name": "skills",
+          "fullName": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "stars": 174792,
+          "forks": 20688,
+          "openIssues": 1211,
+          "language": "Python",
+          "owner": {
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
+          },
+          "topics": [
+            "agent-skills"
+          ],
+          "createdAt": "2025-09-22T15:53:31Z",
+          "pushedAt": "2026-09-03T16:37:14Z",
+          "updatedAt": "2026-09-06T14:19:59Z",
+          "license": null,
+          "rankGain": 1
+        }
+      ],
       "dropped": [
         {
           "id": 527591471,
@@ -96,7 +121,7 @@
           "fullName": "diudiu-tech/delivery-harness",
           "url": "https://github.com/diudiu-tech/delivery-harness",
           "description": "AI harness reference implementation for on-demand delivery workflows",
-          "stars": 1705,
+          "stars": 1862,
           "forks": 59,
           "openIssues": 9,
           "language": "Java",
@@ -108,29 +133,8 @@
           "topics": [],
           "createdAt": "2026-08-13T08:38:58Z",
           "pushedAt": "2026-09-03T09:55:10Z",
-          "updatedAt": "2026-09-05T16:16:21Z",
+          "updatedAt": "2026-09-06T14:20:21Z",
           "license": "MIT"
-        },
-        {
-          "id": 1338435811,
-          "name": "deploy-vercel",
-          "fullName": "vvxw/deploy-vercel",
-          "url": "https://github.com/vvxw/deploy-vercel",
-          "description": "Install Command：npm install",
-          "stars": 1630,
-          "forks": 338,
-          "openIssues": 6,
-          "language": "JavaScript",
-          "owner": {
-            "login": "vvxw",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/142342666?v=4",
-            "url": "https://github.com/vvxw"
-          },
-          "topics": [],
-          "createdAt": "2026-08-18T13:25:45Z",
-          "pushedAt": "2026-08-18T13:33:29Z",
-          "updatedAt": "2026-09-06T00:13:35Z",
-          "license": null
         },
         {
           "id": 1331079127,
@@ -138,8 +142,8 @@
           "fullName": "lennney/stop-that-shit",
           "url": "https://github.com/lennney/stop-that-shit",
           "description": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
-          "stars": 1622,
-          "forks": 40,
+          "stars": 1656,
+          "forks": 41,
           "openIssues": 3,
           "language": "JavaScript",
           "owner": {
@@ -165,9 +169,30 @@
             "yagni"
           ],
           "createdAt": "2026-08-11T15:31:45Z",
-          "pushedAt": "2026-09-03T10:50:52Z",
-          "updatedAt": "2026-09-05T23:12:10Z",
+          "pushedAt": "2026-09-06T08:32:57Z",
+          "updatedAt": "2026-09-06T13:36:22Z",
           "license": "MIT"
+        },
+        {
+          "id": 1338435811,
+          "name": "deploy-vercel",
+          "fullName": "vvxw/deploy-vercel",
+          "url": "https://github.com/vvxw/deploy-vercel",
+          "description": "Install Command：npm install",
+          "stars": 1643,
+          "forks": 338,
+          "openIssues": 6,
+          "language": "JavaScript",
+          "owner": {
+            "login": "vvxw",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/142342666?v=4",
+            "url": "https://github.com/vvxw"
+          },
+          "topics": [],
+          "createdAt": "2026-08-18T13:25:45Z",
+          "pushedAt": "2026-08-18T13:33:29Z",
+          "updatedAt": "2026-09-06T12:51:55Z",
+          "license": null
         },
         {
           "id": 1333884889,
@@ -175,7 +200,7 @@
           "fullName": "ZSvirt/zsvirt",
           "url": "https://github.com/ZSvirt/zsvirt",
           "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-          "stars": 1592,
+          "stars": 1598,
           "forks": 294,
           "openIssues": 4,
           "language": "Java",
@@ -201,7 +226,7 @@
           ],
           "createdAt": "2026-08-14T06:47:26Z",
           "pushedAt": "2026-09-01T05:53:04Z",
-          "updatedAt": "2026-09-05T23:26:16Z",
+          "updatedAt": "2026-09-06T13:52:22Z",
           "license": "GPL-3.0"
         }
       ],
@@ -212,9 +237,9 @@
           "fullName": "rakanki911/DLSS5-Swapper",
           "url": "https://github.com/rakanki911/DLSS5-Swapper",
           "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-          "stars": 1859,
-          "forks": 91,
-          "openIssues": 70,
+          "stars": 2132,
+          "forks": 102,
+          "openIssues": 82,
           "language": "JavaScript",
           "owner": {
             "login": "rakanki911",
@@ -224,9 +249,9 @@
           "topics": [],
           "createdAt": "2026-08-29T23:51:32Z",
           "pushedAt": "2026-09-04T15:31:26Z",
-          "updatedAt": "2026-09-06T00:41:51Z",
+          "updatedAt": "2026-09-06T14:19:20Z",
           "license": "MIT",
-          "rankGain": 8
+          "rankGain": 15
         },
         {
           "id": 1354310030,
@@ -234,9 +259,9 @@
           "fullName": "lnkiai/m3e-canvas",
           "url": "https://github.com/lnkiai/m3e-canvas",
           "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-          "stars": 3680,
-          "forks": 305,
-          "openIssues": 3,
+          "stars": 4142,
+          "forks": 356,
+          "openIssues": 4,
           "language": "TypeScript",
           "owner": {
             "login": "lnkiai",
@@ -254,42 +279,10 @@
             "vibe-coding"
           ],
           "createdAt": "2026-09-02T04:36:34Z",
-          "pushedAt": "2026-09-05T16:15:32Z",
-          "updatedAt": "2026-09-06T00:42:21Z",
+          "pushedAt": "2026-09-06T12:55:08Z",
+          "updatedAt": "2026-09-06T14:20:00Z",
           "license": "MIT",
-          "rankGain": 6
-        },
-        {
-          "id": 1332781509,
-          "name": "rakazo",
-          "fullName": "elie222/rakazo",
-          "url": "https://github.com/elie222/rakazo",
-          "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-          "stars": 2000,
-          "forks": 341,
-          "openIssues": 46,
-          "language": "TypeScript",
-          "owner": {
-            "login": "elie222",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3090527?v=4",
-            "url": "https://github.com/elie222"
-          },
-          "topics": [
-            "ai-agents",
-            "chatgpt",
-            "docker",
-            "electron",
-            "expo",
-            "grok",
-            "llm",
-            "self-hosted",
-            "typescript"
-          ],
-          "createdAt": "2026-08-13T06:28:56Z",
-          "pushedAt": "2026-09-05T23:41:23Z",
-          "updatedAt": "2026-09-06T00:03:26Z",
-          "license": "Apache-2.0",
-          "rankGain": 5
+          "rankGain": 9
         },
         {
           "id": 1342930695,
@@ -297,8 +290,8 @@
           "fullName": "nateherkai/scroll-craft",
           "url": "https://github.com/nateherkai/scroll-craft",
           "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
-          "stars": 1992,
-          "forks": 296,
+          "stars": 2047,
+          "forks": 302,
           "openIssues": 6,
           "language": "JavaScript",
           "owner": {
@@ -325,9 +318,9 @@
           ],
           "createdAt": "2026-08-22T15:25:08Z",
           "pushedAt": "2026-09-04T23:33:30Z",
-          "updatedAt": "2026-09-06T00:40:16Z",
+          "updatedAt": "2026-09-06T14:13:16Z",
           "license": "MIT",
-          "rankGain": 5
+          "rankGain": 6
         },
         {
           "id": 1331261687,
@@ -335,9 +328,9 @@
           "fullName": "milind-soni/OpenMausBot",
           "url": "https://github.com/milind-soni/OpenMausBot",
           "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
-          "stars": 2195,
-          "forks": 399,
-          "openIssues": 135,
+          "stars": 2232,
+          "forks": 407,
+          "openIssues": 142,
           "language": "TypeScript",
           "owner": {
             "login": "milind-soni",
@@ -346,8 +339,8 @@
           },
           "topics": [],
           "createdAt": "2026-08-11T18:58:55Z",
-          "pushedAt": "2026-09-05T22:50:20Z",
-          "updatedAt": "2026-09-06T00:27:29Z",
+          "pushedAt": "2026-09-06T14:18:49Z",
+          "updatedAt": "2026-09-06T14:18:53Z",
           "license": "Apache-2.0",
           "rankGain": 4
         },
@@ -357,8 +350,8 @@
           "fullName": "anthropics/commerce-agents",
           "url": "https://github.com/anthropics/commerce-agents",
           "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-          "stars": 2049,
-          "forks": 347,
+          "stars": 2177,
+          "forks": 370,
           "openIssues": 4,
           "language": "Python",
           "owner": {
@@ -369,130 +362,156 @@
           "topics": [],
           "createdAt": "2026-09-01T12:30:12Z",
           "pushedAt": "2026-09-01T20:41:14Z",
-          "updatedAt": "2026-09-06T00:36:29Z",
+          "updatedAt": "2026-09-06T13:49:12Z",
           "license": "Apache-2.0",
           "rankGain": 4
         },
         {
-          "id": 1327448036,
-          "name": "terminal-code",
-          "fullName": "zenbu-labs/terminal-code",
-          "url": "https://github.com/zenbu-labs/terminal-code",
-          "description": "VS Code in the terminal",
-          "stars": 1891,
-          "forks": 78,
-          "openIssues": 24,
-          "language": "TypeScript",
+          "id": 1348483831,
+          "name": "fastpotify",
+          "fullName": "crmne/fastpotify",
+          "url": "https://github.com/crmne/fastpotify",
+          "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+          "stars": 3317,
+          "forks": 145,
+          "openIssues": 61,
+          "language": "Rust",
           "owner": {
-            "login": "zenbu-labs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/276775852?v=4",
-            "url": "https://github.com/zenbu-labs"
+            "login": "crmne",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/106617?v=4",
+            "url": "https://github.com/crmne"
           },
           "topics": [
-            "cli",
-            "herdr-plugin",
-            "terminal",
-            "vscode"
+            "audio",
+            "cross-platform",
+            "desktop-app",
+            "egui",
+            "gui",
+            "librespot",
+            "linux",
+            "macos",
+            "mpris",
+            "music",
+            "music-player",
+            "rust",
+            "spotify",
+            "spotify-client",
+            "spotify-connect",
+            "windows"
           ],
-          "createdAt": "2026-08-08T05:35:40Z",
-          "pushedAt": "2026-09-02T18:30:13Z",
-          "updatedAt": "2026-09-05T22:17:22Z",
+          "createdAt": "2026-08-27T12:46:32Z",
+          "pushedAt": "2026-09-06T13:36:09Z",
+          "updatedAt": "2026-09-06T14:17:08Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 3
         },
         {
-          "id": 1342886503,
-          "name": "x64dbg-mcp-server",
-          "fullName": "duty1g/x64dbg-mcp-server",
-          "url": "https://github.com/duty1g/x64dbg-mcp-server",
-          "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-          "stars": 1884,
-          "forks": 190,
-          "openIssues": 0,
-          "language": "Zig",
+          "id": 1349601607,
+          "name": "codex-with-chatgpt",
+          "fullName": "XiaoDuoYa/codex-with-chatgpt",
+          "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+          "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+          "stars": 2547,
+          "forks": 278,
+          "openIssues": 9,
+          "language": "TypeScript",
           "owner": {
-            "login": "duty1g",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3162883?v=4",
-            "url": "https://github.com/duty1g"
+            "login": "XiaoDuoYa",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/113528266?v=4",
+            "url": "https://github.com/XiaoDuoYa"
           },
           "topics": [
             "ai-agents",
-            "ai-debugging",
-            "binary-analysis",
-            "claude",
-            "claude-code",
-            "malware-analysis",
-            "malware-research",
-            "malware-scanner",
+            "chatgpt",
+            "codex",
             "mcp",
-            "mcp-server",
-            "mcp-servers",
-            "x64dbg",
-            "x64dbg-mcp",
-            "x64dbg-plugin",
-            "x64dbg-tools",
-            "xdbg",
-            "zig",
-            "zig-lang",
-            "ziglang"
+            "model-context-protocol",
+            "oauth"
           ],
-          "createdAt": "2026-08-22T14:28:41Z",
-          "pushedAt": "2026-09-02T20:34:21Z",
-          "updatedAt": "2026-09-06T00:17:55Z",
+          "createdAt": "2026-08-28T12:57:24Z",
+          "pushedAt": "2026-09-04T10:46:18Z",
+          "updatedAt": "2026-09-06T14:07:11Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 3
         },
         {
-          "id": 1329629252,
-          "name": "WeChat-AI",
-          "fullName": "SMNETSTUDIO/WeChat-AI",
-          "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-          "description": "WeChat AI - 自托管微信角色扮演对话服务",
-          "stars": 1880,
-          "forks": 1284,
-          "openIssues": 1,
-          "language": "TypeScript",
+          "id": 1339742577,
+          "name": "Amagine3D",
+          "fullName": "amagine-ai/Amagine3D",
+          "url": "https://github.com/amagine-ai/Amagine3D",
+          "description": "Amagine3D: From hardware requirements to editable 3D designs",
+          "stars": 2544,
+          "forks": 101,
+          "openIssues": 2,
+          "language": "Python",
           "owner": {
-            "login": "SMNETSTUDIO",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/162035225?v=4",
-            "url": "https://github.com/SMNETSTUDIO"
+            "login": "amagine-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/285729589?v=4",
+            "url": "https://github.com/amagine-ai"
           },
           "topics": [],
-          "createdAt": "2026-08-10T09:06:43Z",
-          "pushedAt": "2026-09-05T08:21:25Z",
-          "updatedAt": "2026-09-05T14:37:31Z",
+          "createdAt": "2026-08-19T15:31:34Z",
+          "pushedAt": "2026-09-06T07:29:31Z",
+          "updatedAt": "2026-09-06T11:53:08Z",
           "license": "Apache-2.0",
-          "rankGain": 4
+          "rankGain": 3
         },
         {
-          "id": 1333718792,
-          "name": "deepseek-harness-desktop",
-          "fullName": "dsh-tauri-desk/deepseek-harness-desktop",
-          "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
-          "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-          "stars": 1706,
-          "forks": 111,
-          "openIssues": 36,
+          "id": 1344273611,
+          "name": "walgit",
+          "fullName": "tobi/walgit",
+          "url": "https://github.com/tobi/walgit",
+          "description": "暂无描述",
+          "stars": 2439,
+          "forks": 138,
+          "openIssues": 16,
           "language": "Rust",
           "owner": {
-            "login": "dsh-tauri-desk",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/320038577?v=4",
-            "url": "https://github.com/dsh-tauri-desk"
+            "login": "tobi",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/347?v=4",
+            "url": "https://github.com/tobi"
+          },
+          "topics": [],
+          "createdAt": "2026-08-23T22:28:01Z",
+          "pushedAt": "2026-09-05T20:55:43Z",
+          "updatedAt": "2026-09-06T14:03:03Z",
+          "license": "MIT",
+          "rankGain": 3
+        },
+        {
+          "id": 1349253750,
+          "name": "sepia",
+          "fullName": "Nanako0129/sepia",
+          "url": "https://github.com/Nanako0129/sepia",
+          "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+          "stars": 2312,
+          "forks": 141,
+          "openIssues": 2,
+          "language": "Python",
+          "owner": {
+            "login": "Nanako0129",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44753291?v=4",
+            "url": "https://github.com/Nanako0129"
           },
           "topics": [
-            "deepseek",
-            "deepseek-harness",
-            "desktop",
-            "dsh",
-            "dsh-desktop",
-            "dsh-plugin",
-            "tauri"
+            "agent-skills",
+            "ai-writing",
+            "antigravity",
+            "claude-code",
+            "codex",
+            "developer-tools",
+            "fiction",
+            "grok",
+            "humanizer",
+            "llm",
+            "prompt-engineering",
+            "writing-tools"
           ],
-          "createdAt": "2026-08-14T02:36:29Z",
-          "pushedAt": "2026-09-05T17:14:57Z",
-          "updatedAt": "2026-09-05T23:48:14Z",
+          "createdAt": "2026-08-28T05:56:49Z",
+          "pushedAt": "2026-09-05T14:40:32Z",
+          "updatedAt": "2026-09-06T14:09:56Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 3
         }
       ],
       "dropped": [
@@ -618,9 +637,9 @@
           "fullName": "Comfy-Org/ComfyUI",
           "url": "https://github.com/Comfy-Org/ComfyUI",
           "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-          "stars": 131654,
-          "forks": 15520,
-          "openIssues": 4821,
+          "stars": 131733,
+          "forks": 15531,
+          "openIssues": 4826,
           "language": "Python",
           "owner": {
             "login": "Comfy-Org",
@@ -636,21 +655,45 @@
             "stable-diffusion"
           ],
           "createdAt": "2023-01-17T03:15:56Z",
-          "pushedAt": "2026-09-06T00:37:16Z",
-          "updatedAt": "2026-09-06T00:36:49Z",
+          "pushedAt": "2026-09-06T01:56:02Z",
+          "updatedAt": "2026-09-06T14:08:08Z",
           "license": "GPL-3.0"
         }
       ],
       "risers": [
+        {
+          "id": 1061953414,
+          "name": "skills",
+          "fullName": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "stars": 174792,
+          "forks": 20688,
+          "openIssues": 1211,
+          "language": "Python",
+          "owner": {
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
+          },
+          "topics": [
+            "agent-skills"
+          ],
+          "createdAt": "2025-09-22T15:53:31Z",
+          "pushedAt": "2026-09-03T16:37:14Z",
+          "updatedAt": "2026-09-06T14:19:59Z",
+          "license": null,
+          "rankGain": 2
+        },
         {
           "id": 614765452,
           "name": "AutoGPT",
           "fullName": "Significant-Gravitas/AutoGPT",
           "url": "https://github.com/Significant-Gravitas/AutoGPT",
           "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-          "stars": 187163,
-          "forks": 46042,
-          "openIssues": 568,
+          "stars": 187166,
+          "forks": 46043,
+          "openIssues": 579,
           "language": "Python",
           "owner": {
             "login": "Significant-Gravitas",
@@ -671,8 +714,8 @@
             "python"
           ],
           "createdAt": "2023-03-16T09:21:07Z",
-          "pushedAt": "2026-09-06T00:36:40Z",
-          "updatedAt": "2026-09-06T00:03:25Z",
+          "pushedAt": "2026-09-06T10:48:02Z",
+          "updatedAt": "2026-09-06T13:47:05Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -682,9 +725,9 @@
           "fullName": "avelino/awesome-go",
           "url": "https://github.com/avelino/awesome-go",
           "description": "A curated list of awesome Go frameworks, libraries and software",
-          "stars": 183266,
+          "stars": 183313,
           "forks": 13547,
-          "openIssues": 223,
+          "openIssues": 224,
           "language": "Go",
           "owner": {
             "login": "avelino",
@@ -700,8 +743,8 @@
             "hacktoberfest"
           ],
           "createdAt": "2014-07-06T13:42:15Z",
-          "pushedAt": "2026-09-05T23:01:18Z",
-          "updatedAt": "2026-09-06T00:30:34Z",
+          "pushedAt": "2026-09-06T05:24:00Z",
+          "updatedAt": "2026-09-06T14:09:25Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -711,9 +754,9 @@
           "fullName": "ollama/ollama",
           "url": "https://github.com/ollama/ollama",
           "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-          "stars": 180254,
-          "forks": 17714,
-          "openIssues": 3906,
+          "stars": 180272,
+          "forks": 17723,
+          "openIssues": 3911,
           "language": "Go",
           "owner": {
             "login": "ollama",
@@ -739,7 +782,7 @@
           ],
           "createdAt": "2023-06-26T19:39:32Z",
           "pushedAt": "2026-09-05T00:52:34Z",
-          "updatedAt": "2026-09-06T00:30:32Z",
+          "updatedAt": "2026-09-06T14:17:43Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -749,9 +792,9 @@
           "fullName": "flutter/flutter",
           "url": "https://github.com/flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-          "stars": 178795,
+          "stars": 178803,
           "forks": 31062,
-          "openIssues": 13114,
+          "openIssues": 13120,
           "language": "Dart",
           "owner": {
             "login": "flutter",
@@ -780,8 +823,8 @@
             "windows"
           ],
           "createdAt": "2015-03-06T22:54:58Z",
-          "pushedAt": "2026-09-05T13:26:05Z",
-          "updatedAt": "2026-09-06T00:07:44Z",
+          "pushedAt": "2026-09-06T13:54:51Z",
+          "updatedAt": "2026-09-06T13:56:52Z",
           "license": "BSD-3-Clause",
           "rankGain": 1
         },
@@ -791,9 +834,9 @@
           "fullName": "microsoft/markitdown",
           "url": "https://github.com/microsoft/markitdown",
           "description": "Python tool for converting files and office documents to Markdown.",
-          "stars": 178338,
-          "forks": 13144,
-          "openIssues": 629,
+          "stars": 178441,
+          "forks": 13147,
+          "openIssues": 631,
           "language": "Python",
           "owner": {
             "login": "microsoft",
@@ -811,7 +854,7 @@
           ],
           "createdAt": "2024-11-13T19:56:40Z",
           "pushedAt": "2026-09-04T17:04:58Z",
-          "updatedAt": "2026-09-06T00:39:24Z",
+          "updatedAt": "2026-09-06T14:13:51Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -821,9 +864,9 @@
           "fullName": "firecrawl/firecrawl",
           "url": "https://github.com/firecrawl/firecrawl",
           "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-          "stars": 176906,
-          "forks": 9671,
-          "openIssues": 600,
+          "stars": 177113,
+          "forks": 9679,
+          "openIssues": 601,
           "language": "TypeScript",
           "owner": {
             "login": "firecrawl",
@@ -852,8 +895,8 @@
             "webscraping"
           ],
           "createdAt": "2024-04-15T21:02:29Z",
-          "pushedAt": "2026-09-05T22:23:30Z",
-          "updatedAt": "2026-09-06T00:31:20Z",
+          "pushedAt": "2026-09-06T13:36:52Z",
+          "updatedAt": "2026-09-06T14:15:56Z",
           "license": "AGPL-3.0",
           "rankGain": 1
         },
@@ -863,8 +906,8 @@
           "fullName": "github/gitignore",
           "url": "https://github.com/github/gitignore",
           "description": "A collection of useful .gitignore templates",
-          "stars": 175613,
-          "forks": 82224,
+          "stars": 175622,
+          "forks": 82220,
           "openIssues": 74,
           "language": "Other",
           "owner": {
@@ -878,62 +921,8 @@
           ],
           "createdAt": "2010-11-08T20:17:14Z",
           "pushedAt": "2026-09-04T23:07:58Z",
-          "updatedAt": "2026-09-05T22:28:11Z",
+          "updatedAt": "2026-09-06T14:12:18Z",
           "license": "CC0-1.0",
-          "rankGain": 1
-        },
-        {
-          "id": 2126244,
-          "name": "bootstrap",
-          "fullName": "twbs/bootstrap",
-          "url": "https://github.com/twbs/bootstrap",
-          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-          "stars": 174726,
-          "forks": 78611,
-          "openIssues": 231,
-          "language": "MDX",
-          "owner": {
-            "login": "twbs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4",
-            "url": "https://github.com/twbs"
-          },
-          "topics": [
-            "bootstrap",
-            "css",
-            "css-framework",
-            "html",
-            "javascript",
-            "sass",
-            "scss"
-          ],
-          "createdAt": "2011-07-29T21:19:00Z",
-          "pushedAt": "2026-09-01T19:23:24Z",
-          "updatedAt": "2026-09-05T23:45:36Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1061953414,
-          "name": "skills",
-          "fullName": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description": "Public repository for Agent Skills",
-          "stars": 174563,
-          "forks": 20675,
-          "openIssues": 1209,
-          "language": "Python",
-          "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
-          },
-          "topics": [
-            "agent-skills"
-          ],
-          "createdAt": "2025-09-22T15:53:31Z",
-          "pushedAt": "2026-09-03T16:37:14Z",
-          "updatedAt": "2026-09-06T00:40:47Z",
-          "license": null,
           "rankGain": 1
         },
         {
@@ -942,8 +931,8 @@
           "fullName": "f/prompts.chat",
           "url": "https://github.com/f/prompts.chat",
           "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-          "stars": 169423,
-          "forks": 21796,
+          "stars": 169470,
+          "forks": 21799,
           "openIssues": 74,
           "language": "HTML",
           "owner": {
@@ -972,9 +961,51 @@
             "typescript"
           ],
           "createdAt": "2022-12-05T13:54:13Z",
-          "pushedAt": "2026-09-05T03:16:59Z",
-          "updatedAt": "2026-09-06T00:42:38Z",
+          "pushedAt": "2026-09-06T03:17:52Z",
+          "updatedAt": "2026-09-06T14:09:54Z",
           "license": "NOASSERTION",
+          "rankGain": 1
+        },
+        {
+          "id": 155220641,
+          "name": "transformers",
+          "fullName": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "stars": 164873,
+          "forks": 34471,
+          "openIssues": 2404,
+          "language": "Python",
+          "owner": {
+            "login": "huggingface",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
+            "url": "https://github.com/huggingface"
+          },
+          "topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "createdAt": "2018-10-29T13:56:00Z",
+          "pushedAt": "2026-09-06T13:49:59Z",
+          "updatedAt": "2026-09-06T14:10:48Z",
+          "license": "Apache-2.0",
           "rankGain": 1
         }
       ],
@@ -1020,7 +1051,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 1,
-      "risers": 0,
+      "risers": 1,
       "dropped": 1
     },
     "breakout": {
