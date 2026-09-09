@@ -82,6 +82,10 @@ export async function run() {
       activeWeek: await fetchCategory('本周活跃飙升榜', `pushed:>${d7} stars:>1000`, 'stars', 'desc', 50),
       // 4. AI & 大模型赛道榜 (AI / LLM / Agent)
       aiEco: await fetchCategory('AI / LLM 垂直热榜', `deepseek OR llm OR gpt OR "agent" stars:>500 pushed:>${d30}`, 'stars', 'desc', 50),
+      // 5. 安全方向 · 加密流量检测 (Encrypted Traffic Detection)
+      secTraffic: await fetchCategory('安全 · 加密流量检测', `"encrypted traffic" OR "traffic analysis" OR mitmproxy OR "encrypted dns" OR dnscrypt OR sniffer stars:>200 pushed:>${d30}`, 'stars', 'desc', 40),
+      // 6. 安全方向 · AI 自动化攻防 (AI-driven Offensive & Defensive Security)
+      secAiCyber: await fetchCategory('安全 · AI 自动化攻防', `"ai security" OR "llm security" OR "ai pentest" OR "ai vulnerability" stars:>200 pushed:>${d30}`, 'stars', 'desc', 40),
     },
     languages: {},
   };
