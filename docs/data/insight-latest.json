@@ -1,14 +1,70 @@
 {
-  "generatedAt": "2026-09-12T00:40:28.390Z",
+  "generatedAt": "2026-09-12T14:20:47.617Z",
   "date": "2026-09-12",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1142983825,
+          "name": "andrej-karpathy-skills",
+          "fullName": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+          "stars": 212532,
+          "forks": 21549,
+          "openIssues": 130,
+          "language": "Other",
+          "owner": {
+            "login": "multica-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/254743058?v=4",
+            "url": "https://github.com/multica-ai"
+          },
+          "topics": [],
+          "createdAt": "2026-01-27T03:53:13Z",
+          "pushedAt": "2026-04-20T10:05:04Z",
+          "updatedAt": "2026-09-12T14:20:36Z",
+          "license": null,
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
       "newcomers": [
+        {
+          "id": 1334373503,
+          "name": "DSH-Desktop-EAC",
+          "fullName": "DSH-EAC/DSH-Desktop-EAC",
+          "url": "https://github.com/DSH-EAC/DSH-Desktop-EAC",
+          "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
+          "stars": 1652,
+          "forks": 62,
+          "openIssues": 26,
+          "language": "JavaScript",
+          "owner": {
+            "login": "DSH-EAC",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/327230726?v=4",
+            "url": "https://github.com/DSH-EAC"
+          },
+          "topics": [
+            "ai-agent",
+            "deepseek",
+            "deepseek-harness",
+            "desktop",
+            "desktop-app",
+            "dsh",
+            "dsh-plugins",
+            "dshdesktop",
+            "electron",
+            "tauri",
+            "windows"
+          ],
+          "createdAt": "2026-08-14T16:29:54Z",
+          "pushedAt": "2026-09-12T13:23:32Z",
+          "updatedAt": "2026-09-12T12:57:13Z",
+          "license": "MIT"
+        },
         {
           "id": 1342432270,
           "name": "anti-mage",
@@ -27,7 +83,49 @@
           "topics": [],
           "createdAt": "2026-08-22T04:11:00Z",
           "pushedAt": "2026-09-09T16:24:35Z",
-          "updatedAt": "2026-09-11T02:34:09Z",
+          "updatedAt": "2026-09-12T02:03:14Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1358588929,
+          "name": "handraw-style",
+          "fullName": "yang0/handraw-style",
+          "url": "https://github.com/yang0/handraw-style",
+          "description": "手绘风格编号画廊与双语提示词 Skill",
+          "stars": 1572,
+          "forks": 205,
+          "openIssues": 1,
+          "language": "HTML",
+          "owner": {
+            "login": "yang0",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3478629?v=4",
+            "url": "https://github.com/yang0"
+          },
+          "topics": [],
+          "createdAt": "2026-09-05T21:57:22Z",
+          "pushedAt": "2026-09-09T08:36:37Z",
+          "updatedAt": "2026-09-12T14:18:16Z",
+          "license": null
+        },
+        {
+          "id": 1358295353,
+          "name": "codenotch",
+          "fullName": "vinzdg/codenotch",
+          "url": "https://github.com/vinzdg/codenotch",
+          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+          "stars": 1487,
+          "forks": 235,
+          "openIssues": 33,
+          "language": "Swift",
+          "owner": {
+            "login": "vinzdg",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
+            "url": "https://github.com/vinzdg"
+          },
+          "topics": [],
+          "createdAt": "2026-09-05T14:55:35Z",
+          "pushedAt": "2026-09-12T10:04:27Z",
+          "updatedAt": "2026-09-12T14:10:00Z",
           "license": "MIT"
         },
         {
@@ -36,8 +134,8 @@
           "fullName": "Tencent/WeMM-Embedding",
           "url": "https://github.com/Tencent/WeMM-Embedding",
           "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-          "stars": 1478,
-          "forks": 101,
+          "stars": 1481,
+          "forks": 102,
           "openIssues": 0,
           "language": "Python",
           "owner": {
@@ -52,29 +150,8 @@
           ],
           "createdAt": "2026-08-25T02:46:10Z",
           "pushedAt": "2026-09-03T10:54:44Z",
-          "updatedAt": "2026-09-11T23:16:37Z",
+          "updatedAt": "2026-09-12T10:49:49Z",
           "license": "NOASSERTION"
-        },
-        {
-          "id": 1358295353,
-          "name": "codenotch",
-          "fullName": "vinzdg/codenotch",
-          "url": "https://github.com/vinzdg/codenotch",
-          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-          "stars": 1469,
-          "forks": 230,
-          "openIssues": 36,
-          "language": "Swift",
-          "owner": {
-            "login": "vinzdg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
-            "url": "https://github.com/vinzdg"
-          },
-          "topics": [],
-          "createdAt": "2026-09-05T14:55:35Z",
-          "pushedAt": "2026-09-11T09:41:25Z",
-          "updatedAt": "2026-09-12T00:39:05Z",
-          "license": "MIT"
         },
         {
           "id": 1346970181,
@@ -82,8 +159,8 @@
           "fullName": "wide-trace/open-higgsfield",
           "url": "https://github.com/wide-trace/open-higgsfield",
           "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-          "stars": 1458,
-          "forks": 31,
+          "stars": 1465,
+          "forks": 32,
           "openIssues": 1,
           "language": "TypeScript",
           "owner": {
@@ -94,28 +171,7 @@
           "topics": [],
           "createdAt": "2026-08-26T06:09:58Z",
           "pushedAt": "2026-09-02T17:42:39Z",
-          "updatedAt": "2026-09-12T00:21:55Z",
-          "license": null
-        },
-        {
-          "id": 1358588929,
-          "name": "handraw-style",
-          "fullName": "yang0/handraw-style",
-          "url": "https://github.com/yang0/handraw-style",
-          "description": "手绘风格编号画廊与双语提示词 Skill",
-          "stars": 1457,
-          "forks": 187,
-          "openIssues": 1,
-          "language": "HTML",
-          "owner": {
-            "login": "yang0",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3478629?v=4",
-            "url": "https://github.com/yang0"
-          },
-          "topics": [],
-          "createdAt": "2026-09-05T21:57:22Z",
-          "pushedAt": "2026-09-09T08:36:37Z",
-          "updatedAt": "2026-09-12T00:36:29Z",
+          "updatedAt": "2026-09-12T11:54:20Z",
           "license": null
         },
         {
@@ -124,9 +180,9 @@
           "fullName": "EverettFish/holo-card-studio",
           "url": "https://github.com/EverettFish/holo-card-studio",
           "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-          "stars": 1442,
-          "forks": 207,
-          "openIssues": 4,
+          "stars": 1463,
+          "forks": 208,
+          "openIssues": 0,
           "language": "Python",
           "owner": {
             "login": "EverettFish",
@@ -135,9 +191,44 @@
           },
           "topics": [],
           "createdAt": "2026-09-07T00:41:18Z",
-          "pushedAt": "2026-09-11T04:04:44Z",
-          "updatedAt": "2026-09-12T00:39:46Z",
+          "pushedAt": "2026-09-12T04:56:38Z",
+          "updatedAt": "2026-09-12T13:13:24Z",
           "license": "NOASSERTION"
+        },
+        {
+          "id": 1336971041,
+          "name": "VoiceMem",
+          "fullName": "xzf-thu/VoiceMem",
+          "url": "https://github.com/xzf-thu/VoiceMem",
+          "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
+          "stars": 1426,
+          "forks": 103,
+          "openIssues": 7,
+          "language": "Python",
+          "owner": {
+            "login": "xzf-thu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/201621992?v=4",
+            "url": "https://github.com/xzf-thu"
+          },
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-tools",
+            "application",
+            "audio-streaming",
+            "genai",
+            "llm",
+            "long-term-memory",
+            "memory",
+            "memory-management",
+            "python",
+            "voice-agent",
+            "voice-assistant"
+          ],
+          "createdAt": "2026-08-17T09:49:10Z",
+          "pushedAt": "2026-09-05T03:15:41Z",
+          "updatedAt": "2026-09-12T14:16:05Z",
+          "license": "Apache-2.0"
         },
         {
           "id": 1352104394,
@@ -145,9 +236,9 @@
           "fullName": "shadcn-ui/cn",
           "url": "https://github.com/shadcn-ui/cn",
           "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-          "stars": 1420,
+          "stars": 1426,
           "forks": 15,
-          "openIssues": 9,
+          "openIssues": 7,
           "language": "TypeScript",
           "owner": {
             "login": "shadcn-ui",
@@ -162,8 +253,8 @@
             "tailwindcss"
           ],
           "createdAt": "2026-08-31T07:04:03Z",
-          "pushedAt": "2026-09-07T09:08:03Z",
-          "updatedAt": "2026-09-11T23:54:23Z",
+          "pushedAt": "2026-09-12T11:09:59Z",
+          "updatedAt": "2026-09-12T13:28:01Z",
           "license": "MIT"
         },
         {
@@ -172,7 +263,7 @@
           "fullName": "jeremy-prt/bloub",
           "url": "https://github.com/jeremy-prt/bloub",
           "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-          "stars": 1400,
+          "stars": 1406,
           "forks": 180,
           "openIssues": 5,
           "language": "TypeScript",
@@ -192,57 +283,8 @@
           ],
           "createdAt": "2026-08-15T13:21:23Z",
           "pushedAt": "2026-08-17T19:18:48Z",
-          "updatedAt": "2026-09-11T21:30:03Z",
+          "updatedAt": "2026-09-12T13:54:19Z",
           "license": "MIT"
-        },
-        {
-          "id": 1349898907,
-          "name": "headcount",
-          "fullName": "cbrock84/headcount",
-          "url": "https://github.com/cbrock84/headcount",
-          "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-          "stars": 1356,
-          "forks": 209,
-          "openIssues": 1,
-          "language": "Markdown",
-          "owner": {
-            "login": "cbrock84",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/15268570?v=4",
-            "url": "https://github.com/cbrock84"
-          },
-          "topics": [
-            "agent-marketplace",
-            "claude-code",
-            "claude-code-plugin",
-            "claude-plugin",
-            "claude-skills",
-            "mcp"
-          ],
-          "createdAt": "2026-08-28T18:03:04Z",
-          "pushedAt": "2026-09-03T02:54:33Z",
-          "updatedAt": "2026-09-11T06:01:37Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1361439328,
-          "name": "Edge0",
-          "fullName": "Edge0-AI/Edge0",
-          "url": "https://github.com/Edge0-AI/Edge0",
-          "description": "暂无描述",
-          "stars": 1345,
-          "forks": 109,
-          "openIssues": 9,
-          "language": "Python",
-          "owner": {
-            "login": "Edge0-AI",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/310437271?v=4",
-            "url": "https://github.com/Edge0-AI"
-          },
-          "topics": [],
-          "createdAt": "2026-09-08T13:41:47Z",
-          "pushedAt": "2026-09-11T11:01:40Z",
-          "updatedAt": "2026-09-12T00:33:15Z",
-          "license": "Apache-2.0"
         }
       ],
       "risers": [
@@ -252,9 +294,9 @@
           "fullName": "sdli1995/dlssg_for_sm86",
           "url": "https://github.com/sdli1995/dlssg_for_sm86",
           "description": "Here is a dlssg for RTX30 Series GPU ",
-          "stars": 1766,
-          "forks": 106,
-          "openIssues": 81,
+          "stars": 2060,
+          "forks": 127,
+          "openIssues": 85,
           "language": "Other",
           "owner": {
             "login": "sdli1995",
@@ -264,85 +306,30 @@
           "topics": [],
           "createdAt": "2026-09-07T16:16:48Z",
           "pushedAt": "2026-09-10T08:47:39Z",
-          "updatedAt": "2026-09-12T00:34:24Z",
+          "updatedAt": "2026-09-12T14:17:57Z",
           "license": null,
-          "rankGain": 13
+          "rankGain": 19
         },
         {
-          "id": 1345185947,
-          "name": "learn",
-          "fullName": "amosblomqvist/learn",
-          "url": "https://github.com/amosblomqvist/learn",
-          "description": "My AI learning system.",
-          "stars": 1792,
-          "forks": 182,
-          "openIssues": 8,
-          "language": "TypeScript",
+          "id": 1334897143,
+          "name": "AutoResearch",
+          "fullName": "EvoMap/AutoResearch",
+          "url": "https://github.com/EvoMap/AutoResearch",
+          "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
+          "stars": 3998,
+          "forks": 257,
+          "openIssues": 1,
+          "language": "Python",
           "owner": {
-            "login": "amosblomqvist",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/255718537?v=4",
-            "url": "https://github.com/amosblomqvist"
+            "login": "EvoMap",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/263044117?v=4",
+            "url": "https://github.com/EvoMap"
           },
           "topics": [],
-          "createdAt": "2026-08-24T16:45:07Z",
-          "pushedAt": "2026-08-25T21:49:59Z",
-          "updatedAt": "2026-09-11T22:30:10Z",
-          "license": null,
-          "rankGain": 11
-        },
-        {
-          "id": 1361260630,
-          "name": "NavierStokesAndEuler",
-          "fullName": "openai/NavierStokesAndEuler",
-          "url": "https://github.com/openai/NavierStokesAndEuler",
-          "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-          "stars": 1777,
-          "forks": 177,
-          "openIssues": 0,
-          "language": "Lean",
-          "owner": {
-            "login": "openai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
-            "url": "https://github.com/openai"
-          },
-          "topics": [],
-          "createdAt": "2026-09-08T10:53:38Z",
-          "pushedAt": "2026-09-10T15:14:13Z",
-          "updatedAt": "2026-09-11T20:48:16Z",
+          "createdAt": "2026-08-15T07:48:42Z",
+          "pushedAt": "2026-09-10T08:34:26Z",
+          "updatedAt": "2026-09-12T14:18:46Z",
           "license": "Apache-2.0",
-          "rankGain": 11
-        },
-        {
-          "id": 1342876750,
-          "name": "chat-on-steroids",
-          "fullName": "totec448-spec/chat-on-steroids",
-          "url": "https://github.com/totec448-spec/chat-on-steroids",
-          "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
-          "stars": 1729,
-          "forks": 240,
-          "openIssues": 53,
-          "language": "TypeScript",
-          "owner": {
-            "login": "totec448-spec",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/227782719?v=4",
-            "url": "https://github.com/totec448-spec"
-          },
-          "topics": [
-            "automation",
-            "chatgpt",
-            "chrome-extension",
-            "electron",
-            "linux",
-            "local-first",
-            "macos",
-            "mcp",
-            "multi-agent",
-            "windows"
-          ],
-          "createdAt": "2026-08-22T14:16:24Z",
-          "pushedAt": "2026-09-11T14:51:53Z",
-          "updatedAt": "2026-09-12T00:33:24Z",
-          "license": "MIT",
           "rankGain": 11
         },
         {
@@ -351,7 +338,7 @@
           "fullName": "ZSvirt/zsvirt",
           "url": "https://github.com/ZSvirt/zsvirt",
           "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
-          "stars": 1668,
+          "stars": 1669,
           "forks": 305,
           "openIssues": 32,
           "language": "Java",
@@ -377,42 +364,8 @@
           ],
           "createdAt": "2026-08-14T06:47:26Z",
           "pushedAt": "2026-09-09T09:19:17Z",
-          "updatedAt": "2026-09-11T23:12:19Z",
+          "updatedAt": "2026-09-12T10:53:29Z",
           "license": "GPL-3.0",
-          "rankGain": 11
-        },
-        {
-          "id": 1334373503,
-          "name": "DSH-Desktop-EAC",
-          "fullName": "zouyuxuan122/DSH-Desktop-EAC",
-          "url": "https://github.com/zouyuxuan122/DSH-Desktop-EAC",
-          "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
-          "stars": 1632,
-          "forks": 61,
-          "openIssues": 14,
-          "language": "JavaScript",
-          "owner": {
-            "login": "zouyuxuan122",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/245557608?v=4",
-            "url": "https://github.com/zouyuxuan122"
-          },
-          "topics": [
-            "ai-agent",
-            "deepseek",
-            "deepseek-harness",
-            "desktop",
-            "desktop-app",
-            "dsh",
-            "dsh-plugins",
-            "dshdesktop",
-            "electron",
-            "tauri",
-            "windows"
-          ],
-          "createdAt": "2026-08-14T16:29:54Z",
-          "pushedAt": "2026-09-11T12:37:57Z",
-          "updatedAt": "2026-09-11T16:21:09Z",
-          "license": "MIT",
           "rankGain": 11
         },
         {
@@ -421,9 +374,9 @@
           "fullName": "jub0t/Concat",
           "url": "https://github.com/jub0t/Concat",
           "description": "Free & Open-Source CapCut replacement.",
-          "stars": 1609,
-          "forks": 151,
-          "openIssues": 8,
+          "stars": 1627,
+          "forks": 154,
+          "openIssues": 9,
           "language": "Rust",
           "owner": {
             "login": "jub0t",
@@ -453,81 +406,9 @@
           ],
           "createdAt": "2026-08-25T18:34:47Z",
           "pushedAt": "2026-09-10T21:17:28Z",
-          "updatedAt": "2026-09-12T00:30:46Z",
+          "updatedAt": "2026-09-12T12:22:11Z",
           "license": "AGPL-3.0",
           "rankGain": 11
-        },
-        {
-          "id": 1333718792,
-          "name": "deepseek-harness-desktop",
-          "fullName": "dsh-tauri-desk/deepseek-harness-desktop",
-          "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
-          "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-          "stars": 1948,
-          "forks": 128,
-          "openIssues": 25,
-          "language": "TypeScript",
-          "owner": {
-            "login": "dsh-tauri-desk",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/320038577?v=4",
-            "url": "https://github.com/dsh-tauri-desk"
-          },
-          "topics": [
-            "deepseek",
-            "deepseek-harness",
-            "desktop",
-            "dsh",
-            "dsh-desktop",
-            "dsh-plugin",
-            "tauri"
-          ],
-          "createdAt": "2026-08-14T02:36:29Z",
-          "pushedAt": "2026-09-11T19:29:10Z",
-          "updatedAt": "2026-09-12T00:27:13Z",
-          "license": "MIT",
-          "rankGain": 10
-        },
-        {
-          "id": 1342886503,
-          "name": "x64dbg-mcp-server",
-          "fullName": "duty1g/x64dbg-mcp-server",
-          "url": "https://github.com/duty1g/x64dbg-mcp-server",
-          "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-          "stars": 1937,
-          "forks": 194,
-          "openIssues": 0,
-          "language": "Zig",
-          "owner": {
-            "login": "duty1g",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3162883?v=4",
-            "url": "https://github.com/duty1g"
-          },
-          "topics": [
-            "ai-agents",
-            "ai-debugging",
-            "binary-analysis",
-            "claude",
-            "claude-code",
-            "malware-analysis",
-            "malware-research",
-            "malware-scanner",
-            "mcp",
-            "mcp-server",
-            "mcp-servers",
-            "x64dbg",
-            "x64dbg-mcp",
-            "x64dbg-plugin",
-            "x64dbg-tools",
-            "xdbg",
-            "zig",
-            "zig-lang",
-            "ziglang"
-          ],
-          "createdAt": "2026-08-22T14:28:41Z",
-          "pushedAt": "2026-09-10T17:54:29Z",
-          "updatedAt": "2026-09-12T00:39:52Z",
-          "license": "MIT",
-          "rankGain": 10
         },
         {
           "id": 1344252356,
@@ -535,9 +416,9 @@
           "fullName": "omacom/try-omarchy",
           "url": "https://github.com/omacom/try-omarchy",
           "description": "Run Omarchy on MacOS without any setup.",
-          "stars": 1910,
-          "forks": 93,
-          "openIssues": 42,
+          "stars": 1943,
+          "forks": 99,
+          "openIssues": 43,
           "language": "Swift",
           "owner": {
             "login": "omacom",
@@ -559,9 +440,138 @@
           ],
           "createdAt": "2026-08-23T21:55:30Z",
           "pushedAt": "2026-09-09T16:35:00Z",
-          "updatedAt": "2026-09-11T23:54:14Z",
+          "updatedAt": "2026-09-12T14:10:37Z",
           "license": "MIT",
           "rankGain": 10
+        },
+        {
+          "id": 1345185947,
+          "name": "learn",
+          "fullName": "amosblomqvist/learn",
+          "url": "https://github.com/amosblomqvist/learn",
+          "description": "My AI learning system.",
+          "stars": 1812,
+          "forks": 183,
+          "openIssues": 9,
+          "language": "TypeScript",
+          "owner": {
+            "login": "amosblomqvist",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/255718537?v=4",
+            "url": "https://github.com/amosblomqvist"
+          },
+          "topics": [],
+          "createdAt": "2026-08-24T16:45:07Z",
+          "pushedAt": "2026-08-25T21:49:59Z",
+          "updatedAt": "2026-09-12T14:15:14Z",
+          "license": null,
+          "rankGain": 10
+        },
+        {
+          "id": 1361260630,
+          "name": "NavierStokesAndEuler",
+          "fullName": "openai/NavierStokesAndEuler",
+          "url": "https://github.com/openai/NavierStokesAndEuler",
+          "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+          "stars": 1801,
+          "forks": 179,
+          "openIssues": 0,
+          "language": "Lean",
+          "owner": {
+            "login": "openai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+            "url": "https://github.com/openai"
+          },
+          "topics": [],
+          "createdAt": "2026-09-08T10:53:38Z",
+          "pushedAt": "2026-09-10T15:14:13Z",
+          "updatedAt": "2026-09-12T14:20:42Z",
+          "license": "Apache-2.0",
+          "rankGain": 10
+        },
+        {
+          "id": 1338435811,
+          "name": "deploy-vercel",
+          "fullName": "vvxw/deploy-vercel",
+          "url": "https://github.com/vvxw/deploy-vercel",
+          "description": "Install Command：npm install",
+          "stars": 1738,
+          "forks": 361,
+          "openIssues": 10,
+          "language": "JavaScript",
+          "owner": {
+            "login": "vvxw",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/142342666?v=4",
+            "url": "https://github.com/vvxw"
+          },
+          "topics": [],
+          "createdAt": "2026-08-18T13:25:45Z",
+          "pushedAt": "2026-08-18T13:33:29Z",
+          "updatedAt": "2026-09-12T13:54:07Z",
+          "license": null,
+          "rankGain": 10
+        },
+        {
+          "id": 1342876750,
+          "name": "chat-on-steroids",
+          "fullName": "totec448-spec/chat-on-steroids",
+          "url": "https://github.com/totec448-spec/chat-on-steroids",
+          "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+          "stars": 1734,
+          "forks": 242,
+          "openIssues": 53,
+          "language": "TypeScript",
+          "owner": {
+            "login": "totec448-spec",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/227782719?v=4",
+            "url": "https://github.com/totec448-spec"
+          },
+          "topics": [
+            "automation",
+            "chatgpt",
+            "chrome-extension",
+            "electron",
+            "linux",
+            "local-first",
+            "macos",
+            "mcp",
+            "multi-agent",
+            "windows"
+          ],
+          "createdAt": "2026-08-22T14:16:24Z",
+          "pushedAt": "2026-09-12T12:58:53Z",
+          "updatedAt": "2026-09-12T13:03:47Z",
+          "license": "MIT",
+          "rankGain": 10
+        },
+        {
+          "id": 1333718792,
+          "name": "deepseek-harness-desktop",
+          "fullName": "dsh-tauri-desk/deepseek-harness-desktop",
+          "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
+          "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+          "stars": 1984,
+          "forks": 130,
+          "openIssues": 33,
+          "language": "TypeScript",
+          "owner": {
+            "login": "dsh-tauri-desk",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/320038577?v=4",
+            "url": "https://github.com/dsh-tauri-desk"
+          },
+          "topics": [
+            "deepseek",
+            "deepseek-harness",
+            "desktop",
+            "dsh",
+            "dsh-desktop",
+            "dsh-plugin",
+            "tauri"
+          ],
+          "createdAt": "2026-08-14T02:36:29Z",
+          "pushedAt": "2026-09-12T09:24:10Z",
+          "updatedAt": "2026-09-12T13:51:23Z",
+          "license": "MIT",
+          "rankGain": 9
         }
       ],
       "dropped": [
@@ -844,9 +854,9 @@
           "fullName": "farion1231/cc-switch",
           "url": "https://github.com/farion1231/cc-switch",
           "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-          "stars": 132370,
-          "forks": 9129,
-          "openIssues": 2663,
+          "stars": 132493,
+          "forks": 9133,
+          "openIssues": 2675,
           "language": "Rust",
           "owner": {
             "login": "farion1231",
@@ -876,8 +886,8 @@
             "wsl-support"
           ],
           "createdAt": "2025-08-04T14:16:16Z",
-          "pushedAt": "2026-09-11T15:33:41Z",
-          "updatedAt": "2026-09-11T23:49:21Z",
+          "pushedAt": "2026-09-12T12:29:06Z",
+          "updatedAt": "2026-09-12T14:15:03Z",
           "license": "MIT"
         }
       ],
@@ -888,8 +898,8 @@
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 135834,
-          "forks": 7277,
+          "stars": 136321,
+          "forks": 7311,
           "openIssues": 256,
           "language": "JavaScript",
           "owner": {
@@ -911,8 +921,37 @@
           ],
           "createdAt": "2026-06-12T00:52:37Z",
           "pushedAt": "2026-09-07T16:27:01Z",
-          "updatedAt": "2026-09-12T00:40:12Z",
+          "updatedAt": "2026-09-12T14:20:24Z",
           "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 589831718,
+          "name": "ComfyUI",
+          "fullName": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+          "stars": 132709,
+          "forks": 15668,
+          "openIssues": 4868,
+          "language": "Python",
+          "owner": {
+            "login": "Comfy-Org",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4",
+            "url": "https://github.com/Comfy-Org"
+          },
+          "topics": [
+            "ai",
+            "comfy",
+            "comfyui",
+            "python",
+            "pytorch",
+            "stable-diffusion"
+          ],
+          "createdAt": "2023-01-17T03:15:56Z",
+          "pushedAt": "2026-09-12T11:40:23Z",
+          "updatedAt": "2026-09-12T14:17:11Z",
+          "license": "GPL-3.0",
           "rankGain": 2
         },
         {
@@ -921,9 +960,9 @@
           "fullName": "langgenius/dify",
           "url": "https://github.com/langgenius/dify",
           "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "stars": 155458,
-          "forks": 24552,
-          "openIssues": 1067,
+          "stars": 155504,
+          "forks": 24567,
+          "openIssues": 1061,
           "language": "TypeScript",
           "owner": {
             "login": "langgenius",
@@ -952,8 +991,8 @@
             "workflow"
           ],
           "createdAt": "2023-04-12T07:40:24Z",
-          "pushedAt": "2026-09-11T19:17:46Z",
-          "updatedAt": "2026-09-12T00:29:44Z",
+          "pushedAt": "2026-09-12T11:14:36Z",
+          "updatedAt": "2026-09-12T14:14:45Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -963,9 +1002,9 @@
           "fullName": "langflow-ai/langflow",
           "url": "https://github.com/langflow-ai/langflow",
           "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-          "stars": 154603,
-          "forks": 10068,
-          "openIssues": 1047,
+          "stars": 154640,
+          "forks": 10077,
+          "openIssues": 1049,
           "language": "Python",
           "owner": {
             "login": "langflow-ai",
@@ -982,7 +1021,7 @@
           ],
           "createdAt": "2023-02-08T22:28:03Z",
           "pushedAt": "2026-09-12T00:37:15Z",
-          "updatedAt": "2026-09-12T00:32:58Z",
+          "updatedAt": "2026-09-12T14:15:03Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -992,8 +1031,8 @@
           "fullName": "msitarzewski/agency-agents",
           "url": "https://github.com/msitarzewski/agency-agents",
           "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "stars": 151738,
-          "forks": 24431,
+          "stars": 151835,
+          "forks": 24458,
           "openIssues": 144,
           "language": "Shell",
           "owner": {
@@ -1004,7 +1043,7 @@
           "topics": [],
           "createdAt": "2025-10-13T12:12:29Z",
           "pushedAt": "2026-09-09T00:10:23Z",
-          "updatedAt": "2026-09-12T00:20:04Z",
+          "updatedAt": "2026-09-12T14:00:24Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -1014,9 +1053,9 @@
           "fullName": "open-webui/open-webui",
           "url": "https://github.com/open-webui/open-webui",
           "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 151674,
-          "forks": 22191,
-          "openIssues": 305,
+          "stars": 151741,
+          "forks": 22198,
+          "openIssues": 317,
           "language": "Python",
           "owner": {
             "login": "open-webui",
@@ -1042,7 +1081,7 @@
           ],
           "createdAt": "2023-10-06T22:08:27Z",
           "pushedAt": "2026-09-10T23:05:38Z",
-          "updatedAt": "2026-09-12T00:26:56Z",
+          "updatedAt": "2026-09-12T14:20:19Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -1052,8 +1091,8 @@
           "fullName": "Genymobile/scrcpy",
           "url": "https://github.com/Genymobile/scrcpy",
           "description": "Display and control your Android device",
-          "stars": 149423,
-          "forks": 13735,
+          "stars": 149459,
+          "forks": 13740,
           "openIssues": 2901,
           "language": "C",
           "owner": {
@@ -1073,7 +1112,7 @@
           ],
           "createdAt": "2017-11-21T18:00:27Z",
           "pushedAt": "2026-09-11T16:58:44Z",
-          "updatedAt": "2026-09-12T00:25:59Z",
+          "updatedAt": "2026-09-12T14:19:48Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -1083,9 +1122,9 @@
           "fullName": "langchain-ai/langchain",
           "url": "https://github.com/langchain-ai/langchain",
           "description": "The agent engineering platform.",
-          "stars": 146138,
-          "forks": 24417,
-          "openIssues": 487,
+          "stars": 146189,
+          "forks": 24424,
+          "openIssues": 488,
           "language": "Python",
           "owner": {
             "login": "langchain-ai",
@@ -1115,8 +1154,8 @@
             "typescript"
           ],
           "createdAt": "2022-10-17T02:58:36Z",
-          "pushedAt": "2026-09-12T00:31:47Z",
-          "updatedAt": "2026-09-12T00:14:06Z",
+          "pushedAt": "2026-09-12T08:27:03Z",
+          "updatedAt": "2026-09-12T13:56:44Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -1126,9 +1165,9 @@
           "fullName": "anthropics/claude-code",
           "url": "https://github.com/anthropics/claude-code",
           "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 144784,
-          "forks": 23115,
-          "openIssues": 12513,
+          "stars": 144823,
+          "forks": 23126,
+          "openIssues": 12489,
           "language": "Python",
           "owner": {
             "login": "anthropics",
@@ -1138,7 +1177,7 @@
           "topics": [],
           "createdAt": "2025-02-22T17:41:21Z",
           "pushedAt": "2026-09-11T19:17:55Z",
-          "updatedAt": "2026-09-12T00:26:11Z",
+          "updatedAt": "2026-09-12T13:19:04Z",
           "license": null,
           "rankGain": 1
         },
@@ -1148,9 +1187,9 @@
           "fullName": "clash-verge-rev/clash-verge-rev",
           "url": "https://github.com/clash-verge-rev/clash-verge-rev",
           "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-          "stars": 143854,
-          "forks": 10357,
-          "openIssues": 422,
+          "stars": 144000,
+          "forks": 10363,
+          "openIssues": 419,
           "language": "Rust",
           "owner": {
             "login": "clash-verge-rev",
@@ -1168,46 +1207,9 @@
             "windows"
           ],
           "createdAt": "2023-11-21T18:24:03Z",
-          "pushedAt": "2026-09-11T21:34:37Z",
-          "updatedAt": "2026-09-11T23:37:32Z",
+          "pushedAt": "2026-09-12T07:27:02Z",
+          "updatedAt": "2026-09-12T14:16:59Z",
           "license": "GPL-3.0",
-          "rankGain": 1
-        },
-        {
-          "id": 70107786,
-          "name": "next.js",
-          "fullName": "vercel/next.js",
-          "url": "https://github.com/vercel/next.js",
-          "description": "The React Framework",
-          "stars": 142245,
-          "forks": 31904,
-          "openIssues": 3351,
-          "language": "JavaScript",
-          "owner": {
-            "login": "vercel",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
-            "url": "https://github.com/vercel"
-          },
-          "topics": [
-            "blog",
-            "browser",
-            "compiler",
-            "components",
-            "hybrid",
-            "nextjs",
-            "node",
-            "react",
-            "server-rendering",
-            "ssg",
-            "static",
-            "static-site-generator",
-            "universal",
-            "vercel"
-          ],
-          "createdAt": "2016-10-05T23:32:51Z",
-          "pushedAt": "2026-09-12T00:20:16Z",
-          "updatedAt": "2026-09-11T23:35:10Z",
-          "license": "MIT",
           "rankGain": 1
         }
       ],
@@ -1251,7 +1253,30 @@
     },
     "aiEco": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 798201435,
+          "name": "crawl4ai",
+          "fullName": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+          "stars": 82333,
+          "forks": 8493,
+          "openIssues": 193,
+          "language": "Python",
+          "owner": {
+            "login": "unclecode",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12494079?v=4",
+            "url": "https://github.com/unclecode"
+          },
+          "topics": [],
+          "createdAt": "2024-05-09T09:48:50Z",
+          "pushedAt": "2026-09-09T13:22:34Z",
+          "updatedAt": "2026-09-12T14:16:28Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "secTraffic": {
@@ -1262,7 +1287,7 @@
           "fullName": "0ct0sec/M5PORKCHOP",
           "url": "https://github.com/0ct0sec/M5PORKCHOP",
           "description": "ON NO! Someone put an RPG in a packet sniffer",
-          "stars": 863,
+          "stars": 864,
           "forks": 60,
           "openIssues": 38,
           "language": "C++",
@@ -1280,7 +1305,7 @@
           ],
           "createdAt": "2025-12-05T23:08:55Z",
           "pushedAt": "2026-09-11T09:43:29Z",
-          "updatedAt": "2026-09-11T15:16:40Z",
+          "updatedAt": "2026-09-12T10:39:13Z",
           "license": "MIT"
         }
       ],
@@ -1325,7 +1350,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
@@ -1343,7 +1368,7 @@
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "secTraffic": {
