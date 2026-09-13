@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-09-13T00:41:42.266Z",
+  "generatedAt": "2026-09-13T17:23:29.550Z",
   "date": "2026-09-13",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 11730342,
+          "name": "vue",
+          "fullName": "vuejs/vue",
+          "url": "https://github.com/vuejs/vue",
+          "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+          "stars": 212793,
+          "forks": 33721,
+          "openIssues": 640,
+          "language": "TypeScript",
+          "owner": {
+            "login": "vuejs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6128107?v=4",
+            "url": "https://github.com/vuejs"
+          },
+          "topics": [
+            "framework",
+            "frontend",
+            "javascript",
+            "vue"
+          ],
+          "createdAt": "2013-07-29T03:24:51Z",
+          "pushedAt": "2024-10-10T07:24:15Z",
+          "updatedAt": "2026-09-13T17:19:15Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
@@ -15,8 +43,8 @@
           "fullName": "Minglink/dsh-infinite-gen-4",
           "url": "https://github.com/Minglink/dsh-infinite-gen-4",
           "description": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
-          "stars": 1376,
-          "forks": 93,
+          "stars": 1411,
+          "forks": 96,
           "openIssues": 11,
           "language": "JavaScript",
           "owner": {
@@ -32,7 +60,7 @@
           ],
           "createdAt": "2026-08-15T15:47:15Z",
           "pushedAt": "2026-09-12T18:27:25Z",
-          "updatedAt": "2026-09-12T23:46:46Z",
+          "updatedAt": "2026-09-13T16:28:42Z",
           "license": "MIT"
         },
         {
@@ -41,7 +69,7 @@
           "fullName": "cbrock84/headcount",
           "url": "https://github.com/cbrock84/headcount",
           "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-          "stars": 1367,
+          "stars": 1370,
           "forks": 210,
           "openIssues": 1,
           "language": "Markdown",
@@ -60,7 +88,7 @@
           ],
           "createdAt": "2026-08-28T18:03:04Z",
           "pushedAt": "2026-09-03T02:54:33Z",
-          "updatedAt": "2026-09-12T22:24:22Z",
+          "updatedAt": "2026-09-13T16:54:24Z",
           "license": "MIT"
         },
         {
@@ -69,8 +97,8 @@
           "fullName": "sebbbi/NoGraphicsAPI",
           "url": "https://github.com/sebbbi/NoGraphicsAPI",
           "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
-          "stars": 1335,
-          "forks": 38,
+          "stars": 1349,
+          "forks": 40,
           "openIssues": 7,
           "language": "C++",
           "owner": {
@@ -81,7 +109,7 @@
           "topics": [],
           "createdAt": "2026-08-31T14:14:12Z",
           "pushedAt": "2026-09-12T20:33:11Z",
-          "updatedAt": "2026-09-13T00:35:41Z",
+          "updatedAt": "2026-09-13T16:44:41Z",
           "license": "MIT"
         },
         {
@@ -90,9 +118,9 @@
           "fullName": "syv-ai/qwen38-27b-rtx3090",
           "url": "https://github.com/syv-ai/qwen38-27b-rtx3090",
           "description": "Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 DeltaNet state), ~114 tok/s single-user at default sampling / ~124 greedy (MTP drafts, own-output draft vocab, calibrated int4 lm_head, split-KV verify attention), 150k-262k context; patches, requant scripts, benchmarks",
-          "stars": 1326,
-          "forks": 186,
-          "openIssues": 24,
+          "stars": 1337,
+          "forks": 187,
+          "openIssues": 20,
           "language": "Python",
           "owner": {
             "login": "syv-ai",
@@ -111,9 +139,43 @@
             "vllm"
           ],
           "createdAt": "2026-08-15T09:10:56Z",
-          "pushedAt": "2026-09-11T10:19:09Z",
-          "updatedAt": "2026-09-12T22:17:18Z",
+          "pushedAt": "2026-09-13T16:27:19Z",
+          "updatedAt": "2026-09-13T17:17:32Z",
           "license": "Apache-2.0"
+        },
+        {
+          "id": 1354059245,
+          "name": "agent-memory",
+          "fullName": "tigerless-labs/agent-memory",
+          "url": "https://github.com/tigerless-labs/agent-memory",
+          "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+          "stars": 1277,
+          "forks": 78,
+          "openIssues": 19,
+          "language": "Python",
+          "owner": {
+            "login": "tigerless-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/285825190?v=4",
+            "url": "https://github.com/tigerless-labs"
+          },
+          "topics": [
+            "agent-memory",
+            "ai-agents",
+            "claude-code",
+            "codex",
+            "llm",
+            "local-first",
+            "long-term-memory",
+            "markdown",
+            "mcp",
+            "python",
+            "retrieval",
+            "sqlite"
+          ],
+          "createdAt": "2026-09-01T21:52:29Z",
+          "pushedAt": "2026-09-11T12:44:13Z",
+          "updatedAt": "2026-09-13T17:22:53Z",
+          "license": "MIT"
         },
         {
           "id": 1344425591,
@@ -121,7 +183,7 @@
           "fullName": "bryllim/workout-guide",
           "url": "https://github.com/bryllim/workout-guide",
           "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-          "stars": 1245,
+          "stars": 1246,
           "forks": 187,
           "openIssues": 1,
           "language": "Astro",
@@ -141,49 +203,7 @@
           ],
           "createdAt": "2026-08-24T02:14:20Z",
           "pushedAt": "2026-08-26T16:05:37Z",
-          "updatedAt": "2026-09-12T23:35:14Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1351835285,
-          "name": "undress-service",
-          "fullName": "GangTailorUpgrade/undress-service",
-          "url": "https://github.com/GangTailorUpgrade/undress-service",
-          "description": "Dress AI Sponsor",
-          "stars": 1233,
-          "forks": 6,
-          "openIssues": 2,
-          "language": "Python",
-          "owner": {
-            "login": "GangTailorUpgrade",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/270958586?v=4",
-            "url": "https://github.com/GangTailorUpgrade"
-          },
-          "topics": [
-            "18comic",
-            "coomer",
-            "coomer-downloader",
-            "coomer-party",
-            "coomer-porn",
-            "coomer-su",
-            "doujin-moe",
-            "ehviewer",
-            "ex-hentai",
-            "explicit-content",
-            "gogoanime",
-            "hitomi-la",
-            "kemono",
-            "kemono-downloader",
-            "kemono-oarty",
-            "kemono-party",
-            "kemono-porn",
-            "kemono-su",
-            "nudity",
-            "unrestricted-ai"
-          ],
-          "createdAt": "2026-08-31T00:12:45Z",
-          "pushedAt": "2026-09-08T15:35:14Z",
-          "updatedAt": "2026-09-12T23:57:19Z",
+          "updatedAt": "2026-09-13T16:15:18Z",
           "license": "MIT"
         }
       ],
@@ -194,9 +214,9 @@
           "fullName": "NVlabs/SoL-Pi",
           "url": "https://github.com/NVlabs/SoL-Pi",
           "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
-          "stars": 1453,
-          "forks": 103,
-          "openIssues": 18,
+          "stars": 1650,
+          "forks": 122,
+          "openIssues": 38,
           "language": "TypeScript",
           "owner": {
             "login": "NVlabs",
@@ -205,10 +225,10 @@
           },
           "topics": [],
           "createdAt": "2026-09-02T14:48:47Z",
-          "pushedAt": "2026-09-12T23:23:16Z",
-          "updatedAt": "2026-09-13T00:38:28Z",
+          "pushedAt": "2026-09-13T17:22:11Z",
+          "updatedAt": "2026-09-13T17:21:52Z",
           "license": "MIT",
-          "rankGain": 10
+          "rankGain": 16
         },
         {
           "id": 1361439328,
@@ -216,9 +236,9 @@
           "fullName": "Edge0-AI/Edge0",
           "url": "https://github.com/Edge0-AI/Edge0",
           "description": "暂无描述",
-          "stars": 1445,
-          "forks": 117,
-          "openIssues": 14,
+          "stars": 1562,
+          "forks": 130,
+          "openIssues": 13,
           "language": "Python",
           "owner": {
             "login": "Edge0-AI",
@@ -227,10 +247,10 @@
           },
           "topics": [],
           "createdAt": "2026-09-08T13:41:47Z",
-          "pushedAt": "2026-09-11T11:01:40Z",
-          "updatedAt": "2026-09-12T22:50:39Z",
+          "pushedAt": "2026-09-13T07:15:57Z",
+          "updatedAt": "2026-09-13T16:49:47Z",
           "license": "Apache-2.0",
-          "rankGain": 8
+          "rankGain": 12
         },
         {
           "id": 1342876750,
@@ -238,9 +258,9 @@
           "fullName": "totec448-spec/chat-on-steroids",
           "url": "https://github.com/totec448-spec/chat-on-steroids",
           "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
-          "stars": 1890,
-          "forks": 256,
-          "openIssues": 56,
+          "stars": 2167,
+          "forks": 293,
+          "openIssues": 52,
           "language": "TypeScript",
           "owner": {
             "login": "totec448-spec",
@@ -260,10 +280,10 @@
             "windows"
           ],
           "createdAt": "2026-08-22T14:16:24Z",
-          "pushedAt": "2026-09-13T00:41:19Z",
-          "updatedAt": "2026-09-13T00:41:26Z",
+          "pushedAt": "2026-09-13T16:34:47Z",
+          "updatedAt": "2026-09-13T17:18:34Z",
           "license": "MIT",
-          "rankGain": 7
+          "rankGain": 11
         },
         {
           "id": 1346499044,
@@ -271,9 +291,9 @@
           "fullName": "jub0t/Concat",
           "url": "https://github.com/jub0t/Concat",
           "description": "Free & Open-Source CapCut replacement.",
-          "stars": 1640,
-          "forks": 154,
-          "openIssues": 9,
+          "stars": 1679,
+          "forks": 156,
+          "openIssues": 8,
           "language": "Rust",
           "owner": {
             "login": "jub0t",
@@ -303,30 +323,8 @@
           ],
           "createdAt": "2026-08-25T18:34:47Z",
           "pushedAt": "2026-09-10T21:17:28Z",
-          "updatedAt": "2026-09-12T23:30:59Z",
+          "updatedAt": "2026-09-13T17:19:33Z",
           "license": "AGPL-3.0",
-          "rankGain": 6
-        },
-        {
-          "id": 1342432270,
-          "name": "anti-mage",
-          "fullName": "N4darae/anti-mage",
-          "url": "https://github.com/N4darae/anti-mage",
-          "description": "For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis.",
-          "stars": 1591,
-          "forks": 89,
-          "openIssues": 1,
-          "language": "Go",
-          "owner": {
-            "login": "N4darae",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/50111777?v=4",
-            "url": "https://github.com/N4darae"
-          },
-          "topics": [],
-          "createdAt": "2026-08-22T04:11:00Z",
-          "pushedAt": "2026-09-09T16:24:35Z",
-          "updatedAt": "2026-09-12T02:03:14Z",
-          "license": "MIT",
           "rankGain": 6
         },
         {
@@ -335,9 +333,9 @@
           "fullName": "yang0/handraw-style",
           "url": "https://github.com/yang0/handraw-style",
           "description": "手绘风格编号画廊与双语提示词 Skill",
-          "stars": 1585,
-          "forks": 207,
-          "openIssues": 1,
+          "stars": 1636,
+          "forks": 212,
+          "openIssues": 2,
           "language": "HTML",
           "owner": {
             "login": "yang0",
@@ -347,31 +345,67 @@
           "topics": [],
           "createdAt": "2026-09-05T21:57:22Z",
           "pushedAt": "2026-09-09T08:36:37Z",
-          "updatedAt": "2026-09-13T00:11:58Z",
+          "updatedAt": "2026-09-13T16:40:47Z",
           "license": null,
           "rankGain": 6
         },
         {
-          "id": 1358295353,
-          "name": "codenotch",
-          "fullName": "vinzdg/codenotch",
-          "url": "https://github.com/vinzdg/codenotch",
-          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-          "stars": 1505,
-          "forks": 237,
-          "openIssues": 35,
-          "language": "Swift",
+          "id": 1336971041,
+          "name": "VoiceMem",
+          "fullName": "xzf-thu/VoiceMem",
+          "url": "https://github.com/xzf-thu/VoiceMem",
+          "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
+          "stars": 1528,
+          "forks": 107,
+          "openIssues": 7,
+          "language": "Python",
           "owner": {
-            "login": "vinzdg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
-            "url": "https://github.com/vinzdg"
+            "login": "xzf-thu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/201621992?v=4",
+            "url": "https://github.com/xzf-thu"
+          },
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-tools",
+            "application",
+            "audio-streaming",
+            "genai",
+            "llm",
+            "long-term-memory",
+            "memory",
+            "memory-management",
+            "python",
+            "voice-agent",
+            "voice-assistant"
+          ],
+          "createdAt": "2026-08-17T09:49:10Z",
+          "pushedAt": "2026-09-05T03:15:41Z",
+          "updatedAt": "2026-09-13T16:27:34Z",
+          "license": "Apache-2.0",
+          "rankGain": 6
+        },
+        {
+          "id": 1360432710,
+          "name": "dlssg_for_sm86",
+          "fullName": "sdli1995/dlssg_for_sm86",
+          "url": "https://github.com/sdli1995/dlssg_for_sm86",
+          "description": "Here is a dlssg for RTX30 Series GPU ",
+          "stars": 2376,
+          "forks": 141,
+          "openIssues": 96,
+          "language": "Other",
+          "owner": {
+            "login": "sdli1995",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/28560351?v=4",
+            "url": "https://github.com/sdli1995"
           },
           "topics": [],
-          "createdAt": "2026-09-05T14:55:35Z",
-          "pushedAt": "2026-09-12T10:04:27Z",
-          "updatedAt": "2026-09-13T00:04:23Z",
-          "license": "MIT",
-          "rankGain": 6
+          "createdAt": "2026-09-07T16:16:48Z",
+          "pushedAt": "2026-09-10T08:47:39Z",
+          "updatedAt": "2026-09-13T17:11:23Z",
+          "license": null,
+          "rankGain": 5
         },
         {
           "id": 1345606017,
@@ -379,8 +413,8 @@
           "fullName": "Tencent/WeMM-Embedding",
           "url": "https://github.com/Tencent/WeMM-Embedding",
           "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-          "stars": 1487,
-          "forks": 104,
+          "stars": 1559,
+          "forks": 109,
           "openIssues": 0,
           "language": "Python",
           "owner": {
@@ -395,53 +429,61 @@
           ],
           "createdAt": "2026-08-25T02:46:10Z",
           "pushedAt": "2026-09-03T10:54:44Z",
-          "updatedAt": "2026-09-13T00:24:25Z",
+          "updatedAt": "2026-09-13T16:59:17Z",
           "license": "NOASSERTION",
-          "rankGain": 6
+          "rankGain": 5
         },
         {
-          "id": 1346970181,
-          "name": "open-higgsfield",
-          "fullName": "wide-trace/open-higgsfield",
-          "url": "https://github.com/wide-trace/open-higgsfield",
-          "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-          "stars": 1470,
-          "forks": 33,
-          "openIssues": 1,
+          "id": 1335104760,
+          "name": "bloub",
+          "fullName": "jeremy-prt/bloub",
+          "url": "https://github.com/jeremy-prt/bloub",
+          "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+          "stars": 1459,
+          "forks": 185,
+          "openIssues": 5,
           "language": "TypeScript",
           "owner": {
-            "login": "wide-trace",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/321257738?v=4",
-            "url": "https://github.com/wide-trace"
+            "login": "jeremy-prt",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57547133?v=4",
+            "url": "https://github.com/jeremy-prt"
           },
-          "topics": [],
-          "createdAt": "2026-08-26T06:09:58Z",
-          "pushedAt": "2026-09-02T17:42:39Z",
-          "updatedAt": "2026-09-13T00:29:00Z",
-          "license": null,
-          "rankGain": 6
+          "topics": [
+            "animation",
+            "avatar",
+            "morphing",
+            "svg",
+            "svg-animation",
+            "typescript",
+            "vue"
+          ],
+          "createdAt": "2026-08-15T13:21:23Z",
+          "pushedAt": "2026-08-17T19:18:48Z",
+          "updatedAt": "2026-09-13T16:58:00Z",
+          "license": "MIT",
+          "rankGain": 5
         },
         {
-          "id": 1359610661,
-          "name": "holo-card-studio",
-          "fullName": "EverettFish/holo-card-studio",
-          "url": "https://github.com/EverettFish/holo-card-studio",
-          "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-          "stars": 1468,
-          "forks": 209,
-          "openIssues": 0,
-          "language": "Python",
+          "id": 1342432270,
+          "name": "anti-mage",
+          "fullName": "N4darae/anti-mage",
+          "url": "https://github.com/N4darae/anti-mage",
+          "description": "For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis.",
+          "stars": 1591,
+          "forks": 89,
+          "openIssues": 3,
+          "language": "Go",
           "owner": {
-            "login": "EverettFish",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/222453586?v=4",
-            "url": "https://github.com/EverettFish"
+            "login": "N4darae",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/50111777?v=4",
+            "url": "https://github.com/N4darae"
           },
           "topics": [],
-          "createdAt": "2026-09-07T00:41:18Z",
-          "pushedAt": "2026-09-12T04:56:38Z",
-          "updatedAt": "2026-09-12T23:58:37Z",
-          "license": "NOASSERTION",
-          "rankGain": 6
+          "createdAt": "2026-08-22T04:11:00Z",
+          "pushedAt": "2026-09-09T16:24:35Z",
+          "updatedAt": "2026-09-12T02:03:14Z",
+          "license": "MIT",
+          "rankGain": 4
         }
       ],
       "dropped": [
@@ -623,21 +665,161 @@
       ]
     },
     "activeWeek": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 21289110,
+          "name": "awesome-python",
+          "fullName": "vinta/awesome-python",
+          "url": "https://github.com/vinta/awesome-python",
+          "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+          "stars": 320389,
+          "forks": 28724,
+          "openIssues": 18,
+          "language": "Python",
+          "owner": {
+            "login": "vinta",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/652070?v=4",
+            "url": "https://github.com/vinta"
+          },
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "python",
+            "python-frameworks",
+            "python-libraries",
+            "python-tools"
+          ],
+          "createdAt": "2014-06-27T21:00:06Z",
+          "pushedAt": "2026-09-13T15:54:38Z",
+          "updatedAt": "2026-09-13T17:12:17Z",
+          "license": "NOASSERTION"
+        }
+      ],
       "risers": [],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 1031912724,
+          "name": "cc-switch",
+          "fullName": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+          "stars": 132493,
+          "forks": 9133,
+          "openIssues": 2675,
+          "language": "Rust",
+          "owner": {
+            "login": "farion1231",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
+            "url": "https://github.com/farion1231"
+          },
+          "topics": [
+            "ai-tools",
+            "claude-code",
+            "codex",
+            "desktop-app",
+            "grok",
+            "grokbuild",
+            "hermes",
+            "hermes-agent",
+            "mcp",
+            "open-source",
+            "openclaw",
+            "openclaw-ui",
+            "opencode",
+            "pi",
+            "provider-management",
+            "rust",
+            "skills",
+            "skills-management",
+            "tauri",
+            "wsl-support"
+          ],
+          "createdAt": "2025-08-04T14:16:16Z",
+          "pushedAt": "2026-09-12T12:29:06Z",
+          "updatedAt": "2026-09-12T14:15:03Z",
+          "license": "MIT"
+        }
+      ]
     },
     "aiEco": {
       "newcomers": [],
       "risers": [
+        {
+          "id": 1165277268,
+          "name": "Agent-Reach",
+          "fullName": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+          "stars": 80344,
+          "forks": 6984,
+          "openIssues": 133,
+          "language": "Python",
+          "owner": {
+            "login": "Panniantong",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/73925474?v=4",
+            "url": "https://github.com/Panniantong"
+          },
+          "topics": [
+            "agent-infrastructure",
+            "ai-agent",
+            "ai-search",
+            "automation",
+            "bilibili",
+            "claude-code",
+            "cli",
+            "cursor",
+            "free-api",
+            "llm-tools",
+            "mcp",
+            "python",
+            "reddit-scraper",
+            "twitter-scraper",
+            "web-scraper",
+            "xiaohongshu",
+            "youtube-transcript"
+          ],
+          "createdAt": "2026-02-24T02:10:24Z",
+          "pushedAt": "2026-09-01T08:09:58Z",
+          "updatedAt": "2026-09-13T17:20:53Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 909213664,
+          "name": "TradingAgents",
+          "fullName": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+          "stars": 105157,
+          "forks": 20169,
+          "openIssues": 384,
+          "language": "Python",
+          "owner": {
+            "login": "TauricResearch",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/192884433?v=4",
+            "url": "https://github.com/TauricResearch"
+          },
+          "topics": [
+            "agent",
+            "finance",
+            "llm",
+            "multiagent",
+            "trading"
+          ],
+          "createdAt": "2024-12-28T03:31:08Z",
+          "pushedAt": "2026-09-07T22:51:54Z",
+          "updatedAt": "2026-09-13T17:23:25Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        },
         {
           "id": 1158722119,
           "name": "agent-skills",
           "fullName": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description": "Production-grade engineering skills for AI coding agents.",
-          "stars": 93751,
-          "forks": 9971,
+          "stars": 93929,
+          "forks": 9985,
           "openIssues": 117,
           "language": "JavaScript",
           "owner": {
@@ -655,7 +837,7 @@
           ],
           "createdAt": "2026-02-15T20:20:26Z",
           "pushedAt": "2026-09-12T03:14:59Z",
-          "updatedAt": "2026-09-13T00:36:18Z",
+          "updatedAt": "2026-09-13T17:20:40Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -665,9 +847,9 @@
           "fullName": "unclecode/crawl4ai",
           "url": "https://github.com/unclecode/crawl4ai",
           "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-          "stars": 82609,
-          "forks": 8517,
-          "openIssues": 194,
+          "stars": 83093,
+          "forks": 8579,
+          "openIssues": 196,
           "language": "Python",
           "owner": {
             "login": "unclecode",
@@ -677,7 +859,7 @@
           "topics": [],
           "createdAt": "2024-05-09T09:48:50Z",
           "pushedAt": "2026-09-09T13:22:34Z",
-          "updatedAt": "2026-09-13T00:40:25Z",
+          "updatedAt": "2026-09-13T17:22:17Z",
           "license": "Apache-2.0",
           "rankGain": 1
         }
@@ -753,8 +935,8 @@
             "ssh-server"
           ],
           "createdAt": "2020-06-03T16:18:48Z",
-          "pushedAt": "2026-09-11T10:44:04Z",
-          "updatedAt": "2026-09-12T10:16:00Z",
+          "pushedAt": "2026-09-13T08:51:55Z",
+          "updatedAt": "2026-09-13T08:52:14Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
@@ -765,7 +947,7 @@
           "url": "https://github.com/DNSCrypt/encrypted-dns-server",
           "description": "An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.",
           "stars": 1319,
-          "forks": 131,
+          "forks": 130,
           "openIssues": 0,
           "language": "Rust",
           "owner": {
@@ -897,7 +1079,7 @@
           "fullName": "ElectronicCats/CatSniffer",
           "url": "https://github.com/ElectronicCats/CatSniffer",
           "description": "CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacking IoT (Internet of Things) devices using the latest radio IoT protocols. It is a highly portable USB stick that integrates TI CC1352, Semtech SX1262, and an RP2040 for V3 or a Microchip SAMD21E17 for V2",
-          "stars": 940,
+          "stars": 941,
           "forks": 106,
           "openIssues": 2,
           "language": "Python",
@@ -921,7 +1103,7 @@
           ],
           "createdAt": "2020-08-15T02:24:25Z",
           "pushedAt": "2026-09-02T20:12:07Z",
-          "updatedAt": "2026-09-06T19:49:08Z",
+          "updatedAt": "2026-09-13T05:44:40Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -931,9 +1113,9 @@
           "fullName": "alexch33/super-video-downloader",
           "url": "https://github.com/alexch33/super-video-downloader",
           "description": "Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOCKS proxy chains supported, encrypted DNS, Adblocker with lists managenment",
-          "stars": 922,
+          "stars": 923,
           "forks": 114,
-          "openIssues": 18,
+          "openIssues": 19,
           "language": "Kotlin",
           "owner": {
             "login": "alexch33",
@@ -963,7 +1145,7 @@
           ],
           "createdAt": "2024-08-16T13:33:09Z",
           "pushedAt": "2026-09-06T08:59:37Z",
-          "updatedAt": "2026-09-12T19:17:06Z",
+          "updatedAt": "2026-09-13T05:28:17Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
@@ -1064,7 +1246,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
@@ -1075,14 +1257,14 @@
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 0,
-      "dropped": 0
+      "dropped": 1
     },
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 2,
+      "risers": 4,
       "dropped": 0
     },
     "secTraffic": {
