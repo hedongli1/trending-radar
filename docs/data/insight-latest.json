@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T04:56:32.013Z",
+  "generatedAt": "2026-09-18T17:39:05.996Z",
   "date": "2026-09-18",
   "categories": {
     "allTime": {
@@ -10,66 +10,79 @@
     "breakout": {
       "newcomers": [
         {
-          "id": 1355366032,
-          "name": "DLSS-NR-on-AMD",
-          "fullName": "danielblnc/DLSS-NR-on-AMD",
-          "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
-          "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-          "stars": 1440,
-          "forks": 59,
-          "openIssues": 140,
-          "language": "Other",
+          "id": 1374005005,
+          "name": "fast-jev-compaction",
+          "fullName": "tamaratran/fast-jev-compaction",
+          "url": "https://github.com/tamaratran/fast-jev-compaction",
+          "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+          "stars": 2807,
+          "forks": 140,
+          "openIssues": 42,
+          "language": "TypeScript",
           "owner": {
-            "login": "danielblnc",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/60046864?v=4",
-            "url": "https://github.com/danielblnc"
+            "login": "tamaratran",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65584429?v=4",
+            "url": "https://github.com/tamaratran"
           },
           "topics": [],
-          "createdAt": "2026-09-03T00:42:03Z",
-          "pushedAt": "2026-09-15T21:31:25Z",
-          "updatedAt": "2026-09-18T04:25:01Z",
-          "license": "NOASSERTION"
-        },
-        {
-          "id": 1352493419,
-          "name": "NoGraphicsAPI",
-          "fullName": "sebbbi/NoGraphicsAPI",
-          "url": "https://github.com/sebbbi/NoGraphicsAPI",
-          "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
-          "stars": 1425,
-          "forks": 45,
-          "openIssues": 6,
-          "language": "C++",
-          "owner": {
-            "login": "sebbbi",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/8530705?v=4",
-            "url": "https://github.com/sebbbi"
-          },
-          "topics": [],
-          "createdAt": "2026-08-31T14:14:12Z",
-          "pushedAt": "2026-09-16T17:10:44Z",
-          "updatedAt": "2026-09-18T00:41:23Z",
+          "createdAt": "2026-09-17T05:57:20Z",
+          "pushedAt": "2026-09-18T04:45:31Z",
+          "updatedAt": "2026-09-18T17:38:57Z",
           "license": "MIT"
         },
         {
-          "id": 1360317501,
-          "name": "dream-loop",
-          "fullName": "achimala/dream-loop",
-          "url": "https://github.com/achimala/dream-loop",
-          "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-          "stars": 1404,
-          "forks": 153,
-          "openIssues": 6,
-          "language": "JavaScript",
+          "id": 1350404213,
+          "name": "massgravel",
+          "fullName": "FjordWorkerShanty/massgravel",
+          "url": "https://github.com/FjordWorkerShanty/massgravel",
+          "description": "暂无描述",
+          "stars": 1759,
+          "forks": 0,
+          "openIssues": 0,
+          "language": "Other",
           "owner": {
-            "login": "achimala",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1448366?v=4",
-            "url": "https://github.com/achimala"
+            "login": "FjordWorkerShanty",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/322414326?v=4",
+            "url": "https://github.com/FjordWorkerShanty"
+          },
+          "topics": [
+            "activator",
+            "massgrave",
+            "massgravel",
+            "microsoft",
+            "microsoft365",
+            "office",
+            "office365",
+            "ohook",
+            "powershell",
+            "windows",
+            "windows-10",
+            "windows-11"
+          ],
+          "createdAt": "2026-08-29T08:18:57Z",
+          "pushedAt": "2026-09-18T06:32:35Z",
+          "updatedAt": "2026-09-18T15:14:44Z",
+          "license": "NOASSERTION"
+        },
+        {
+          "id": 1372482979,
+          "name": "SemIf",
+          "fullName": "TheoLeeCJ/SemIf",
+          "url": "https://github.com/TheoLeeCJ/SemIf",
+          "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+          "stars": 1506,
+          "forks": 94,
+          "openIssues": 4,
+          "language": "Python",
+          "owner": {
+            "login": "TheoLeeCJ",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22087932?v=4",
+            "url": "https://github.com/TheoLeeCJ"
           },
           "topics": [],
-          "createdAt": "2026-09-07T14:19:20Z",
-          "pushedAt": "2026-09-09T22:43:38Z",
-          "updatedAt": "2026-09-18T04:31:24Z",
+          "createdAt": "2026-09-16T03:51:21Z",
+          "pushedAt": "2026-09-18T15:33:39Z",
+          "updatedAt": "2026-09-18T17:30:03Z",
           "license": "MIT"
         }
       ],
@@ -80,9 +93,9 @@
           "fullName": "browser-use/jev-ultrafast",
           "url": "https://github.com/browser-use/jev-ultrafast",
           "description": "i. am. speed.",
-          "stars": 2800,
-          "forks": 158,
-          "openIssues": 19,
+          "stars": 4932,
+          "forks": 305,
+          "openIssues": 29,
           "language": "Python",
           "owner": {
             "login": "browser-use",
@@ -91,10 +104,10 @@
           },
           "topics": [],
           "createdAt": "2026-09-16T21:30:12Z",
-          "pushedAt": "2026-09-18T01:17:37Z",
-          "updatedAt": "2026-09-18T04:56:14Z",
+          "pushedAt": "2026-09-18T16:28:35Z",
+          "updatedAt": "2026-09-18T17:38:58Z",
           "license": "MIT",
-          "rankGain": 33
+          "rankGain": 43
         },
         {
           "id": 1346970181,
@@ -102,8 +115,8 @@
           "fullName": "wide-trace/open-higgsfield",
           "url": "https://github.com/wide-trace/open-higgsfield",
           "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-          "stars": 2423,
-          "forks": 358,
+          "stars": 2983,
+          "forks": 586,
           "openIssues": 2,
           "language": "TypeScript",
           "owner": {
@@ -114,9 +127,9 @@
           "topics": [],
           "createdAt": "2026-08-26T06:09:58Z",
           "pushedAt": "2026-09-17T01:53:26Z",
-          "updatedAt": "2026-09-18T04:55:46Z",
+          "updatedAt": "2026-09-18T17:33:46Z",
           "license": null,
-          "rankGain": 16
+          "rankGain": 23
         },
         {
           "id": 1359648985,
@@ -124,9 +137,9 @@
           "fullName": "eternity4719/HowToLiveBetter",
           "url": "https://github.com/eternity4719/HowToLiveBetter",
           "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-          "stars": 4044,
-          "forks": 320,
-          "openIssues": 7,
+          "stars": 4938,
+          "forks": 385,
+          "openIssues": 8,
           "language": "HTML",
           "owner": {
             "login": "eternity4719",
@@ -135,10 +148,10 @@
           },
           "topics": [],
           "createdAt": "2026-09-07T01:53:36Z",
-          "pushedAt": "2026-09-18T04:51:25Z",
-          "updatedAt": "2026-09-18T04:55:24Z",
+          "pushedAt": "2026-09-18T13:00:55Z",
+          "updatedAt": "2026-09-18T17:36:53Z",
           "license": "Unlicense",
-          "rankGain": 5
+          "rankGain": 8
         },
         {
           "id": 1351879111,
@@ -146,8 +159,8 @@
           "fullName": "Human-Agent-Society/reef",
           "url": "https://github.com/Human-Agent-Society/reef",
           "description": "Continual learning infra for self-improving agents",
-          "stars": 3384,
-          "forks": 265,
+          "stars": 3544,
+          "forks": 288,
           "openIssues": 57,
           "language": "Python",
           "owner": {
@@ -166,8 +179,8 @@
             "self-improving-agents"
           ],
           "createdAt": "2026-08-31T01:39:18Z",
-          "pushedAt": "2026-09-18T03:33:16Z",
-          "updatedAt": "2026-09-18T04:55:25Z",
+          "pushedAt": "2026-09-18T17:13:00Z",
+          "updatedAt": "2026-09-18T17:31:02Z",
           "license": "Apache-2.0",
           "rankGain": 4
         },
@@ -177,9 +190,9 @@
           "fullName": "yang0/handraw-style",
           "url": "https://github.com/yang0/handraw-style",
           "description": "手绘风格编号画廊与双语提示词 Skill",
-          "stars": 2211,
-          "forks": 289,
-          "openIssues": 4,
+          "stars": 2374,
+          "forks": 302,
+          "openIssues": 5,
           "language": "HTML",
           "owner": {
             "login": "yang0",
@@ -188,32 +201,10 @@
           },
           "topics": [],
           "createdAt": "2026-09-05T21:57:22Z",
-          "pushedAt": "2026-09-17T23:06:21Z",
-          "updatedAt": "2026-09-18T04:53:37Z",
+          "pushedAt": "2026-09-18T14:51:21Z",
+          "updatedAt": "2026-09-18T17:36:28Z",
           "license": "MIT",
-          "rankGain": 4
-        },
-        {
-          "id": 1359610661,
-          "name": "holo-card-studio",
-          "fullName": "EverettFish/holo-card-studio",
-          "url": "https://github.com/EverettFish/holo-card-studio",
-          "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-          "stars": 1620,
-          "forks": 225,
-          "openIssues": 4,
-          "language": "Python",
-          "owner": {
-            "login": "EverettFish",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/222453586?v=4",
-            "url": "https://github.com/EverettFish"
-          },
-          "topics": [],
-          "createdAt": "2026-09-07T00:41:18Z",
-          "pushedAt": "2026-09-12T04:56:38Z",
-          "updatedAt": "2026-09-18T04:51:43Z",
-          "license": "NOASSERTION",
-          "rankGain": 4
+          "rankGain": 3
         },
         {
           "id": 1346499044,
@@ -221,9 +212,9 @@
           "fullName": "jub0t/Concat",
           "url": "https://github.com/jub0t/Concat",
           "description": "Open-Source CapCut replacement (MCP supported).",
-          "stars": 2704,
-          "forks": 240,
-          "openIssues": 38,
+          "stars": 2789,
+          "forks": 247,
+          "openIssues": 42,
           "language": "Rust",
           "owner": {
             "login": "jub0t",
@@ -252,91 +243,125 @@
             "whisper-cpp"
           ],
           "createdAt": "2026-08-25T18:34:47Z",
-          "pushedAt": "2026-09-18T03:49:01Z",
-          "updatedAt": "2026-09-18T04:20:02Z",
+          "pushedAt": "2026-09-18T17:26:11Z",
+          "updatedAt": "2026-09-18T17:34:03Z",
           "license": "AGPL-3.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1342737409,
-          "name": "FireRedAudio",
-          "fullName": "FireRedTeam/FireRedAudio",
-          "url": "https://github.com/FireRedTeam/FireRedAudio",
-          "description": "暂无描述",
-          "stars": 1670,
-          "forks": 17,
-          "openIssues": 7,
-          "language": "Python",
-          "owner": {
-            "login": "FireRedTeam",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/178460259?v=4",
-            "url": "https://github.com/FireRedTeam"
-          },
-          "topics": [],
-          "createdAt": "2026-08-22T11:18:12Z",
-          "pushedAt": "2026-09-08T03:50:39Z",
-          "updatedAt": "2026-09-18T04:40:40Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1342935078,
-          "name": "ai-infra-book",
-          "fullName": "bojieli/ai-infra-book",
-          "url": "https://github.com/bojieli/ai-infra-book",
-          "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
-          "stars": 4215,
-          "forks": 299,
-          "openIssues": 1,
-          "language": "Python",
-          "owner": {
-            "login": "bojieli",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1421793?v=4",
-            "url": "https://github.com/bojieli"
-          },
-          "topics": [
-            "accelerator",
-            "ai-infra",
-            "ai-infrastructure",
-            "book",
-            "datacenter-network",
-            "deepseek",
-            "distributed-systems",
-            "gpu",
-            "kv-cache",
-            "llm",
-            "llm-inference",
-            "llm-serving",
-            "llm-training",
-            "mixture-of-experts",
-            "performance-engineering"
-          ],
-          "createdAt": "2026-08-22T15:30:41Z",
-          "pushedAt": "2026-09-18T03:02:35Z",
-          "updatedAt": "2026-09-18T04:50:46Z",
-          "license": "Apache-2.0",
           "rankGain": 2
         },
         {
-          "id": 1353548665,
-          "name": "commerce-agents",
-          "fullName": "anthropics/commerce-agents",
-          "url": "https://github.com/anthropics/commerce-agents",
-          "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-          "stars": 2958,
-          "forks": 574,
-          "openIssues": 35,
-          "language": "Python",
+          "id": 1354701193,
+          "name": "lint",
+          "fullName": "shadcn-ui/lint",
+          "url": "https://github.com/shadcn-ui/lint",
+          "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+          "stars": 2120,
+          "forks": 37,
+          "openIssues": 14,
+          "language": "TypeScript",
           "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
+            "login": "shadcn-ui",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
+            "url": "https://github.com/shadcn-ui"
+          },
+          "topics": [
+            "agents",
+            "ai",
+            "design",
+            "design-system",
+            "design-tools",
+            "shadcn",
+            "shadcn-ui",
+            "tailwindcss"
+          ],
+          "createdAt": "2026-09-02T11:51:38Z",
+          "pushedAt": "2026-09-17T17:06:14Z",
+          "updatedAt": "2026-09-18T17:36:25Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1358295353,
+          "name": "codenotch",
+          "fullName": "vinzdg/codenotch",
+          "url": "https://github.com/vinzdg/codenotch",
+          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+          "stars": 1983,
+          "forks": 301,
+          "openIssues": 32,
+          "language": "Swift",
+          "owner": {
+            "login": "vinzdg",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
+            "url": "https://github.com/vinzdg"
           },
           "topics": [],
-          "createdAt": "2026-09-01T12:30:12Z",
-          "pushedAt": "2026-09-11T07:03:32Z",
-          "updatedAt": "2026-09-18T04:01:24Z",
-          "license": "Apache-2.0",
+          "createdAt": "2026-09-05T14:55:35Z",
+          "pushedAt": "2026-09-18T10:17:34Z",
+          "updatedAt": "2026-09-18T17:24:25Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1359610661,
+          "name": "holo-card-studio",
+          "fullName": "EverettFish/holo-card-studio",
+          "url": "https://github.com/EverettFish/holo-card-studio",
+          "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+          "stars": 1661,
+          "forks": 227,
+          "openIssues": 4,
+          "language": "Python",
+          "owner": {
+            "login": "EverettFish",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/222453586?v=4",
+            "url": "https://github.com/EverettFish"
+          },
+          "topics": [],
+          "createdAt": "2026-09-07T00:41:18Z",
+          "pushedAt": "2026-09-12T04:56:38Z",
+          "updatedAt": "2026-09-18T17:08:11Z",
+          "license": "NOASSERTION",
+          "rankGain": 2
+        },
+        {
+          "id": 1361693766,
+          "name": "anything2explainer",
+          "fullName": "Vincentwei1021/anything2explainer",
+          "url": "https://github.com/Vincentwei1021/anything2explainer",
+          "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+          "stars": 1636,
+          "forks": 261,
+          "openIssues": 3,
+          "language": "TypeScript",
+          "owner": {
+            "login": "Vincentwei1021",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18239147?v=4",
+            "url": "https://github.com/Vincentwei1021"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "ai-video",
+            "claude-code",
+            "claude-code-skill",
+            "codex",
+            "edge-tts",
+            "educational-video",
+            "explainer-video",
+            "kokoro",
+            "motion-graphics",
+            "multi-agent",
+            "react",
+            "remotion",
+            "text-to-video",
+            "tts",
+            "typescript",
+            "video-generation"
+          ],
+          "createdAt": "2026-09-08T17:19:54Z",
+          "pushedAt": "2026-09-18T11:52:13Z",
+          "updatedAt": "2026-09-18T16:47:29Z",
+          "license": "NOASSERTION",
           "rankGain": 2
         }
       ],
@@ -427,9 +452,9 @@
           "fullName": "farion1231/cc-switch",
           "url": "https://github.com/farion1231/cc-switch",
           "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-          "stars": 133442,
-          "forks": 9202,
-          "openIssues": 2752,
+          "stars": 133552,
+          "forks": 9214,
+          "openIssues": 2765,
           "language": "Rust",
           "owner": {
             "login": "farion1231",
@@ -460,7 +485,7 @@
           ],
           "createdAt": "2025-08-04T14:16:16Z",
           "pushedAt": "2026-09-17T18:35:01Z",
-          "updatedAt": "2026-09-18T04:49:40Z",
+          "updatedAt": "2026-09-18T17:19:29Z",
           "license": "MIT"
         }
       ],
@@ -471,9 +496,9 @@
           "fullName": "iptv-org/iptv",
           "url": "https://github.com/iptv-org/iptv",
           "description": "Collection of publicly available IPTV channels from all over the world",
-          "stars": 138890,
-          "forks": 8083,
-          "openIssues": 30,
+          "stars": 138949,
+          "forks": 8088,
+          "openIssues": 41,
           "language": "TypeScript",
           "owner": {
             "login": "iptv-org",
@@ -488,9 +513,66 @@
             "tv"
           ],
           "createdAt": "2018-11-14T22:00:57Z",
-          "pushedAt": "2026-09-18T00:17:45Z",
-          "updatedAt": "2026-09-18T04:35:11Z",
+          "pushedAt": "2026-09-18T16:37:51Z",
+          "updatedAt": "2026-09-18T17:36:13Z",
           "license": "Unlicense",
+          "rankGain": 2
+        },
+        {
+          "id": 793375104,
+          "name": "awesome-llm-apps",
+          "fullName": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "stars": 138819,
+          "forks": 20418,
+          "openIssues": 19,
+          "language": "Python",
+          "owner": {
+            "login": "Shubhamsaboo",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4",
+            "url": "https://github.com/Shubhamsaboo"
+          },
+          "topics": [
+            "agents",
+            "llms",
+            "python",
+            "rag"
+          ],
+          "createdAt": "2024-04-29T05:30:25Z",
+          "pushedAt": "2026-09-16T04:08:39Z",
+          "updatedAt": "2026-09-18T17:26:27Z",
+          "license": "Apache-2.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1042367133,
+          "name": "spec-kit",
+          "fullName": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+          "stars": 137773,
+          "forks": 12344,
+          "openIssues": 309,
+          "language": "Python",
+          "owner": {
+            "login": "github",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
+            "url": "https://github.com/github"
+          },
+          "topics": [
+            "ai",
+            "copilot",
+            "development",
+            "engineering",
+            "prd",
+            "spec",
+            "spec-driven"
+          ],
+          "createdAt": "2025-08-21T22:54:31Z",
+          "pushedAt": "2026-09-18T17:16:36Z",
+          "updatedAt": "2026-09-18T17:33:24Z",
+          "license": "MIT",
           "rankGain": 2
         },
         {
@@ -499,8 +581,8 @@
           "fullName": "twbs/bootstrap",
           "url": "https://github.com/twbs/bootstrap",
           "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-          "stars": 174842,
-          "forks": 78588,
+          "stars": 174844,
+          "forks": 78583,
           "openIssues": 237,
           "language": "MDX",
           "owner": {
@@ -519,7 +601,7 @@
           ],
           "createdAt": "2011-07-29T21:19:00Z",
           "pushedAt": "2026-09-15T11:10:39Z",
-          "updatedAt": "2026-09-18T04:37:27Z",
+          "updatedAt": "2026-09-18T16:53:04Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -529,9 +611,9 @@
           "fullName": "huggingface/transformers",
           "url": "https://github.com/huggingface/transformers",
           "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-          "stars": 166262,
-          "forks": 34618,
-          "openIssues": 2416,
+          "stars": 166292,
+          "forks": 34623,
+          "openIssues": 2403,
           "language": "Python",
           "owner": {
             "login": "huggingface",
@@ -560,8 +642,8 @@
             "vlm"
           ],
           "createdAt": "2018-10-29T13:56:00Z",
-          "pushedAt": "2026-09-18T04:40:52Z",
-          "updatedAt": "2026-09-18T04:45:27Z",
+          "pushedAt": "2026-09-18T17:25:51Z",
+          "updatedAt": "2026-09-18T16:46:46Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -571,9 +653,9 @@
           "fullName": "langgenius/dify",
           "url": "https://github.com/langgenius/dify",
           "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "stars": 156215,
-          "forks": 24668,
-          "openIssues": 1097,
+          "stars": 156314,
+          "forks": 24678,
+          "openIssues": 1104,
           "language": "TypeScript",
           "owner": {
             "login": "langgenius",
@@ -602,8 +684,8 @@
             "workflow"
           ],
           "createdAt": "2023-04-12T07:40:24Z",
-          "pushedAt": "2026-09-18T04:48:34Z",
-          "updatedAt": "2026-09-18T04:39:44Z",
+          "pushedAt": "2026-09-18T16:05:02Z",
+          "updatedAt": "2026-09-18T17:37:18Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -613,9 +695,9 @@
           "fullName": "langflow-ai/langflow",
           "url": "https://github.com/langflow-ai/langflow",
           "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-          "stars": 154960,
-          "forks": 10109,
-          "openIssues": 1086,
+          "stars": 154972,
+          "forks": 10113,
+          "openIssues": 1087,
           "language": "Python",
           "owner": {
             "login": "langflow-ai",
@@ -631,8 +713,8 @@
             "react-flow"
           ],
           "createdAt": "2023-02-08T22:28:03Z",
-          "pushedAt": "2026-09-18T02:17:58Z",
-          "updatedAt": "2026-09-18T04:47:37Z",
+          "pushedAt": "2026-09-18T17:25:39Z",
+          "updatedAt": "2026-09-18T17:04:29Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -642,9 +724,9 @@
           "fullName": "msitarzewski/agency-agents",
           "url": "https://github.com/msitarzewski/agency-agents",
           "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "stars": 153209,
-          "forks": 24715,
-          "openIssues": 149,
+          "stars": 153341,
+          "forks": 24729,
+          "openIssues": 150,
           "language": "Shell",
           "owner": {
             "login": "msitarzewski",
@@ -654,7 +736,7 @@
           "topics": [],
           "createdAt": "2025-10-13T12:12:29Z",
           "pushedAt": "2026-09-12T16:57:21Z",
-          "updatedAt": "2026-09-18T04:55:07Z",
+          "updatedAt": "2026-09-18T17:37:08Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -664,9 +746,9 @@
           "fullName": "open-webui/open-webui",
           "url": "https://github.com/open-webui/open-webui",
           "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 152427,
-          "forks": 22301,
-          "openIssues": 301,
+          "stars": 152471,
+          "forks": 22314,
+          "openIssues": 305,
           "language": "Python",
           "owner": {
             "login": "open-webui",
@@ -691,8 +773,8 @@
             "webui"
           ],
           "createdAt": "2023-10-06T22:08:27Z",
-          "pushedAt": "2026-09-18T00:11:06Z",
-          "updatedAt": "2026-09-18T04:54:49Z",
+          "pushedAt": "2026-09-18T15:50:00Z",
+          "updatedAt": "2026-09-18T17:34:30Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -702,9 +784,9 @@
           "fullName": "Genymobile/scrcpy",
           "url": "https://github.com/Genymobile/scrcpy",
           "description": "Display and control your Android device",
-          "stars": 149874,
-          "forks": 13765,
-          "openIssues": 2901,
+          "stars": 149917,
+          "forks": 13766,
+          "openIssues": 2902,
           "language": "C",
           "owner": {
             "login": "Genymobile",
@@ -723,73 +805,8 @@
           ],
           "createdAt": "2017-11-21T18:00:27Z",
           "pushedAt": "2026-09-16T21:10:36Z",
-          "updatedAt": "2026-09-18T04:54:36Z",
+          "updatedAt": "2026-09-18T16:18:57Z",
           "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 552661142,
-          "name": "langchain",
-          "fullName": "langchain-ai/langchain",
-          "url": "https://github.com/langchain-ai/langchain",
-          "description": "The agent engineering platform.",
-          "stars": 146563,
-          "forks": 24508,
-          "openIssues": 539,
-          "language": "Python",
-          "owner": {
-            "login": "langchain-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
-            "url": "https://github.com/langchain-ai"
-          },
-          "topics": [
-            "agents",
-            "ai",
-            "ai-agents",
-            "anthropic",
-            "chatgpt",
-            "deepagents",
-            "enterprise",
-            "framework",
-            "gemini",
-            "generative-ai",
-            "langchain",
-            "langgraph",
-            "llm",
-            "multiagent",
-            "open-source",
-            "openai",
-            "pydantic",
-            "python",
-            "rag",
-            "typescript"
-          ],
-          "createdAt": "2022-10-17T02:58:36Z",
-          "pushedAt": "2026-09-18T03:21:09Z",
-          "updatedAt": "2026-09-18T04:48:22Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 937253475,
-          "name": "claude-code",
-          "fullName": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 145938,
-          "forks": 23650,
-          "openIssues": 12487,
-          "language": "TypeScript",
-          "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
-          },
-          "topics": [],
-          "createdAt": "2025-02-22T17:41:21Z",
-          "pushedAt": "2026-09-18T02:12:25Z",
-          "updatedAt": "2026-09-18T04:49:18Z",
-          "license": null,
           "rankGain": 1
         }
       ],
@@ -826,9 +843,76 @@
       "dropped": []
     },
     "secTraffic": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 1016852234,
+          "name": "InstagramPrivSniffer",
+          "fullName": "obitouka/InstagramPrivSniffer",
+          "url": "https://github.com/obitouka/InstagramPrivSniffer",
+          "description": " First ever tool to view \"Instagram private posts\" anonymously ",
+          "stars": 1012,
+          "forks": 156,
+          "openIssues": 5,
+          "language": "Python",
+          "owner": {
+            "login": "obitouka",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/151845173?v=4",
+            "url": "https://github.com/obitouka"
+          },
+          "topics": [
+            "awesome",
+            "awesome-cli",
+            "awesome-hacking",
+            "awesome-osint",
+            "awesome-python",
+            "awesome-tool",
+            "cli",
+            "cli-tool",
+            "hacking",
+            "hacking-tool",
+            "instagram-privsniffer",
+            "instagram-tool",
+            "open-source",
+            "osint",
+            "osint-tool",
+            "privsniffer",
+            "python",
+            "scraper"
+          ],
+          "createdAt": "2025-07-09T16:14:02Z",
+          "pushedAt": "2026-09-18T16:05:42Z",
+          "updatedAt": "2026-09-18T16:29:14Z",
+          "license": "MIT"
+        }
+      ],
       "risers": [],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 14324504,
+          "name": "ChromeSnifferPlus",
+          "fullName": "justjavac/ChromeSnifferPlus",
+          "url": "https://github.com/justjavac/ChromeSnifferPlus",
+          "description": ":mag: Sniff web framework and javascript libraries run on browsing website.",
+          "stars": 847,
+          "forks": 149,
+          "openIssues": 0,
+          "language": "JavaScript",
+          "owner": {
+            "login": "justjavac",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/359395?v=4",
+            "url": "https://github.com/justjavac"
+          },
+          "topics": [
+            "chrome-extension",
+            "javascript",
+            "javascript-library"
+          ],
+          "createdAt": "2013-11-12T06:32:31Z",
+          "pushedAt": "2026-09-01T11:05:38Z",
+          "updatedAt": "2026-09-06T22:57:53Z",
+          "license": "GPL-3.0"
+        }
+      ]
     },
     "secAiCyber": {
       "newcomers": [],
@@ -863,9 +947,9 @@
     },
     "secTraffic": {
       "total": 40,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 0,
-      "dropped": 0
+      "dropped": 1
     },
     "secAiCyber": {
       "total": 19,
