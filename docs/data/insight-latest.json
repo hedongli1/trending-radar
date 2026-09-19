@@ -1,14 +1,74 @@
 {
-  "generatedAt": "2026-09-19T04:49:21.165Z",
+  "generatedAt": "2026-09-19T17:14:31.986Z",
   "date": "2026-09-19",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 808144141,
+          "name": "FreeDomain",
+          "fullName": "DigitalPlatDev/FreeDomain",
+          "url": "https://github.com/DigitalPlatDev/FreeDomain",
+          "description": "Free domain registration and practical DNS learning resources for everyone.",
+          "stars": 200213,
+          "forks": 4389,
+          "openIssues": 38,
+          "language": "Markdown",
+          "owner": {
+            "login": "DigitalPlatDev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/126394654?v=4",
+            "url": "https://github.com/DigitalPlatDev"
+          },
+          "topics": [
+            "digitalplat",
+            "dns",
+            "dns-tutorial",
+            "documentation",
+            "domain",
+            "domain-platform",
+            "domain-registration",
+            "domainname",
+            "domains",
+            "education",
+            "free",
+            "free-domain",
+            "freedomain",
+            "internet-infrastructure",
+            "nameserver"
+          ],
+          "createdAt": "2024-05-30T13:23:00Z",
+          "pushedAt": "2026-08-12T10:36:46Z",
+          "updatedAt": "2026-09-19T17:11:17Z",
+          "license": "AGPL-3.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
       "newcomers": [
+        {
+          "id": 1373614120,
+          "name": "Compositor",
+          "fullName": "robbietilton/Compositor",
+          "url": "https://github.com/robbietilton/Compositor",
+          "description": "The Photoshop alternative for Mac",
+          "stars": 1978,
+          "forks": 213,
+          "openIssues": 24,
+          "language": "Swift",
+          "owner": {
+            "login": "robbietilton",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1269226?v=4",
+            "url": "https://github.com/robbietilton"
+          },
+          "topics": [],
+          "createdAt": "2026-09-16T20:35:54Z",
+          "pushedAt": "2026-09-18T13:45:46Z",
+          "updatedAt": "2026-09-19T17:14:20Z",
+          "license": "MIT"
+        },
         {
           "id": 1350404213,
           "name": "Microsoft-Activation-Script",
@@ -49,9 +109,9 @@
           "fullName": "danielblnc/DLSS-NR-on-AMD",
           "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
           "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-          "stars": 1469,
+          "stars": 1498,
           "forks": 60,
-          "openIssues": 145,
+          "openIssues": 144,
           "language": "Other",
           "owner": {
             "login": "danielblnc",
@@ -61,7 +121,7 @@
           "topics": [],
           "createdAt": "2026-09-03T00:42:03Z",
           "pushedAt": "2026-09-15T21:31:25Z",
-          "updatedAt": "2026-09-19T03:56:20Z",
+          "updatedAt": "2026-09-19T17:11:10Z",
           "license": "NOASSERTION"
         }
       ],
@@ -72,8 +132,8 @@
           "fullName": "TheoLeeCJ/SemIf",
           "url": "https://github.com/TheoLeeCJ/SemIf",
           "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-          "stars": 1644,
-          "forks": 108,
+          "stars": 1817,
+          "forks": 117,
           "openIssues": 5,
           "language": "Python",
           "owner": {
@@ -84,9 +144,9 @@
           "topics": [],
           "createdAt": "2026-09-16T03:51:21Z",
           "pushedAt": "2026-09-19T04:46:36Z",
-          "updatedAt": "2026-09-19T04:46:40Z",
+          "updatedAt": "2026-09-19T17:13:13Z",
           "license": "MIT",
-          "rankGain": 5
+          "rankGain": 8
         },
         {
           "id": 1374005005,
@@ -94,9 +154,9 @@
           "fullName": "tamaratran/fast-jev-compaction",
           "url": "https://github.com/tamaratran/fast-jev-compaction",
           "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-          "stars": 3465,
-          "forks": 179,
-          "openIssues": 45,
+          "stars": 4001,
+          "forks": 210,
+          "openIssues": 47,
           "language": "TypeScript",
           "owner": {
             "login": "tamaratran",
@@ -106,9 +166,9 @@
           "topics": [],
           "createdAt": "2026-09-17T05:57:20Z",
           "pushedAt": "2026-09-18T04:45:31Z",
-          "updatedAt": "2026-09-19T04:48:26Z",
+          "updatedAt": "2026-09-19T17:14:24Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 7
         },
         {
           "id": 1373655162,
@@ -116,9 +176,9 @@
           "fullName": "browser-use/jev-ultrafast",
           "url": "https://github.com/browser-use/jev-ultrafast",
           "description": "i. am. speed.",
-          "stars": 5904,
-          "forks": 377,
-          "openIssues": 35,
+          "stars": 7640,
+          "forks": 484,
+          "openIssues": 49,
           "language": "Python",
           "owner": {
             "login": "browser-use",
@@ -128,9 +188,97 @@
           "topics": [],
           "createdAt": "2026-09-16T21:30:12Z",
           "pushedAt": "2026-09-18T16:28:35Z",
-          "updatedAt": "2026-09-19T04:48:44Z",
+          "updatedAt": "2026-09-19T17:14:20Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 6
+        },
+        {
+          "id": 1356772546,
+          "name": "vista",
+          "fullName": "Mantitup-Org/vista",
+          "url": "https://github.com/Mantitup-Org/vista",
+          "description": "暂无描述",
+          "stars": 2052,
+          "forks": 24,
+          "openIssues": 12,
+          "language": "TypeScript",
+          "owner": {
+            "login": "Mantitup-Org",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/277736651?v=4",
+            "url": "https://github.com/Mantitup-Org"
+          },
+          "topics": [],
+          "createdAt": "2026-09-04T06:20:19Z",
+          "pushedAt": "2026-09-18T07:24:24Z",
+          "updatedAt": "2026-09-19T17:09:55Z",
+          "license": "NOASSERTION",
+          "rankGain": 2
+        },
+        {
+          "id": 1358588929,
+          "name": "handraw-style",
+          "fullName": "yang0/handraw-style",
+          "url": "https://github.com/yang0/handraw-style",
+          "description": "手绘风格编号画廊与双语提示词 Skill",
+          "stars": 2486,
+          "forks": 313,
+          "openIssues": 5,
+          "language": "HTML",
+          "owner": {
+            "login": "yang0",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3478629?v=4",
+            "url": "https://github.com/yang0"
+          },
+          "topics": [],
+          "createdAt": "2026-09-05T21:57:22Z",
+          "pushedAt": "2026-09-18T23:14:16Z",
+          "updatedAt": "2026-09-19T17:12:48Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1358295353,
+          "name": "codenotch",
+          "fullName": "vinzdg/codenotch",
+          "url": "https://github.com/vinzdg/codenotch",
+          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+          "stars": 2061,
+          "forks": 319,
+          "openIssues": 31,
+          "language": "Swift",
+          "owner": {
+            "login": "vinzdg",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
+            "url": "https://github.com/vinzdg"
+          },
+          "topics": [],
+          "createdAt": "2026-09-05T14:55:35Z",
+          "pushedAt": "2026-09-19T10:26:40Z",
+          "updatedAt": "2026-09-19T17:10:09Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1354267344,
+          "name": "sonicloud_opensdk",
+          "fullName": "SonicloudTech/sonicloud_opensdk",
+          "url": "https://github.com/SonicloudTech/sonicloud_opensdk",
+          "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
+          "stars": 1982,
+          "forks": 57,
+          "openIssues": 0,
+          "language": "HTML",
+          "owner": {
+            "login": "SonicloudTech",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/329081477?v=4",
+            "url": "https://github.com/SonicloudTech"
+          },
+          "topics": [],
+          "createdAt": "2026-09-02T03:32:02Z",
+          "pushedAt": "2026-09-18T07:59:00Z",
+          "updatedAt": "2026-09-19T10:21:24Z",
+          "license": "MIT",
+          "rankGain": 1
         },
         {
           "id": 1342737409,
@@ -138,7 +286,7 @@
           "fullName": "FireRedTeam/FireRedAudio",
           "url": "https://github.com/FireRedTeam/FireRedAudio",
           "description": "暂无描述",
-          "stars": 1782,
+          "stars": 1848,
           "forks": 17,
           "openIssues": 7,
           "language": "Python",
@@ -150,118 +298,8 @@
           "topics": [],
           "createdAt": "2026-08-22T11:18:12Z",
           "pushedAt": "2026-09-08T03:50:39Z",
-          "updatedAt": "2026-09-19T04:42:50Z",
+          "updatedAt": "2026-09-19T16:53:29Z",
           "license": "Apache-2.0",
-          "rankGain": 2
-        },
-        {
-          "id": 1348577064,
-          "name": "PRAXIST",
-          "fullName": "sapientinc/PRAXIST",
-          "url": "https://github.com/sapientinc/PRAXIST",
-          "description": "Autonomous research system for measurable, computer-executable research.",
-          "stars": 6132,
-          "forks": 673,
-          "openIssues": 6,
-          "language": "Python",
-          "owner": {
-            "login": "sapientinc",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/188930505?v=4",
-            "url": "https://github.com/sapientinc"
-          },
-          "topics": [],
-          "createdAt": "2026-08-27T14:20:58Z",
-          "pushedAt": "2026-09-18T07:48:40Z",
-          "updatedAt": "2026-09-19T04:22:06Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
-        },
-        {
-          "id": 1358295353,
-          "name": "codenotch",
-          "fullName": "vinzdg/codenotch",
-          "url": "https://github.com/vinzdg/codenotch",
-          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-          "stars": 2022,
-          "forks": 308,
-          "openIssues": 24,
-          "language": "Swift",
-          "owner": {
-            "login": "vinzdg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
-            "url": "https://github.com/vinzdg"
-          },
-          "topics": [],
-          "createdAt": "2026-09-05T14:55:35Z",
-          "pushedAt": "2026-09-19T03:21:54Z",
-          "updatedAt": "2026-09-19T04:26:51Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1356772546,
-          "name": "vista",
-          "fullName": "Mantitup-Org/vista",
-          "url": "https://github.com/Mantitup-Org/vista",
-          "description": "暂无描述",
-          "stars": 1984,
-          "forks": 23,
-          "openIssues": 11,
-          "language": "TypeScript",
-          "owner": {
-            "login": "Mantitup-Org",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/277736651?v=4",
-            "url": "https://github.com/Mantitup-Org"
-          },
-          "topics": [],
-          "createdAt": "2026-09-04T06:20:19Z",
-          "pushedAt": "2026-09-18T07:24:24Z",
-          "updatedAt": "2026-09-19T04:41:50Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
-        },
-        {
-          "id": 1342432270,
-          "name": "anti-mage",
-          "fullName": "N4darae/anti-mage",
-          "url": "https://github.com/N4darae/anti-mage",
-          "description": "For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis.",
-          "stars": 1700,
-          "forks": 89,
-          "openIssues": 3,
-          "language": "Go",
-          "owner": {
-            "login": "N4darae",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/50111777?v=4",
-            "url": "https://github.com/N4darae"
-          },
-          "topics": [],
-          "createdAt": "2026-08-22T04:11:00Z",
-          "pushedAt": "2026-09-09T16:24:35Z",
-          "updatedAt": "2026-09-18T22:47:33Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1359610661,
-          "name": "holo-card-studio",
-          "fullName": "EverettFish/holo-card-studio",
-          "url": "https://github.com/EverettFish/holo-card-studio",
-          "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-          "stars": 1668,
-          "forks": 227,
-          "openIssues": 4,
-          "language": "Python",
-          "owner": {
-            "login": "EverettFish",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/222453586?v=4",
-            "url": "https://github.com/EverettFish"
-          },
-          "topics": [],
-          "createdAt": "2026-09-07T00:41:18Z",
-          "pushedAt": "2026-09-12T04:56:38Z",
-          "updatedAt": "2026-09-19T04:43:52Z",
-          "license": "NOASSERTION",
           "rankGain": 1
         },
         {
@@ -270,9 +308,9 @@
           "fullName": "Vincentwei1021/anything2explainer",
           "url": "https://github.com/Vincentwei1021/anything2explainer",
           "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-          "stars": 1650,
-          "forks": 263,
-          "openIssues": 3,
+          "stars": 1744,
+          "forks": 267,
+          "openIssues": 4,
           "language": "TypeScript",
           "owner": {
             "login": "Vincentwei1021",
@@ -301,7 +339,7 @@
           ],
           "createdAt": "2026-09-08T17:19:54Z",
           "pushedAt": "2026-09-18T11:52:13Z",
-          "updatedAt": "2026-09-19T04:39:39Z",
+          "updatedAt": "2026-09-19T17:08:41Z",
           "license": "NOASSERTION",
           "rankGain": 1
         }
@@ -361,253 +399,78 @@
           "pushedAt": "2026-09-18T06:32:35Z",
           "updatedAt": "2026-09-18T15:14:44Z",
           "license": "NOASSERTION"
+        },
+        {
+          "id": 1358346534,
+          "name": "codex-astra-luna-orchestrator",
+          "fullName": "donvito/codex-astra-luna-orchestrator",
+          "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+          "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+          "stars": 1484,
+          "forks": 119,
+          "openIssues": 5,
+          "language": "Python",
+          "owner": {
+            "login": "donvito",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/890270?v=4",
+            "url": "https://github.com/donvito"
+          },
+          "topics": [],
+          "createdAt": "2026-09-05T16:03:06Z",
+          "pushedAt": "2026-09-17T14:43:26Z",
+          "updatedAt": "2026-09-18T16:44:06Z",
+          "license": "Apache-2.0"
         }
       ]
     },
     "activeWeek": {
       "newcomers": [
         {
-          "id": 231283452,
-          "name": "excalidraw",
-          "fullName": "excalidraw/excalidraw",
-          "url": "https://github.com/excalidraw/excalidraw",
-          "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-          "stars": 132370,
-          "forks": 15351,
-          "openIssues": 3483,
-          "language": "TypeScript",
+          "id": 132464395,
+          "name": "JavaGuide",
+          "fullName": "Snailclimb/JavaGuide",
+          "url": "https://github.com/Snailclimb/JavaGuide",
+          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+          "stars": 158689,
+          "forks": 46134,
+          "openIssues": 21,
+          "language": "JavaScript",
           "owner": {
-            "login": "excalidraw",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/59452120?v=4",
-            "url": "https://github.com/excalidraw"
+            "login": "Snailclimb",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/29880145?v=4",
+            "url": "https://github.com/Snailclimb"
           },
           "topics": [
-            "canvas",
-            "collaboration",
-            "diagrams",
-            "drawing",
-            "hacktoberfest",
-            "productivity",
-            "whiteboard"
+            "agent",
+            "ai",
+            "context-engineering",
+            "deepseek",
+            "interview",
+            "java",
+            "mcp",
+            "mysql",
+            "redis",
+            "redisson",
+            "skills",
+            "springai",
+            "system-design"
           ],
-          "createdAt": "2020-01-02T01:04:43Z",
-          "pushedAt": "2026-09-18T21:55:49Z",
-          "updatedAt": "2026-09-19T04:39:12Z",
-          "license": "MIT"
+          "createdAt": "2018-05-07T13:27:00Z",
+          "pushedAt": "2026-09-19T06:29:38Z",
+          "updatedAt": "2026-09-19T17:12:08Z",
+          "license": "Apache-2.0"
         }
       ],
       "risers": [
-        {
-          "id": 701547123,
-          "name": "open-webui",
-          "fullName": "open-webui/open-webui",
-          "url": "https://github.com/open-webui/open-webui",
-          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 152511,
-          "forks": 22315,
-          "openIssues": 311,
-          "language": "Python",
-          "owner": {
-            "login": "open-webui",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
-            "url": "https://github.com/open-webui"
-          },
-          "topics": [
-            "ai",
-            "llm",
-            "llm-ui",
-            "llm-webui",
-            "llms",
-            "mcp",
-            "ollama",
-            "ollama-webui",
-            "open-webui",
-            "openai",
-            "openapi",
-            "rag",
-            "self-hosted",
-            "ui",
-            "webui"
-          ],
-          "createdAt": "2023-10-06T22:08:27Z",
-          "pushedAt": "2026-09-19T03:54:10Z",
-          "updatedAt": "2026-09-19T04:36:50Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
-        },
-        {
-          "id": 111583593,
-          "name": "scrcpy",
-          "fullName": "Genymobile/scrcpy",
-          "url": "https://github.com/Genymobile/scrcpy",
-          "description": "Display and control your Android device",
-          "stars": 149963,
-          "forks": 13768,
-          "openIssues": 2904,
-          "language": "C",
-          "owner": {
-            "login": "Genymobile",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/3427627?v=4",
-            "url": "https://github.com/Genymobile"
-          },
-          "topics": [
-            "android",
-            "c",
-            "ffmpeg",
-            "libav",
-            "mirroring",
-            "recording",
-            "screen",
-            "sdl2"
-          ],
-          "createdAt": "2017-11-21T18:00:27Z",
-          "pushedAt": "2026-09-18T20:54:51Z",
-          "updatedAt": "2026-09-19T04:39:25Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 552661142,
-          "name": "langchain",
-          "fullName": "langchain-ai/langchain",
-          "url": "https://github.com/langchain-ai/langchain",
-          "description": "The agent engineering platform.",
-          "stars": 146627,
-          "forks": 24518,
-          "openIssues": 532,
-          "language": "Python",
-          "owner": {
-            "login": "langchain-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
-            "url": "https://github.com/langchain-ai"
-          },
-          "topics": [
-            "agents",
-            "ai",
-            "ai-agents",
-            "anthropic",
-            "chatgpt",
-            "deepagents",
-            "enterprise",
-            "framework",
-            "gemini",
-            "generative-ai",
-            "langchain",
-            "langgraph",
-            "llm",
-            "multiagent",
-            "open-source",
-            "openai",
-            "pydantic",
-            "python",
-            "rag",
-            "typescript"
-          ],
-          "createdAt": "2022-10-17T02:58:36Z",
-          "pushedAt": "2026-09-19T04:26:14Z",
-          "updatedAt": "2026-09-19T04:24:58Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 937253475,
-          "name": "claude-code",
-          "fullName": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 146377,
-          "forks": 23816,
-          "openIssues": 12449,
-          "language": "TypeScript",
-          "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
-          },
-          "topics": [],
-          "createdAt": "2025-02-22T17:41:21Z",
-          "pushedAt": "2026-09-19T03:10:40Z",
-          "updatedAt": "2026-09-19T04:46:54Z",
-          "license": null,
-          "rankGain": 1
-        },
-        {
-          "id": 721767116,
-          "name": "clash-verge-rev",
-          "fullName": "clash-verge-rev/clash-verge-rev",
-          "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-          "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-          "stars": 145353,
-          "forks": 10461,
-          "openIssues": 435,
-          "language": "Rust",
-          "owner": {
-            "login": "clash-verge-rev",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
-            "url": "https://github.com/clash-verge-rev"
-          },
-          "topics": [
-            "clash",
-            "clash-meta",
-            "clash-verge",
-            "linux",
-            "mac",
-            "mihomo",
-            "tauri-app",
-            "windows"
-          ],
-          "createdAt": "2023-11-21T18:24:03Z",
-          "pushedAt": "2026-09-18T13:27:41Z",
-          "updatedAt": "2026-09-19T04:41:41Z",
-          "license": "GPL-3.0",
-          "rankGain": 1
-        },
-        {
-          "id": 70107786,
-          "name": "next.js",
-          "fullName": "vercel/next.js",
-          "url": "https://github.com/vercel/next.js",
-          "description": "The React Framework",
-          "stars": 142343,
-          "forks": 32395,
-          "openIssues": 3446,
-          "language": "JavaScript",
-          "owner": {
-            "login": "vercel",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
-            "url": "https://github.com/vercel"
-          },
-          "topics": [
-            "blog",
-            "browser",
-            "compiler",
-            "components",
-            "hybrid",
-            "nextjs",
-            "node",
-            "react",
-            "server-rendering",
-            "ssg",
-            "static",
-            "static-site-generator",
-            "universal",
-            "vercel"
-          ],
-          "createdAt": "2016-10-05T23:32:51Z",
-          "pushedAt": "2026-09-19T04:11:34Z",
-          "updatedAt": "2026-09-19T01:22:22Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
         {
           "id": 1266797999,
           "name": "ponytail",
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 142111,
-          "forks": 7617,
-          "openIssues": 276,
+          "stars": 142417,
+          "forks": 7638,
+          "openIssues": 281,
           "language": "JavaScript",
           "owner": {
             "login": "DietrichGebert",
@@ -628,63 +491,8 @@
           ],
           "createdAt": "2026-06-12T00:52:37Z",
           "pushedAt": "2026-09-14T14:34:56Z",
-          "updatedAt": "2026-09-19T04:47:24Z",
+          "updatedAt": "2026-09-19T17:13:53Z",
           "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 157616880,
-          "name": "iptv",
-          "fullName": "iptv-org/iptv",
-          "url": "https://github.com/iptv-org/iptv",
-          "description": "Collection of publicly available IPTV channels from all over the world",
-          "stars": 138975,
-          "forks": 8091,
-          "openIssues": 66,
-          "language": "TypeScript",
-          "owner": {
-            "login": "iptv-org",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/55937028?v=4",
-            "url": "https://github.com/iptv-org"
-          },
-          "topics": [
-            "iptv",
-            "m3u",
-            "playlist",
-            "streams",
-            "tv"
-          ],
-          "createdAt": "2018-11-14T22:00:57Z",
-          "pushedAt": "2026-09-19T00:45:10Z",
-          "updatedAt": "2026-09-19T04:05:30Z",
-          "license": "Unlicense",
-          "rankGain": 1
-        },
-        {
-          "id": 23096959,
-          "name": "go",
-          "fullName": "golang/go",
-          "url": "https://github.com/golang/go",
-          "description": "The Go programming language",
-          "stars": 138882,
-          "forks": 19867,
-          "openIssues": 10153,
-          "language": "Go",
-          "owner": {
-            "login": "golang",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4",
-            "url": "https://github.com/golang"
-          },
-          "topics": [
-            "go",
-            "golang",
-            "language",
-            "programming-language"
-          ],
-          "createdAt": "2014-08-19T04:33:40Z",
-          "pushedAt": "2026-09-18T23:35:26Z",
-          "updatedAt": "2026-09-19T03:41:09Z",
-          "license": "BSD-3-Clause",
           "rankGain": 1
         },
         {
@@ -693,9 +501,9 @@
           "fullName": "Shubhamsaboo/awesome-llm-apps",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
           "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-          "stars": 138866,
-          "forks": 20426,
-          "openIssues": 20,
+          "stars": 138944,
+          "forks": 20438,
+          "openIssues": 15,
           "language": "Python",
           "owner": {
             "login": "Shubhamsaboo",
@@ -709,8 +517,8 @@
             "rag"
           ],
           "createdAt": "2024-04-29T05:30:25Z",
-          "pushedAt": "2026-09-16T04:08:39Z",
-          "updatedAt": "2026-09-19T04:39:31Z",
+          "pushedAt": "2026-09-19T07:54:25Z",
+          "updatedAt": "2026-09-19T17:10:58Z",
           "license": "Apache-2.0",
           "rankGain": 1
         }
@@ -748,9 +556,9 @@
           "fullName": "earendil-works/pi",
           "url": "https://github.com/earendil-works/pi",
           "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-          "stars": 107083,
-          "forks": 13519,
-          "openIssues": 222,
+          "stars": 107273,
+          "forks": 13541,
+          "openIssues": 224,
           "language": "TypeScript",
           "owner": {
             "login": "earendil-works",
@@ -759,8 +567,8 @@
           },
           "topics": [],
           "createdAt": "2025-08-09T14:03:50Z",
-          "pushedAt": "2026-09-18T22:27:35Z",
-          "updatedAt": "2026-09-19T04:48:14Z",
+          "pushedAt": "2026-09-19T15:58:41Z",
+          "updatedAt": "2026-09-19T17:06:46Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -782,19 +590,19 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 2,
-      "risers": 10,
-      "dropped": 2
+      "newcomers": 3,
+      "risers": 9,
+      "dropped": 3
     },
     "activeWeek": {
       "total": 50,
       "newcomers": 1,
-      "risers": 10,
+      "risers": 2,
       "dropped": 1
     },
     "aiEco": {
