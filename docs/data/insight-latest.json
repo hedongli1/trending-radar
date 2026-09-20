@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:06:29.809Z",
+  "generatedAt": "2026-09-20T17:26:31.445Z",
   "date": "2026-09-20",
   "categories": {
     "allTime": {
@@ -10,35 +10,14 @@
     "breakout": {
       "newcomers": [
         {
-          "id": 1371378654,
-          "name": "jianying-headless",
-          "fullName": "mcncarl/jianying-headless",
-          "url": "https://github.com/mcncarl/jianying-headless",
-          "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-          "stars": 1629,
-          "forks": 685,
-          "openIssues": 8,
-          "language": "Python",
-          "owner": {
-            "login": "mcncarl",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/204130968?v=4",
-            "url": "https://github.com/mcncarl"
-          },
-          "topics": [],
-          "createdAt": "2026-09-15T11:51:15Z",
-          "pushedAt": "2026-09-19T02:42:58Z",
-          "updatedAt": "2026-09-20T04:43:56Z",
-          "license": "NOASSERTION"
-        },
-        {
           "id": 1375382253,
           "name": "laya",
           "fullName": "NandhaKishorM/laya",
           "url": "https://github.com/NandhaKishorM/laya",
           "description": "暂无描述",
-          "stars": 1597,
-          "forks": 145,
-          "openIssues": 18,
+          "stars": 3103,
+          "forks": 283,
+          "openIssues": 24,
           "language": "Python",
           "owner": {
             "login": "NandhaKishorM",
@@ -48,8 +27,59 @@
           "topics": [],
           "createdAt": "2026-09-18T04:46:33Z",
           "pushedAt": "2026-09-20T01:33:27Z",
-          "updatedAt": "2026-09-20T05:06:03Z",
+          "updatedAt": "2026-09-20T17:26:25Z",
           "license": "Apache-2.0"
+        },
+        {
+          "id": 1349507889,
+          "name": "BrowserKitten",
+          "fullName": "Player-YN/BrowserKitten",
+          "url": "https://github.com/Player-YN/BrowserKitten",
+          "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+          "stars": 2844,
+          "forks": 10,
+          "openIssues": 0,
+          "language": "JavaScript",
+          "owner": {
+            "login": "Player-YN",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/293915860?v=4",
+            "url": "https://github.com/Player-YN"
+          },
+          "topics": [
+            "ai-agent",
+            "browser-agent",
+            "byok",
+            "chrome-extension",
+            "llm",
+            "pptx",
+            "tldraw",
+            "univer"
+          ],
+          "createdAt": "2026-08-28T10:56:56Z",
+          "pushedAt": "2026-09-18T07:18:28Z",
+          "updatedAt": "2026-09-20T11:11:33Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1371378654,
+          "name": "jianying-headless",
+          "fullName": "mcncarl/jianying-headless",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+          "stars": 1882,
+          "forks": 1076,
+          "openIssues": 8,
+          "language": "Python",
+          "owner": {
+            "login": "mcncarl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/204130968?v=4",
+            "url": "https://github.com/mcncarl"
+          },
+          "topics": [],
+          "createdAt": "2026-09-15T11:51:15Z",
+          "pushedAt": "2026-09-20T06:12:56Z",
+          "updatedAt": "2026-09-20T17:26:07Z",
+          "license": "NOASSERTION"
         }
       ],
       "risers": [
@@ -59,9 +89,9 @@
           "fullName": "robbietilton/Compositor",
           "url": "https://github.com/robbietilton/Compositor",
           "description": "The Photoshop alternative for Mac",
-          "stars": 2795,
-          "forks": 296,
-          "openIssues": 27,
+          "stars": 3442,
+          "forks": 364,
+          "openIssues": 37,
           "language": "Swift",
           "owner": {
             "login": "robbietilton",
@@ -70,10 +100,10 @@
           },
           "topics": [],
           "createdAt": "2026-09-16T20:35:54Z",
-          "pushedAt": "2026-09-18T13:45:46Z",
-          "updatedAt": "2026-09-20T05:02:57Z",
+          "pushedAt": "2026-09-20T16:38:09Z",
+          "updatedAt": "2026-09-20T17:22:10Z",
           "license": "MIT",
-          "rankGain": 17
+          "rankGain": 22
         },
         {
           "id": 1372482979,
@@ -81,9 +111,9 @@
           "fullName": "TheoLeeCJ/SemIf",
           "url": "https://github.com/TheoLeeCJ/SemIf",
           "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-          "stars": 2016,
-          "forks": 123,
-          "openIssues": 6,
+          "stars": 2312,
+          "forks": 144,
+          "openIssues": 11,
           "language": "Python",
           "owner": {
             "login": "TheoLeeCJ",
@@ -93,9 +123,9 @@
           "topics": [],
           "createdAt": "2026-09-16T03:51:21Z",
           "pushedAt": "2026-09-19T04:46:36Z",
-          "updatedAt": "2026-09-20T05:04:52Z",
+          "updatedAt": "2026-09-20T17:18:57Z",
           "license": "MIT",
-          "rankGain": 5
+          "rankGain": 11
         },
         {
           "id": 1374005005,
@@ -103,9 +133,9 @@
           "fullName": "tamaratran/fast-jev-compaction",
           "url": "https://github.com/tamaratran/fast-jev-compaction",
           "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-          "stars": 4407,
-          "forks": 243,
-          "openIssues": 50,
+          "stars": 4923,
+          "forks": 274,
+          "openIssues": 56,
           "language": "TypeScript",
           "owner": {
             "login": "tamaratran",
@@ -115,9 +145,9 @@
           "topics": [],
           "createdAt": "2026-09-17T05:57:20Z",
           "pushedAt": "2026-09-18T04:45:31Z",
-          "updatedAt": "2026-09-20T05:02:11Z",
+          "updatedAt": "2026-09-20T17:26:06Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 5
         },
         {
           "id": 1359648985,
@@ -125,8 +155,8 @@
           "fullName": "eternity4719/HowToLiveBetter",
           "url": "https://github.com/eternity4719/HowToLiveBetter",
           "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-          "stars": 6128,
-          "forks": 464,
+          "stars": 8151,
+          "forks": 569,
           "openIssues": 5,
           "language": "HTML",
           "owner": {
@@ -136,31 +166,62 @@
           },
           "topics": [],
           "createdAt": "2026-09-07T01:53:36Z",
-          "pushedAt": "2026-09-20T01:56:07Z",
-          "updatedAt": "2026-09-20T05:06:02Z",
+          "pushedAt": "2026-09-20T13:23:50Z",
+          "updatedAt": "2026-09-20T17:26:25Z",
           "license": "Unlicense",
-          "rankGain": 2
+          "rankGain": 4
         },
         {
-          "id": 1346970181,
-          "name": "open-higgsfield",
-          "fullName": "wide-trace/open-higgsfield",
-          "url": "https://github.com/wide-trace/open-higgsfield",
-          "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-          "stars": 3352,
-          "forks": 749,
-          "openIssues": 6,
+          "id": 1356772546,
+          "name": "vista",
+          "fullName": "Mantitup-Org/vista",
+          "url": "https://github.com/Mantitup-Org/vista",
+          "description": "暂无描述",
+          "stars": 2264,
+          "forks": 25,
+          "openIssues": 12,
           "language": "TypeScript",
           "owner": {
-            "login": "wide-trace",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/321257738?v=4",
-            "url": "https://github.com/wide-trace"
+            "login": "Mantitup-Org",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/277736651?v=4",
+            "url": "https://github.com/Mantitup-Org"
           },
           "topics": [],
-          "createdAt": "2026-08-26T06:09:58Z",
-          "pushedAt": "2026-09-17T01:53:26Z",
-          "updatedAt": "2026-09-20T05:03:10Z",
-          "license": null,
+          "createdAt": "2026-09-04T06:20:19Z",
+          "pushedAt": "2026-09-20T15:12:44Z",
+          "updatedAt": "2026-09-20T17:24:49Z",
+          "license": "NOASSERTION",
+          "rankGain": 3
+        },
+        {
+          "id": 1351879111,
+          "name": "reef",
+          "fullName": "Human-Agent-Society/reef",
+          "url": "https://github.com/Human-Agent-Society/reef",
+          "description": "Continual learning infra for self-improving agents",
+          "stars": 3771,
+          "forks": 312,
+          "openIssues": 58,
+          "language": "Python",
+          "owner": {
+            "login": "Human-Agent-Society",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/268553699?v=4",
+            "url": "https://github.com/Human-Agent-Society"
+          },
+          "topics": [
+            "agent-infrastructure",
+            "ai-agents",
+            "continual-learning",
+            "inference",
+            "llm",
+            "llm-training",
+            "reinforcement-learning",
+            "self-improving-agents"
+          ],
+          "createdAt": "2026-08-31T01:39:18Z",
+          "pushedAt": "2026-09-20T16:38:13Z",
+          "updatedAt": "2026-09-20T17:16:52Z",
+          "license": "Apache-2.0",
           "rankGain": 2
         },
         {
@@ -169,8 +230,8 @@
           "fullName": "yang0/handraw-style",
           "url": "https://github.com/yang0/handraw-style",
           "description": "手绘风格编号画廊与双语提示词 Skill",
-          "stars": 2544,
-          "forks": 318,
+          "stars": 2635,
+          "forks": 326,
           "openIssues": 5,
           "language": "HTML",
           "owner": {
@@ -181,71 +242,30 @@
           "topics": [],
           "createdAt": "2026-09-05T21:57:22Z",
           "pushedAt": "2026-09-18T23:14:16Z",
-          "updatedAt": "2026-09-20T05:02:09Z",
+          "updatedAt": "2026-09-20T16:40:25Z",
           "license": "MIT",
           "rankGain": 2
         },
         {
-          "id": 1354267344,
-          "name": "sonicloud_opensdk",
-          "fullName": "SonicloudTech/sonicloud_opensdk",
-          "url": "https://github.com/SonicloudTech/sonicloud_opensdk",
-          "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
-          "stars": 2046,
-          "forks": 57,
-          "openIssues": 0,
-          "language": "HTML",
-          "owner": {
-            "login": "SonicloudTech",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/329081477?v=4",
-            "url": "https://github.com/SonicloudTech"
-          },
-          "topics": [],
-          "createdAt": "2026-09-02T03:32:02Z",
-          "pushedAt": "2026-09-18T07:59:00Z",
-          "updatedAt": "2026-09-20T04:43:49Z",
-          "license": "MIT",
-          "rankGain": 2
-        },
-        {
-          "id": 1361693766,
-          "name": "anything2explainer",
-          "fullName": "Vincentwei1021/anything2explainer",
-          "url": "https://github.com/Vincentwei1021/anything2explainer",
-          "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-          "stars": 1774,
-          "forks": 269,
-          "openIssues": 4,
+          "id": 1354887280,
+          "name": "SoL-Pi",
+          "fullName": "NVlabs/SoL-Pi",
+          "url": "https://github.com/NVlabs/SoL-Pi",
+          "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+          "stars": 2608,
+          "forks": 203,
+          "openIssues": 63,
           "language": "TypeScript",
           "owner": {
-            "login": "Vincentwei1021",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/18239147?v=4",
-            "url": "https://github.com/Vincentwei1021"
+            "login": "NVlabs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2695301?v=4",
+            "url": "https://github.com/NVlabs"
           },
-          "topics": [
-            "agent-skills",
-            "ai-agents",
-            "ai-video",
-            "claude-code",
-            "claude-code-skill",
-            "codex",
-            "edge-tts",
-            "educational-video",
-            "explainer-video",
-            "kokoro",
-            "motion-graphics",
-            "multi-agent",
-            "react",
-            "remotion",
-            "text-to-video",
-            "tts",
-            "typescript",
-            "video-generation"
-          ],
-          "createdAt": "2026-09-08T17:19:54Z",
-          "pushedAt": "2026-09-18T11:52:13Z",
-          "updatedAt": "2026-09-20T05:05:26Z",
-          "license": "NOASSERTION",
+          "topics": [],
+          "createdAt": "2026-09-02T14:48:47Z",
+          "pushedAt": "2026-09-20T17:22:40Z",
+          "updatedAt": "2026-09-20T17:24:52Z",
+          "license": "MIT",
           "rankGain": 2
         },
         {
@@ -254,9 +274,9 @@
           "fullName": "XiaoDuoYa/codex-with-chatgpt",
           "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
           "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-          "stars": 5606,
-          "forks": 538,
-          "openIssues": 27,
+          "stars": 5688,
+          "forks": 544,
+          "openIssues": 28,
           "language": "TypeScript",
           "owner": {
             "login": "XiaoDuoYa",
@@ -273,46 +293,30 @@
           ],
           "createdAt": "2026-08-28T12:57:24Z",
           "pushedAt": "2026-09-13T03:22:46Z",
-          "updatedAt": "2026-09-20T04:40:53Z",
+          "updatedAt": "2026-09-20T17:22:20Z",
           "license": "MIT",
           "rankGain": 1
         },
         {
-          "id": 1342935078,
-          "name": "ai-infra-book",
-          "fullName": "bojieli/ai-infra-book",
-          "url": "https://github.com/bojieli/ai-infra-book",
-          "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
-          "stars": 4572,
-          "forks": 325,
-          "openIssues": 0,
-          "language": "Python",
+          "id": 1360432710,
+          "name": "dlssg_for_sm86",
+          "fullName": "sdli1995/dlssg_for_sm86",
+          "url": "https://github.com/sdli1995/dlssg_for_sm86",
+          "description": "Here is a dlssg for RTX30 Series GPU ",
+          "stars": 3626,
+          "forks": 209,
+          "openIssues": 143,
+          "language": "Other",
           "owner": {
-            "login": "bojieli",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1421793?v=4",
-            "url": "https://github.com/bojieli"
+            "login": "sdli1995",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/28560351?v=4",
+            "url": "https://github.com/sdli1995"
           },
-          "topics": [
-            "accelerator",
-            "ai-infra",
-            "ai-infrastructure",
-            "book",
-            "datacenter-network",
-            "deepseek",
-            "distributed-systems",
-            "gpu",
-            "kv-cache",
-            "llm",
-            "llm-inference",
-            "llm-serving",
-            "llm-training",
-            "mixture-of-experts",
-            "performance-engineering"
-          ],
-          "createdAt": "2026-08-22T15:30:41Z",
-          "pushedAt": "2026-09-19T14:01:37Z",
-          "updatedAt": "2026-09-20T05:02:57Z",
-          "license": "Apache-2.0",
+          "topics": [],
+          "createdAt": "2026-09-07T16:16:48Z",
+          "pushedAt": "2026-09-19T20:03:40Z",
+          "updatedAt": "2026-09-20T17:02:00Z",
+          "license": null,
           "rankGain": 1
         }
       ],
@@ -345,55 +349,182 @@
           "license": "MIT"
         },
         {
-          "id": 1355366032,
-          "name": "DLSS-NR-on-AMD",
-          "fullName": "danielblnc/DLSS-NR-on-AMD",
-          "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
-          "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-          "stars": 1498,
-          "forks": 60,
-          "openIssues": 144,
-          "language": "Other",
+          "id": 1349507889,
+          "name": "PawWork_ZhuaZhua",
+          "fullName": "Player-YN/PawWork_ZhuaZhua",
+          "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+          "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+          "stars": 2844,
+          "forks": 10,
+          "openIssues": 0,
+          "language": "JavaScript",
           "owner": {
-            "login": "danielblnc",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/60046864?v=4",
-            "url": "https://github.com/danielblnc"
+            "login": "Player-YN",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/293915860?v=4",
+            "url": "https://github.com/Player-YN"
           },
-          "topics": [],
-          "createdAt": "2026-09-03T00:42:03Z",
-          "pushedAt": "2026-09-15T21:31:25Z",
-          "updatedAt": "2026-09-19T17:11:10Z",
-          "license": "NOASSERTION"
+          "topics": [
+            "ai-agent",
+            "browser-agent",
+            "byok",
+            "chrome-extension",
+            "llm",
+            "pptx",
+            "tldraw",
+            "univer"
+          ],
+          "createdAt": "2026-08-28T10:56:56Z",
+          "pushedAt": "2026-09-18T07:18:28Z",
+          "updatedAt": "2026-09-19T12:22:52Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1348084390,
+          "name": "prod-FARM-IOS-Core",
+          "fullName": "Git-Agni/prod-FARM-IOS-Core",
+          "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+          "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+          "stars": 1518,
+          "forks": 287,
+          "openIssues": 3,
+          "language": "TypeScript",
+          "owner": {
+            "login": "Git-Agni",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/187279291?v=4",
+            "url": "https://github.com/Git-Agni"
+          },
+          "topics": [
+            "appium",
+            "device-farm",
+            "ios-automation",
+            "marketing-automation",
+            "phone-farm",
+            "tiktok-automation-script",
+            "webdriveragent"
+          ],
+          "createdAt": "2026-08-27T04:55:36Z",
+          "pushedAt": "2026-09-07T10:50:41Z",
+          "updatedAt": "2026-09-19T17:10:44Z",
+          "license": "Apache-2.0"
         }
       ]
     },
     "activeWeek": {
-      "newcomers": [],
-      "risers": [
+      "newcomers": [
         {
-          "id": 937253475,
-          "name": "claude-code",
-          "fullName": "anthropics/claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 146785,
-          "forks": 23967,
-          "openIssues": 12320,
-          "language": "TypeScript",
+          "id": 58028038,
+          "name": "HelloGitHub",
+          "fullName": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "stars": 177756,
+          "forks": 12837,
+          "openIssues": 788,
+          "language": "Python",
           "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
+            "login": "521xueweihan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4",
+            "url": "https://github.com/521xueweihan"
+          },
+          "topics": [
+            "awesome",
+            "github",
+            "hellogithub",
+            "python"
+          ],
+          "createdAt": "2016-05-04T06:24:11Z",
+          "pushedAt": "2026-09-20T10:22:21Z",
+          "updatedAt": "2026-09-20T17:18:34Z",
+          "license": null
+        },
+        {
+          "id": 1075372545,
+          "name": "agency-agents",
+          "fullName": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "stars": 153707,
+          "forks": 24797,
+          "openIssues": 156,
+          "language": "Shell",
+          "owner": {
+            "login": "msitarzewski",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1972242?v=4",
+            "url": "https://github.com/msitarzewski"
           },
           "topics": [],
-          "createdAt": "2025-02-22T17:41:21Z",
-          "pushedAt": "2026-09-20T02:25:56Z",
-          "updatedAt": "2026-09-20T05:03:11Z",
-          "license": null,
-          "rankGain": 1
+          "createdAt": "2025-10-13T12:12:29Z",
+          "pushedAt": "2026-09-20T13:58:53Z",
+          "updatedAt": "2026-09-20T17:25:36Z",
+          "license": "MIT"
         }
       ],
-      "dropped": []
+      "risers": [],
+      "dropped": [
+        {
+          "id": 1179264259,
+          "name": "gstack",
+          "fullName": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "stars": 133673,
+          "forks": 19919,
+          "openIssues": 916,
+          "language": "TypeScript",
+          "owner": {
+            "login": "garrytan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
+            "url": "https://github.com/garrytan"
+          },
+          "topics": [],
+          "createdAt": "2026-03-11T21:22:45Z",
+          "pushedAt": "2026-09-18T00:38:18Z",
+          "updatedAt": "2026-09-19T17:11:19Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1031912724,
+          "name": "cc-switch",
+          "fullName": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+          "stars": 133664,
+          "forks": 9219,
+          "openIssues": 2780,
+          "language": "Rust",
+          "owner": {
+            "login": "farion1231",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
+            "url": "https://github.com/farion1231"
+          },
+          "topics": [
+            "ai-tools",
+            "claude-code",
+            "codex",
+            "desktop-app",
+            "grok",
+            "grokbuild",
+            "hermes",
+            "hermes-agent",
+            "mcp",
+            "open-source",
+            "openclaw",
+            "openclaw-ui",
+            "opencode",
+            "pi",
+            "provider-management",
+            "rust",
+            "skills",
+            "skills-management",
+            "tauri",
+            "wsl-support"
+          ],
+          "createdAt": "2025-08-04T14:16:16Z",
+          "pushedAt": "2026-09-17T18:35:01Z",
+          "updatedAt": "2026-09-19T16:54:14Z",
+          "license": "MIT"
+        }
+      ]
     },
     "aiEco": {
       "newcomers": [],
@@ -404,9 +535,9 @@
           "fullName": "anthropics/claude-code",
           "url": "https://github.com/anthropics/claude-code",
           "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-          "stars": 146785,
-          "forks": 23967,
-          "openIssues": 12320,
+          "stars": 147004,
+          "forks": 24023,
+          "openIssues": 12273,
           "language": "TypeScript",
           "owner": {
             "login": "anthropics",
@@ -415,8 +546,8 @@
           },
           "topics": [],
           "createdAt": "2025-02-22T17:41:21Z",
-          "pushedAt": "2026-09-20T02:25:56Z",
-          "updatedAt": "2026-09-20T05:03:11Z",
+          "pushedAt": "2026-09-20T16:24:05Z",
+          "updatedAt": "2026-09-20T17:24:41Z",
           "license": null,
           "rankGain": 1
         },
@@ -426,9 +557,9 @@
           "fullName": "addyosmani/agent-skills",
           "url": "https://github.com/addyosmani/agent-skills",
           "description": "Production-grade engineering skills for AI coding agents.",
-          "stars": 97162,
-          "forks": 10254,
-          "openIssues": 111,
+          "stars": 97550,
+          "forks": 10287,
+          "openIssues": 114,
           "language": "JavaScript",
           "owner": {
             "login": "addyosmani",
@@ -445,7 +576,43 @@
           ],
           "createdAt": "2026-02-15T20:20:26Z",
           "pushedAt": "2026-09-18T03:32:22Z",
-          "updatedAt": "2026-09-20T05:05:23Z",
+          "updatedAt": "2026-09-20T17:26:28Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1162099055,
+          "name": "taste-skill",
+          "fullName": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+          "stars": 88761,
+          "forks": 6042,
+          "openIssues": 70,
+          "language": "JavaScript",
+          "owner": {
+            "login": "Leonxlnx",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?v=4",
+            "url": "https://github.com/Leonxlnx"
+          },
+          "topics": [
+            "agent",
+            "ai",
+            "claude",
+            "claude-code",
+            "codex",
+            "coding",
+            "design",
+            "frontend",
+            "lowcode",
+            "nocode",
+            "skill",
+            "skills",
+            "vibecoding"
+          ],
+          "createdAt": "2026-02-19T21:44:05Z",
+          "pushedAt": "2026-09-20T16:26:24Z",
+          "updatedAt": "2026-09-20T17:16:38Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -459,7 +626,49 @@
     },
     "secAiCyber": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1237232532,
+          "name": "agentgg",
+          "fullName": "agentgg-dev/agentgg",
+          "url": "https://github.com/agentgg-dev/agentgg",
+          "description": "Open source agentic SAST. The engine behind hundreds of disclosed zero-days. 100+ AI security agents, any repo or PR diff, bring your own model.",
+          "stars": 322,
+          "forks": 45,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "agentgg-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/284173600?v=4",
+            "url": "https://github.com/agentgg-dev"
+          },
+          "topics": [
+            "ai-agents",
+            "ai-hacking",
+            "ai-penetration-testing",
+            "appsec",
+            "cli",
+            "code-quality",
+            "code-review",
+            "cybersecurity",
+            "cybersecurity-tools",
+            "ethical-hacking",
+            "llm",
+            "llm-security",
+            "sast",
+            "security",
+            "security-automation",
+            "security-tools",
+            "static-analysis",
+            "vulnerability-scanner"
+          ],
+          "createdAt": "2026-05-13T02:04:55Z",
+          "pushedAt": "2026-09-16T02:32:25Z",
+          "updatedAt": "2026-09-20T17:00:58Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     }
   },
@@ -472,20 +681,20 @@
     },
     "breakout": {
       "total": 50,
-      "newcomers": 2,
+      "newcomers": 3,
       "risers": 10,
-      "dropped": 2
+      "dropped": 3
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 0,
-      "risers": 1,
-      "dropped": 0
+      "newcomers": 2,
+      "risers": 0,
+      "dropped": 2
     },
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 2,
+      "risers": 3,
       "dropped": 0
     },
     "secTraffic": {
@@ -497,7 +706,7 @@
     "secAiCyber": {
       "total": 19,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     }
   }
