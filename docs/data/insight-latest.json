@@ -1,22 +1,145 @@
 {
-  "generatedAt": "2026-09-24T18:23:58.834Z",
-  "date": "2026-09-24",
+  "generatedAt": "2026-09-25T05:09:07.625Z",
+  "date": "2026-09-25",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 888092115,
+          "name": "markitdown",
+          "fullName": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Python tool for converting files and office documents to Markdown.",
+          "stars": 186894,
+          "forks": 13791,
+          "openIssues": 695,
+          "language": "Python",
+          "owner": {
+            "login": "microsoft",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+            "url": "https://github.com/microsoft"
+          },
+          "topics": [
+            "autogen",
+            "autogen-extension",
+            "langchain",
+            "markdown",
+            "microsoft-office",
+            "openai",
+            "pdf"
+          ],
+          "createdAt": "2024-11-13T19:56:40Z",
+          "pushedAt": "2026-09-21T21:03:34Z",
+          "updatedAt": "2026-09-25T05:04:48Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
       "newcomers": [
+        {
+          "id": 1350978527,
+          "name": "open-seo-mcp-skills",
+          "fullName": "Ryze-AI-Adgent/open-seo-mcp-skills",
+          "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+          "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
+          "stars": 1570,
+          "forks": 350,
+          "openIssues": 1,
+          "language": "Shell",
+          "owner": {
+            "login": "Ryze-AI-Adgent",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/239315082?v=4",
+            "url": "https://github.com/Ryze-AI-Adgent"
+          },
+          "topics": [
+            "ai-seo",
+            "ai-visibility",
+            "backlinks",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "dataforseo",
+            "generative-engine-optimization",
+            "geo",
+            "geo-mcp",
+            "keyword-research",
+            "llm-seo",
+            "mcp",
+            "mcp-server",
+            "open-source-seo",
+            "rank-tracking",
+            "seo",
+            "seo-audit",
+            "seo-mcp",
+            "seo-mcp-server"
+          ],
+          "createdAt": "2026-08-29T23:37:01Z",
+          "pushedAt": "2026-09-24T01:53:55Z",
+          "updatedAt": "2026-09-25T05:00:21Z",
+          "license": "MIT"
+        }
+      ],
+      "risers": [
+        {
+          "id": 1363417187,
+          "name": "printfilm",
+          "fullName": "yi1108/printfilm",
+          "url": "https://github.com/yi1108/printfilm",
+          "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
+          "stars": 2622,
+          "forks": 243,
+          "openIssues": 1,
+          "language": "Python",
+          "owner": {
+            "login": "yi1108",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/100551693?v=4",
+            "url": "https://github.com/yi1108"
+          },
+          "topics": [],
+          "createdAt": "2026-09-10T02:08:47Z",
+          "pushedAt": "2026-09-24T11:10:32Z",
+          "updatedAt": "2026-09-25T02:13:25Z",
+          "license": "MIT",
+          "rankGain": 4
+        },
+        {
+          "id": 1375069862,
+          "name": "kev",
+          "fullName": "jaredpalmer/kev",
+          "url": "https://github.com/jaredpalmer/kev",
+          "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+          "stars": 6790,
+          "forks": 393,
+          "openIssues": 39,
+          "language": "Python",
+          "owner": {
+            "login": "jaredpalmer",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4060187?v=4",
+            "url": "https://github.com/jaredpalmer"
+          },
+          "topics": [
+            "decision-model",
+            "jev",
+            "qwen3"
+          ],
+          "createdAt": "2026-09-17T20:49:39Z",
+          "pushedAt": "2026-09-25T03:45:33Z",
+          "updatedAt": "2026-09-25T04:38:45Z",
+          "license": "Apache-2.0",
+          "rankGain": 3
+        },
         {
           "id": 1356644576,
           "name": "ZDTaichu5.0-9B",
           "fullName": "Taichu-AI/ZDTaichu5.0-9B",
           "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
           "description": "暂无描述",
-          "stars": 1778,
-          "forks": 347,
+          "stars": 1919,
+          "forks": 371,
           "openIssues": 2,
           "language": "Python",
           "owner": {
@@ -27,8 +150,53 @@
           "topics": [],
           "createdAt": "2026-09-04T03:06:00Z",
           "pushedAt": "2026-09-17T06:47:25Z",
-          "updatedAt": "2026-09-24T16:30:51Z",
-          "license": "Apache-2.0"
+          "updatedAt": "2026-09-25T05:02:07Z",
+          "license": "Apache-2.0",
+          "rankGain": 3
+        },
+        {
+          "id": 1354887280,
+          "name": "SoL-Pi",
+          "fullName": "NVlabs/SoL-Pi",
+          "url": "https://github.com/NVlabs/SoL-Pi",
+          "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
+          "stars": 3049,
+          "forks": 240,
+          "openIssues": 65,
+          "language": "TypeScript",
+          "owner": {
+            "login": "NVlabs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2695301?v=4",
+            "url": "https://github.com/NVlabs"
+          },
+          "topics": [],
+          "createdAt": "2026-09-02T14:48:47Z",
+          "pushedAt": "2026-09-25T04:32:25Z",
+          "updatedAt": "2026-09-25T05:04:37Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1371757322,
+          "name": "openmuse",
+          "fullName": "CopilotKit/openmuse",
+          "url": "https://github.com/CopilotKit/openmuse",
+          "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+          "stars": 2113,
+          "forks": 233,
+          "openIssues": 37,
+          "language": "TypeScript",
+          "owner": {
+            "login": "CopilotKit",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
+            "url": "https://github.com/CopilotKit"
+          },
+          "topics": [],
+          "createdAt": "2026-09-15T16:05:44Z",
+          "pushedAt": "2026-09-24T23:52:00Z",
+          "updatedAt": "2026-09-25T05:01:51Z",
+          "license": "MIT",
+          "rankGain": 2
         },
         {
           "id": 1374561793,
@@ -36,9 +204,9 @@
           "fullName": "yibie/awesome-jev",
           "url": "https://github.com/yibie/awesome-jev",
           "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-          "stars": 1605,
-          "forks": 233,
-          "openIssues": 19,
+          "stars": 1632,
+          "forks": 235,
+          "openIssues": 12,
           "language": "Python",
           "owner": {
             "login": "yibie",
@@ -52,146 +220,9 @@
             "llm"
           ],
           "createdAt": "2026-09-17T14:23:21Z",
-          "pushedAt": "2026-09-24T16:13:31Z",
-          "updatedAt": "2026-09-24T17:52:21Z",
-          "license": null
-        }
-      ],
-      "risers": [
-        {
-          "id": 1380635125,
-          "name": "unreal-agent",
-          "fullName": "unreallabsai/unreal-agent",
-          "url": "https://github.com/unreallabsai/unreal-agent",
-          "description": "Async-first agent harness",
-          "stars": 1863,
-          "forks": 94,
-          "openIssues": 8,
-          "language": "Go",
-          "owner": {
-            "login": "unreallabsai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/181495282?v=4",
-            "url": "https://github.com/unreallabsai"
-          },
-          "topics": [],
-          "createdAt": "2026-09-21T23:14:02Z",
-          "pushedAt": "2026-09-23T19:08:26Z",
-          "updatedAt": "2026-09-24T18:08:16Z",
-          "license": "MIT",
-          "rankGain": 6
-        },
-        {
-          "id": 1371757322,
-          "name": "openmuse",
-          "fullName": "CopilotKit/openmuse",
-          "url": "https://github.com/CopilotKit/openmuse",
-          "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
-          "stars": 2044,
-          "forks": 228,
-          "openIssues": 27,
-          "language": "TypeScript",
-          "owner": {
-            "login": "CopilotKit",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
-            "url": "https://github.com/CopilotKit"
-          },
-          "topics": [],
-          "createdAt": "2026-09-15T16:05:44Z",
-          "pushedAt": "2026-09-24T17:29:12Z",
-          "updatedAt": "2026-09-24T18:19:33Z",
-          "license": "MIT",
-          "rankGain": 5
-        },
-        {
-          "id": 1373687654,
-          "name": "AirCard",
-          "fullName": "Mak5er/AirCard",
-          "url": "https://github.com/Mak5er/AirCard",
-          "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-          "stars": 3894,
-          "forks": 170,
-          "openIssues": 32,
-          "language": "Swift",
-          "owner": {
-            "login": "Mak5er",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/98599732?v=4",
-            "url": "https://github.com/Mak5er"
-          },
-          "topics": [],
-          "createdAt": "2026-09-16T22:20:15Z",
-          "pushedAt": "2026-09-22T21:44:37Z",
-          "updatedAt": "2026-09-24T18:00:17Z",
-          "license": "MIT",
-          "rankGain": 4
-        },
-        {
-          "id": 1375069862,
-          "name": "kev",
-          "fullName": "jaredpalmer/kev",
-          "url": "https://github.com/jaredpalmer/kev",
-          "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-          "stars": 6677,
-          "forks": 380,
-          "openIssues": 36,
-          "language": "Python",
-          "owner": {
-            "login": "jaredpalmer",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4060187?v=4",
-            "url": "https://github.com/jaredpalmer"
-          },
-          "topics": [
-            "decision-model",
-            "jev",
-            "qwen3"
-          ],
-          "createdAt": "2026-09-17T20:49:39Z",
-          "pushedAt": "2026-09-24T18:13:01Z",
-          "updatedAt": "2026-09-24T18:14:30Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1363417187,
-          "name": "printfilm",
-          "fullName": "yi1108/printfilm",
-          "url": "https://github.com/yi1108/printfilm",
-          "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
-          "stars": 2436,
-          "forks": 241,
-          "openIssues": 1,
-          "language": "Python",
-          "owner": {
-            "login": "yi1108",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/100551693?v=4",
-            "url": "https://github.com/yi1108"
-          },
-          "topics": [],
-          "createdAt": "2026-09-10T02:08:47Z",
-          "pushedAt": "2026-09-24T11:10:32Z",
-          "updatedAt": "2026-09-24T15:38:40Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1373659194,
-          "name": "jev-trader",
-          "fullName": "jarrodwatts/jev-trader",
-          "url": "https://github.com/jarrodwatts/jev-trader",
-          "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-          "stars": 2302,
-          "forks": 432,
-          "openIssues": 7,
-          "language": "TypeScript",
-          "owner": {
-            "login": "jarrodwatts",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/35651410?v=4",
-            "url": "https://github.com/jarrodwatts"
-          },
-          "topics": [],
-          "createdAt": "2026-09-16T21:36:20Z",
-          "pushedAt": "2026-09-17T02:48:22Z",
-          "updatedAt": "2026-09-24T18:20:41Z",
-          "license": "MIT",
+          "pushedAt": "2026-09-24T23:00:20Z",
+          "updatedAt": "2026-09-25T04:59:32Z",
+          "license": null,
           "rankGain": 2
         },
         {
@@ -200,9 +231,9 @@
           "fullName": "Human-Agent-Society/reef",
           "url": "https://github.com/Human-Agent-Society/reef",
           "description": "Continual learning infra for self-improving agents",
-          "stars": 4651,
-          "forks": 397,
-          "openIssues": 107,
+          "stars": 5130,
+          "forks": 436,
+          "openIssues": 111,
           "language": "Python",
           "owner": {
             "login": "Human-Agent-Society",
@@ -220,31 +251,9 @@
             "self-improving-agents"
           ],
           "createdAt": "2026-08-31T01:39:18Z",
-          "pushedAt": "2026-09-24T17:03:27Z",
-          "updatedAt": "2026-09-24T18:14:45Z",
+          "pushedAt": "2026-09-25T04:15:55Z",
+          "updatedAt": "2026-09-25T05:04:40Z",
           "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 1372482979,
-          "name": "SemIf-OpenJev",
-          "fullName": "TheoLeeCJ/SemIf-OpenJev",
-          "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
-          "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-          "stars": 4211,
-          "forks": 282,
-          "openIssues": 28,
-          "language": "Python",
-          "owner": {
-            "login": "TheoLeeCJ",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/22087932?v=4",
-            "url": "https://github.com/TheoLeeCJ"
-          },
-          "topics": [],
-          "createdAt": "2026-09-16T03:51:21Z",
-          "pushedAt": "2026-09-23T18:48:22Z",
-          "updatedAt": "2026-09-24T18:15:05Z",
-          "license": "MIT",
           "rankGain": 1
         },
         {
@@ -253,8 +262,8 @@
           "fullName": "yang0/handraw-style",
           "url": "https://github.com/yang0/handraw-style",
           "description": "手绘风格编号画廊与双语提示词 Skill",
-          "stars": 3123,
-          "forks": 406,
+          "stars": 3142,
+          "forks": 408,
           "openIssues": 2,
           "language": "HTML",
           "owner": {
@@ -264,100 +273,99 @@
           },
           "topics": [],
           "createdAt": "2026-09-05T21:57:22Z",
-          "pushedAt": "2026-09-24T11:39:53Z",
-          "updatedAt": "2026-09-24T18:03:35Z",
+          "pushedAt": "2026-09-25T05:02:17Z",
+          "updatedAt": "2026-09-25T05:02:21Z",
           "license": "MIT",
           "rankGain": 1
         },
         {
-          "id": 1353548665,
-          "name": "commerce-agents",
-          "fullName": "anthropics/commerce-agents",
-          "url": "https://github.com/anthropics/commerce-agents",
-          "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-          "stars": 3040,
-          "forks": 587,
-          "openIssues": 30,
+          "id": 1349507889,
+          "name": "BrowserKitten",
+          "fullName": "Player-YN/BrowserKitten",
+          "url": "https://github.com/Player-YN/BrowserKitten",
+          "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+          "stars": 2857,
+          "forks": 10,
+          "openIssues": 0,
+          "language": "JavaScript",
+          "owner": {
+            "login": "Player-YN",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/293915860?v=4",
+            "url": "https://github.com/Player-YN"
+          },
+          "topics": [
+            "ai-agent",
+            "browser-agent",
+            "byok",
+            "chrome-extension",
+            "llm",
+            "pptx",
+            "tldraw",
+            "univer"
+          ],
+          "createdAt": "2026-08-28T10:56:56Z",
+          "pushedAt": "2026-09-18T07:18:28Z",
+          "updatedAt": "2026-09-24T15:08:26Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1349253750,
+          "name": "sepia",
+          "fullName": "Nanako0129/sepia",
+          "url": "https://github.com/Nanako0129/sepia",
+          "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+          "stars": 2836,
+          "forks": 185,
+          "openIssues": 10,
           "language": "Python",
           "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
+            "login": "Nanako0129",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44753291?v=4",
+            "url": "https://github.com/Nanako0129"
           },
-          "topics": [],
-          "createdAt": "2026-09-01T12:30:12Z",
-          "pushedAt": "2026-09-11T07:03:32Z",
-          "updatedAt": "2026-09-24T17:40:31Z",
-          "license": "Apache-2.0",
+          "topics": [
+            "agent-skills",
+            "ai-writing",
+            "antigravity",
+            "claude-code",
+            "codex",
+            "developer-tools",
+            "fiction",
+            "grok",
+            "humanizer",
+            "llm",
+            "prompt-engineering",
+            "writing-tools"
+          ],
+          "createdAt": "2026-08-28T05:56:49Z",
+          "pushedAt": "2026-09-23T20:03:22Z",
+          "updatedAt": "2026-09-25T05:05:54Z",
+          "license": "MIT",
           "rankGain": 1
         }
       ],
       "dropped": [
         {
-          "id": 1346499044,
-          "name": "Concat",
-          "fullName": "jub0t/Concat",
-          "url": "https://github.com/jub0t/Concat",
-          "description": "Free & Open-Source CapCut replacement (supports MCPs).",
-          "stars": 3391,
-          "forks": 311,
-          "openIssues": 39,
-          "language": "Rust",
+          "id": 1346970181,
+          "name": "open-higgsfield",
+          "fullName": "wide-trace/open-higgsfield",
+          "url": "https://github.com/wide-trace/open-higgsfield",
+          "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+          "stars": 3694,
+          "forks": 833,
+          "openIssues": 7,
+          "language": "TypeScript",
           "owner": {
-            "login": "jub0t",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/57962439?v=4",
-            "url": "https://github.com/jub0t"
+            "login": "wide-trace",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/321257738?v=4",
+            "url": "https://github.com/wide-trace"
           },
-          "topics": [
-            "audio-processor",
-            "auto-caption",
-            "automation",
-            "capcut",
-            "capcut-alternative",
-            "content-creation",
-            "cross-platform",
-            "desktop-app",
-            "ffmpeg",
-            "free-video-editor",
-            "non-linear-editor",
-            "offline-first",
-            "open-source-video-editor",
-            "rust-lang",
-            "slint",
-            "video-editing",
-            "video-editing-software",
-            "video-processing-tool",
-            "whisper-cpp"
-          ],
-          "createdAt": "2026-08-25T18:34:47Z",
-          "pushedAt": "2026-09-23T17:19:34Z",
-          "updatedAt": "2026-09-23T18:18:48Z",
-          "license": "AGPL-3.0"
-        },
-        {
-          "id": 1345606017,
-          "name": "WeMM-Embedding",
-          "fullName": "Tencent/WeMM-Embedding",
-          "url": "https://github.com/Tencent/WeMM-Embedding",
-          "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-          "stars": 1662,
-          "forks": 115,
-          "openIssues": 2,
-          "language": "Python",
-          "owner": {
-            "login": "Tencent",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/18461506?v=4",
-            "url": "https://github.com/Tencent"
-          },
-          "topics": [
-            "embedding-models",
-            "multimodal",
-            "multimodal-llm"
-          ],
-          "createdAt": "2026-08-25T02:46:10Z",
-          "pushedAt": "2026-09-20T14:09:11Z",
-          "updatedAt": "2026-09-23T14:46:40Z",
-          "license": "NOASSERTION"
+          "topics": [],
+          "createdAt": "2026-08-26T06:09:58Z",
+          "pushedAt": "2026-09-17T01:53:26Z",
+          "updatedAt": "2026-09-24T18:16:45Z",
+          "license": null
         }
       ]
     },
@@ -365,34 +373,38 @@
       "newcomers": [],
       "risers": [
         {
-          "id": 721767116,
-          "name": "clash-verge-rev",
-          "fullName": "clash-verge-rev/clash-verge-rev",
-          "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-          "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-          "stars": 147108,
-          "forks": 10571,
-          "openIssues": 459,
-          "language": "Rust",
+          "id": 184456251,
+          "name": "PowerToys",
+          "fullName": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+          "stars": 138993,
+          "forks": 8606,
+          "openIssues": 7707,
+          "language": "C",
           "owner": {
-            "login": "clash-verge-rev",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/152534467?v=4",
-            "url": "https://github.com/clash-verge-rev"
+            "login": "microsoft",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+            "url": "https://github.com/microsoft"
           },
           "topics": [
-            "clash",
-            "clash-meta",
-            "clash-verge",
-            "linux",
-            "mac",
-            "mihomo",
-            "tauri-app",
-            "windows"
+            "advanced-paste",
+            "color-picker",
+            "command-palette",
+            "desktop",
+            "fancyzones",
+            "keyboard-manager",
+            "microsoft-powertoys",
+            "powerrename",
+            "powertoys",
+            "windows",
+            "windows-10",
+            "windows-11"
           ],
-          "createdAt": "2023-11-21T18:24:03Z",
-          "pushedAt": "2026-09-24T15:07:21Z",
-          "updatedAt": "2026-09-24T18:17:59Z",
-          "license": "GPL-3.0",
+          "createdAt": "2019-05-01T17:44:02Z",
+          "pushedAt": "2026-09-24T22:07:32Z",
+          "updatedAt": "2026-09-25T04:53:42Z",
+          "license": "MIT",
           "rankGain": 1
         }
       ],
@@ -407,9 +419,9 @@
           "fullName": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 82135,
-          "forks": 15021,
-          "openIssues": 5626,
+          "stars": 82922,
+          "forks": 15092,
+          "openIssues": 5642,
           "language": "TypeScript",
           "owner": {
             "login": "paperclipai",
@@ -418,8 +430,8 @@
           },
           "topics": [],
           "createdAt": "2026-03-02T15:01:51Z",
-          "pushedAt": "2026-09-24T18:11:05Z",
-          "updatedAt": "2026-09-24T18:23:04Z",
+          "pushedAt": "2026-09-25T04:48:38Z",
+          "updatedAt": "2026-09-25T05:06:21Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -432,52 +444,41 @@
       "dropped": []
     },
     "secAiCyber": {
-      "newcomers": [],
-      "risers": [
+      "newcomers": [
         {
-          "id": 1363844227,
-          "name": "ai-security-tool",
-          "fullName": "ZeroDayEvil/ai-security-tool",
-          "url": "https://github.com/ZeroDayEvil/ai-security-tool",
-          "description": "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
-          "stars": 348,
-          "forks": 7,
+          "id": 1145642293,
+          "name": "claude-code-owasp",
+          "fullName": "agamm/claude-code-owasp",
+          "url": "https://github.com/agamm/claude-code-owasp",
+          "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
+          "stars": 366,
+          "forks": 33,
           "openIssues": 0,
-          "language": "HTML",
+          "language": "JavaScript",
           "owner": {
-            "login": "ZeroDayEvil",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/256233687?v=4",
-            "url": "https://github.com/ZeroDayEvil"
+            "login": "agamm",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1269911?v=4",
+            "url": "https://github.com/agamm"
           },
           "topics": [
-            "ai-agent",
-            "ctf",
-            "cve",
-            "cve-scanner",
-            "cybersecurity",
-            "deepseek",
-            "mcp",
-            "mcp-server",
-            "mcp-tools",
-            "nvd",
-            "openai",
-            "osv",
-            "pentesting",
-            "rdp",
-            "sbom",
-            "security-tools",
-            "sftp",
-            "ssh-client",
-            "terminal",
-            "vnc"
+            "ai-security",
+            "appsec",
+            "asvs",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "owasp",
+            "secure-coding",
+            "security",
+            "vulnerability"
           ],
-          "createdAt": "2026-09-10T09:38:49Z",
-          "pushedAt": "2026-09-19T13:41:49Z",
-          "updatedAt": "2026-09-24T18:05:54Z",
-          "license": "MIT",
-          "rankGain": 2
+          "createdAt": "2026-01-30T03:13:47Z",
+          "pushedAt": "2026-09-25T04:59:56Z",
+          "updatedAt": "2026-09-25T05:00:00Z",
+          "license": "MIT"
         }
       ],
+      "risers": [],
       "dropped": []
     }
   },
@@ -485,14 +486,14 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 2,
+      "newcomers": 1,
       "risers": 10,
-      "dropped": 2
+      "dropped": 1
     },
     "activeWeek": {
       "total": 50,
@@ -513,9 +514,9 @@
       "dropped": 0
     },
     "secAiCyber": {
-      "total": 19,
-      "newcomers": 0,
-      "risers": 1,
+      "total": 20,
+      "newcomers": 1,
+      "risers": 0,
       "dropped": 0
     }
   }
