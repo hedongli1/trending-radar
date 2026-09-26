@@ -1,60 +1,76 @@
 {
-  "generatedAt": "2026-09-26T05:14:11.354Z",
+  "generatedAt": "2026-09-26T17:43:53.330Z",
   "date": "2026-09-26",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 787076358,
+          "name": "firecrawl",
+          "fullName": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "The web data API to search, scrape, and interact at scale. 🔥",
+          "stars": 185031,
+          "forks": 9930,
+          "openIssues": 647,
+          "language": "TypeScript",
+          "owner": {
+            "login": "firecrawl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
+            "url": "https://github.com/firecrawl"
+          },
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-crawler",
+            "ai-scraping",
+            "ai-search",
+            "crawler",
+            "data-extraction",
+            "html-to-markdown",
+            "llm",
+            "markdown",
+            "scraper",
+            "scraping",
+            "web-crawler",
+            "web-data",
+            "web-data-extraction",
+            "web-scraper",
+            "web-scraping",
+            "web-search",
+            "webscraping"
+          ],
+          "createdAt": "2024-04-15T21:02:29Z",
+          "pushedAt": "2026-09-26T06:24:20Z",
+          "updatedAt": "2026-09-26T17:43:40Z",
+          "license": "AGPL-3.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
       "newcomers": [
         {
-          "id": 1352104394,
-          "name": "cn",
-          "fullName": "shadcn-ui/cn",
-          "url": "https://github.com/shadcn-ui/cn",
-          "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-          "stars": 1592,
-          "forks": 17,
-          "openIssues": 5,
-          "language": "TypeScript",
+          "id": 1377172300,
+          "name": "apk-reverse",
+          "fullName": "newliver666/apk-reverse",
+          "url": "https://github.com/newliver666/apk-reverse",
+          "description": "Suitable for Android APK reverse engineering analysis",
+          "stars": 1860,
+          "forks": 429,
+          "openIssues": 0,
+          "language": "Python",
           "owner": {
-            "login": "shadcn-ui",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
-            "url": "https://github.com/shadcn-ui"
-          },
-          "topics": [
-            "clsx",
-            "cn",
-            "shadcn",
-            "tailwind-merge",
-            "tailwindcss"
-          ],
-          "createdAt": "2026-08-31T07:04:03Z",
-          "pushedAt": "2026-09-22T11:03:35Z",
-          "updatedAt": "2026-09-25T23:10:13Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1360317501,
-          "name": "dream-loop",
-          "fullName": "achimala/dream-loop",
-          "url": "https://github.com/achimala/dream-loop",
-          "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-          "stars": 1555,
-          "forks": 166,
-          "openIssues": 4,
-          "language": "JavaScript",
-          "owner": {
-            "login": "achimala",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1448366?v=4",
-            "url": "https://github.com/achimala"
+            "login": "newliver666",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/328839634?v=4",
+            "url": "https://github.com/newliver666"
           },
           "topics": [],
-          "createdAt": "2026-09-07T14:19:20Z",
-          "pushedAt": "2026-09-09T22:43:38Z",
-          "updatedAt": "2026-09-26T02:35:15Z",
+          "createdAt": "2026-09-19T13:12:54Z",
+          "pushedAt": "2026-09-24T09:22:21Z",
+          "updatedAt": "2026-09-26T17:42:07Z",
           "license": "MIT"
         },
         {
@@ -63,8 +79,8 @@
           "fullName": "LAMDA-NeSy/Research-Starter-Kit",
           "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
           "description": "从0开始，掌握做科研、写论文的基本流程。",
-          "stars": 1554,
-          "forks": 73,
+          "stars": 1627,
+          "forks": 76,
           "openIssues": 1,
           "language": "Other",
           "owner": {
@@ -83,29 +99,35 @@
           ],
           "createdAt": "2026-08-29T06:04:35Z",
           "pushedAt": "2026-09-01T14:32:22Z",
-          "updatedAt": "2026-09-26T05:10:27Z",
+          "updatedAt": "2026-09-26T17:22:47Z",
           "license": null
         },
         {
-          "id": 1373976608,
-          "name": "open-glean",
-          "fullName": "hydra-db/open-glean",
-          "url": "https://github.com/hydra-db/open-glean",
-          "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-          "stars": 1527,
-          "forks": 516,
-          "openIssues": 1,
+          "id": 1352104394,
+          "name": "cn",
+          "fullName": "shadcn-ui/cn",
+          "url": "https://github.com/shadcn-ui/cn",
+          "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+          "stars": 1595,
+          "forks": 17,
+          "openIssues": 5,
           "language": "TypeScript",
           "owner": {
-            "login": "hydra-db",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/244433600?v=4",
-            "url": "https://github.com/hydra-db"
+            "login": "shadcn-ui",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
+            "url": "https://github.com/shadcn-ui"
           },
-          "topics": [],
-          "createdAt": "2026-09-17T05:22:08Z",
-          "pushedAt": "2026-09-17T05:46:34Z",
-          "updatedAt": "2026-09-26T04:57:29Z",
-          "license": "Apache-2.0"
+          "topics": [
+            "clsx",
+            "cn",
+            "shadcn",
+            "tailwind-merge",
+            "tailwindcss"
+          ],
+          "createdAt": "2026-08-31T07:04:03Z",
+          "pushedAt": "2026-09-22T11:03:35Z",
+          "updatedAt": "2026-09-26T14:49:24Z",
+          "license": "MIT"
         }
       ],
       "risers": [
@@ -115,8 +137,8 @@
           "fullName": "Ryze-AI-Adgent/open-seo-mcp-skills",
           "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
           "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
-          "stars": 1796,
-          "forks": 352,
+          "stars": 2061,
+          "forks": 355,
           "openIssues": 1,
           "language": "Shell",
           "owner": {
@@ -148,9 +170,9 @@
           ],
           "createdAt": "2026-08-29T23:37:01Z",
           "pushedAt": "2026-09-24T01:53:55Z",
-          "updatedAt": "2026-09-26T05:13:43Z",
+          "updatedAt": "2026-09-26T17:40:14Z",
           "license": "MIT",
-          "rankGain": 10
+          "rankGain": 13
         },
         {
           "id": 1378216647,
@@ -158,9 +180,9 @@
           "fullName": "driceroland/Search",
           "url": "https://github.com/driceroland/Search",
           "description": "A small, fast WebKit browser for macOS, by Office Commun.",
-          "stars": 1899,
-          "forks": 165,
-          "openIssues": 174,
+          "stars": 2070,
+          "forks": 183,
+          "openIssues": 188,
           "language": "Swift",
           "owner": {
             "login": "driceroland",
@@ -170,9 +192,9 @@
           "topics": [],
           "createdAt": "2026-09-20T10:29:47Z",
           "pushedAt": "2026-09-24T16:11:57Z",
-          "updatedAt": "2026-09-26T05:13:36Z",
+          "updatedAt": "2026-09-26T17:41:55Z",
           "license": "MIT",
-          "rankGain": 9
+          "rankGain": 11
         },
         {
           "id": 1363417187,
@@ -180,8 +202,8 @@
           "fullName": "yi1108/printfilm",
           "url": "https://github.com/yi1108/printfilm",
           "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
-          "stars": 2950,
-          "forks": 288,
+          "stars": 3035,
+          "forks": 335,
           "openIssues": 1,
           "language": "Python",
           "owner": {
@@ -192,9 +214,53 @@
           "topics": [],
           "createdAt": "2026-09-10T02:08:47Z",
           "pushedAt": "2026-09-24T11:10:32Z",
-          "updatedAt": "2026-09-26T05:13:57Z",
+          "updatedAt": "2026-09-26T17:14:14Z",
           "license": "MIT",
           "rankGain": 6
+        },
+        {
+          "id": 1371378654,
+          "name": "jianying-headless",
+          "fullName": "mcncarl/jianying-headless",
+          "url": "https://github.com/mcncarl/jianying-headless",
+          "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+          "stars": 2648,
+          "forks": 1902,
+          "openIssues": 15,
+          "language": "Python",
+          "owner": {
+            "login": "mcncarl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/204130968?v=4",
+            "url": "https://github.com/mcncarl"
+          },
+          "topics": [],
+          "createdAt": "2026-09-15T11:51:15Z",
+          "pushedAt": "2026-09-24T12:42:40Z",
+          "updatedAt": "2026-09-26T17:38:58Z",
+          "license": "NOASSERTION",
+          "rankGain": 5
+        },
+        {
+          "id": 1371757322,
+          "name": "openmuse",
+          "fullName": "CopilotKit/openmuse",
+          "url": "https://github.com/CopilotKit/openmuse",
+          "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+          "stars": 2296,
+          "forks": 264,
+          "openIssues": 32,
+          "language": "TypeScript",
+          "owner": {
+            "login": "CopilotKit",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
+            "url": "https://github.com/CopilotKit"
+          },
+          "topics": [],
+          "createdAt": "2026-09-15T16:05:44Z",
+          "pushedAt": "2026-09-25T18:31:59Z",
+          "updatedAt": "2026-09-26T17:41:25Z",
+          "license": "MIT",
+          "rankGain": 4
         },
         {
           "id": 1361439328,
@@ -202,8 +268,8 @@
           "fullName": "Edge0-AI/Edge0",
           "url": "https://github.com/Edge0-AI/Edge0",
           "description": "暂无描述",
-          "stars": 2090,
-          "forks": 185,
+          "stars": 2099,
+          "forks": 188,
           "openIssues": 23,
           "language": "Python",
           "owner": {
@@ -214,7 +280,7 @@
           "topics": [],
           "createdAt": "2026-09-08T13:41:47Z",
           "pushedAt": "2026-09-20T08:04:43Z",
-          "updatedAt": "2026-09-26T03:47:29Z",
+          "updatedAt": "2026-09-26T17:30:06Z",
           "license": "Apache-2.0",
           "rankGain": 4
         },
@@ -224,8 +290,8 @@
           "fullName": "Vincentwei1021/anything2explainer",
           "url": "https://github.com/Vincentwei1021/anything2explainer",
           "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-          "stars": 2066,
-          "forks": 292,
+          "stars": 2087,
+          "forks": 294,
           "openIssues": 3,
           "language": "TypeScript",
           "owner": {
@@ -255,52 +321,8 @@
           ],
           "createdAt": "2026-09-08T17:19:54Z",
           "pushedAt": "2026-09-18T11:52:13Z",
-          "updatedAt": "2026-09-26T03:59:01Z",
+          "updatedAt": "2026-09-26T17:00:29Z",
           "license": "NOASSERTION",
-          "rankGain": 4
-        },
-        {
-          "id": 1361260630,
-          "name": "NavierStokesAndEuler",
-          "fullName": "openai/NavierStokesAndEuler",
-          "url": "https://github.com/openai/NavierStokesAndEuler",
-          "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-          "stars": 1996,
-          "forks": 204,
-          "openIssues": 0,
-          "language": "Lean",
-          "owner": {
-            "login": "openai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
-            "url": "https://github.com/openai"
-          },
-          "topics": [],
-          "createdAt": "2026-09-08T10:53:38Z",
-          "pushedAt": "2026-09-10T15:14:13Z",
-          "updatedAt": "2026-09-26T04:13:18Z",
-          "license": "Apache-2.0",
-          "rankGain": 4
-        },
-        {
-          "id": 1380635125,
-          "name": "unreal-agent",
-          "fullName": "unreallabsai/unreal-agent",
-          "url": "https://github.com/unreallabsai/unreal-agent",
-          "description": "Async-first agent harness",
-          "stars": 1943,
-          "forks": 103,
-          "openIssues": 8,
-          "language": "Go",
-          "owner": {
-            "login": "unreallabsai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/181495282?v=4",
-            "url": "https://github.com/unreallabsai"
-          },
-          "topics": [],
-          "createdAt": "2026-09-21T23:14:02Z",
-          "pushedAt": "2026-09-23T19:08:26Z",
-          "updatedAt": "2026-09-26T04:21:40Z",
-          "license": "MIT",
           "rankGain": 4
         },
         {
@@ -309,9 +331,9 @@
           "fullName": "Mak5er/AirCard",
           "url": "https://github.com/Mak5er/AirCard",
           "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-          "stars": 4228,
-          "forks": 187,
-          "openIssues": 39,
+          "stars": 4314,
+          "forks": 191,
+          "openIssues": 46,
           "language": "Swift",
           "owner": {
             "login": "Mak5er",
@@ -321,7 +343,7 @@
           "topics": [],
           "createdAt": "2026-09-16T22:20:15Z",
           "pushedAt": "2026-09-22T21:44:37Z",
-          "updatedAt": "2026-09-26T05:09:22Z",
+          "updatedAt": "2026-09-26T17:43:31Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -331,9 +353,9 @@
           "fullName": "sdli1995/dlssg_for_sm86",
           "url": "https://github.com/sdli1995/dlssg_for_sm86",
           "description": "Here is a dlssg for RTX30 Series GPU ",
-          "stars": 3950,
+          "stars": 3983,
           "forks": 220,
-          "openIssues": 154,
+          "openIssues": 157,
           "language": "Other",
           "owner": {
             "login": "sdli1995",
@@ -343,7 +365,7 @@
           "topics": [],
           "createdAt": "2026-09-07T16:16:48Z",
           "pushedAt": "2026-09-19T20:03:40Z",
-          "updatedAt": "2026-09-26T04:55:11Z",
+          "updatedAt": "2026-09-26T17:36:39Z",
           "license": null,
           "rankGain": 3
         },
@@ -353,8 +375,8 @@
           "fullName": "ashemag/human-atlas",
           "url": "https://github.com/ashemag/human-atlas",
           "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-          "stars": 3891,
-          "forks": 967,
+          "stars": 3907,
+          "forks": 971,
           "openIssues": 41,
           "language": "TypeScript",
           "owner": {
@@ -365,7 +387,7 @@
           "topics": [],
           "createdAt": "2026-09-05T00:24:43Z",
           "pushedAt": "2026-09-06T23:35:06Z",
-          "updatedAt": "2026-09-26T04:56:43Z",
+          "updatedAt": "2026-09-26T17:33:45Z",
           "license": "MIT",
           "rankGain": 3
         }
@@ -450,27 +472,6 @@
           "pushedAt": "2026-08-27T12:23:45Z",
           "updatedAt": "2026-09-25T18:03:03Z",
           "license": null
-        },
-        {
-          "id": 1356644576,
-          "name": "ZDTaichu5.0-9B",
-          "fullName": "Taichu-AI/ZDTaichu5.0-9B",
-          "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
-          "description": "暂无描述",
-          "stars": 2093,
-          "forks": 399,
-          "openIssues": 2,
-          "language": "Python",
-          "owner": {
-            "login": "Taichu-AI",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/324729787?v=4",
-            "url": "https://github.com/Taichu-AI"
-          },
-          "topics": [],
-          "createdAt": "2026-09-04T03:06:00Z",
-          "pushedAt": "2026-09-17T06:47:25Z",
-          "updatedAt": "2026-09-25T13:18:35Z",
-          "license": "Apache-2.0"
         }
       ]
     },
@@ -482,9 +483,9 @@
           "fullName": "github/gitignore",
           "url": "https://github.com/github/gitignore",
           "description": "A collection of useful .gitignore templates",
-          "stars": 175923,
-          "forks": 82179,
-          "openIssues": 71,
+          "stars": 175933,
+          "forks": 82178,
+          "openIssues": 72,
           "language": "Other",
           "owner": {
             "login": "github",
@@ -497,7 +498,7 @@
           ],
           "createdAt": "2010-11-08T20:17:14Z",
           "pushedAt": "2026-09-25T21:16:01Z",
-          "updatedAt": "2026-09-26T02:55:24Z",
+          "updatedAt": "2026-09-26T17:13:37Z",
           "license": "CC0-1.0"
         }
       ],
@@ -528,7 +529,66 @@
     },
     "aiEco": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1162099055,
+          "name": "taste-skill",
+          "fullName": "Leonxlnx/taste-skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+          "stars": 90329,
+          "forks": 6151,
+          "openIssues": 71,
+          "language": "JavaScript",
+          "owner": {
+            "login": "Leonxlnx",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?v=4",
+            "url": "https://github.com/Leonxlnx"
+          },
+          "topics": [
+            "agent",
+            "ai",
+            "claude",
+            "claude-code",
+            "codex",
+            "coding",
+            "design",
+            "frontend",
+            "lowcode",
+            "nocode",
+            "skill",
+            "skills",
+            "vibecoding"
+          ],
+          "createdAt": "2026-02-19T21:44:05Z",
+          "pushedAt": "2026-09-26T09:01:50Z",
+          "updatedAt": "2026-09-26T17:43:12Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1170821064,
+          "name": "paperclip",
+          "fullName": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "description": "The open-source app everyone uses to manage agents at work",
+          "stars": 86647,
+          "forks": 15367,
+          "openIssues": 5721,
+          "language": "TypeScript",
+          "owner": {
+            "login": "paperclipai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
+            "url": "https://github.com/paperclipai"
+          },
+          "topics": [],
+          "createdAt": "2026-03-02T15:01:51Z",
+          "pushedAt": "2026-09-26T16:50:06Z",
+          "updatedAt": "2026-09-26T17:43:14Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "secTraffic": {
@@ -544,9 +604,9 @@
           "fullName": "beenuar/AiSOC",
           "url": "https://github.com/beenuar/AiSOC",
           "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
-          "stars": 2368,
+          "stars": 2370,
           "forks": 260,
-          "openIssues": 8,
+          "openIssues": 9,
           "language": "Python",
           "owner": {
             "login": "beenuar",
@@ -576,8 +636,8 @@
             "threat-intelligence"
           ],
           "createdAt": "2026-05-02T03:30:19Z",
-          "pushedAt": "2026-09-26T05:02:26Z",
-          "updatedAt": "2026-09-26T05:02:05Z",
+          "pushedAt": "2026-09-26T17:41:04Z",
+          "updatedAt": "2026-09-26T13:37:03Z",
           "license": "MIT"
         }
       ],
@@ -589,14 +649,14 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 4,
+      "newcomers": 3,
       "risers": 10,
-      "dropped": 4
+      "dropped": 3
     },
     "activeWeek": {
       "total": 50,
@@ -607,7 +667,7 @@
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 2,
       "dropped": 0
     },
     "secTraffic": {
