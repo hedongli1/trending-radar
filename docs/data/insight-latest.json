@@ -1,73 +1,121 @@
 {
-  "generatedAt": "2026-09-25T18:32:08.206Z",
-  "date": "2026-09-25",
+  "generatedAt": "2026-09-26T05:14:11.354Z",
+  "date": "2026-09-26",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [
-        {
-          "id": 888092115,
-          "name": "markitdown",
-          "fullName": "microsoft/markitdown",
-          "url": "https://github.com/microsoft/markitdown",
-          "description": "Python tool for converting files and office documents to Markdown.",
-          "stars": 187012,
-          "forks": 13801,
-          "openIssues": 694,
-          "language": "Python",
-          "owner": {
-            "login": "microsoft",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
-            "url": "https://github.com/microsoft"
-          },
-          "topics": [
-            "autogen",
-            "autogen-extension",
-            "langchain",
-            "markdown",
-            "microsoft-office",
-            "openai",
-            "pdf"
-          ],
-          "createdAt": "2024-11-13T19:56:40Z",
-          "pushedAt": "2026-09-21T21:03:34Z",
-          "updatedAt": "2026-09-25T18:25:57Z",
-          "license": "MIT",
-          "rankGain": 1
-        }
-      ],
+      "risers": [],
       "dropped": []
     },
     "breakout": {
       "newcomers": [
         {
-          "id": 1378216647,
-          "name": "Search",
-          "fullName": "driceroland/Search",
-          "url": "https://github.com/driceroland/Search",
-          "description": "A small, fast WebKit browser for macOS, by Office Commun.",
-          "stars": 1660,
-          "forks": 159,
-          "openIssues": 164,
-          "language": "Swift",
+          "id": 1352104394,
+          "name": "cn",
+          "fullName": "shadcn-ui/cn",
+          "url": "https://github.com/shadcn-ui/cn",
+          "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+          "stars": 1592,
+          "forks": 17,
+          "openIssues": 5,
+          "language": "TypeScript",
           "owner": {
-            "login": "driceroland",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/74648512?v=4",
-            "url": "https://github.com/driceroland"
+            "login": "shadcn-ui",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
+            "url": "https://github.com/shadcn-ui"
           },
-          "topics": [],
-          "createdAt": "2026-09-20T10:29:47Z",
-          "pushedAt": "2026-09-24T16:11:57Z",
-          "updatedAt": "2026-09-25T18:31:00Z",
+          "topics": [
+            "clsx",
+            "cn",
+            "shadcn",
+            "tailwind-merge",
+            "tailwindcss"
+          ],
+          "createdAt": "2026-08-31T07:04:03Z",
+          "pushedAt": "2026-09-22T11:03:35Z",
+          "updatedAt": "2026-09-25T23:10:13Z",
           "license": "MIT"
         },
+        {
+          "id": 1360317501,
+          "name": "dream-loop",
+          "fullName": "achimala/dream-loop",
+          "url": "https://github.com/achimala/dream-loop",
+          "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+          "stars": 1555,
+          "forks": 166,
+          "openIssues": 4,
+          "language": "JavaScript",
+          "owner": {
+            "login": "achimala",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1448366?v=4",
+            "url": "https://github.com/achimala"
+          },
+          "topics": [],
+          "createdAt": "2026-09-07T14:19:20Z",
+          "pushedAt": "2026-09-09T22:43:38Z",
+          "updatedAt": "2026-09-26T02:35:15Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1350323171,
+          "name": "Research-Starter-Kit",
+          "fullName": "LAMDA-NeSy/Research-Starter-Kit",
+          "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
+          "description": "从0开始，掌握做科研、写论文的基本流程。",
+          "stars": 1554,
+          "forks": 73,
+          "openIssues": 1,
+          "language": "Other",
+          "owner": {
+            "login": "LAMDA-NeSy",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/185795540?v=4",
+            "url": "https://github.com/LAMDA-NeSy"
+          },
+          "topics": [
+            "ai-research",
+            "awesome",
+            "awesome-list",
+            "phd",
+            "phd-research",
+            "research-assistant",
+            "research-skills"
+          ],
+          "createdAt": "2026-08-29T06:04:35Z",
+          "pushedAt": "2026-09-01T14:32:22Z",
+          "updatedAt": "2026-09-26T05:10:27Z",
+          "license": null
+        },
+        {
+          "id": 1373976608,
+          "name": "open-glean",
+          "fullName": "hydra-db/open-glean",
+          "url": "https://github.com/hydra-db/open-glean",
+          "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+          "stars": 1527,
+          "forks": 516,
+          "openIssues": 1,
+          "language": "TypeScript",
+          "owner": {
+            "login": "hydra-db",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/244433600?v=4",
+            "url": "https://github.com/hydra-db"
+          },
+          "topics": [],
+          "createdAt": "2026-09-17T05:22:08Z",
+          "pushedAt": "2026-09-17T05:46:34Z",
+          "updatedAt": "2026-09-26T04:57:29Z",
+          "license": "Apache-2.0"
+        }
+      ],
+      "risers": [
         {
           "id": 1350978527,
           "name": "open-seo-mcp-skills",
           "fullName": "Ryze-AI-Adgent/open-seo-mcp-skills",
           "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
           "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
-          "stars": 1612,
+          "stars": 1796,
           "forks": 352,
           "openIssues": 1,
           "language": "Shell",
@@ -100,32 +148,308 @@
           ],
           "createdAt": "2026-08-29T23:37:01Z",
           "pushedAt": "2026-09-24T01:53:55Z",
-          "updatedAt": "2026-09-25T18:27:45Z",
-          "license": "MIT"
-        }
-      ],
-      "risers": [
+          "updatedAt": "2026-09-26T05:13:43Z",
+          "license": "MIT",
+          "rankGain": 10
+        },
         {
-          "id": 1354267344,
-          "name": "sonicloud_opensdk",
-          "fullName": "SonicloudTech/sonicloud_opensdk",
-          "url": "https://github.com/SonicloudTech/sonicloud_opensdk",
-          "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
-          "stars": 2540,
-          "forks": 57,
-          "openIssues": 0,
-          "language": "HTML",
+          "id": 1378216647,
+          "name": "Search",
+          "fullName": "driceroland/Search",
+          "url": "https://github.com/driceroland/Search",
+          "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+          "stars": 1899,
+          "forks": 165,
+          "openIssues": 174,
+          "language": "Swift",
           "owner": {
-            "login": "SonicloudTech",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/329081477?v=4",
-            "url": "https://github.com/SonicloudTech"
+            "login": "driceroland",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/74648512?v=4",
+            "url": "https://github.com/driceroland"
           },
           "topics": [],
-          "createdAt": "2026-09-02T03:32:02Z",
-          "pushedAt": "2026-09-18T07:59:00Z",
-          "updatedAt": "2026-09-25T17:23:54Z",
+          "createdAt": "2026-09-20T10:29:47Z",
+          "pushedAt": "2026-09-24T16:11:57Z",
+          "updatedAt": "2026-09-26T05:13:36Z",
+          "license": "MIT",
+          "rankGain": 9
+        },
+        {
+          "id": 1363417187,
+          "name": "printfilm",
+          "fullName": "yi1108/printfilm",
+          "url": "https://github.com/yi1108/printfilm",
+          "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
+          "stars": 2950,
+          "forks": 288,
+          "openIssues": 1,
+          "language": "Python",
+          "owner": {
+            "login": "yi1108",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/100551693?v=4",
+            "url": "https://github.com/yi1108"
+          },
+          "topics": [],
+          "createdAt": "2026-09-10T02:08:47Z",
+          "pushedAt": "2026-09-24T11:10:32Z",
+          "updatedAt": "2026-09-26T05:13:57Z",
           "license": "MIT",
           "rankGain": 6
+        },
+        {
+          "id": 1361439328,
+          "name": "Edge0",
+          "fullName": "Edge0-AI/Edge0",
+          "url": "https://github.com/Edge0-AI/Edge0",
+          "description": "暂无描述",
+          "stars": 2090,
+          "forks": 185,
+          "openIssues": 23,
+          "language": "Python",
+          "owner": {
+            "login": "Edge0-AI",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/310437271?v=4",
+            "url": "https://github.com/Edge0-AI"
+          },
+          "topics": [],
+          "createdAt": "2026-09-08T13:41:47Z",
+          "pushedAt": "2026-09-20T08:04:43Z",
+          "updatedAt": "2026-09-26T03:47:29Z",
+          "license": "Apache-2.0",
+          "rankGain": 4
+        },
+        {
+          "id": 1361693766,
+          "name": "anything2explainer",
+          "fullName": "Vincentwei1021/anything2explainer",
+          "url": "https://github.com/Vincentwei1021/anything2explainer",
+          "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+          "stars": 2066,
+          "forks": 292,
+          "openIssues": 3,
+          "language": "TypeScript",
+          "owner": {
+            "login": "Vincentwei1021",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/18239147?v=4",
+            "url": "https://github.com/Vincentwei1021"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "ai-video",
+            "claude-code",
+            "claude-code-skill",
+            "codex",
+            "edge-tts",
+            "educational-video",
+            "explainer-video",
+            "kokoro",
+            "motion-graphics",
+            "multi-agent",
+            "react",
+            "remotion",
+            "text-to-video",
+            "tts",
+            "typescript",
+            "video-generation"
+          ],
+          "createdAt": "2026-09-08T17:19:54Z",
+          "pushedAt": "2026-09-18T11:52:13Z",
+          "updatedAt": "2026-09-26T03:59:01Z",
+          "license": "NOASSERTION",
+          "rankGain": 4
+        },
+        {
+          "id": 1361260630,
+          "name": "NavierStokesAndEuler",
+          "fullName": "openai/NavierStokesAndEuler",
+          "url": "https://github.com/openai/NavierStokesAndEuler",
+          "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+          "stars": 1996,
+          "forks": 204,
+          "openIssues": 0,
+          "language": "Lean",
+          "owner": {
+            "login": "openai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+            "url": "https://github.com/openai"
+          },
+          "topics": [],
+          "createdAt": "2026-09-08T10:53:38Z",
+          "pushedAt": "2026-09-10T15:14:13Z",
+          "updatedAt": "2026-09-26T04:13:18Z",
+          "license": "Apache-2.0",
+          "rankGain": 4
+        },
+        {
+          "id": 1380635125,
+          "name": "unreal-agent",
+          "fullName": "unreallabsai/unreal-agent",
+          "url": "https://github.com/unreallabsai/unreal-agent",
+          "description": "Async-first agent harness",
+          "stars": 1943,
+          "forks": 103,
+          "openIssues": 8,
+          "language": "Go",
+          "owner": {
+            "login": "unreallabsai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/181495282?v=4",
+            "url": "https://github.com/unreallabsai"
+          },
+          "topics": [],
+          "createdAt": "2026-09-21T23:14:02Z",
+          "pushedAt": "2026-09-23T19:08:26Z",
+          "updatedAt": "2026-09-26T04:21:40Z",
+          "license": "MIT",
+          "rankGain": 4
+        },
+        {
+          "id": 1373687654,
+          "name": "AirCard",
+          "fullName": "Mak5er/AirCard",
+          "url": "https://github.com/Mak5er/AirCard",
+          "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+          "stars": 4228,
+          "forks": 187,
+          "openIssues": 39,
+          "language": "Swift",
+          "owner": {
+            "login": "Mak5er",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/98599732?v=4",
+            "url": "https://github.com/Mak5er"
+          },
+          "topics": [],
+          "createdAt": "2026-09-16T22:20:15Z",
+          "pushedAt": "2026-09-22T21:44:37Z",
+          "updatedAt": "2026-09-26T05:09:22Z",
+          "license": "MIT",
+          "rankGain": 3
+        },
+        {
+          "id": 1360432710,
+          "name": "dlssg_for_sm86",
+          "fullName": "sdli1995/dlssg_for_sm86",
+          "url": "https://github.com/sdli1995/dlssg_for_sm86",
+          "description": "Here is a dlssg for RTX30 Series GPU ",
+          "stars": 3950,
+          "forks": 220,
+          "openIssues": 154,
+          "language": "Other",
+          "owner": {
+            "login": "sdli1995",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/28560351?v=4",
+            "url": "https://github.com/sdli1995"
+          },
+          "topics": [],
+          "createdAt": "2026-09-07T16:16:48Z",
+          "pushedAt": "2026-09-19T20:03:40Z",
+          "updatedAt": "2026-09-26T04:55:11Z",
+          "license": null,
+          "rankGain": 3
+        },
+        {
+          "id": 1357699236,
+          "name": "human-atlas",
+          "fullName": "ashemag/human-atlas",
+          "url": "https://github.com/ashemag/human-atlas",
+          "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+          "stars": 3891,
+          "forks": 967,
+          "openIssues": 41,
+          "language": "TypeScript",
+          "owner": {
+            "login": "ashemag",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8096590?v=4",
+            "url": "https://github.com/ashemag"
+          },
+          "topics": [],
+          "createdAt": "2026-09-05T00:24:43Z",
+          "pushedAt": "2026-09-06T23:35:06Z",
+          "updatedAt": "2026-09-26T04:56:43Z",
+          "license": "MIT",
+          "rankGain": 3
+        }
+      ],
+      "dropped": [
+        {
+          "id": 1348577064,
+          "name": "PRAXIST",
+          "fullName": "sapientinc/PRAXIST",
+          "url": "https://github.com/sapientinc/PRAXIST",
+          "description": "Autonomous research system for measurable, computer-executable research.",
+          "stars": 6770,
+          "forks": 784,
+          "openIssues": 7,
+          "language": "Python",
+          "owner": {
+            "login": "sapientinc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/188930505?v=4",
+            "url": "https://github.com/sapientinc"
+          },
+          "topics": [],
+          "createdAt": "2026-08-27T14:20:58Z",
+          "pushedAt": "2026-09-23T07:00:20Z",
+          "updatedAt": "2026-09-25T13:10:44Z",
+          "license": "NOASSERTION"
+        },
+        {
+          "id": 1348483831,
+          "name": "spotifast",
+          "fullName": "crmne/spotifast",
+          "url": "https://github.com/crmne/spotifast",
+          "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+          "stars": 4618,
+          "forks": 212,
+          "openIssues": 36,
+          "language": "Rust",
+          "owner": {
+            "login": "crmne",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/106617?v=4",
+            "url": "https://github.com/crmne"
+          },
+          "topics": [
+            "audio",
+            "cross-platform",
+            "desktop-app",
+            "egui",
+            "gui",
+            "librespot",
+            "linux",
+            "macos",
+            "mpris",
+            "music",
+            "music-player",
+            "rust",
+            "spotify",
+            "spotify-client",
+            "spotify-connect",
+            "windows"
+          ],
+          "createdAt": "2026-08-27T12:46:32Z",
+          "pushedAt": "2026-09-25T16:08:22Z",
+          "updatedAt": "2026-09-25T18:05:21Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1348410551,
+          "name": "my-girlfriend-jingtian-latex",
+          "fullName": "HEJustinSun/my-girlfriend-jingtian-latex",
+          "url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+          "description": "暂无描述",
+          "stars": 4203,
+          "forks": 631,
+          "openIssues": 541,
+          "language": "TeX",
+          "owner": {
+            "login": "HEJustinSun",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/320896847?v=4",
+            "url": "https://github.com/HEJustinSun"
+          },
+          "topics": [],
+          "createdAt": "2026-08-27T11:28:44Z",
+          "pushedAt": "2026-08-27T12:23:45Z",
+          "updatedAt": "2026-09-25T18:03:03Z",
+          "license": null
         },
         {
           "id": 1356644576,
@@ -146,319 +470,65 @@
           "createdAt": "2026-09-04T03:06:00Z",
           "pushedAt": "2026-09-17T06:47:25Z",
           "updatedAt": "2026-09-25T13:18:35Z",
-          "license": "Apache-2.0",
-          "rankGain": 6
-        },
-        {
-          "id": 1363417187,
-          "name": "printfilm",
-          "fullName": "yi1108/printfilm",
-          "url": "https://github.com/yi1108/printfilm",
-          "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
-          "stars": 2624,
-          "forks": 246,
-          "openIssues": 1,
-          "language": "Python",
-          "owner": {
-            "login": "yi1108",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/100551693?v=4",
-            "url": "https://github.com/yi1108"
-          },
-          "topics": [],
-          "createdAt": "2026-09-10T02:08:47Z",
-          "pushedAt": "2026-09-24T11:10:32Z",
-          "updatedAt": "2026-09-25T18:23:36Z",
-          "license": "MIT",
-          "rankGain": 4
-        },
-        {
-          "id": 1375069862,
-          "name": "kev",
-          "fullName": "jaredpalmer/kev",
-          "url": "https://github.com/jaredpalmer/kev",
-          "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
-          "stars": 6952,
-          "forks": 412,
-          "openIssues": 18,
-          "language": "Python",
-          "owner": {
-            "login": "jaredpalmer",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4060187?v=4",
-            "url": "https://github.com/jaredpalmer"
-          },
-          "topics": [
-            "decision-model",
-            "jev",
-            "qwen3"
-          ],
-          "createdAt": "2026-09-17T20:49:39Z",
-          "pushedAt": "2026-09-25T18:31:13Z",
-          "updatedAt": "2026-09-25T18:31:18Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1374561793,
-          "name": "awesome-jev",
-          "fullName": "yibie/awesome-jev",
-          "url": "https://github.com/yibie/awesome-jev",
-          "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-          "stars": 1671,
-          "forks": 241,
-          "openIssues": 14,
-          "language": "Python",
-          "owner": {
-            "login": "yibie",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/365484?v=4",
-            "url": "https://github.com/yibie"
-          },
-          "topics": [
-            "awesome",
-            "awesome-list",
-            "jev",
-            "llm"
-          ],
-          "createdAt": "2026-09-17T14:23:21Z",
-          "pushedAt": "2026-09-25T17:01:51Z",
-          "updatedAt": "2026-09-25T18:19:25Z",
-          "license": null,
-          "rankGain": 3
-        },
-        {
-          "id": 1354887280,
-          "name": "SoL-Pi",
-          "fullName": "NVlabs/SoL-Pi",
-          "url": "https://github.com/NVlabs/SoL-Pi",
-          "description": "SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses",
-          "stars": 3073,
-          "forks": 241,
-          "openIssues": 66,
-          "language": "TypeScript",
-          "owner": {
-            "login": "NVlabs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2695301?v=4",
-            "url": "https://github.com/NVlabs"
-          },
-          "topics": [],
-          "createdAt": "2026-09-02T14:48:47Z",
-          "pushedAt": "2026-09-25T18:31:25Z",
-          "updatedAt": "2026-09-25T18:28:44Z",
-          "license": "MIT",
-          "rankGain": 2
-        },
-        {
-          "id": 1371757322,
-          "name": "openmuse",
-          "fullName": "CopilotKit/openmuse",
-          "url": "https://github.com/CopilotKit/openmuse",
-          "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
-          "stars": 2189,
-          "forks": 242,
-          "openIssues": 28,
-          "language": "TypeScript",
-          "owner": {
-            "login": "CopilotKit",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
-            "url": "https://github.com/CopilotKit"
-          },
-          "topics": [],
-          "createdAt": "2026-09-15T16:05:44Z",
-          "pushedAt": "2026-09-25T18:31:59Z",
-          "updatedAt": "2026-09-25T18:31:11Z",
-          "license": "MIT",
-          "rankGain": 2
-        },
-        {
-          "id": 1375631360,
-          "name": "nimble",
-          "fullName": "bespokelabsai/nimble",
-          "url": "https://github.com/bespokelabsai/nimble",
-          "description": "Local typed decisions, contrastive data curation, and model evaluation.",
-          "stars": 1795,
-          "forks": 137,
-          "openIssues": 5,
-          "language": "Python",
-          "owner": {
-            "login": "bespokelabsai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/167806754?v=4",
-            "url": "https://github.com/bespokelabsai"
-          },
-          "topics": [],
-          "createdAt": "2026-09-18T09:07:48Z",
-          "pushedAt": "2026-09-24T06:05:31Z",
-          "updatedAt": "2026-09-25T17:44:00Z",
-          "license": null,
-          "rankGain": 2
-        },
-        {
-          "id": 1350984217,
-          "name": "DLSS5-Swapper",
-          "fullName": "rakanki911/DLSS5-Swapper",
-          "url": "https://github.com/rakanki911/DLSS5-Swapper",
-          "description": "Install, tune and restore DLSS 5 in your games with one click. Native RenoDX, DLSS5-Feeder for games without DLSS, OptiScaler and multipass routes; DirectX 8/9/11/12, Vulkan, OpenGL, DirectDraw and emulators. In-game F8 overlay, automatic backups, and a community page showing what works on your games and your graphics card.",
-          "stars": 6702,
-          "forks": 351,
-          "openIssues": 65,
-          "language": "JavaScript",
-          "owner": {
-            "login": "rakanki911",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/199753947?v=4",
-            "url": "https://github.com/rakanki911"
-          },
-          "topics": [],
-          "createdAt": "2026-08-29T23:51:32Z",
-          "pushedAt": "2026-09-13T02:02:21Z",
-          "updatedAt": "2026-09-25T18:28:52Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1379574728,
-          "name": "jev-chat-jarvis",
-          "fullName": "jev-chat/jev-chat-jarvis",
-          "url": "https://github.com/jev-chat/jev-chat-jarvis",
-          "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-          "stars": 6497,
-          "forks": 1129,
-          "openIssues": 25,
-          "language": "Kotlin",
-          "owner": {
-            "login": "jev-chat",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
-            "url": "https://github.com/jev-chat"
-          },
-          "topics": [
-            "accessibility-service",
-            "android",
-            "chat-assistant",
-            "llm",
-            "qq"
-          ],
-          "createdAt": "2026-09-21T11:12:53Z",
-          "pushedAt": "2026-09-25T18:02:03Z",
-          "updatedAt": "2026-09-25T18:20:28Z",
-          "license": "MIT",
-          "rankGain": 1
-        }
-      ],
-      "dropped": [
-        {
-          "id": 1346970181,
-          "name": "open-higgsfield",
-          "fullName": "wide-trace/open-higgsfield",
-          "url": "https://github.com/wide-trace/open-higgsfield",
-          "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-          "stars": 3694,
-          "forks": 833,
-          "openIssues": 7,
-          "language": "TypeScript",
-          "owner": {
-            "login": "wide-trace",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/321257738?v=4",
-            "url": "https://github.com/wide-trace"
-          },
-          "topics": [],
-          "createdAt": "2026-08-26T06:09:58Z",
-          "pushedAt": "2026-09-17T01:53:26Z",
-          "updatedAt": "2026-09-24T18:16:45Z",
-          "license": null
-        },
-        {
-          "id": 1352104394,
-          "name": "cn",
-          "fullName": "shadcn-ui/cn",
-          "url": "https://github.com/shadcn-ui/cn",
-          "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-          "stars": 1581,
-          "forks": 17,
-          "openIssues": 5,
-          "language": "TypeScript",
-          "owner": {
-            "login": "shadcn-ui",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/139895814?v=4",
-            "url": "https://github.com/shadcn-ui"
-          },
-          "topics": [
-            "clsx",
-            "cn",
-            "shadcn",
-            "tailwind-merge",
-            "tailwindcss"
-          ],
-          "createdAt": "2026-08-31T07:04:03Z",
-          "pushedAt": "2026-09-22T11:03:35Z",
-          "updatedAt": "2026-09-24T18:00:00Z",
-          "license": "MIT"
+          "license": "Apache-2.0"
         }
       ]
     },
     "activeWeek": {
-      "newcomers": [],
-      "risers": [
+      "newcomers": [
         {
-          "id": 184456251,
-          "name": "PowerToys",
-          "fullName": "microsoft/PowerToys",
-          "url": "https://github.com/microsoft/PowerToys",
-          "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-          "stars": 139009,
-          "forks": 8606,
-          "openIssues": 7713,
-          "language": "C",
+          "id": 1062897,
+          "name": "gitignore",
+          "fullName": "github/gitignore",
+          "url": "https://github.com/github/gitignore",
+          "description": "A collection of useful .gitignore templates",
+          "stars": 175923,
+          "forks": 82179,
+          "openIssues": 71,
+          "language": "Other",
           "owner": {
-            "login": "microsoft",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
-            "url": "https://github.com/microsoft"
+            "login": "github",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
+            "url": "https://github.com/github"
           },
           "topics": [
-            "advanced-paste",
-            "color-picker",
-            "command-palette",
-            "desktop",
-            "fancyzones",
-            "keyboard-manager",
-            "microsoft-powertoys",
-            "powerrename",
-            "powertoys",
-            "windows",
-            "windows-10",
-            "windows-11"
+            "git",
+            "gitignore"
           ],
-          "createdAt": "2019-05-01T17:44:02Z",
-          "pushedAt": "2026-09-25T16:29:07Z",
-          "updatedAt": "2026-09-25T18:17:38Z",
-          "license": "MIT",
-          "rankGain": 1
+          "createdAt": "2010-11-08T20:17:14Z",
+          "pushedAt": "2026-09-25T21:16:01Z",
+          "updatedAt": "2026-09-26T02:55:24Z",
+          "license": "CC0-1.0"
         }
       ],
-      "dropped": []
+      "risers": [],
+      "dropped": [
+        {
+          "id": 1179264259,
+          "name": "gstack",
+          "fullName": "garrytan/gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+          "stars": 134199,
+          "forks": 19993,
+          "openIssues": 945,
+          "language": "TypeScript",
+          "owner": {
+            "login": "garrytan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
+            "url": "https://github.com/garrytan"
+          },
+          "topics": [],
+          "createdAt": "2026-03-11T21:22:45Z",
+          "pushedAt": "2026-09-25T18:13:39Z",
+          "updatedAt": "2026-09-25T18:23:35Z",
+          "license": "MIT"
+        }
+      ]
     },
     "aiEco": {
       "newcomers": [],
-      "risers": [
-        {
-          "id": 1170821064,
-          "name": "paperclip",
-          "fullName": "paperclipai/paperclip",
-          "url": "https://github.com/paperclipai/paperclip",
-          "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 84322,
-          "forks": 15194,
-          "openIssues": 5675,
-          "language": "TypeScript",
-          "owner": {
-            "login": "paperclipai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/264498616?v=4",
-            "url": "https://github.com/paperclipai"
-          },
-          "topics": [],
-          "createdAt": "2026-03-02T15:01:51Z",
-          "pushedAt": "2026-09-25T18:28:57Z",
-          "updatedAt": "2026-09-25T18:31:58Z",
-          "license": "MIT",
-          "rankGain": 3
-        }
-      ],
+      "risers": [],
       "dropped": []
     },
     "secTraffic": {
@@ -469,323 +539,75 @@
     "secAiCyber": {
       "newcomers": [
         {
-          "id": 1145642293,
-          "name": "claude-code-owasp",
-          "fullName": "agamm/claude-code-owasp",
-          "url": "https://github.com/agamm/claude-code-owasp",
-          "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
-          "stars": 367,
-          "forks": 33,
-          "openIssues": 0,
-          "language": "JavaScript",
+          "id": 1226971975,
+          "name": "AiSOC",
+          "fullName": "beenuar/AiSOC",
+          "url": "https://github.com/beenuar/AiSOC",
+          "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+          "stars": 2368,
+          "forks": 260,
+          "openIssues": 8,
+          "language": "Python",
           "owner": {
-            "login": "agamm",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1269911?v=4",
-            "url": "https://github.com/agamm"
+            "login": "beenuar",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/19245630?v=4",
+            "url": "https://github.com/beenuar"
           },
           "topics": [
+            "agentic-ai",
             "ai-security",
-            "appsec",
-            "asvs",
-            "claude",
-            "claude-code",
-            "claude-skills",
-            "owasp",
-            "secure-coding",
-            "security",
-            "vulnerability"
+            "alert-triage",
+            "blue-team",
+            "cybersecurity",
+            "detection-engineering",
+            "incident-response",
+            "langgraph",
+            "llm-agents",
+            "mcp",
+            "mitre-attack",
+            "model-context-protocol",
+            "purple-team",
+            "security-operations",
+            "self-hosted",
+            "siem",
+            "soar",
+            "soc",
+            "threat-detection",
+            "threat-intelligence"
           ],
-          "createdAt": "2026-01-30T03:13:47Z",
-          "pushedAt": "2026-09-25T04:59:56Z",
-          "updatedAt": "2026-09-25T12:05:54Z",
+          "createdAt": "2026-05-02T03:30:19Z",
+          "pushedAt": "2026-09-26T05:02:26Z",
+          "updatedAt": "2026-09-26T05:02:05Z",
           "license": "MIT"
         }
       ],
-      "risers": [
-        {
-          "id": 1138455995,
-          "name": "zeroleaks",
-          "fullName": "ZeroLeaks/zeroleaks",
-          "url": "https://github.com/ZeroLeaks/zeroleaks",
-          "description": "AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities",
-          "stars": 736,
-          "forks": 113,
-          "openIssues": 1,
-          "language": "TypeScript",
-          "owner": {
-            "login": "ZeroLeaks",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/256168014?v=4",
-            "url": "https://github.com/ZeroLeaks"
-          },
-          "topics": [],
-          "createdAt": "2026-01-20T17:39:02Z",
-          "pushedAt": "2026-09-22T17:53:27Z",
-          "updatedAt": "2026-09-25T14:32:56Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
-        },
-        {
-          "id": 622163915,
-          "name": "awesome-MLSecOps",
-          "fullName": "RiccardoBiosas/awesome-MLSecOps",
-          "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps",
-          "description": "A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security.",
-          "stars": 473,
-          "forks": 114,
-          "openIssues": 21,
-          "language": "Astro",
-          "owner": {
-            "login": "RiccardoBiosas",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/65150720?v=4",
-            "url": "https://github.com/RiccardoBiosas"
-          },
-          "topics": [
-            "adversarial-machine-learning",
-            "agentic-security",
-            "ai-agents",
-            "ai-governance",
-            "ai-red-teaming",
-            "ai-security",
-            "data-poisoning",
-            "large-language-model",
-            "llm-security",
-            "machine-learning-security",
-            "mcp-security",
-            "mlops",
-            "mlops-security",
-            "mlsecops",
-            "model-poisoning",
-            "owasp",
-            "prompt-injection",
-            "rag-security",
-            "supply-chain-security",
-            "threat-modeling"
-          ],
-          "createdAt": "2023-04-01T10:06:32Z",
-          "pushedAt": "2026-09-09T14:05:10Z",
-          "updatedAt": "2026-09-25T15:10:54Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1145350046,
-          "name": "Zen-Ai-Pentest",
-          "fullName": "SHAdd0WTAka/Zen-Ai-Pentest",
-          "url": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
-          "description": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
-          "stars": 458,
-          "forks": 81,
-          "openIssues": 29,
-          "language": "Python",
-          "owner": {
-            "login": "SHAdd0WTAka",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/217851236?v=4",
-            "url": "https://github.com/SHAdd0WTAka"
-          },
-          "topics": [
-            "ai",
-            "automation",
-            "compliance",
-            "cybersecurity",
-            "ethical-hacking",
-            "framework",
-            "penetration-testing",
-            "pentesting",
-            "python",
-            "security",
-            "security-tools",
-            "vulnerability-scanner"
-          ],
-          "createdAt": "2026-01-29T17:54:27Z",
-          "pushedAt": "2026-09-13T22:23:06Z",
-          "updatedAt": "2026-09-19T06:09:58Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 978297458,
-          "name": "AISVS",
-          "fullName": "OWASP/AISVS",
-          "url": "https://github.com/OWASP/AISVS",
-          "description": "The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.",
-          "stars": 456,
-          "forks": 134,
-          "openIssues": 11,
-          "language": "Other",
-          "owner": {
-            "login": "OWASP",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/155815?v=4",
-            "url": "https://github.com/OWASP"
-          },
-          "topics": [
-            "aisecurity"
-          ],
-          "createdAt": "2025-05-05T19:12:06Z",
-          "pushedAt": "2026-09-23T10:20:20Z",
-          "updatedAt": "2026-09-24T20:40:26Z",
-          "license": "CC-BY-SA-4.0",
-          "rankGain": 1
-        },
-        {
-          "id": 1168714080,
-          "name": "Claude-Code-CyberSecurity-Skill",
-          "fullName": "Masriyan/Claude-Code-CyberSecurity-Skill",
-          "url": "https://github.com/Masriyan/Claude-Code-CyberSecurity-Skill",
-          "description": "22 production-quality Claude Code Skills for cybersecurity professionals — covering offensive security, defensive operations, reverse engineering, threat hunting, threat intelligence, purple team / adversary emulation, CSOC automation, AI/LLM security, mobile, OT/ICS, GRC, software supply chain security, and more. ",
-          "stars": 446,
-          "forks": 82,
-          "openIssues": 0,
-          "language": "Python",
-          "owner": {
-            "login": "Masriyan",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/15161949?v=4",
-            "url": "https://github.com/Masriyan"
-          },
-          "topics": [
-            "claude-skills",
-            "claudecode"
-          ],
-          "createdAt": "2026-02-27T17:59:14Z",
-          "pushedAt": "2026-09-07T15:58:00Z",
-          "updatedAt": "2026-09-25T18:28:56Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 593285023,
-          "name": "www-project-ai-security-and-privacy-guide",
-          "fullName": "OWASP/www-project-ai-security-and-privacy-guide",
-          "url": "https://github.com/OWASP/www-project-ai-security-and-privacy-guide",
-          "description": "OWASP Foundation Web Respository",
-          "stars": 429,
-          "forks": 125,
-          "openIssues": 25,
-          "language": "HTML",
-          "owner": {
-            "login": "OWASP",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/155815?v=4",
-            "url": "https://github.com/OWASP"
-          },
-          "topics": [],
-          "createdAt": "2023-01-25T16:58:18Z",
-          "pushedAt": "2026-09-24T20:30:18Z",
-          "updatedAt": "2026-09-24T20:30:25Z",
-          "license": null,
-          "rankGain": 1
-        },
-        {
-          "id": 1363844227,
-          "name": "ai-security-tool",
-          "fullName": "ZeroDayEvil/ai-security-tool",
-          "url": "https://github.com/ZeroDayEvil/ai-security-tool",
-          "description": "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
-          "stars": 414,
-          "forks": 7,
-          "openIssues": 0,
-          "language": "HTML",
-          "owner": {
-            "login": "ZeroDayEvil",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/256233687?v=4",
-            "url": "https://github.com/ZeroDayEvil"
-          },
-          "topics": [
-            "ai-agent",
-            "ctf",
-            "cve",
-            "cve-scanner",
-            "cybersecurity",
-            "deepseek",
-            "mcp",
-            "mcp-server",
-            "mcp-tools",
-            "nvd",
-            "openai",
-            "osv",
-            "pentesting",
-            "rdp",
-            "sbom",
-            "security-tools",
-            "sftp",
-            "ssh-client",
-            "terminal",
-            "vnc"
-          ],
-          "createdAt": "2026-09-10T09:38:49Z",
-          "pushedAt": "2026-09-19T13:41:49Z",
-          "updatedAt": "2026-09-25T13:33:46Z",
-          "license": "MIT",
-          "rankGain": 1
-        }
-      ],
-      "dropped": [
-        {
-          "id": 894433723,
-          "name": "Dark-Moon",
-          "fullName": "ASCIT31/Dark-Moon",
-          "url": "https://github.com/ASCIT31/Dark-Moon",
-          "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
-          "stars": 968,
-          "forks": 159,
-          "openIssues": 3,
-          "language": "Python",
-          "owner": {
-            "login": "ASCIT31",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/91746957?v=4",
-            "url": "https://github.com/ASCIT31"
-          },
-          "topics": [
-            "active-directory",
-            "ai-penetration-testing",
-            "ai-red-team",
-            "ai-red-teaming",
-            "ai-security",
-            "ai-security-tool",
-            "autonomous-ai",
-            "cloud-security",
-            "kubernetes",
-            "llm",
-            "llm-security",
-            "local-llm",
-            "mcp",
-            "offensive-security",
-            "penetration-testing",
-            "pentesting",
-            "red-team",
-            "security-tools",
-            "self-hosted",
-            "vulnerability-scanner"
-          ],
-          "createdAt": "2024-11-26T10:54:02Z",
-          "pushedAt": "2026-09-24T10:28:14Z",
-          "updatedAt": "2026-09-24T17:45:52Z",
-          "license": "GPL-3.0"
-        }
-      ]
+      "risers": [],
+      "dropped": []
     }
   },
   "summary": {
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 0,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 2,
+      "newcomers": 4,
       "risers": 10,
-      "dropped": 2
+      "dropped": 4
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 0,
-      "risers": 1,
-      "dropped": 0
+      "newcomers": 1,
+      "risers": 0,
+      "dropped": 1
     },
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 0,
       "dropped": 0
     },
     "secTraffic": {
@@ -795,10 +617,10 @@
       "dropped": 0
     },
     "secAiCyber": {
-      "total": 19,
+      "total": 20,
       "newcomers": 1,
-      "risers": 7,
-      "dropped": 1
+      "risers": 0,
+      "dropped": 0
     }
   }
 }
