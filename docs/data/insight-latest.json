@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:29:52.061Z",
+  "generatedAt": "2026-09-27T18:19:33.679Z",
   "date": "2026-09-27",
   "categories": {
     "allTime": {
@@ -10,14 +10,35 @@
     "breakout": {
       "newcomers": [
         {
+          "id": 1375997079,
+          "name": "how-to-live-better",
+          "fullName": "cdyforever/how-to-live-better",
+          "url": "https://github.com/cdyforever/how-to-live-better",
+          "description": "《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
+          "stars": 2211,
+          "forks": 128,
+          "openIssues": 3,
+          "language": "HTML",
+          "owner": {
+            "login": "cdyforever",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11661030?v=4",
+            "url": "https://github.com/cdyforever"
+          },
+          "topics": [],
+          "createdAt": "2026-09-18T14:35:08Z",
+          "pushedAt": "2026-09-26T00:13:47Z",
+          "updatedAt": "2026-09-27T18:17:59Z",
+          "license": null
+        },
+        {
           "id": 1384094559,
           "name": "CLM",
           "fullName": "Contrastive-LM/CLM",
           "url": "https://github.com/Contrastive-LM/CLM",
           "description": "暂无描述",
-          "stars": 1645,
-          "forks": 135,
-          "openIssues": 11,
+          "stars": 1837,
+          "forks": 157,
+          "openIssues": 15,
           "language": "Python",
           "owner": {
             "login": "Contrastive-LM",
@@ -27,7 +48,7 @@
           "topics": [],
           "createdAt": "2026-09-23T19:29:56Z",
           "pushedAt": "2026-09-24T23:10:28Z",
-          "updatedAt": "2026-09-27T05:28:46Z",
+          "updatedAt": "2026-09-27T18:15:09Z",
           "license": "Apache-2.0"
         },
         {
@@ -36,7 +57,7 @@
           "fullName": "achimala/dream-loop",
           "url": "https://github.com/achimala/dream-loop",
           "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-          "stars": 1567,
+          "stars": 1573,
           "forks": 166,
           "openIssues": 4,
           "language": "JavaScript",
@@ -48,7 +69,7 @@
           "topics": [],
           "createdAt": "2026-09-07T14:19:20Z",
           "pushedAt": "2026-09-09T22:43:38Z",
-          "updatedAt": "2026-09-27T03:16:18Z",
+          "updatedAt": "2026-09-27T16:40:43Z",
           "license": "MIT"
         },
         {
@@ -57,8 +78,8 @@
           "fullName": "QwenLM/Qwen-Image-2.1",
           "url": "https://github.com/QwenLM/Qwen-Image-2.1",
           "description": "Qwen's most powerful open-source image generation model",
-          "stars": 1538,
-          "forks": 82,
+          "stars": 1556,
+          "forks": 83,
           "openIssues": 16,
           "language": "Python",
           "owner": {
@@ -69,29 +90,8 @@
           "topics": [],
           "createdAt": "2026-09-14T04:12:17Z",
           "pushedAt": "2026-09-20T12:25:51Z",
-          "updatedAt": "2026-09-27T05:19:18Z",
+          "updatedAt": "2026-09-27T17:45:20Z",
           "license": "NOASSERTION"
-        },
-        {
-          "id": 1373976608,
-          "name": "open-glean",
-          "fullName": "hydra-db/open-glean",
-          "url": "https://github.com/hydra-db/open-glean",
-          "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
-          "stars": 1533,
-          "forks": 516,
-          "openIssues": 1,
-          "language": "TypeScript",
-          "owner": {
-            "login": "hydra-db",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/244433600?v=4",
-            "url": "https://github.com/hydra-db"
-          },
-          "topics": [],
-          "createdAt": "2026-09-17T05:22:08Z",
-          "pushedAt": "2026-09-17T05:46:34Z",
-          "updatedAt": "2026-09-27T04:11:19Z",
-          "license": "Apache-2.0"
         }
       ],
       "risers": [
@@ -101,8 +101,8 @@
           "fullName": "newliver666/apk-reverse",
           "url": "https://github.com/newliver666/apk-reverse",
           "description": "Suitable for Android APK reverse engineering analysis",
-          "stars": 2220,
-          "forks": 480,
+          "stars": 2632,
+          "forks": 549,
           "openIssues": 0,
           "language": "Python",
           "owner": {
@@ -113,9 +113,9 @@
           "topics": [],
           "createdAt": "2026-09-19T13:12:54Z",
           "pushedAt": "2026-09-24T09:22:21Z",
-          "updatedAt": "2026-09-27T05:29:36Z",
+          "updatedAt": "2026-09-27T18:18:20Z",
           "license": "MIT",
-          "rankGain": 9
+          "rankGain": 15
         },
         {
           "id": 1356644576,
@@ -123,9 +123,9 @@
           "fullName": "Taichu-AI/ZDTaichu5.0-9B",
           "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
           "description": "暂无描述",
-          "stars": 1745,
-          "forks": 294,
-          "openIssues": 2,
+          "stars": 1884,
+          "forks": 316,
+          "openIssues": 3,
           "language": "Python",
           "owner": {
             "login": "Taichu-AI",
@@ -135,9 +135,9 @@
           "topics": [],
           "createdAt": "2026-09-04T03:06:00Z",
           "pushedAt": "2026-09-17T06:47:25Z",
-          "updatedAt": "2026-09-27T05:22:14Z",
+          "updatedAt": "2026-09-27T17:52:40Z",
           "license": "Apache-2.0",
-          "rankGain": 7
+          "rankGain": 9
         },
         {
           "id": 1350978527,
@@ -145,7 +145,7 @@
           "fullName": "Ryze-AI-Adgent/open-seo-mcp-skills",
           "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
           "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp",
-          "stars": 2163,
+          "stars": 2345,
           "forks": 355,
           "openIssues": 1,
           "language": "Shell",
@@ -178,38 +178,67 @@
           ],
           "createdAt": "2026-08-29T23:37:01Z",
           "pushedAt": "2026-09-24T01:53:55Z",
-          "updatedAt": "2026-09-27T05:18:54Z",
+          "updatedAt": "2026-09-27T18:18:13Z",
           "license": "MIT",
-          "rankGain": 5
+          "rankGain": 6
         },
         {
-          "id": 1350323171,
-          "name": "Research-Starter-Kit",
-          "fullName": "LAMDA-NeSy/Research-Starter-Kit",
-          "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
-          "description": "从0开始，掌握做科研、写论文的基本流程。",
-          "stars": 1656,
-          "forks": 79,
-          "openIssues": 1,
-          "language": "Other",
+          "id": 1373659194,
+          "name": "jev-trader",
+          "fullName": "jarrodwatts/jev-trader",
+          "url": "https://github.com/jarrodwatts/jev-trader",
+          "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+          "stars": 2591,
+          "forks": 489,
+          "openIssues": 8,
+          "language": "TypeScript",
           "owner": {
-            "login": "LAMDA-NeSy",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/185795540?v=4",
-            "url": "https://github.com/LAMDA-NeSy"
+            "login": "jarrodwatts",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/35651410?v=4",
+            "url": "https://github.com/jarrodwatts"
+          },
+          "topics": [],
+          "createdAt": "2026-09-16T21:36:20Z",
+          "pushedAt": "2026-09-17T02:48:22Z",
+          "updatedAt": "2026-09-27T18:06:41Z",
+          "license": "MIT",
+          "rankGain": 4
+        },
+        {
+          "id": 1359963149,
+          "name": "qingjian",
+          "fullName": "qingjian-team/qingjian",
+          "url": "https://github.com/qingjian-team/qingjian",
+          "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+          "stars": 2075,
+          "forks": 173,
+          "openIssues": 85,
+          "language": "Rust",
+          "owner": {
+            "login": "qingjian-team",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/325692219?v=4",
+            "url": "https://github.com/qingjian-team"
           },
           "topics": [
-            "ai-research",
-            "awesome",
-            "awesome-list",
-            "phd",
-            "phd-research",
-            "research-assistant",
-            "research-skills"
+            "chinese",
+            "chinese-input-method",
+            "english-learning",
+            "ime",
+            "input-method",
+            "japanese-learning",
+            "language-learning",
+            "language-model",
+            "macos",
+            "offline",
+            "pinyin",
+            "rust",
+            "shuangpin",
+            "windows"
           ],
-          "createdAt": "2026-08-29T06:04:35Z",
-          "pushedAt": "2026-09-01T14:32:22Z",
-          "updatedAt": "2026-09-27T05:22:13Z",
-          "license": null,
+          "createdAt": "2026-09-07T08:25:30Z",
+          "pushedAt": "2026-09-24T03:57:49Z",
+          "updatedAt": "2026-09-27T17:43:55Z",
+          "license": "GPL-3.0",
           "rankGain": 4
         },
         {
@@ -218,8 +247,8 @@
           "fullName": "shadcn-ui/lint",
           "url": "https://github.com/shadcn-ui/lint",
           "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
-          "stars": 2839,
-          "forks": 53,
+          "stars": 2865,
+          "forks": 54,
           "openIssues": 15,
           "language": "TypeScript",
           "owner": {
@@ -239,7 +268,7 @@
           ],
           "createdAt": "2026-09-02T11:51:38Z",
           "pushedAt": "2026-09-22T11:30:38Z",
-          "updatedAt": "2026-09-27T05:02:44Z",
+          "updatedAt": "2026-09-27T17:26:00Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -249,9 +278,9 @@
           "fullName": "mcncarl/jianying-headless",
           "url": "https://github.com/mcncarl/jianying-headless",
           "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
-          "stars": 2750,
-          "forks": 1915,
-          "openIssues": 15,
+          "stars": 2819,
+          "forks": 1933,
+          "openIssues": 16,
           "language": "Python",
           "owner": {
             "login": "mcncarl",
@@ -261,7 +290,7 @@
           "topics": [],
           "createdAt": "2026-09-15T11:51:15Z",
           "pushedAt": "2026-09-27T01:50:33Z",
-          "updatedAt": "2026-09-27T05:04:14Z",
+          "updatedAt": "2026-09-27T17:37:01Z",
           "license": "NOASSERTION",
           "rankGain": 3
         },
@@ -271,7 +300,7 @@
           "fullName": "SonicloudTech/sonicloud_opensdk",
           "url": "https://github.com/SonicloudTech/sonicloud_opensdk",
           "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
-          "stars": 2589,
+          "stars": 2710,
           "forks": 61,
           "openIssues": 0,
           "language": "HTML",
@@ -283,75 +312,62 @@
           "topics": [],
           "createdAt": "2026-09-02T03:32:02Z",
           "pushedAt": "2026-09-18T07:59:00Z",
-          "updatedAt": "2026-09-26T09:49:48Z",
+          "updatedAt": "2026-09-27T14:40:13Z",
           "license": "MIT",
           "rankGain": 3
         },
         {
-          "id": 1357272370,
-          "name": "wechat-intelligence-hub",
-          "fullName": "Rion-Wu-tech/wechat-intelligence-hub",
-          "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-          "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-          "stars": 2546,
-          "forks": 2727,
-          "openIssues": 8,
-          "language": "Python",
-          "owner": {
-            "login": "Rion-Wu-tech",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/184370191?v=4",
-            "url": "https://github.com/Rion-Wu-tech"
-          },
-          "topics": [],
-          "createdAt": "2026-09-04T15:00:53Z",
-          "pushedAt": "2026-09-21T18:24:42Z",
-          "updatedAt": "2026-09-27T04:27:43Z",
-          "license": "AGPL-3.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1358295353,
-          "name": "codenotch",
-          "fullName": "vinzdg/codenotch",
-          "url": "https://github.com/vinzdg/codenotch",
-          "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-          "stars": 2523,
-          "forks": 390,
-          "openIssues": 35,
-          "language": "Swift",
-          "owner": {
-            "login": "vinzdg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/199352226?v=4",
-            "url": "https://github.com/vinzdg"
-          },
-          "topics": [],
-          "createdAt": "2026-09-05T14:55:35Z",
-          "pushedAt": "2026-09-26T13:21:51Z",
-          "updatedAt": "2026-09-27T02:31:29Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1373659194,
-          "name": "jev-trader",
-          "fullName": "jarrodwatts/jev-trader",
-          "url": "https://github.com/jarrodwatts/jev-trader",
-          "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-          "stars": 2517,
-          "forks": 473,
-          "openIssues": 7,
+          "id": 1371757322,
+          "name": "openmuse",
+          "fullName": "CopilotKit/openmuse",
+          "url": "https://github.com/CopilotKit/openmuse",
+          "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+          "stars": 2531,
+          "forks": 318,
+          "openIssues": 32,
           "language": "TypeScript",
           "owner": {
-            "login": "jarrodwatts",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/35651410?v=4",
-            "url": "https://github.com/jarrodwatts"
+            "login": "CopilotKit",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
+            "url": "https://github.com/CopilotKit"
           },
           "topics": [],
-          "createdAt": "2026-09-16T21:36:20Z",
-          "pushedAt": "2026-09-17T02:48:22Z",
-          "updatedAt": "2026-09-27T05:20:50Z",
+          "createdAt": "2026-09-15T16:05:44Z",
+          "pushedAt": "2026-09-26T19:45:41Z",
+          "updatedAt": "2026-09-27T18:01:34Z",
           "license": "MIT",
           "rankGain": 3
+        },
+        {
+          "id": 1351879111,
+          "name": "reef",
+          "fullName": "Human-Agent-Society/reef",
+          "url": "https://github.com/Human-Agent-Society/reef",
+          "description": "Infrastructure for continually self‑improving agents",
+          "stars": 6327,
+          "forks": 567,
+          "openIssues": 95,
+          "language": "Python",
+          "owner": {
+            "login": "Human-Agent-Society",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/268553699?v=4",
+            "url": "https://github.com/Human-Agent-Society"
+          },
+          "topics": [
+            "agent-infrastructure",
+            "ai-agents",
+            "continual-learning",
+            "inference",
+            "llm",
+            "llm-training",
+            "reinforcement-learning",
+            "self-improving-agents"
+          ],
+          "createdAt": "2026-08-31T01:39:18Z",
+          "pushedAt": "2026-09-27T17:48:42Z",
+          "updatedAt": "2026-09-27T18:10:34Z",
+          "license": "Apache-2.0",
+          "rankGain": 2
         }
       ],
       "dropped": [
@@ -483,342 +499,65 @@
     "activeWeek": {
       "newcomers": [
         {
-          "id": 1179264259,
-          "name": "gstack",
-          "fullName": "garrytan/gstack",
-          "url": "https://github.com/garrytan/gstack",
-          "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-          "stars": 134288,
-          "forks": 20008,
-          "openIssues": 940,
-          "language": "TypeScript",
+          "id": 307260205,
+          "name": "yt-dlp",
+          "fullName": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "stars": 193922,
+          "forks": 16826,
+          "openIssues": 2679,
+          "language": "Python",
           "owner": {
-            "login": "garrytan",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/19957?v=4",
-            "url": "https://github.com/garrytan"
+            "login": "yt-dlp",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
+            "url": "https://github.com/yt-dlp"
           },
-          "topics": [],
-          "createdAt": "2026-03-11T21:22:45Z",
-          "pushedAt": "2026-09-26T22:57:53Z",
-          "updatedAt": "2026-09-27T05:27:01Z",
-          "license": "MIT"
+          "topics": [
+            "cli",
+            "downloader",
+            "python",
+            "sponsorblock",
+            "youtube-dl",
+            "youtube-downloader",
+            "yt-dlp"
+          ],
+          "createdAt": "2020-10-26T04:22:55Z",
+          "pushedAt": "2026-09-27T17:55:49Z",
+          "updatedAt": "2026-09-27T18:18:58Z",
+          "license": "Unlicense"
         }
       ],
       "risers": [
         {
-          "id": 23096959,
-          "name": "go",
-          "fullName": "golang/go",
-          "url": "https://github.com/golang/go",
-          "description": "The Go programming language",
-          "stars": 139047,
-          "forks": 20635,
-          "openIssues": 10242,
-          "language": "Go",
-          "owner": {
-            "login": "golang",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4314092?v=4",
-            "url": "https://github.com/golang"
-          },
-          "topics": [
-            "go",
-            "golang",
-            "language",
-            "programming-language"
-          ],
-          "createdAt": "2014-08-19T04:33:40Z",
-          "pushedAt": "2026-09-26T22:27:59Z",
-          "updatedAt": "2026-09-27T05:02:05Z",
-          "license": "BSD-3-Clause",
-          "rankGain": 2
-        },
-        {
-          "id": 1061953414,
-          "name": "skills",
-          "fullName": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description": "Public repository for Agent Skills",
-          "stars": 178578,
-          "forks": 21133,
-          "openIssues": 1338,
+          "id": 1042367133,
+          "name": "spec-kit",
+          "fullName": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "💫 Toolkit to help you get started with SDD or any other process!",
+          "stars": 139100,
+          "forks": 12464,
+          "openIssues": 283,
           "language": "Python",
-          "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
-          },
-          "topics": [
-            "agent-skills"
-          ],
-          "createdAt": "2025-09-22T15:53:31Z",
-          "pushedAt": "2026-09-24T16:20:39Z",
-          "updatedAt": "2026-09-27T05:23:38Z",
-          "license": null,
-          "rankGain": 1
-        },
-        {
-          "id": 1062897,
-          "name": "gitignore",
-          "fullName": "github/gitignore",
-          "url": "https://github.com/github/gitignore",
-          "description": "A collection of useful .gitignore templates",
-          "stars": 175947,
-          "forks": 82177,
-          "openIssues": 72,
-          "language": "Other",
           "owner": {
             "login": "github",
             "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
             "url": "https://github.com/github"
           },
           "topics": [
-            "git",
-            "gitignore"
-          ],
-          "createdAt": "2010-11-08T20:17:14Z",
-          "pushedAt": "2026-09-25T21:16:01Z",
-          "updatedAt": "2026-09-27T05:28:36Z",
-          "license": "CC0-1.0",
-          "rankGain": 1
-        },
-        {
-          "id": 2126244,
-          "name": "bootstrap",
-          "fullName": "twbs/bootstrap",
-          "url": "https://github.com/twbs/bootstrap",
-          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
-          "stars": 174931,
-          "forks": 78585,
-          "openIssues": 229,
-          "language": "MDX",
-          "owner": {
-            "login": "twbs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4",
-            "url": "https://github.com/twbs"
-          },
-          "topics": [
-            "bootstrap",
-            "css",
-            "css-framework",
-            "html",
-            "javascript",
-            "sass",
-            "scss"
-          ],
-          "createdAt": "2011-07-29T21:19:00Z",
-          "pushedAt": "2026-09-26T20:10:02Z",
-          "updatedAt": "2026-09-27T04:54:43Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 155220641,
-          "name": "transformers",
-          "fullName": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-          "stars": 166704,
-          "forks": 34690,
-          "openIssues": 2385,
-          "language": "Python",
-          "owner": {
-            "login": "huggingface",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/25720743?v=4",
-            "url": "https://github.com/huggingface"
-          },
-          "topics": [
-            "audio",
-            "deep-learning",
-            "deepseek",
-            "gemma",
-            "glm",
-            "hacktoberfest",
-            "llm",
-            "machine-learning",
-            "model-hub",
-            "natural-language-processing",
-            "nlp",
-            "pretrained-models",
-            "python",
-            "pytorch",
-            "pytorch-transformers",
-            "qwen",
-            "speech-recognition",
-            "transformer",
-            "vlm"
-          ],
-          "createdAt": "2018-10-29T13:56:00Z",
-          "pushedAt": "2026-09-27T02:09:00Z",
-          "updatedAt": "2026-09-27T04:54:02Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 132464395,
-          "name": "JavaGuide",
-          "fullName": "Snailclimb/JavaGuide",
-          "url": "https://github.com/Snailclimb/JavaGuide",
-          "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-          "stars": 158900,
-          "forks": 46144,
-          "openIssues": 20,
-          "language": "JavaScript",
-          "owner": {
-            "login": "Snailclimb",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/29880145?v=4",
-            "url": "https://github.com/Snailclimb"
-          },
-          "topics": [
-            "agent",
             "ai",
-            "context-engineering",
-            "deepseek",
-            "interview",
-            "java",
-            "mcp",
-            "mysql",
-            "redis",
-            "redisson",
-            "skills",
-            "springai",
-            "system-design"
+            "copilot",
+            "development",
+            "engineering",
+            "prd",
+            "spec",
+            "spec-driven"
           ],
-          "createdAt": "2018-05-07T13:27:00Z",
-          "pushedAt": "2026-09-22T09:58:35Z",
-          "updatedAt": "2026-09-27T05:26:16Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 626805178,
-          "name": "dify",
-          "fullName": "langgenius/dify",
-          "url": "https://github.com/langgenius/dify",
-          "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "stars": 157299,
-          "forks": 24792,
-          "openIssues": 1128,
-          "language": "TypeScript",
-          "owner": {
-            "login": "langgenius",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
-            "url": "https://github.com/langgenius"
-          },
-          "topics": [
-            "agent",
-            "agentic-ai",
-            "agentic-framework",
-            "agentic-workflow",
-            "ai",
-            "automation",
-            "claude",
-            "deepseek",
-            "genai",
-            "gpt",
-            "llm",
-            "low-code",
-            "mcp",
-            "nextjs",
-            "no-code",
-            "openai",
-            "python",
-            "skills",
-            "workflow"
-          ],
-          "createdAt": "2023-04-12T07:40:24Z",
-          "pushedAt": "2026-09-26T18:41:17Z",
-          "updatedAt": "2026-09-27T05:27:30Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
-        },
-        {
-          "id": 599320067,
-          "name": "langflow",
-          "fullName": "langflow-ai/langflow",
-          "url": "https://github.com/langflow-ai/langflow",
-          "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-          "stars": 155289,
-          "forks": 10150,
-          "openIssues": 1188,
-          "language": "Python",
-          "owner": {
-            "login": "langflow-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
-            "url": "https://github.com/langflow-ai"
-          },
-          "topics": [
-            "agents",
-            "chatgpt",
-            "generative-ai",
-            "large-language-models",
-            "multiagent",
-            "react-flow"
-          ],
-          "createdAt": "2023-02-08T22:28:03Z",
-          "pushedAt": "2026-09-27T00:45:07Z",
-          "updatedAt": "2026-09-27T04:52:37Z",
+          "createdAt": "2025-08-21T22:54:31Z",
+          "pushedAt": "2026-09-25T20:31:03Z",
+          "updatedAt": "2026-09-27T18:19:26Z",
           "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1075372545,
-          "name": "agency-agents",
-          "fullName": "msitarzewski/agency-agents",
-          "url": "https://github.com/msitarzewski/agency-agents",
-          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-          "stars": 154794,
-          "forks": 24964,
-          "openIssues": 148,
-          "language": "Shell",
-          "owner": {
-            "login": "msitarzewski",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1972242?v=4",
-            "url": "https://github.com/msitarzewski"
-          },
-          "topics": [],
-          "createdAt": "2025-10-13T12:12:29Z",
-          "pushedAt": "2026-09-22T02:38:53Z",
-          "updatedAt": "2026-09-27T05:26:17Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 701547123,
-          "name": "open-webui",
-          "fullName": "open-webui/open-webui",
-          "url": "https://github.com/open-webui/open-webui",
-          "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-          "stars": 153285,
-          "forks": 22431,
-          "openIssues": 324,
-          "language": "Python",
-          "owner": {
-            "login": "open-webui",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/158137808?v=4",
-            "url": "https://github.com/open-webui"
-          },
-          "topics": [
-            "ai",
-            "llm",
-            "llm-ui",
-            "llm-webui",
-            "llms",
-            "mcp",
-            "ollama",
-            "ollama-webui",
-            "open-webui",
-            "openai",
-            "openapi",
-            "rag",
-            "self-hosted",
-            "ui",
-            "webui"
-          ],
-          "createdAt": "2023-10-06T22:08:27Z",
-          "pushedAt": "2026-09-26T03:28:13Z",
-          "updatedAt": "2026-09-27T05:27:27Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
+          "rankGain": 2
         }
       ],
       "dropped": [
@@ -859,9 +598,9 @@
           "fullName": "paperclipai/paperclip",
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
-          "stars": 87757,
-          "forks": 15476,
-          "openIssues": 5767,
+          "stars": 89242,
+          "forks": 15607,
+          "openIssues": 5827,
           "language": "TypeScript",
           "owner": {
             "login": "paperclipai",
@@ -870,8 +609,8 @@
           },
           "topics": [],
           "createdAt": "2026-03-02T15:01:51Z",
-          "pushedAt": "2026-09-27T03:47:02Z",
-          "updatedAt": "2026-09-27T05:29:08Z",
+          "pushedAt": "2026-09-27T12:25:56Z",
+          "updatedAt": "2026-09-27T18:19:23Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -885,7 +624,49 @@
     },
     "secAiCyber": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1237232532,
+          "name": "agentgg",
+          "fullName": "agentgg-dev/agentgg",
+          "url": "https://github.com/agentgg-dev/agentgg",
+          "description": "Open source agentic SAST. The engine behind hundreds of disclosed zero-days. 100+ AI security agents, any repo or PR diff, bring your own model.",
+          "stars": 369,
+          "forks": 50,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "agentgg-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/284173600?v=4",
+            "url": "https://github.com/agentgg-dev"
+          },
+          "topics": [
+            "ai-agents",
+            "ai-hacking",
+            "ai-penetration-testing",
+            "appsec",
+            "cli",
+            "code-quality",
+            "code-review",
+            "cybersecurity",
+            "cybersecurity-tools",
+            "ethical-hacking",
+            "llm",
+            "llm-security",
+            "sast",
+            "security",
+            "security-automation",
+            "security-tools",
+            "static-analysis",
+            "vulnerability-scanner"
+          ],
+          "createdAt": "2026-05-13T02:04:55Z",
+          "pushedAt": "2026-09-16T02:32:25Z",
+          "updatedAt": "2026-09-27T17:38:44Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     }
   },
@@ -905,7 +686,7 @@
     "activeWeek": {
       "total": 50,
       "newcomers": 1,
-      "risers": 10,
+      "risers": 1,
       "dropped": 1
     },
     "aiEco": {
@@ -923,7 +704,7 @@
     "secAiCyber": {
       "total": 20,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     }
   }
