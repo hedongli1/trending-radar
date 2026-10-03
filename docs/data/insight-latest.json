@@ -1,30 +1,116 @@
 {
-  "generatedAt": "2026-10-03T05:31:48.705Z",
+  "generatedAt": "2026-10-03T17:54:36.459Z",
   "date": "2026-10-03",
   "categories": {
     "allTime": {
       "newcomers": [],
       "risers": [
         {
-          "id": 2325298,
-          "name": "linux",
-          "fullName": "torvalds/linux",
-          "url": "https://github.com/torvalds/linux",
-          "description": "Linux kernel source tree",
-          "stars": 250879,
-          "forks": 66542,
-          "openIssues": 3,
-          "language": "C",
+          "id": 1024554267,
+          "name": "hermes-agent",
+          "fullName": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "stars": 250946,
+          "forks": 53796,
+          "openIssues": 47805,
+          "language": "Python",
           "owner": {
-            "login": "torvalds",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1024025?v=4",
-            "url": "https://github.com/torvalds"
+            "login": "NousResearch",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
+            "url": "https://github.com/NousResearch"
           },
-          "topics": [],
-          "createdAt": "2011-09-04T22:48:12Z",
-          "pushedAt": "2026-10-03T03:46:09Z",
-          "updatedAt": "2026-10-03T05:18:05Z",
-          "license": "NOASSERTION",
+          "topics": [
+            "ai",
+            "ai-agent",
+            "ai-agents",
+            "anthropic",
+            "chatgpt",
+            "claude",
+            "claude-code",
+            "codex",
+            "hermes",
+            "hermes-agent",
+            "llm",
+            "nous-research",
+            "openai"
+          ],
+          "createdAt": "2025-07-22T22:22:28Z",
+          "pushedAt": "2026-10-03T17:53:00Z",
+          "updatedAt": "2026-10-03T17:53:08Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 307260205,
+          "name": "yt-dlp",
+          "fullName": "yt-dlp/yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "A feature-rich command-line audio/video downloader",
+          "stars": 195233,
+          "forks": 16957,
+          "openIssues": 2676,
+          "language": "Python",
+          "owner": {
+            "login": "yt-dlp",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/79589310?v=4",
+            "url": "https://github.com/yt-dlp"
+          },
+          "topics": [
+            "cli",
+            "downloader",
+            "python",
+            "sponsorblock",
+            "youtube-dl",
+            "youtube-downloader",
+            "yt-dlp"
+          ],
+          "createdAt": "2020-10-26T04:22:55Z",
+          "pushedAt": "2026-09-27T22:09:13Z",
+          "updatedAt": "2026-10-03T17:49:44Z",
+          "license": "Unlicense",
+          "rankGain": 1
+        },
+        {
+          "id": 787076358,
+          "name": "firecrawl",
+          "fullName": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+          "stars": 188195,
+          "forks": 10011,
+          "openIssues": 516,
+          "language": "TypeScript",
+          "owner": {
+            "login": "firecrawl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
+            "url": "https://github.com/firecrawl"
+          },
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-crawler",
+            "ai-scraping",
+            "ai-search",
+            "crawler",
+            "data-extraction",
+            "html-to-markdown",
+            "llm",
+            "markdown",
+            "scraper",
+            "scraping",
+            "web-crawler",
+            "web-data",
+            "web-data-extraction",
+            "web-scraper",
+            "web-scraping",
+            "web-search",
+            "webscraping"
+          ],
+          "createdAt": "2024-04-15T21:02:29Z",
+          "pushedAt": "2026-10-03T17:50:07Z",
+          "updatedAt": "2026-10-03T17:52:36Z",
+          "license": "AGPL-3.0",
           "rankGain": 1
         }
       ],
@@ -33,14 +119,35 @@
     "breakout": {
       "newcomers": [
         {
+          "id": 1396117711,
+          "name": "OpenDots",
+          "fullName": "CopilotKit/OpenDots",
+          "url": "https://github.com/CopilotKit/OpenDots",
+          "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+          "stars": 2175,
+          "forks": 271,
+          "openIssues": 22,
+          "language": "TypeScript",
+          "owner": {
+            "login": "CopilotKit",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
+            "url": "https://github.com/CopilotKit"
+          },
+          "topics": [],
+          "createdAt": "2026-09-29T17:13:58Z",
+          "pushedAt": "2026-10-02T21:16:45Z",
+          "updatedAt": "2026-10-03T17:54:25Z",
+          "license": "MIT"
+        },
+        {
           "id": 1366969284,
           "name": "workbuddy2api-panel",
           "fullName": "linguo2625469/workbuddy2api-panel",
           "url": "https://github.com/linguo2625469/workbuddy2api-panel",
           "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
-          "stars": 1728,
-          "forks": 503,
-          "openIssues": 43,
+          "stars": 1786,
+          "forks": 520,
+          "openIssues": 48,
           "language": "Go",
           "owner": {
             "login": "linguo2625469",
@@ -58,33 +165,7 @@
           ],
           "createdAt": "2026-09-12T05:13:46Z",
           "pushedAt": "2026-10-01T13:16:44Z",
-          "updatedAt": "2026-10-03T05:27:24Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1374998940,
-          "name": "Relapse-Exploit",
-          "fullName": "ntfargo/Relapse-Exploit",
-          "url": "https://github.com/ntfargo/Relapse-Exploit",
-          "description": "Exploit chain for PS5 7.00 - 13.60",
-          "stars": 1698,
-          "forks": 402,
-          "openIssues": 10,
-          "language": "JavaScript",
-          "owner": {
-            "login": "ntfargo",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/32229490?v=4",
-            "url": "https://github.com/ntfargo"
-          },
-          "topics": [
-            "exploit",
-            "kernel",
-            "research",
-            "webkit"
-          ],
-          "createdAt": "2026-09-17T19:45:13Z",
-          "pushedAt": "2026-09-30T19:28:05Z",
-          "updatedAt": "2026-10-03T05:01:38Z",
+          "updatedAt": "2026-10-03T17:11:43Z",
           "license": "MIT"
         }
       ],
@@ -95,9 +176,9 @@
           "fullName": "rehan-remade/universal-modder",
           "url": "https://github.com/rehan-remade/universal-modder",
           "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-          "stars": 2227,
-          "forks": 173,
-          "openIssues": 11,
+          "stars": 2508,
+          "forks": 206,
+          "openIssues": 23,
           "language": "Python",
           "owner": {
             "login": "rehan-remade",
@@ -118,53 +199,9 @@
           ],
           "createdAt": "2026-09-30T05:00:35Z",
           "pushedAt": "2026-09-30T23:39:09Z",
-          "updatedAt": "2026-10-03T05:29:19Z",
+          "updatedAt": "2026-10-03T17:49:38Z",
           "license": "MIT",
-          "rankGain": 8
-        },
-        {
-          "id": 1378971656,
-          "name": "deepopen",
-          "fullName": "deepopen-com/deepopen",
-          "url": "https://github.com/deepopen-com/deepopen",
-          "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
-          "stars": 2058,
-          "forks": 221,
-          "openIssues": 14,
-          "language": "Python",
-          "owner": {
-            "login": "deepopen-com",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/331844194?v=4",
-            "url": "https://github.com/deepopen-com"
-          },
-          "topics": [],
-          "createdAt": "2026-09-21T02:12:24Z",
-          "pushedAt": "2026-09-28T20:36:42Z",
-          "updatedAt": "2026-10-03T04:30:07Z",
-          "license": "Apache-2.0",
-          "rankGain": 5
-        },
-        {
-          "id": 1385817306,
-          "name": "DiPlay",
-          "fullName": "shihabal3amri/DiPlay",
-          "url": "https://github.com/shihabal3amri/DiPlay",
-          "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-          "stars": 2586,
-          "forks": 354,
-          "openIssues": 67,
-          "language": "Kotlin",
-          "owner": {
-            "login": "shihabal3amri",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/42039842?v=4",
-            "url": "https://github.com/shihabal3amri"
-          },
-          "topics": [],
-          "createdAt": "2026-09-24T15:36:38Z",
-          "pushedAt": "2026-10-02T22:26:25Z",
-          "updatedAt": "2026-10-03T05:30:33Z",
-          "license": "GPL-3.0",
-          "rankGain": 4
+          "rankGain": 12
         },
         {
           "id": 1372164083,
@@ -172,8 +209,8 @@
           "fullName": "OffGridPete/Fieldwatch",
           "url": "https://github.com/OffGridPete/Fieldwatch",
           "description": "Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT.",
-          "stars": 1989,
-          "forks": 237,
+          "stars": 2155,
+          "forks": 256,
           "openIssues": 2,
           "language": "Kotlin",
           "owner": {
@@ -183,10 +220,54 @@
           },
           "topics": [],
           "createdAt": "2026-09-15T21:42:26Z",
-          "pushedAt": "2026-10-02T19:35:59Z",
-          "updatedAt": "2026-10-03T05:30:56Z",
+          "pushedAt": "2026-10-03T17:01:15Z",
+          "updatedAt": "2026-10-03T17:53:36Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 9
+        },
+        {
+          "id": 1385817306,
+          "name": "DiPlay",
+          "fullName": "shihabal3amri/DiPlay",
+          "url": "https://github.com/shihabal3amri/DiPlay",
+          "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+          "stars": 2957,
+          "forks": 396,
+          "openIssues": 77,
+          "language": "Kotlin",
+          "owner": {
+            "login": "shihabal3amri",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/42039842?v=4",
+            "url": "https://github.com/shihabal3amri"
+          },
+          "topics": [],
+          "createdAt": "2026-09-24T15:36:38Z",
+          "pushedAt": "2026-10-03T17:12:22Z",
+          "updatedAt": "2026-10-03T17:47:40Z",
+          "license": "GPL-3.0",
+          "rankGain": 7
+        },
+        {
+          "id": 1385946301,
+          "name": "Strata",
+          "fullName": "Niko1221/Strata",
+          "url": "https://github.com/Niko1221/Strata",
+          "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+          "stars": 8123,
+          "forks": 718,
+          "openIssues": 177,
+          "language": "C++",
+          "owner": {
+            "login": "Niko1221",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/86886444?v=4",
+            "url": "https://github.com/Niko1221"
+          },
+          "topics": [],
+          "createdAt": "2026-09-24T16:40:20Z",
+          "pushedAt": "2026-10-03T01:17:05Z",
+          "updatedAt": "2026-10-03T17:51:52Z",
+          "license": "MIT",
+          "rankGain": 6
         },
         {
           "id": 1361439328,
@@ -194,8 +275,8 @@
           "fullName": "Edge0-AI/Edge0",
           "url": "https://github.com/Edge0-AI/Edge0",
           "description": "暂无描述",
-          "stars": 2481,
-          "forks": 243,
+          "stars": 2626,
+          "forks": 276,
           "openIssues": 24,
           "language": "Python",
           "owner": {
@@ -206,30 +287,52 @@
           "topics": [],
           "createdAt": "2026-09-08T13:41:47Z",
           "pushedAt": "2026-10-02T10:10:48Z",
-          "updatedAt": "2026-10-03T05:29:38Z",
+          "updatedAt": "2026-10-03T16:54:24Z",
+          "license": "Apache-2.0",
+          "rankGain": 5
+        },
+        {
+          "id": 1378971656,
+          "name": "deepopen",
+          "fullName": "deepopen-com/deepopen",
+          "url": "https://github.com/deepopen-com/deepopen",
+          "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+          "stars": 2060,
+          "forks": 220,
+          "openIssues": 14,
+          "language": "Python",
+          "owner": {
+            "login": "deepopen-com",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/331844194?v=4",
+            "url": "https://github.com/deepopen-com"
+          },
+          "topics": [],
+          "createdAt": "2026-09-21T02:12:24Z",
+          "pushedAt": "2026-09-28T20:36:42Z",
+          "updatedAt": "2026-10-03T14:17:41Z",
           "license": "Apache-2.0",
           "rankGain": 3
         },
         {
-          "id": 1385946301,
-          "name": "Strata",
-          "fullName": "Niko1221/Strata",
-          "url": "https://github.com/Niko1221/Strata",
-          "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-          "stars": 6813,
-          "forks": 603,
-          "openIssues": 108,
-          "language": "C++",
+          "id": 1358588929,
+          "name": "handraw-style",
+          "fullName": "yang0/handraw-style",
+          "url": "https://github.com/yang0/handraw-style",
+          "description": "手绘风格编号画廊与双语提示词 Skill",
+          "stars": 4044,
+          "forks": 486,
+          "openIssues": 5,
+          "language": "HTML",
           "owner": {
-            "login": "Niko1221",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/86886444?v=4",
-            "url": "https://github.com/Niko1221"
+            "login": "yang0",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3478629?v=4",
+            "url": "https://github.com/yang0"
           },
           "topics": [],
-          "createdAt": "2026-09-24T16:40:20Z",
-          "pushedAt": "2026-10-03T01:17:05Z",
-          "updatedAt": "2026-10-03T05:31:12Z",
-          "license": "MIT",
+          "createdAt": "2026-09-05T21:57:22Z",
+          "pushedAt": "2026-10-03T15:04:59Z",
+          "updatedAt": "2026-10-03T16:29:46Z",
+          "license": "NOASSERTION",
           "rankGain": 2
         },
         {
@@ -238,9 +341,9 @@
           "fullName": "Louis-CFM/coucou",
           "url": "https://github.com/Louis-CFM/coucou",
           "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-          "stars": 3029,
-          "forks": 465,
-          "openIssues": 108,
+          "stars": 3169,
+          "forks": 496,
+          "openIssues": 120,
           "language": "Swift",
           "owner": {
             "login": "Louis-CFM",
@@ -268,8 +371,8 @@
             "windows"
           ],
           "createdAt": "2026-09-27T21:54:12Z",
-          "pushedAt": "2026-10-03T02:11:41Z",
-          "updatedAt": "2026-10-03T05:22:20Z",
+          "pushedAt": "2026-10-03T16:59:26Z",
+          "updatedAt": "2026-10-03T17:44:31Z",
           "license": "MIT",
           "rankGain": 2
         },
@@ -279,7 +382,7 @@
           "fullName": "Taichu-AI/ZDTaichu5.0-9B",
           "url": "https://github.com/Taichu-AI/ZDTaichu5.0-9B",
           "description": "暂无描述",
-          "stars": 2975,
+          "stars": 2987,
           "forks": 551,
           "openIssues": 3,
           "language": "Python",
@@ -291,7 +394,7 @@
           "topics": [],
           "createdAt": "2026-09-04T03:06:00Z",
           "pushedAt": "2026-09-17T06:47:25Z",
-          "updatedAt": "2026-10-03T05:22:14Z",
+          "updatedAt": "2026-10-03T14:17:40Z",
           "license": "Apache-2.0",
           "rankGain": 2
         },
@@ -301,7 +404,7 @@
           "fullName": "TheoLeeCJ/SemIf-OpenJev",
           "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
           "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-          "stars": 4662,
+          "stars": 4674,
           "forks": 333,
           "openIssues": 44,
           "language": "Python",
@@ -313,36 +416,7 @@
           "topics": [],
           "createdAt": "2026-09-16T03:51:21Z",
           "pushedAt": "2026-09-23T18:48:22Z",
-          "updatedAt": "2026-10-03T05:31:06Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1383809012,
-          "name": "magpie",
-          "fullName": "yetone/magpie",
-          "url": "https://github.com/yetone/magpie",
-          "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-          "stars": 4307,
-          "forks": 290,
-          "openIssues": 69,
-          "language": "Go",
-          "owner": {
-            "login": "yetone",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?v=4",
-            "url": "https://github.com/yetone"
-          },
-          "topics": [
-            "claude-code",
-            "codex",
-            "deepseek",
-            "gemini-cli",
-            "llm",
-            "macos"
-          ],
-          "createdAt": "2026-09-23T16:22:35Z",
-          "pushedAt": "2026-10-03T05:28:16Z",
-          "updatedAt": "2026-10-03T05:30:17Z",
+          "updatedAt": "2026-10-03T17:23:33Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -396,25 +470,81 @@
       "newcomers": [],
       "risers": [
         {
-          "id": 2325298,
-          "name": "linux",
-          "fullName": "torvalds/linux",
-          "url": "https://github.com/torvalds/linux",
-          "description": "Linux kernel source tree",
-          "stars": 250879,
-          "forks": 66542,
-          "openIssues": 3,
-          "language": "C",
+          "id": 1024554267,
+          "name": "hermes-agent",
+          "fullName": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "description": "The agent that grows with you",
+          "stars": 250946,
+          "forks": 53796,
+          "openIssues": 47805,
+          "language": "Python",
           "owner": {
-            "login": "torvalds",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1024025?v=4",
-            "url": "https://github.com/torvalds"
+            "login": "NousResearch",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/134168893?v=4",
+            "url": "https://github.com/NousResearch"
           },
-          "topics": [],
-          "createdAt": "2011-09-04T22:48:12Z",
-          "pushedAt": "2026-10-03T03:46:09Z",
-          "updatedAt": "2026-10-03T05:18:05Z",
-          "license": "NOASSERTION",
+          "topics": [
+            "ai",
+            "ai-agent",
+            "ai-agents",
+            "anthropic",
+            "chatgpt",
+            "claude",
+            "claude-code",
+            "codex",
+            "hermes",
+            "hermes-agent",
+            "llm",
+            "nous-research",
+            "openai"
+          ],
+          "createdAt": "2025-07-22T22:22:28Z",
+          "pushedAt": "2026-10-03T17:53:00Z",
+          "updatedAt": "2026-10-03T17:53:08Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 787076358,
+          "name": "firecrawl",
+          "fullName": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+          "stars": 188195,
+          "forks": 10011,
+          "openIssues": 516,
+          "language": "TypeScript",
+          "owner": {
+            "login": "firecrawl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
+            "url": "https://github.com/firecrawl"
+          },
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-crawler",
+            "ai-scraping",
+            "ai-search",
+            "crawler",
+            "data-extraction",
+            "html-to-markdown",
+            "llm",
+            "markdown",
+            "scraper",
+            "scraping",
+            "web-crawler",
+            "web-data",
+            "web-data-extraction",
+            "web-scraper",
+            "web-scraping",
+            "web-search",
+            "webscraping"
+          ],
+          "createdAt": "2024-04-15T21:02:29Z",
+          "pushedAt": "2026-10-03T17:50:07Z",
+          "updatedAt": "2026-10-03T17:52:36Z",
+          "license": "AGPL-3.0",
           "rankGain": 1
         }
       ],
@@ -426,346 +556,9 @@
       "dropped": []
     },
     "secTraffic": {
-      "newcomers": [
-        {
-          "id": 605904349,
-          "name": "encrypted-dns-profiles",
-          "fullName": "mullvad/encrypted-dns-profiles",
-          "url": "https://github.com/mullvad/encrypted-dns-profiles",
-          "description": "macOS and iOS profiles to configure our DNS over TLS and DNS over HTTPS service. Can be applied with human interaction, or via MDM.",
-          "stars": 753,
-          "forks": 51,
-          "openIssues": 2,
-          "language": "Other",
-          "owner": {
-            "login": "mullvad",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/10848549?v=4",
-            "url": "https://github.com/mullvad"
-          },
-          "topics": [],
-          "createdAt": "2023-02-24T06:35:10Z",
-          "pushedAt": "2026-09-07T05:19:40Z",
-          "updatedAt": "2026-09-28T13:41:34Z",
-          "license": null
-        }
-      ],
-      "risers": [
-        {
-          "id": 120375466,
-          "name": "doh-server",
-          "fullName": "DNSCrypt/doh-server",
-          "url": "https://github.com/DNSCrypt/doh-server",
-          "description": "Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.",
-          "stars": 1071,
-          "forks": 103,
-          "openIssues": 0,
-          "language": "Rust",
-          "owner": {
-            "login": "DNSCrypt",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/34526273?v=4",
-            "url": "https://github.com/DNSCrypt"
-          },
-          "topics": [
-            "dns",
-            "dnscrypt",
-            "dnscrypt-proxy",
-            "doh",
-            "doh-connections",
-            "doh-proxy",
-            "doh-server",
-            "doh-service",
-            "encrypted-dns-server",
-            "http",
-            "oblivious-dns-over-https",
-            "odoh",
-            "proxy",
-            "server"
-          ],
-          "createdAt": "2018-02-05T23:29:47Z",
-          "pushedAt": "2026-09-28T14:03:14Z",
-          "updatedAt": "2026-09-28T14:03:38Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1016852234,
-          "name": "InstagramPrivSniffer",
-          "fullName": "obitouka/InstagramPrivSniffer",
-          "url": "https://github.com/obitouka/InstagramPrivSniffer",
-          "description": " First ever tool to view \"Instagram private posts\" anonymously ",
-          "stars": 1038,
-          "forks": 160,
-          "openIssues": 5,
-          "language": "Python",
-          "owner": {
-            "login": "obitouka",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/151845173?v=4",
-            "url": "https://github.com/obitouka"
-          },
-          "topics": [
-            "awesome",
-            "awesome-cli",
-            "awesome-hacking",
-            "awesome-osint",
-            "awesome-python",
-            "awesome-tool",
-            "cli",
-            "cli-tool",
-            "hacking",
-            "hacking-tool",
-            "instagram-privsniffer",
-            "instagram-tool",
-            "open-source",
-            "osint",
-            "osint-tool",
-            "privsniffer",
-            "python",
-            "scraper"
-          ],
-          "createdAt": "2025-07-09T16:14:02Z",
-          "pushedAt": "2026-09-18T16:05:42Z",
-          "updatedAt": "2026-10-03T04:18:36Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 138287889,
-          "name": "cloud-probe",
-          "fullName": "Netis/cloud-probe",
-          "url": "https://github.com/Netis/cloud-probe",
-          "description": "A Software Probe for network packet capturing and forwarding in Cloud/Kubernetes and Virtualized environment.",
-          "stars": 963,
-          "forks": 173,
-          "openIssues": 23,
-          "language": "C",
-          "owner": {
-            "login": "Netis",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/5688247?v=4",
-            "url": "https://github.com/Netis"
-          },
-          "topics": [
-            "capture",
-            "cloud",
-            "docker",
-            "gre",
-            "kubernetes",
-            "netis",
-            "network",
-            "pcap",
-            "sniffer",
-            "tcpdump",
-            "traffic",
-            "vxlan"
-          ],
-          "createdAt": "2018-06-22T10:08:33Z",
-          "pushedAt": "2026-10-02T03:58:18Z",
-          "updatedAt": "2026-09-30T10:03:18Z",
-          "license": "BSD-3-Clause",
-          "rankGain": 1
-        },
-        {
-          "id": 287662588,
-          "name": "CatSniffer",
-          "fullName": "ElectronicCats/CatSniffer",
-          "url": "https://github.com/ElectronicCats/CatSniffer",
-          "description": "CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacking IoT (Internet of Things) devices using the latest radio IoT protocols. It is a highly portable USB stick that integrates TI CC1352, Semtech SX1262, and an RP2040 for V3 or a Microchip SAMD21E17 for V2",
-          "stars": 952,
-          "forks": 109,
-          "openIssues": 2,
-          "language": "Python",
-          "owner": {
-            "login": "ElectronicCats",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/16904656?v=4",
-            "url": "https://github.com/ElectronicCats"
-          },
-          "topics": [
-            "ble",
-            "hardware",
-            "lora",
-            "matter",
-            "rp2040",
-            "samd21",
-            "security",
-            "security-tools",
-            "sidewalk",
-            "sniffers",
-            "zigbee"
-          ],
-          "createdAt": "2020-08-15T02:24:25Z",
-          "pushedAt": "2026-09-22T22:41:50Z",
-          "updatedAt": "2026-10-02T20:11:24Z",
-          "license": "NOASSERTION",
-          "rankGain": 1
-        },
-        {
-          "id": 843422414,
-          "name": "super-video-downloader",
-          "fullName": "alexch33/super-video-downloader",
-          "url": "https://github.com/alexch33/super-video-downloader",
-          "description": "Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOCKS proxy chains supported, encrypted DNS, Adblocker with lists managenment",
-          "stars": 944,
-          "forks": 119,
-          "openIssues": 18,
-          "language": "Kotlin",
-          "owner": {
-            "login": "alexch33",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/33638165?v=4",
-            "url": "https://github.com/alexch33"
-          },
-          "topics": [
-            "ad-block",
-            "all-in-one-video-downloader",
-            "all-video-downloader",
-            "android",
-            "android-video-downloader",
-            "audio",
-            "audio-downloader",
-            "download-manager",
-            "downloader-for-youtube",
-            "livestream",
-            "m3u8-downloader",
-            "mpd-downloader",
-            "video",
-            "video-download",
-            "video-download-tool",
-            "video-downloader",
-            "videoplayer",
-            "web-browser",
-            "youtube-dlp"
-          ],
-          "createdAt": "2024-08-16T13:33:09Z",
-          "pushedAt": "2026-09-17T07:10:28Z",
-          "updatedAt": "2026-09-30T00:52:56Z",
-          "license": "GPL-3.0",
-          "rankGain": 1
-        },
-        {
-          "id": 1110910539,
-          "name": "M5PORKCHOP",
-          "fullName": "0ct0sec/M5PORKCHOP",
-          "url": "https://github.com/0ct0sec/M5PORKCHOP",
-          "description": "ON NO! Someone put an RPG in a packet sniffer",
-          "stars": 900,
-          "forks": 62,
-          "openIssues": 39,
-          "language": "C++",
-          "owner": {
-            "login": "0ct0sec",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/6583437?v=4",
-            "url": "https://github.com/0ct0sec"
-          },
-          "topics": [
-            "cybersecurity-awareness",
-            "cybersecurity-education",
-            "cybersecurity-tools",
-            "esp32-s3",
-            "security"
-          ],
-          "createdAt": "2025-12-05T23:08:55Z",
-          "pushedAt": "2026-09-11T09:43:29Z",
-          "updatedAt": "2026-10-02T20:23:29Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 38586494,
-          "name": "dnscrypt-server-docker",
-          "fullName": "DNSCrypt/dnscrypt-server-docker",
-          "url": "https://github.com/DNSCrypt/dnscrypt-server-docker",
-          "description": "A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver",
-          "stars": 818,
-          "forks": 154,
-          "openIssues": 1,
-          "language": "Shell",
-          "owner": {
-            "login": "DNSCrypt",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/34526273?v=4",
-            "url": "https://github.com/DNSCrypt"
-          },
-          "topics": [
-            "dns",
-            "dns-resolver",
-            "dnscrypt",
-            "dnscrypt-proxy",
-            "dnssec",
-            "docker",
-            "docker-image",
-            "doh"
-          ],
-          "createdAt": "2015-07-05T22:27:32Z",
-          "pushedAt": "2026-09-25T10:29:07Z",
-          "updatedAt": "2026-09-25T10:29:13Z",
-          "license": "ISC",
-          "rankGain": 1
-        },
-        {
-          "id": 313745578,
-          "name": "RootWire",
-          "fullName": "EONRaider/RootWire",
-          "url": "https://github.com/EONRaider/RootWire",
-          "description": "RootWire: A network traffic monitor for GNU/Linux — Live Capture, PCAP Replay, NDJSON Output. Formerly Packet-Sniffer.",
-          "stars": 786,
-          "forks": 110,
-          "openIssues": 0,
-          "language": "Python",
-          "owner": {
-            "login": "EONRaider",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/15611424?v=4",
-            "url": "https://github.com/EONRaider"
-          },
-          "topics": [
-            "ethical-hacking",
-            "network-programming",
-            "packet-sniffer",
-            "pentesting-tools",
-            "tcp-ip"
-          ],
-          "createdAt": "2020-11-17T21:18:53Z",
-          "pushedAt": "2026-09-24T00:36:21Z",
-          "updatedAt": "2026-09-24T00:36:25Z",
-          "license": "AGPL-3.0",
-          "rankGain": 1
-        }
-      ],
-      "dropped": [
-        {
-          "id": 782416935,
-          "name": "ptcpdump",
-          "fullName": "mozillazg/ptcpdump",
-          "url": "https://github.com/mozillazg/ptcpdump",
-          "description": "Process-aware, eBPF-based tcpdump",
-          "stars": 1281,
-          "forks": 68,
-          "openIssues": 30,
-          "language": "C",
-          "owner": {
-            "login": "mozillazg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/485054?v=4",
-            "url": "https://github.com/mozillazg"
-          },
-          "topics": [
-            "bpf",
-            "container",
-            "ebpf",
-            "ebpf-go",
-            "ebpf-tc",
-            "forensics",
-            "kubernetes",
-            "network-capture",
-            "packet-capture",
-            "pcap",
-            "pcapng",
-            "process-aware",
-            "sniffer",
-            "tcpdump",
-            "tcpdump-like"
-          ],
-          "createdAt": "2024-04-05T08:59:43Z",
-          "pushedAt": "2026-09-03T06:11:07Z",
-          "updatedAt": "2026-10-02T11:35:47Z",
-          "license": "MIT"
-        }
-      ]
+      "newcomers": [],
+      "risers": [],
+      "dropped": []
     },
     "secAiCyber": {
       "newcomers": [],
@@ -776,9 +569,9 @@
           "fullName": "OWASP/AISVS",
           "url": "https://github.com/OWASP/AISVS",
           "description": "The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.",
-          "stars": 470,
-          "forks": 138,
-          "openIssues": 3,
+          "stars": 503,
+          "forks": 142,
+          "openIssues": 4,
           "language": "Other",
           "owner": {
             "login": "OWASP",
@@ -790,9 +583,9 @@
           ],
           "createdAt": "2025-05-05T19:12:06Z",
           "pushedAt": "2026-10-01T15:49:09Z",
-          "updatedAt": "2026-10-03T03:43:36Z",
+          "updatedAt": "2026-10-03T17:46:35Z",
           "license": "CC-BY-SA-4.0",
-          "rankGain": 1
+          "rankGain": 3
         }
       ],
       "dropped": []
@@ -802,7 +595,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 3,
       "dropped": 0
     },
     "breakout": {
@@ -814,7 +607,7 @@
     "activeWeek": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "aiEco": {
@@ -825,9 +618,9 @@
     },
     "secTraffic": {
       "total": 40,
-      "newcomers": 1,
-      "risers": 8,
-      "dropped": 1
+      "newcomers": 0,
+      "risers": 0,
+      "dropped": 0
     },
     "secAiCyber": {
       "total": 21,
