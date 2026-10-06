@@ -1,10 +1,33 @@
 {
-  "generatedAt": "2026-10-06T06:37:50.136Z",
+  "generatedAt": "2026-10-06T19:29:44.297Z",
   "date": "2026-10-06",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1148788086,
+          "name": "skills",
+          "fullName": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "description": "Skills for Real Engineers. Straight from my .agents directory.",
+          "stars": 277939,
+          "forks": 23273,
+          "openIssues": 319,
+          "language": "Shell",
+          "owner": {
+            "login": "mattpocock",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
+            "url": "https://github.com/mattpocock"
+          },
+          "topics": [],
+          "createdAt": "2026-02-03T11:15:53Z",
+          "pushedAt": "2026-10-06T19:04:26Z",
+          "updatedAt": "2026-10-06T19:29:33Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
@@ -15,9 +38,9 @@
           "fullName": "nykooi1/vibe-wise",
           "url": "https://github.com/nykooi1/vibe-wise",
           "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-          "stars": 1924,
-          "forks": 92,
-          "openIssues": 13,
+          "stars": 2431,
+          "forks": 112,
+          "openIssues": 17,
           "language": "Python",
           "owner": {
             "login": "nykooi1",
@@ -27,73 +50,73 @@
           "topics": [],
           "createdAt": "2026-09-29T01:29:57Z",
           "pushedAt": "2026-10-01T11:26:14Z",
-          "updatedAt": "2026-10-06T06:36:27Z",
+          "updatedAt": "2026-10-06T19:28:03Z",
           "license": "MIT"
+        },
+        {
+          "id": 1385896447,
+          "name": "dsh-our-free-model",
+          "fullName": "Ebony-Vinyl/dsh-our-free-model",
+          "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+          "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+          "stars": 2164,
+          "forks": 52,
+          "openIssues": 35,
+          "language": "JavaScript",
+          "owner": {
+            "login": "Ebony-Vinyl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/245557608?v=4",
+            "url": "https://github.com/Ebony-Vinyl"
+          },
+          "topics": [
+            "ai-agents",
+            "deepseek",
+            "deepseek-harness",
+            "developer-tools",
+            "dsh",
+            "dsh-plugin",
+            "free-model",
+            "llm",
+            "model-provider",
+            "openai-compatible"
+          ],
+          "createdAt": "2026-09-24T16:17:19Z",
+          "pushedAt": "2026-10-06T16:30:23Z",
+          "updatedAt": "2026-10-06T19:28:00Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1379137016,
+          "name": "omnirush-gui",
+          "fullName": "omnirush-ai/omnirush-gui",
+          "url": "https://github.com/omnirush-ai/omnirush-gui",
+          "description": "A desktop coding agent with free access to frontier models.",
+          "stars": 2156,
+          "forks": 37,
+          "openIssues": 19,
+          "language": "TypeScript",
+          "owner": {
+            "login": "omnirush-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/331686911?v=4",
+            "url": "https://github.com/omnirush-ai"
+          },
+          "topics": [],
+          "createdAt": "2026-09-21T05:26:26Z",
+          "pushedAt": "2026-10-06T19:00:40Z",
+          "updatedAt": "2026-10-06T19:29:17Z",
+          "license": "NOASSERTION"
         }
       ],
       "risers": [
-        {
-          "id": 1394989252,
-          "name": "RemoveMacAI",
-          "fullName": "omlahore/RemoveMacAI",
-          "url": "https://github.com/omlahore/RemoveMacAI",
-          "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
-          "stars": 2311,
-          "forks": 51,
-          "openIssues": 5,
-          "language": "Swift",
-          "owner": {
-            "login": "omlahore",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/119071446?v=4",
-            "url": "https://github.com/omlahore"
-          },
-          "topics": [
-            "apple-intelligence",
-            "cli",
-            "debloat",
-            "macos",
-            "macos-27",
-            "privacy",
-            "siri",
-            "swift"
-          ],
-          "createdAt": "2026-09-29T11:02:39Z",
-          "pushedAt": "2026-10-05T22:56:01Z",
-          "updatedAt": "2026-10-06T06:35:13Z",
-          "license": "MIT",
-          "rankGain": 12
-        },
-        {
-          "id": 1385776214,
-          "name": "DroidDeck",
-          "fullName": "Droid-Deck/DroidDeck",
-          "url": "https://github.com/Droid-Deck/DroidDeck",
-          "description": "DroidDeck brings the SteamOS experience to Android",
-          "stars": 2183,
-          "forks": 67,
-          "openIssues": 91,
-          "language": "C",
-          "owner": {
-            "login": "Droid-Deck",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/333418672?v=4",
-            "url": "https://github.com/Droid-Deck"
-          },
-          "topics": [],
-          "createdAt": "2026-09-24T15:14:13Z",
-          "pushedAt": "2026-10-06T04:15:41Z",
-          "updatedAt": "2026-10-06T06:36:49Z",
-          "license": "GPL-3.0",
-          "rankGain": 10
-        },
         {
           "id": 1398080271,
           "name": "photocraft",
           "fullName": "storytold/photocraft",
           "url": "https://github.com/storytold/photocraft",
           "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
-          "stars": 2281,
-          "forks": 238,
-          "openIssues": 44,
+          "stars": 4475,
+          "forks": 482,
+          "openIssues": 62,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -115,10 +138,118 @@
             "rust"
           ],
           "createdAt": "2026-09-30T13:37:48Z",
-          "pushedAt": "2026-10-06T01:19:56Z",
-          "updatedAt": "2026-10-06T06:35:38Z",
+          "pushedAt": "2026-10-06T19:29:01Z",
+          "updatedAt": "2026-10-06T19:29:38Z",
           "license": "Apache-2.0",
-          "rankGain": 8
+          "rankGain": 27
+        },
+        {
+          "id": 1394989252,
+          "name": "RemoveMacAI",
+          "fullName": "omlahore/RemoveMacAI",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+          "stars": 2974,
+          "forks": 71,
+          "openIssues": 10,
+          "language": "Swift",
+          "owner": {
+            "login": "omlahore",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/119071446?v=4",
+            "url": "https://github.com/omlahore"
+          },
+          "topics": [
+            "apple-intelligence",
+            "cli",
+            "debloat",
+            "macos",
+            "macos-27",
+            "privacy",
+            "siri",
+            "swift"
+          ],
+          "createdAt": "2026-09-29T11:02:39Z",
+          "pushedAt": "2026-10-06T13:53:25Z",
+          "updatedAt": "2026-10-06T19:28:43Z",
+          "license": "MIT",
+          "rankGain": 20
+        },
+        {
+          "id": 1385776214,
+          "name": "DroidDeck",
+          "fullName": "Droid-Deck/DroidDeck",
+          "url": "https://github.com/Droid-Deck/DroidDeck",
+          "description": "DroidDeck brings the SteamOS experience to Android",
+          "stars": 2631,
+          "forks": 81,
+          "openIssues": 115,
+          "language": "Kotlin",
+          "owner": {
+            "login": "Droid-Deck",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/333418672?v=4",
+            "url": "https://github.com/Droid-Deck"
+          },
+          "topics": [],
+          "createdAt": "2026-09-24T15:14:13Z",
+          "pushedAt": "2026-10-06T19:26:17Z",
+          "updatedAt": "2026-10-06T19:27:46Z",
+          "license": "GPL-3.0",
+          "rankGain": 17
+        },
+        {
+          "id": 1397016507,
+          "name": "universal-modder",
+          "fullName": "rehan-remade/universal-modder",
+          "url": "https://github.com/rehan-remade/universal-modder",
+          "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+          "stars": 4473,
+          "forks": 393,
+          "openIssues": 28,
+          "language": "Python",
+          "owner": {
+            "login": "rehan-remade",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/173837546?v=4",
+            "url": "https://github.com/rehan-remade"
+          },
+          "topics": [
+            "age-of-empires",
+            "claude-code",
+            "claude-code-plugin",
+            "fal",
+            "game-assets",
+            "game-modding",
+            "mcp",
+            "modding",
+            "reverse-engineering",
+            "tmodloader"
+          ],
+          "createdAt": "2026-09-30T05:00:35Z",
+          "pushedAt": "2026-10-06T13:21:39Z",
+          "updatedAt": "2026-10-06T19:25:13Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1373614120,
+          "name": "Compositor",
+          "fullName": "robbietilton/Compositor",
+          "url": "https://github.com/robbietilton/Compositor",
+          "description": "The Photoshop alternative for Mac",
+          "stars": 8950,
+          "forks": 882,
+          "openIssues": 67,
+          "language": "Swift",
+          "owner": {
+            "login": "robbietilton",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1269226?v=4",
+            "url": "https://github.com/robbietilton"
+          },
+          "topics": [],
+          "createdAt": "2026-09-16T20:35:54Z",
+          "pushedAt": "2026-09-29T21:42:59Z",
+          "updatedAt": "2026-10-06T19:28:37Z",
+          "license": "MIT",
+          "rankGain": 1
         },
         {
           "id": 1385817306,
@@ -126,9 +257,9 @@
           "fullName": "shihabal3amri/DiPlay",
           "url": "https://github.com/shihabal3amri/DiPlay",
           "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-          "stars": 4906,
-          "forks": 631,
-          "openIssues": 152,
+          "stars": 5296,
+          "forks": 685,
+          "openIssues": 182,
           "language": "Kotlin",
           "owner": {
             "login": "shihabal3amri",
@@ -137,57 +268,120 @@
           },
           "topics": [],
           "createdAt": "2026-09-24T15:36:38Z",
-          "pushedAt": "2026-10-06T05:35:35Z",
-          "updatedAt": "2026-10-06T06:37:28Z",
+          "pushedAt": "2026-10-06T16:40:52Z",
+          "updatedAt": "2026-10-06T19:25:52Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
         {
-          "id": 1396117711,
-          "name": "OpenDots",
-          "fullName": "CopilotKit/OpenDots",
-          "url": "https://github.com/CopilotKit/OpenDots",
-          "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-          "stars": 3731,
-          "forks": 496,
-          "openIssues": 41,
-          "language": "TypeScript",
+          "id": 1359963149,
+          "name": "qingjian",
+          "fullName": "qingjian-team/qingjian",
+          "url": "https://github.com/qingjian-team/qingjian",
+          "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+          "stars": 4759,
+          "forks": 331,
+          "openIssues": 228,
+          "language": "Rust",
           "owner": {
-            "login": "CopilotKit",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
-            "url": "https://github.com/CopilotKit"
+            "login": "qingjian-team",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/325692219?v=4",
+            "url": "https://github.com/qingjian-team"
           },
-          "topics": [],
-          "createdAt": "2026-09-29T17:13:58Z",
-          "pushedAt": "2026-10-05T22:37:47Z",
-          "updatedAt": "2026-10-06T06:32:31Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1372164083,
-          "name": "Fieldwatch",
-          "fullName": "OffGridPete/Fieldwatch",
-          "url": "https://github.com/OffGridPete/Fieldwatch",
-          "description": "Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT.",
-          "stars": 2581,
-          "forks": 293,
-          "openIssues": 5,
-          "language": "Kotlin",
-          "owner": {
-            "login": "OffGridPete",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/318650424?v=4",
-            "url": "https://github.com/OffGridPete"
-          },
-          "topics": [],
-          "createdAt": "2026-09-15T21:42:26Z",
-          "pushedAt": "2026-10-05T17:00:05Z",
-          "updatedAt": "2026-10-06T06:24:59Z",
-          "license": "MIT",
+          "topics": [
+            "chinese",
+            "chinese-input-method",
+            "english-learning",
+            "ime",
+            "input-method",
+            "japanese-learning",
+            "language-learning",
+            "language-model",
+            "macos",
+            "offline",
+            "pinyin",
+            "rust",
+            "shuangpin",
+            "windows"
+          ],
+          "createdAt": "2026-09-07T08:25:30Z",
+          "pushedAt": "2026-10-05T18:47:16Z",
+          "updatedAt": "2026-10-06T18:44:35Z",
+          "license": "GPL-3.0",
           "rankGain": 1
         }
       ],
       "dropped": [
+        {
+          "id": 1381076098,
+          "name": "efjvysuz",
+          "fullName": "Avenuezensport/efjvysuz",
+          "url": "https://github.com/Avenuezensport/efjvysuz",
+          "description": "Welcome to Shnek-Tools, a multi-tool with a multitude of options. All functions are completely free and functional. We hope you enjoy it and don't hesitate to give it a star.",
+          "stars": 1902,
+          "forks": 0,
+          "openIssues": 0,
+          "language": "Other",
+          "owner": {
+            "login": "Avenuezensport",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/332386379?v=4",
+            "url": "https://github.com/Avenuezensport"
+          },
+          "topics": [
+            "discord-automation",
+            "discord-chatbot",
+            "discord-joiner",
+            "discord-multi-tool",
+            "discord-multitool",
+            "discord-multitools",
+            "discord-nuke-bot",
+            "discord-nuker",
+            "discord-nukers",
+            "discord-raid",
+            "discord-raid-tool",
+            "discord-token-gen",
+            "discord-token-login",
+            "discord-tokens",
+            "discord-tool",
+            "multi-tools",
+            "multitool",
+            "selfbot-discord",
+            "token-joiner",
+            "token-nuker"
+          ],
+          "createdAt": "2026-09-22T07:52:09Z",
+          "pushedAt": "2026-10-04T05:30:54Z",
+          "updatedAt": "2026-10-05T15:57:40Z",
+          "license": null
+        },
+        {
+          "id": 1378081384,
+          "name": "ISpotify",
+          "fullName": "RubinLabs26/ISpotify",
+          "url": "https://github.com/RubinLabs26/ISpotify",
+          "description": "Local-first desktop music search, playlist, download, and playback app for Windows and Linux",
+          "stars": 1901,
+          "forks": 1,
+          "openIssues": 3,
+          "language": "Python",
+          "owner": {
+            "login": "RubinLabs26",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/331578739?v=4",
+            "url": "https://github.com/RubinLabs26"
+          },
+          "topics": [
+            "linux",
+            "music-player",
+            "pyside6",
+            "python",
+            "windows",
+            "yt-dlp"
+          ],
+          "createdAt": "2026-09-20T07:51:15Z",
+          "pushedAt": "2026-09-29T07:21:58Z",
+          "updatedAt": "2026-10-03T12:50:00Z",
+          "license": "MIT"
+        },
         {
           "id": 1359610661,
           "name": "holo-card-studio",
@@ -219,9 +413,9 @@
           "fullName": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "stars": 295731,
-          "forks": 26409,
-          "openIssues": 313,
+          "stars": 295966,
+          "forks": 26425,
+          "openIssues": 318,
           "language": "Shell",
           "owner": {
             "login": "obra",
@@ -239,8 +433,8 @@
             "superpowers"
           ],
           "createdAt": "2025-10-09T19:45:18Z",
-          "pushedAt": "2026-10-06T05:15:48Z",
-          "updatedAt": "2026-10-06T06:35:01Z",
+          "pushedAt": "2026-10-06T15:47:19Z",
+          "updatedAt": "2026-10-06T19:23:01Z",
           "license": "MIT"
         }
       ],
@@ -312,8 +506,8 @@
           "fullName": "DNSCrypt/dnscrypt-proxy",
           "url": "https://github.com/DNSCrypt/dnscrypt-proxy",
           "description": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
-          "stars": 13722,
-          "forks": 1140,
+          "stars": 13723,
+          "forks": 1141,
           "openIssues": 5,
           "language": "Go",
           "owner": {
@@ -337,7 +531,7 @@
           ],
           "createdAt": "2018-01-08T23:21:21Z",
           "pushedAt": "2026-09-30T23:12:03Z",
-          "updatedAt": "2026-10-06T02:59:07Z",
+          "updatedAt": "2026-10-06T09:08:04Z",
           "license": "ISC",
           "rankGain": 1
         },
@@ -347,7 +541,7 @@
           "fullName": "kubeshark/kubeshark",
           "url": "https://github.com/kubeshark/kubeshark",
           "description": "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.",
-          "stars": 12093,
+          "stars": 12094,
           "forks": 551,
           "openIssues": 144,
           "language": "Go",
@@ -380,7 +574,7 @@
           ],
           "createdAt": "2021-04-19T10:29:56Z",
           "pushedAt": "2026-09-30T22:35:19Z",
-          "updatedAt": "2026-10-05T17:33:52Z",
+          "updatedAt": "2026-10-06T13:18:43Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -390,7 +584,7 @@
           "fullName": "alufers/mitmproxy2swagger",
           "url": "https://github.com/alufers/mitmproxy2swagger",
           "description": "Automagically reverse-engineer REST APIs via capturing traffic",
-          "stars": 9633,
+          "stars": 9636,
           "forks": 377,
           "openIssues": 17,
           "language": "HTML",
@@ -407,7 +601,7 @@
           ],
           "createdAt": "2022-05-11T23:48:49Z",
           "pushedAt": "2026-10-05T19:15:37Z",
-          "updatedAt": "2026-10-06T00:21:34Z",
+          "updatedAt": "2026-10-06T15:43:07Z",
           "license": null,
           "rankGain": 1
         },
@@ -417,8 +611,8 @@
           "fullName": "mediago-dev/mediago",
           "url": "https://github.com/mediago-dev/mediago",
           "description": "Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + 🦞.",
-          "stars": 9243,
-          "forks": 828,
+          "stars": 9244,
+          "forks": 827,
           "openIssues": 81,
           "language": "TypeScript",
           "owner": {
@@ -439,7 +633,7 @@
           ],
           "createdAt": "2021-01-30T18:39:00Z",
           "pushedAt": "2026-10-06T06:36:16Z",
-          "updatedAt": "2026-10-05T10:26:07Z",
+          "updatedAt": "2026-10-06T17:55:58Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -449,9 +643,9 @@
           "fullName": "RfidResearchGroup/proxmark3",
           "url": "https://github.com/RfidResearchGroup/proxmark3",
           "description": "Iceman Fork - Proxmark3",
-          "stars": 6123,
+          "stars": 6125,
           "forks": 1449,
-          "openIssues": 48,
+          "openIssues": 47,
           "language": "C",
           "owner": {
             "login": "RfidResearchGroup",
@@ -481,8 +675,8 @@
             "sniffer"
           ],
           "createdAt": "2018-08-12T12:37:00Z",
-          "pushedAt": "2026-10-04T12:43:23Z",
-          "updatedAt": "2026-10-06T04:49:48Z",
+          "pushedAt": "2026-10-06T12:57:09Z",
+          "updatedAt": "2026-10-06T18:35:09Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
@@ -492,9 +686,9 @@
           "fullName": "celzero/rethink-app",
           "url": "https://github.com/celzero/rethink-app",
           "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
-          "stars": 5537,
+          "stars": 5538,
           "forks": 344,
-          "openIssues": 654,
+          "openIssues": 656,
           "language": "Kotlin",
           "owner": {
             "login": "celzero",
@@ -521,7 +715,7 @@
           ],
           "createdAt": "2020-06-08T13:41:18Z",
           "pushedAt": "2026-09-28T17:43:36Z",
-          "updatedAt": "2026-10-05T23:35:02Z",
+          "updatedAt": "2026-10-06T12:38:22Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -531,7 +725,7 @@
           "fullName": "crazy-max/WindowsSpyBlocker",
           "url": "https://github.com/crazy-max/WindowsSpyBlocker",
           "description": "Block spying and tracking on Windows",
-          "stars": 5215,
+          "stars": 5214,
           "forks": 392,
           "openIssues": 46,
           "language": "Go",
@@ -557,7 +751,7 @@
           ],
           "createdAt": "2016-03-04T21:03:47Z",
           "pushedAt": "2026-09-09T02:22:15Z",
-          "updatedAt": "2026-10-05T11:47:09Z",
+          "updatedAt": "2026-10-06T17:56:54Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -567,7 +761,7 @@
           "fullName": "hengyoush/kyanos",
           "url": "https://github.com/hengyoush/kyanos",
           "description": "Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.",
-          "stars": 5069,
+          "stars": 5070,
           "forks": 235,
           "openIssues": 32,
           "language": "C",
@@ -590,7 +784,7 @@
           ],
           "createdAt": "2024-04-30T08:36:56Z",
           "pushedAt": "2026-10-05T20:03:01Z",
-          "updatedAt": "2026-10-05T11:07:02Z",
+          "updatedAt": "2026-10-06T10:39:48Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -600,7 +794,7 @@
           "fullName": "emanuele-f/PCAPdroid",
           "url": "https://github.com/emanuele-f/PCAPdroid",
           "description": "No-root network monitor, firewall and PCAP dumper for Android",
-          "stars": 4863,
+          "stars": 4866,
           "forks": 557,
           "openIssues": 42,
           "language": "Java",
@@ -625,7 +819,7 @@
           ],
           "createdAt": "2020-01-06T18:11:27Z",
           "pushedAt": "2026-09-26T08:14:11Z",
-          "updatedAt": "2026-10-05T20:35:50Z",
+          "updatedAt": "2026-10-06T17:27:37Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
@@ -635,9 +829,9 @@
           "fullName": "cifertech/ESP32-DIV",
           "url": "https://github.com/cifertech/ESP32-DIV",
           "description": "ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32",
-          "stars": 4134,
-          "forks": 549,
-          "openIssues": 163,
+          "stars": 4135,
+          "forks": 548,
+          "openIssues": 167,
           "language": "C++",
           "owner": {
             "login": "cifertech",
@@ -668,7 +862,7 @@
           ],
           "createdAt": "2023-10-01T15:02:48Z",
           "pushedAt": "2026-09-22T08:29:02Z",
-          "updatedAt": "2026-10-06T02:56:13Z",
+          "updatedAt": "2026-10-06T18:54:54Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -711,8 +905,8 @@
           "fullName": "nealbridges/VulnHunter",
           "url": "https://github.com/nealbridges/VulnHunter",
           "description": "Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintained fork of Capital One's VulnHunter, rebuilt for any agent harness.",
-          "stars": 312,
-          "forks": 59,
+          "stars": 514,
+          "forks": 91,
           "openIssues": 0,
           "language": "Python",
           "owner": {
@@ -731,8 +925,8 @@
             "vulnerability-scanner"
           ],
           "createdAt": "2026-09-22T23:22:00Z",
-          "pushedAt": "2026-10-05T20:02:51Z",
-          "updatedAt": "2026-10-06T06:33:13Z",
+          "pushedAt": "2026-10-06T14:54:26Z",
+          "updatedAt": "2026-10-06T19:29:34Z",
           "license": "Apache-2.0"
         }
       ],
@@ -744,14 +938,14 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 1,
-      "risers": 6,
-      "dropped": 1
+      "newcomers": 3,
+      "risers": 7,
+      "dropped": 3
     },
     "activeWeek": {
       "total": 50,
