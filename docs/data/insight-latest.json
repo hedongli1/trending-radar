@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:04:58.953Z",
+  "generatedAt": "2026-10-11T18:49:27.127Z",
   "date": "2026-10-11",
   "categories": {
     "allTime": {
@@ -11,9 +11,9 @@
           "fullName": "anomalyco/opencode",
           "url": "https://github.com/anomalyco/opencode",
           "description": "The open source coding agent.",
-          "stars": 212597,
-          "forks": 28410,
-          "openIssues": 5199,
+          "stars": 212702,
+          "forks": 28458,
+          "openIssues": 4463,
           "language": "TypeScript",
           "owner": {
             "login": "anomalyco",
@@ -22,8 +22,8 @@
           },
           "topics": [],
           "createdAt": "2025-04-30T20:08:00Z",
-          "pushedAt": "2026-10-11T05:26:11Z",
-          "updatedAt": "2026-10-11T05:59:52Z",
+          "pushedAt": "2026-10-11T18:28:18Z",
+          "updatedAt": "2026-10-11T18:40:20Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -33,9 +33,9 @@
           "fullName": "yt-dlp/yt-dlp",
           "url": "https://github.com/yt-dlp/yt-dlp",
           "description": "A feature-rich command-line audio/video downloader",
-          "stars": 196745,
-          "forks": 17124,
-          "openIssues": 2690,
+          "stars": 196897,
+          "forks": 17155,
+          "openIssues": 2685,
           "language": "Python",
           "owner": {
             "login": "yt-dlp",
@@ -53,7 +53,7 @@
           ],
           "createdAt": "2020-10-26T04:22:55Z",
           "pushedAt": "2026-10-10T21:15:52Z",
-          "updatedAt": "2026-10-11T05:57:56Z",
+          "updatedAt": "2026-10-11T18:49:13Z",
           "license": "Unlicense",
           "rankGain": 1
         }
@@ -68,9 +68,9 @@
           "fullName": "zhongerxin/iPhone-use",
           "url": "https://github.com/zhongerxin/iPhone-use",
           "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-          "stars": 2688,
-          "forks": 269,
-          "openIssues": 13,
+          "stars": 2984,
+          "forks": 298,
+          "openIssues": 15,
           "language": "Python",
           "owner": {
             "login": "zhongerxin",
@@ -80,7 +80,7 @@
           "topics": [],
           "createdAt": "2026-10-06T15:09:33Z",
           "pushedAt": "2026-10-10T13:58:28Z",
-          "updatedAt": "2026-10-11T06:04:34Z",
+          "updatedAt": "2026-10-11T18:47:17Z",
           "license": "MIT"
         },
         {
@@ -88,20 +88,25 @@
           "name": "designcraft",
           "fullName": "storytold/designcraft",
           "url": "https://github.com/storytold/designcraft",
-          "description": "暂无描述",
-          "stars": 2641,
-          "forks": 1602,
-          "openIssues": 234,
+          "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
+          "stars": 2893,
+          "forks": 1832,
+          "openIssues": 301,
           "language": "Rust",
           "owner": {
             "login": "storytold",
             "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
             "url": "https://github.com/storytold"
           },
-          "topics": [],
+          "topics": [
+            "art",
+            "layout",
+            "print",
+            "rust"
+          ],
           "createdAt": "2026-10-01T13:13:14Z",
-          "pushedAt": "2026-10-11T06:03:00Z",
-          "updatedAt": "2026-10-11T05:59:21Z",
+          "pushedAt": "2026-10-11T15:52:22Z",
+          "updatedAt": "2026-10-11T18:48:00Z",
           "license": "Apache-2.0"
         }
       ],
@@ -112,9 +117,9 @@
           "fullName": "storytold/wordcraft",
           "url": "https://github.com/storytold/wordcraft",
           "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-          "stars": 3403,
-          "forks": 1008,
-          "openIssues": 250,
+          "stars": 5149,
+          "forks": 1551,
+          "openIssues": 334,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -123,92 +128,10 @@
           },
           "topics": [],
           "createdAt": "2026-10-07T08:34:24Z",
-          "pushedAt": "2026-10-11T06:03:11Z",
-          "updatedAt": "2026-10-11T06:04:49Z",
+          "pushedAt": "2026-10-11T18:13:07Z",
+          "updatedAt": "2026-10-11T18:49:07Z",
           "license": "Apache-2.0",
-          "rankGain": 7
-        },
-        {
-          "id": 1409787646,
-          "name": "ARTEX",
-          "fullName": "mhtsec/ARTEX",
-          "url": "https://github.com/mhtsec/ARTEX",
-          "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-          "stars": 2988,
-          "forks": 5398,
-          "openIssues": 0,
-          "language": "Go",
-          "owner": {
-            "login": "mhtsec",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/83952182?v=4",
-            "url": "https://github.com/mhtsec"
-          },
-          "topics": [],
-          "createdAt": "2026-10-08T05:33:06Z",
-          "pushedAt": "2026-10-10T09:16:20Z",
-          "updatedAt": "2026-10-11T06:03:44Z",
-          "license": "AGPL-3.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1398185212,
-          "name": "lightcraft",
-          "fullName": "storytold/lightcraft",
-          "url": "https://github.com/storytold/lightcraft",
-          "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
-          "stars": 9233,
-          "forks": 2964,
-          "openIssues": 365,
-          "language": "Rust",
-          "owner": {
-            "login": "storytold",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
-            "url": "https://github.com/storytold"
-          },
-          "topics": [
-            "art",
-            "lightroom",
-            "photography",
-            "raw",
-            "raw-editor",
-            "raw-processing",
-            "rust"
-          ],
-          "createdAt": "2026-09-30T14:09:27Z",
-          "pushedAt": "2026-10-11T06:03:05Z",
-          "updatedAt": "2026-10-11T06:04:09Z",
-          "license": "Apache-2.0",
-          "rankGain": 2
-        },
-        {
-          "id": 1398091865,
-          "name": "filmcraft",
-          "fullName": "storytold/filmcraft",
-          "url": "https://github.com/storytold/filmcraft",
-          "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
-          "stars": 8911,
-          "forks": 3279,
-          "openIssues": 354,
-          "language": "Rust",
-          "owner": {
-            "login": "storytold",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
-            "url": "https://github.com/storytold"
-          },
-          "topics": [
-            "adobe",
-            "art",
-            "rust",
-            "video",
-            "video-editing",
-            "video-editor",
-            "video-processing"
-          ],
-          "createdAt": "2026-09-30T13:41:20Z",
-          "pushedAt": "2026-10-11T06:03:03Z",
-          "updatedAt": "2026-10-11T06:04:47Z",
-          "license": "Apache-2.0",
-          "rankGain": 2
+          "rankGain": 17
         },
         {
           "id": 1385896447,
@@ -216,9 +139,9 @@
           "fullName": "Ebony-Vinyl/dsh-our-free-model",
           "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
           "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-          "stars": 7310,
-          "forks": 153,
-          "openIssues": 110,
+          "stars": 8769,
+          "forks": 178,
+          "openIssues": 127,
           "language": "JavaScript",
           "owner": {
             "login": "Ebony-Vinyl",
@@ -238,47 +161,42 @@
             "openai-compatible"
           ],
           "createdAt": "2026-09-24T16:17:19Z",
-          "pushedAt": "2026-10-11T05:56:04Z",
-          "updatedAt": "2026-10-11T06:04:41Z",
+          "pushedAt": "2026-10-11T15:01:10Z",
+          "updatedAt": "2026-10-11T18:47:46Z",
           "license": "MIT",
-          "rankGain": 2
+          "rankGain": 5
         },
         {
-          "id": 1369141830,
-          "name": "hongguo-desktop-releases",
-          "fullName": "waligoraamodio288-rgb/hongguo-desktop-releases",
-          "url": "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
-          "description": "红果短剧电脑版（红果桌面版）｜Windows 10/11 免费短剧播放器，无需安卓模拟器；直接下载 EXE，附安装说明和问题反馈。由渠道有数独立维护。",
-          "stars": 2803,
-          "forks": 148,
-          "openIssues": 212,
-          "language": "Other",
+          "id": 1409787646,
+          "name": "ARTEX",
+          "fullName": "mhtsec/ARTEX",
+          "url": "https://github.com/mhtsec/ARTEX",
+          "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+          "stars": 3123,
+          "forks": 5542,
+          "openIssues": 0,
+          "language": "Go",
           "owner": {
-            "login": "waligoraamodio288-rgb",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/309969086?v=4",
-            "url": "https://github.com/waligoraamodio288-rgb"
+            "login": "mhtsec",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/83952182?v=4",
+            "url": "https://github.com/mhtsec"
           },
-          "topics": [
-            "desktop-app",
-            "hongguo",
-            "video-player",
-            "windows"
-          ],
-          "createdAt": "2026-09-14T02:03:16Z",
-          "pushedAt": "2026-10-11T05:11:50Z",
-          "updatedAt": "2026-10-11T06:04:27Z",
-          "license": null,
-          "rankGain": 2
+          "topics": [],
+          "createdAt": "2026-10-08T05:33:06Z",
+          "pushedAt": "2026-10-10T09:16:20Z",
+          "updatedAt": "2026-10-11T18:48:23Z",
+          "license": "AGPL-3.0",
+          "rankGain": 4
         },
         {
-          "id": 1398086162,
-          "name": "pdfcraft",
-          "fullName": "storytold/pdfcraft",
-          "url": "https://github.com/storytold/pdfcraft",
-          "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
-          "stars": 8246,
-          "forks": 2963,
-          "openIssues": 385,
+          "id": 1398091865,
+          "name": "filmcraft",
+          "fullName": "storytold/filmcraft",
+          "url": "https://github.com/storytold/filmcraft",
+          "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+          "stars": 9794,
+          "forks": 3789,
+          "openIssues": 514,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -286,11 +204,35 @@
             "url": "https://github.com/storytold"
           },
           "topics": [
-            "acrobat",
-            "acrobat-full",
-            "acrobat-pro",
-            "adobe",
-            "adobe-acrobat",
+            "art",
+            "rust",
+            "video",
+            "video-editing",
+            "video-editor",
+            "video-processing"
+          ],
+          "createdAt": "2026-09-30T13:41:20Z",
+          "pushedAt": "2026-10-11T15:52:45Z",
+          "updatedAt": "2026-10-11T18:48:56Z",
+          "license": "Apache-2.0",
+          "rankGain": 3
+        },
+        {
+          "id": 1398086162,
+          "name": "pdfcraft",
+          "fullName": "storytold/pdfcraft",
+          "url": "https://github.com/storytold/pdfcraft",
+          "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+          "stars": 9209,
+          "forks": 3450,
+          "openIssues": 368,
+          "language": "Rust",
+          "owner": {
+            "login": "storytold",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
+            "url": "https://github.com/storytold"
+          },
+          "topics": [
             "document-processing",
             "documents",
             "pdf",
@@ -301,63 +243,127 @@
             "rust"
           ],
           "createdAt": "2026-09-30T13:39:37Z",
-          "pushedAt": "2026-10-11T06:03:06Z",
-          "updatedAt": "2026-10-11T06:04:32Z",
+          "pushedAt": "2026-10-11T18:46:33Z",
+          "updatedAt": "2026-10-11T18:48:51Z",
           "license": "Apache-2.0",
-          "rankGain": 1
+          "rankGain": 3
         },
         {
-          "id": 1400136506,
-          "name": "effectcraft",
-          "fullName": "storytold/effectcraft",
-          "url": "https://github.com/storytold/effectcraft",
-          "description": "暂无描述",
-          "stars": 4696,
-          "forks": 2155,
-          "openIssues": 138,
+          "id": 1398097510,
+          "name": "vectorcraft",
+          "fullName": "storytold/vectorcraft",
+          "url": "https://github.com/storytold/vectorcraft",
+          "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
+          "stars": 6910,
+          "forks": 3063,
+          "openIssues": 142,
           "language": "Rust",
           "owner": {
             "login": "storytold",
             "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
             "url": "https://github.com/storytold"
           },
-          "topics": [],
-          "createdAt": "2026-10-01T14:24:46Z",
-          "pushedAt": "2026-10-11T06:03:01Z",
-          "updatedAt": "2026-10-11T05:59:39Z",
+          "topics": [
+            "art",
+            "rust",
+            "rust-lang",
+            "svg",
+            "svg-editor",
+            "vector-graphics"
+          ],
+          "createdAt": "2026-09-30T13:43:03Z",
+          "pushedAt": "2026-10-11T18:31:04Z",
+          "updatedAt": "2026-10-11T18:46:53Z",
           "license": "Apache-2.0",
-          "rankGain": 1
+          "rankGain": 3
         },
         {
-          "id": 1395994653,
-          "name": "shaders",
-          "fullName": "shader-effects-inc/shaders",
-          "url": "https://github.com/shader-effects-inc/shaders",
-          "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
-          "stars": 4140,
-          "forks": 169,
-          "openIssues": 0,
-          "language": "TypeScript",
+          "id": 1400136506,
+          "name": "effectcraft",
+          "fullName": "storytold/effectcraft",
+          "url": "https://github.com/storytold/effectcraft",
+          "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+          "stars": 5034,
+          "forks": 2434,
+          "openIssues": 321,
+          "language": "Rust",
           "owner": {
-            "login": "shader-effects-inc",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/265144305?v=4",
-            "url": "https://github.com/shader-effects-inc"
+            "login": "storytold",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
+            "url": "https://github.com/storytold"
           },
           "topics": [
-            "cli",
-            "javascript",
-            "mcp",
-            "react",
-            "shaders",
-            "solid",
-            "svelte",
-            "vue",
-            "webgpu-shaders"
+            "art",
+            "compositing",
+            "compositing-software",
+            "motion-graphics",
+            "rust"
           ],
-          "createdAt": "2026-09-29T16:36:26Z",
-          "pushedAt": "2026-10-09T13:24:56Z",
-          "updatedAt": "2026-10-11T06:00:28Z",
-          "license": "MIT",
+          "createdAt": "2026-10-01T14:24:46Z",
+          "pushedAt": "2026-10-11T15:51:43Z",
+          "updatedAt": "2026-10-11T18:47:13Z",
+          "license": "Apache-2.0",
+          "rankGain": 3
+        },
+        {
+          "id": 1398185212,
+          "name": "lightcraft",
+          "fullName": "storytold/lightcraft",
+          "url": "https://github.com/storytold/lightcraft",
+          "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+          "stars": 9924,
+          "forks": 3350,
+          "openIssues": 352,
+          "language": "Rust",
+          "owner": {
+            "login": "storytold",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
+            "url": "https://github.com/storytold"
+          },
+          "topics": [
+            "art",
+            "photography",
+            "raw",
+            "raw-editor",
+            "raw-processing",
+            "rust"
+          ],
+          "createdAt": "2026-09-30T14:09:27Z",
+          "pushedAt": "2026-10-11T15:02:30Z",
+          "updatedAt": "2026-10-11T18:44:15Z",
+          "license": "Apache-2.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1369141830,
+          "name": "hongguo-desktop-releases",
+          "fullName": "waligoraamodio288-rgb/hongguo-desktop-releases",
+          "url": "https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases",
+          "description": "红果短剧｜Windows 10/11 桌面版 + Android TV 测试版。电视 APK 4.03 MB，Android 5.0+ / ARM64，支持遥控、续播与换一部；免费使用，由渠道有数独立维护。",
+          "stars": 2931,
+          "forks": 160,
+          "openIssues": 233,
+          "language": "Other",
+          "owner": {
+            "login": "waligoraamodio288-rgb",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/309969086?v=4",
+            "url": "https://github.com/waligoraamodio288-rgb"
+          },
+          "topics": [
+            "android",
+            "android-tv",
+            "apk",
+            "arm64",
+            "desktop-app",
+            "hongguo",
+            "tv-app",
+            "video-player",
+            "windows"
+          ],
+          "createdAt": "2026-09-14T02:03:16Z",
+          "pushedAt": "2026-10-11T11:50:08Z",
+          "updatedAt": "2026-10-11T18:44:23Z",
+          "license": null,
           "rankGain": 1
         }
       ],
@@ -427,9 +433,9 @@
           "fullName": "yt-dlp/yt-dlp",
           "url": "https://github.com/yt-dlp/yt-dlp",
           "description": "A feature-rich command-line audio/video downloader",
-          "stars": 196745,
-          "forks": 17124,
-          "openIssues": 2690,
+          "stars": 196897,
+          "forks": 17155,
+          "openIssues": 2685,
           "language": "Python",
           "owner": {
             "login": "yt-dlp",
@@ -447,7 +453,7 @@
           ],
           "createdAt": "2020-10-26T04:22:55Z",
           "pushedAt": "2026-10-10T21:15:52Z",
-          "updatedAt": "2026-10-11T05:57:56Z",
+          "updatedAt": "2026-10-11T18:49:13Z",
           "license": "Unlicense"
         }
       ],
@@ -485,14 +491,191 @@
       ]
     },
     "aiEco": {
-      "newcomers": [],
-      "risers": [],
-      "dropped": []
+      "newcomers": [
+        {
+          "id": 1209966933,
+          "name": "rea",
+          "fullName": "morluto/rea",
+          "url": "https://github.com/morluto/rea",
+          "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+          "stars": 96892,
+          "forks": 21595,
+          "openIssues": 161,
+          "language": "TypeScript",
+          "owner": {
+            "login": "morluto",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76467478?v=4",
+            "url": "https://github.com/morluto"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "binary-analysis",
+            "claude-code",
+            "cli",
+            "codex",
+            "cordis",
+            "ctf",
+            "decompiler",
+            "developer-tools",
+            "disassembler",
+            "dsh",
+            "dsh-plugin",
+            "ghidra",
+            "hopper",
+            "llm",
+            "mcp",
+            "model-context-protocol",
+            "reverse-engineering",
+            "static-analysis"
+          ],
+          "createdAt": "2026-04-14T00:51:32Z",
+          "pushedAt": "2026-10-11T18:48:14Z",
+          "updatedAt": "2026-10-11T18:49:22Z",
+          "license": "MIT"
+        }
+      ],
+      "risers": [
+        {
+          "id": 1075372545,
+          "name": "agency-agents",
+          "fullName": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "stars": 159043,
+          "forks": 25705,
+          "openIssues": 224,
+          "language": "Shell",
+          "owner": {
+            "login": "msitarzewski",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1972242?v=4",
+            "url": "https://github.com/msitarzewski"
+          },
+          "topics": [],
+          "createdAt": "2025-10-13T12:12:29Z",
+          "pushedAt": "2026-10-07T16:45:46Z",
+          "updatedAt": "2026-10-11T18:48:44Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
+      "dropped": [
+        {
+          "id": 643445235,
+          "name": "lobehub",
+          "fullName": "lobehub/lobehub",
+          "url": "https://github.com/lobehub/lobehub",
+          "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+          "stars": 83106,
+          "forks": 15968,
+          "openIssues": 1097,
+          "language": "TypeScript",
+          "owner": {
+            "login": "lobehub",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131470832?v=4",
+            "url": "https://github.com/lobehub"
+          },
+          "topics": [
+            "agent",
+            "agent-collaboration",
+            "agent-harness",
+            "ai",
+            "cao",
+            "chatgpt",
+            "chief-agent-operator",
+            "claude",
+            "deepseek",
+            "fable",
+            "gemini",
+            "glm",
+            "gpt",
+            "knowledge-base",
+            "loop-engineering",
+            "mcp",
+            "openai",
+            "skills"
+          ],
+          "createdAt": "2023-05-21T07:19:12Z",
+          "pushedAt": "2026-10-10T18:23:11Z",
+          "updatedAt": "2026-10-10T18:23:34Z",
+          "license": "NOASSERTION"
+        }
+      ]
     },
     "secTraffic": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 28822114,
+          "name": "titanium-web-proxy",
+          "fullName": "justcoding121/titanium-web-proxy",
+          "url": "https://github.com/justcoding121/titanium-web-proxy",
+          "description": "A cross-platform high performing HTTP(S) proxy server in C#.",
+          "stars": 2010,
+          "forks": 662,
+          "openIssues": 0,
+          "language": "C#",
+          "owner": {
+            "login": "justcoding121",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2637679?v=4",
+            "url": "https://github.com/justcoding121"
+          },
+          "topics": [
+            "c-sharp",
+            "http",
+            "http-server",
+            "https",
+            "mitmproxy",
+            "proxy-server",
+            "reverse-proxy",
+            "web-filtering",
+            "web-traffic-analysis"
+          ],
+          "createdAt": "2015-01-05T16:58:51Z",
+          "pushedAt": "2026-10-11T15:29:45Z",
+          "updatedAt": "2026-10-11T12:44:51Z",
+          "license": "MIT"
+        }
+      ],
       "risers": [],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 254206974,
+          "name": "pyhtools",
+          "fullName": "dmdhrumilmistry/pyhtools",
+          "url": "https://github.com/dmdhrumilmistry/pyhtools",
+          "description": "A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc.",
+          "stars": 659,
+          "forks": 100,
+          "openIssues": 8,
+          "language": "Python",
+          "owner": {
+            "login": "dmdhrumilmistry",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/56185972?v=4",
+            "url": "https://github.com/dmdhrumilmistry"
+          },
+          "topics": [
+            "apihacking",
+            "dmdhrumilmistry",
+            "hacking",
+            "hacking-tool",
+            "hacking-tools",
+            "hackingwithpython",
+            "malware-development",
+            "penetration-testing",
+            "python",
+            "python3",
+            "ransomware",
+            "remoteaccess",
+            "telegram-hack",
+            "web-hac",
+            "web-security"
+          ],
+          "createdAt": "2020-04-08T21:42:04Z",
+          "pushedAt": "2026-10-02T07:37:58Z",
+          "updatedAt": "2026-10-10T13:33:59Z",
+          "license": "MIT"
+        }
+      ]
     },
     "secAiCyber": {
       "newcomers": [
@@ -502,9 +685,9 @@
           "fullName": "guardana/guardana",
           "url": "https://github.com/guardana/guardana",
           "description": "Open-source AI security verification for model artifacts, live endpoints, MCP servers, and recorded agent traces. Reproducible evidence for release decisions.",
-          "stars": 259,
+          "stars": 262,
           "forks": 13,
-          "openIssues": 46,
+          "openIssues": 41,
           "language": "Python",
           "owner": {
             "login": "guardana",
@@ -534,8 +717,8 @@
             "supply-chain-security"
           ],
           "createdAt": "2026-07-18T14:14:22Z",
-          "pushedAt": "2026-10-10T19:33:15Z",
-          "updatedAt": "2026-10-11T03:13:33Z",
+          "pushedAt": "2026-10-11T15:56:28Z",
+          "updatedAt": "2026-10-11T17:51:44Z",
           "license": "Apache-2.0"
         }
       ],
@@ -564,15 +747,15 @@
     },
     "aiEco": {
       "total": 50,
-      "newcomers": 0,
-      "risers": 0,
-      "dropped": 0
+      "newcomers": 1,
+      "risers": 1,
+      "dropped": 1
     },
     "secTraffic": {
       "total": 40,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 0,
-      "dropped": 0
+      "dropped": 1
     },
     "secAiCyber": {
       "total": 22,
