@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T06:56:16.051Z",
+  "generatedAt": "2026-10-13T20:13:58.255Z",
   "date": "2026-10-13",
   "categories": {
     "allTime": {
@@ -10,9 +10,9 @@
           "fullName": "morluto/rea",
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "stars": 173787,
-          "forks": 41644,
-          "openIssues": 508,
+          "stars": 202367,
+          "forks": 49389,
+          "openIssues": 563,
           "language": "TypeScript",
           "owner": {
             "login": "morluto",
@@ -42,8 +42,8 @@
             "static-analysis"
           ],
           "createdAt": "2026-04-14T00:51:32Z",
-          "pushedAt": "2026-10-13T06:56:06Z",
-          "updatedAt": "2026-10-13T06:56:08Z",
+          "pushedAt": "2026-10-13T20:13:40Z",
+          "updatedAt": "2026-10-13T20:13:45Z",
           "license": "MIT"
         }
       ],
@@ -100,8 +100,8 @@
           "fullName": "LosaLosSantos/aurelio-finance",
           "url": "https://github.com/LosaLosSantos/aurelio-finance",
           "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-          "stars": 3045,
-          "forks": 381,
+          "stars": 3187,
+          "forks": 465,
           "openIssues": 0,
           "language": "Python",
           "owner": {
@@ -126,8 +126,8 @@
             "wealth-management"
           ],
           "createdAt": "2026-10-06T20:14:19Z",
-          "pushedAt": "2026-10-12T20:11:29Z",
-          "updatedAt": "2026-10-13T06:40:59Z",
+          "pushedAt": "2026-10-13T10:41:36Z",
+          "updatedAt": "2026-10-13T20:12:13Z",
           "license": "MIT"
         }
       ],
@@ -138,9 +138,9 @@
           "fullName": "anmolkapil/plexo",
           "url": "https://github.com/anmolkapil/plexo",
           "description": "Speed up downloads by combining multiple network connections in parallel",
-          "stars": 3371,
-          "forks": 220,
-          "openIssues": 16,
+          "stars": 3913,
+          "forks": 250,
+          "openIssues": 25,
           "language": "TypeScript",
           "owner": {
             "login": "anmolkapil",
@@ -160,83 +160,59 @@
             "windows"
           ],
           "createdAt": "2026-09-15T09:41:57Z",
-          "pushedAt": "2026-10-12T10:45:37Z",
-          "updatedAt": "2026-10-13T06:56:00Z",
+          "pushedAt": "2026-10-13T08:42:41Z",
+          "updatedAt": "2026-10-13T20:13:07Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 9
         },
         {
-          "id": 1409787646,
-          "name": "ARTEX",
-          "fullName": "mhtsec/ARTEX",
-          "url": "https://github.com/mhtsec/ARTEX",
-          "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-          "stars": 3703,
-          "forks": 6081,
-          "openIssues": 1,
-          "language": "Go",
+          "id": 1410124849,
+          "name": "anatomy",
+          "fullName": "wheresryan22/anatomy",
+          "url": "https://github.com/wheresryan22/anatomy",
+          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+          "stars": 8007,
+          "forks": 574,
+          "openIssues": 5,
+          "language": "JavaScript",
           "owner": {
-            "login": "mhtsec",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/83952182?v=4",
-            "url": "https://github.com/mhtsec"
+            "login": "wheresryan22",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96392276?v=4",
+            "url": "https://github.com/wheresryan22"
           },
-          "topics": [],
-          "createdAt": "2026-10-08T05:33:06Z",
-          "pushedAt": "2026-10-10T09:16:20Z",
-          "updatedAt": "2026-10-13T06:54:21Z",
-          "license": "AGPL-3.0",
-          "rankGain": 2
-        },
-        {
-          "id": 1385946301,
-          "name": "Strata",
-          "fullName": "Niko1221/Strata",
-          "url": "https://github.com/Niko1221/Strata",
-          "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-          "stars": 23032,
-          "forks": 2264,
-          "openIssues": 910,
-          "language": "C++",
-          "owner": {
-            "login": "Niko1221",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/86886444?v=4",
-            "url": "https://github.com/Niko1221"
-          },
-          "topics": [],
-          "createdAt": "2026-09-24T16:40:20Z",
-          "pushedAt": "2026-10-12T17:28:20Z",
-          "updatedAt": "2026-10-13T06:54:28Z",
+          "topics": [
+            "agent-skill",
+            "open-source",
+            "svg",
+            "vizualization"
+          ],
+          "createdAt": "2026-10-08T10:12:49Z",
+          "pushedAt": "2026-10-13T08:19:55Z",
+          "updatedAt": "2026-10-13T20:12:54Z",
           "license": "MIT",
-          "rankGain": 1
+          "rankGain": 7
         },
         {
-          "id": 1398091865,
-          "name": "filmcraft",
-          "fullName": "storytold/filmcraft",
-          "url": "https://github.com/storytold/filmcraft",
-          "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-          "stars": 11790,
-          "forks": 4747,
-          "openIssues": 582,
+          "id": 1408289866,
+          "name": "cadcraft",
+          "fullName": "storytold/cadcraft",
+          "url": "https://github.com/storytold/cadcraft",
+          "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+          "stars": 4110,
+          "forks": 1868,
+          "openIssues": 264,
           "language": "Rust",
           "owner": {
             "login": "storytold",
             "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
             "url": "https://github.com/storytold"
           },
-          "topics": [
-            "art",
-            "rust",
-            "video",
-            "video-editing",
-            "video-editor",
-            "video-processing"
-          ],
-          "createdAt": "2026-09-30T13:41:20Z",
-          "pushedAt": "2026-10-13T06:54:24Z",
-          "updatedAt": "2026-10-13T06:55:51Z",
+          "topics": [],
+          "createdAt": "2026-10-07T05:22:31Z",
+          "pushedAt": "2026-10-13T11:02:14Z",
+          "updatedAt": "2026-10-13T20:13:10Z",
           "license": "Apache-2.0",
-          "rankGain": 1
+          "rankGain": 5
         },
         {
           "id": 1398086162,
@@ -244,9 +220,9 @@
           "fullName": "storytold/pdfcraft",
           "url": "https://github.com/storytold/pdfcraft",
           "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-          "stars": 11778,
-          "forks": 4485,
-          "openIssues": 585,
+          "stars": 12575,
+          "forks": 4782,
+          "openIssues": 872,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -264,10 +240,10 @@
             "rust"
           ],
           "createdAt": "2026-09-30T13:39:37Z",
-          "pushedAt": "2026-10-13T06:49:38Z",
-          "updatedAt": "2026-10-13T06:55:14Z",
+          "pushedAt": "2026-10-13T18:18:41Z",
+          "updatedAt": "2026-10-13T20:12:35Z",
           "license": "Apache-2.0",
-          "rankGain": 1
+          "rankGain": 2
         },
         {
           "id": 1408489772,
@@ -275,9 +251,9 @@
           "fullName": "storytold/wordcraft",
           "url": "https://github.com/storytold/wordcraft",
           "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-          "stars": 9671,
-          "forks": 2507,
-          "openIssues": 461,
+          "stars": 10867,
+          "forks": 2734,
+          "openIssues": 696,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -287,36 +263,9 @@
           "topics": [],
           "createdAt": "2026-10-07T08:34:24Z",
           "pushedAt": "2026-10-12T16:22:14Z",
-          "updatedAt": "2026-10-13T06:55:32Z",
+          "updatedAt": "2026-10-13T20:13:15Z",
           "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 1410124849,
-          "name": "anatomy",
-          "fullName": "wheresryan22/anatomy",
-          "url": "https://github.com/wheresryan22/anatomy",
-          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-          "stars": 6826,
-          "forks": 494,
-          "openIssues": 4,
-          "language": "JavaScript",
-          "owner": {
-            "login": "wheresryan22",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/96392276?v=4",
-            "url": "https://github.com/wheresryan22"
-          },
-          "topics": [
-            "agent-skill",
-            "open-source",
-            "svg",
-            "vizualization"
-          ],
-          "createdAt": "2026-10-08T10:12:49Z",
-          "pushedAt": "2026-10-12T22:40:08Z",
-          "updatedAt": "2026-10-13T06:55:47Z",
-          "license": "MIT",
-          "rankGain": 1
+          "rankGain": 2
         },
         {
           "id": 1385776214,
@@ -324,9 +273,9 @@
           "fullName": "Droid-Deck/DroidDeck",
           "url": "https://github.com/Droid-Deck/DroidDeck",
           "description": "DroidDeck brings the SteamOS experience to Android",
-          "stars": 6540,
-          "forks": 286,
-          "openIssues": 210,
+          "stars": 7348,
+          "forks": 327,
+          "openIssues": 191,
           "language": "Kotlin",
           "owner": {
             "login": "Droid-Deck",
@@ -335,70 +284,19 @@
           },
           "topics": [],
           "createdAt": "2026-09-24T15:14:13Z",
-          "pushedAt": "2026-10-13T05:42:40Z",
-          "updatedAt": "2026-10-13T06:55:32Z",
+          "pushedAt": "2026-10-13T19:23:43Z",
+          "updatedAt": "2026-10-13T20:13:43Z",
           "license": "GPL-3.0",
-          "rankGain": 1
+          "rankGain": 2
         },
-        {
-          "id": 1408289866,
-          "name": "cadcraft",
-          "fullName": "storytold/cadcraft",
-          "url": "https://github.com/storytold/cadcraft",
-          "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-          "stars": 3653,
-          "forks": 1684,
-          "openIssues": 274,
-          "language": "Rust",
-          "owner": {
-            "login": "storytold",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
-            "url": "https://github.com/storytold"
-          },
-          "topics": [],
-          "createdAt": "2026-10-07T05:22:31Z",
-          "pushedAt": "2026-10-12T16:40:00Z",
-          "updatedAt": "2026-10-13T06:55:22Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
-        },
-        {
-          "id": 1400018213,
-          "name": "designcraft",
-          "fullName": "storytold/designcraft",
-          "url": "https://github.com/storytold/designcraft",
-          "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
-          "stars": 3494,
-          "forks": 2340,
-          "openIssues": 402,
-          "language": "Rust",
-          "owner": {
-            "login": "storytold",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
-            "url": "https://github.com/storytold"
-          },
-          "topics": [
-            "art",
-            "layout",
-            "print",
-            "rust"
-          ],
-          "createdAt": "2026-10-01T13:13:14Z",
-          "pushedAt": "2026-10-12T23:21:53Z",
-          "updatedAt": "2026-10-13T06:52:49Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
-        }
-      ],
-      "dropped": [
         {
           "id": 1388867993,
           "name": "logo-design-skill",
           "fullName": "kaankiziltug/logo-design-skill",
           "url": "https://github.com/kaankiziltug/logo-design-skill",
           "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-          "stars": 2866,
-          "forks": 207,
+          "stars": 3160,
+          "forks": 236,
           "openIssues": 1,
           "language": "HTML",
           "owner": {
@@ -418,13 +316,137 @@
           ],
           "createdAt": "2026-09-26T08:23:34Z",
           "pushedAt": "2026-09-30T18:16:50Z",
-          "updatedAt": "2026-10-12T22:04:45Z",
+          "updatedAt": "2026-10-13T20:13:02Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1385946301,
+          "name": "Strata",
+          "fullName": "Niko1221/Strata",
+          "url": "https://github.com/Niko1221/Strata",
+          "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+          "stars": 23625,
+          "forks": 2344,
+          "openIssues": 958,
+          "language": "C++",
+          "owner": {
+            "login": "Niko1221",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/86886444?v=4",
+            "url": "https://github.com/Niko1221"
+          },
+          "topics": [],
+          "createdAt": "2026-09-24T16:40:20Z",
+          "pushedAt": "2026-10-13T19:24:29Z",
+          "updatedAt": "2026-10-13T20:11:44Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1398185212,
+          "name": "lightcraft",
+          "fullName": "storytold/lightcraft",
+          "url": "https://github.com/storytold/lightcraft",
+          "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+          "stars": 11906,
+          "forks": 4300,
+          "openIssues": 716,
+          "language": "Rust",
+          "owner": {
+            "login": "storytold",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
+            "url": "https://github.com/storytold"
+          },
+          "topics": [
+            "art",
+            "photography",
+            "raw",
+            "raw-editor",
+            "raw-processing",
+            "rust"
+          ],
+          "createdAt": "2026-09-30T14:09:27Z",
+          "pushedAt": "2026-10-13T06:18:34Z",
+          "updatedAt": "2026-10-13T20:13:43Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        },
+        {
+          "id": 1371757322,
+          "name": "openmuse",
+          "fullName": "CopilotKit/openmuse",
+          "url": "https://github.com/CopilotKit/openmuse",
+          "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+          "stars": 4895,
+          "forks": 673,
+          "openIssues": 51,
+          "language": "TypeScript",
+          "owner": {
+            "login": "CopilotKit",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
+            "url": "https://github.com/CopilotKit"
+          },
+          "topics": [],
+          "createdAt": "2026-09-15T16:05:44Z",
+          "pushedAt": "2026-10-13T12:59:30Z",
+          "updatedAt": "2026-10-13T20:01:16Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
+      "dropped": [
+        {
+          "id": 1373659194,
+          "name": "jev-trader",
+          "fullName": "jarrodwatts/jev-trader",
+          "url": "https://github.com/jarrodwatts/jev-trader",
+          "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+          "stars": 2960,
+          "forks": 563,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "jarrodwatts",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/35651410?v=4",
+            "url": "https://github.com/jarrodwatts"
+          },
+          "topics": [],
+          "createdAt": "2026-09-16T21:36:20Z",
+          "pushedAt": "2026-10-12T10:57:09Z",
+          "updatedAt": "2026-10-12T21:38:26Z",
           "license": "MIT"
         }
       ]
     },
     "activeWeek": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 793375104,
+          "name": "awesome-llm-apps",
+          "fullName": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+          "stars": 141581,
+          "forks": 20814,
+          "openIssues": 30,
+          "language": "Python",
+          "owner": {
+            "login": "Shubhamsaboo",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/31396011?v=4",
+            "url": "https://github.com/Shubhamsaboo"
+          },
+          "topics": [
+            "agents",
+            "llms",
+            "python",
+            "rag"
+          ],
+          "createdAt": "2024-04-29T05:30:25Z",
+          "pushedAt": "2026-10-13T16:16:14Z",
+          "updatedAt": "2026-10-13T20:08:50Z",
+          "license": "Apache-2.0"
+        }
+      ],
       "risers": [
         {
           "id": 1209966933,
@@ -432,9 +454,9 @@
           "fullName": "morluto/rea",
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "stars": 173788,
-          "forks": 41644,
-          "openIssues": 508,
+          "stars": 202367,
+          "forks": 49389,
+          "openIssues": 563,
           "language": "TypeScript",
           "owner": {
             "login": "morluto",
@@ -464,13 +486,48 @@
             "static-analysis"
           ],
           "createdAt": "2026-04-14T00:51:32Z",
-          "pushedAt": "2026-10-13T06:56:09Z",
-          "updatedAt": "2026-10-13T06:56:10Z",
+          "pushedAt": "2026-10-13T20:13:40Z",
+          "updatedAt": "2026-10-13T20:13:53Z",
           "license": "MIT",
-          "rankGain": 8
+          "rankGain": 20
         }
       ],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 184456251,
+          "name": "PowerToys",
+          "fullName": "microsoft/PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+          "stars": 139238,
+          "forks": 8638,
+          "openIssues": 7746,
+          "language": "C",
+          "owner": {
+            "login": "microsoft",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+            "url": "https://github.com/microsoft"
+          },
+          "topics": [
+            "advanced-paste",
+            "color-picker",
+            "command-palette",
+            "desktop",
+            "fancyzones",
+            "keyboard-manager",
+            "microsoft-powertoys",
+            "powerrename",
+            "powertoys",
+            "windows",
+            "windows-10",
+            "windows-11"
+          ],
+          "createdAt": "2019-05-01T17:44:02Z",
+          "pushedAt": "2026-10-12T22:00:00Z",
+          "updatedAt": "2026-10-12T21:41:10Z",
+          "license": "MIT"
+        }
+      ]
     },
     "aiEco": {
       "newcomers": [],
@@ -481,9 +538,9 @@
           "fullName": "morluto/rea",
           "url": "https://github.com/morluto/rea",
           "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "stars": 173788,
-          "forks": 41644,
-          "openIssues": 508,
+          "stars": 202367,
+          "forks": 49390,
+          "openIssues": 563,
           "language": "TypeScript",
           "owner": {
             "login": "morluto",
@@ -513,10 +570,10 @@
             "static-analysis"
           ],
           "createdAt": "2026-04-14T00:51:32Z",
-          "pushedAt": "2026-10-13T06:56:09Z",
-          "updatedAt": "2026-10-13T06:56:10Z",
+          "pushedAt": "2026-10-13T20:13:40Z",
+          "updatedAt": "2026-10-13T20:13:53Z",
           "license": "MIT",
-          "rankGain": 8
+          "rankGain": 13
         },
         {
           "id": 1183888342,
@@ -524,9 +581,9 @@
           "fullName": "stablyai/orca",
           "url": "https://github.com/stablyai/orca",
           "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "stars": 90931,
-          "forks": 5805,
-          "openIssues": 8227,
+          "stars": 91508,
+          "forks": 5840,
+          "openIssues": 8324,
           "language": "TypeScript",
           "owner": {
             "login": "stablyai",
@@ -554,10 +611,10 @@
             "yc-backed"
           ],
           "createdAt": "2026-03-17T03:28:57Z",
-          "pushedAt": "2026-10-13T06:55:49Z",
-          "updatedAt": "2026-10-13T06:56:11Z",
+          "pushedAt": "2026-10-13T20:09:52Z",
+          "updatedAt": "2026-10-13T20:11:53Z",
           "license": "MIT",
-          "rankGain": 1
+          "rankGain": 2
         }
       ],
       "dropped": []
@@ -596,7 +653,7 @@
           "fullName": "DNSCrypt/encrypted-dns-server",
           "url": "https://github.com/DNSCrypt/encrypted-dns-server",
           "description": "An easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.",
-          "stars": 1325,
+          "stars": 1324,
           "forks": 131,
           "openIssues": 0,
           "language": "Rust",
@@ -616,7 +673,7 @@
           ],
           "createdAt": "2019-09-01T20:07:18Z",
           "pushedAt": "2026-10-12T15:36:52Z",
-          "updatedAt": "2026-10-12T15:34:26Z",
+          "updatedAt": "2026-10-13T12:55:25Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -626,7 +683,7 @@
           "fullName": "mozillazg/ptcpdump",
           "url": "https://github.com/mozillazg/ptcpdump",
           "description": "Process-aware, eBPF-based tcpdump",
-          "stars": 1284,
+          "stars": 1285,
           "forks": 67,
           "openIssues": 23,
           "language": "C",
@@ -654,7 +711,7 @@
           ],
           "createdAt": "2024-04-05T08:59:43Z",
           "pushedAt": "2026-10-12T00:31:15Z",
-          "updatedAt": "2026-10-12T14:46:16Z",
+          "updatedAt": "2026-10-13T19:05:52Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -701,7 +758,7 @@
           "fullName": "obitouka/InstagramPrivSniffer",
           "url": "https://github.com/obitouka/InstagramPrivSniffer",
           "description": " First ever tool to view \"Instagram private posts\" anonymously ",
-          "stars": 1057,
+          "stars": 1059,
           "forks": 159,
           "openIssues": 7,
           "language": "Python",
@@ -732,7 +789,7 @@
           ],
           "createdAt": "2025-07-09T16:14:02Z",
           "pushedAt": "2026-09-18T16:05:42Z",
-          "updatedAt": "2026-10-13T06:06:45Z",
+          "updatedAt": "2026-10-13T13:04:06Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -743,8 +800,8 @@
           "url": "https://github.com/Netis/cloud-probe",
           "description": "A Software Probe for network packet capturing and forwarding in Cloud/Kubernetes and Virtualized environment.",
           "stars": 963,
-          "forks": 173,
-          "openIssues": 6,
+          "forks": 174,
+          "openIssues": 4,
           "language": "C",
           "owner": {
             "login": "Netis",
@@ -766,8 +823,8 @@
             "vxlan"
           ],
           "createdAt": "2018-06-22T10:08:33Z",
-          "pushedAt": "2026-10-12T03:08:59Z",
-          "updatedAt": "2026-10-12T03:09:01Z",
+          "pushedAt": "2026-10-13T10:23:57Z",
+          "updatedAt": "2026-10-13T10:24:00Z",
           "license": "BSD-3-Clause",
           "rankGain": 1
         },
@@ -777,7 +834,7 @@
           "fullName": "alexch33/super-video-downloader",
           "url": "https://github.com/alexch33/super-video-downloader",
           "description": "Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOCKS proxy chains supported, encrypted DNS, Adblocker with lists managenment",
-          "stars": 958,
+          "stars": 959,
           "forks": 119,
           "openIssues": 18,
           "language": "Kotlin",
@@ -809,7 +866,7 @@
           ],
           "createdAt": "2024-08-16T13:33:09Z",
           "pushedAt": "2026-09-17T07:10:28Z",
-          "updatedAt": "2026-10-12T08:32:58Z",
+          "updatedAt": "2026-10-13T07:51:58Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
@@ -853,9 +910,9 @@
           "fullName": "0ct0sec/M5PORKCHOP",
           "url": "https://github.com/0ct0sec/M5PORKCHOP",
           "description": "ON NO! Someone put an RPG in a packet sniffer",
-          "stars": 921,
-          "forks": 65,
-          "openIssues": 37,
+          "stars": 924,
+          "forks": 66,
+          "openIssues": 38,
           "language": "C++",
           "owner": {
             "login": "0ct0sec",
@@ -871,7 +928,7 @@
           ],
           "createdAt": "2025-12-05T23:08:55Z",
           "pushedAt": "2026-10-06T09:58:50Z",
-          "updatedAt": "2026-10-13T00:37:52Z",
+          "updatedAt": "2026-10-13T19:04:44Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -989,7 +1046,7 @@
           "fullName": "ZeroDayEvil/ai-security-tool",
           "url": "https://github.com/ZeroDayEvil/ai-security-tool",
           "description": "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security workflows, CTF & DevSecOps. Cross-platform & Web UI.",
-          "stars": 489,
+          "stars": 533,
           "forks": 10,
           "openIssues": 0,
           "language": "HTML",
@@ -1020,8 +1077,8 @@
             "vnc"
           ],
           "createdAt": "2026-09-10T09:38:49Z",
-          "pushedAt": "2026-10-12T19:17:48Z",
-          "updatedAt": "2026-10-13T01:38:09Z",
+          "pushedAt": "2026-10-13T17:02:14Z",
+          "updatedAt": "2026-10-13T20:12:27Z",
           "license": "MIT",
           "rankGain": 2
         }
@@ -1044,9 +1101,9 @@
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 1,
-      "dropped": 0
+      "dropped": 1
     },
     "aiEco": {
       "total": 50,
