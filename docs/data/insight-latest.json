@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:51:43.889Z",
+  "generatedAt": "2026-10-18T17:18:24.478Z",
   "date": "2026-10-18",
   "categories": {
     "allTime": {
@@ -11,8 +11,8 @@
           "fullName": "deepseek-ai/deepseek-harness",
           "url": "https://github.com/deepseek-ai/deepseek-harness",
           "description": "DeepSeek Harness: Everything is a Plugin.",
-          "stars": 252348,
-          "forks": 30355,
+          "stars": 252970,
+          "forks": 30438,
           "openIssues": 0,
           "language": "TypeScript",
           "owner": {
@@ -28,8 +28,47 @@
           ],
           "createdAt": "2026-08-13T11:56:32Z",
           "pushedAt": "2026-10-17T08:16:09Z",
-          "updatedAt": "2026-10-18T04:49:39Z",
+          "updatedAt": "2026-10-18T17:15:22Z",
           "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 233472199,
+          "name": "Microsoft-Activation-Scripts",
+          "fullName": "massgravel/Microsoft-Activation-Scripts",
+          "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+          "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+          "stars": 194946,
+          "forks": 18487,
+          "openIssues": 5,
+          "language": "Batchfile",
+          "owner": {
+            "login": "massgravel",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
+            "url": "https://github.com/massgravel"
+          },
+          "topics": [
+            "activator",
+            "hwid",
+            "kms",
+            "kms38",
+            "massgrave",
+            "massgravel",
+            "microsoft",
+            "microsoft365",
+            "office",
+            "office365",
+            "ohook",
+            "powershell",
+            "tsforge",
+            "windows",
+            "windows-10",
+            "windows-11"
+          ],
+          "createdAt": "2020-01-12T23:03:34Z",
+          "pushedAt": "2026-10-17T01:33:16Z",
+          "updatedAt": "2026-10-18T17:18:07Z",
+          "license": "GPL-3.0",
           "rankGain": 1
         }
       ],
@@ -38,14 +77,77 @@
     "breakout": {
       "newcomers": [
         {
+          "id": 1407951147,
+          "name": "harness2",
+          "fullName": "google-research/harness2",
+          "url": "https://github.com/google-research/harness2",
+          "description": "暂无描述",
+          "stars": 4774,
+          "forks": 431,
+          "openIssues": 63,
+          "language": "Python",
+          "owner": {
+            "login": "google-research",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43830688?v=4",
+            "url": "https://github.com/google-research"
+          },
+          "topics": [],
+          "createdAt": "2026-10-06T21:48:11Z",
+          "pushedAt": "2026-10-14T02:22:51Z",
+          "updatedAt": "2026-10-18T17:18:14Z",
+          "license": "Apache-2.0"
+        },
+        {
+          "id": 1396526702,
+          "name": "Filee",
+          "fullName": "KnifeLemon/Filee",
+          "url": "https://github.com/KnifeLemon/Filee",
+          "description": "Free, open-source file converter. Convert 180+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+          "stars": 3770,
+          "forks": 201,
+          "openIssues": 30,
+          "language": "C#",
+          "owner": {
+            "login": "KnifeLemon",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/13937016?v=4",
+            "url": "https://github.com/KnifeLemon"
+          },
+          "topics": [
+            "audio-converter",
+            "avalonia",
+            "batch-conversion",
+            "converter",
+            "csharp",
+            "document-converter",
+            "docx-to-pdf",
+            "dotnet",
+            "drag-and-drop",
+            "file-conversion",
+            "file-converter",
+            "heic-converter",
+            "hwp",
+            "hwpx",
+            "image-converter",
+            "linux",
+            "macos",
+            "pdf-converter",
+            "video-converter",
+            "windows"
+          ],
+          "createdAt": "2026-09-29T20:05:15Z",
+          "pushedAt": "2026-10-18T14:40:11Z",
+          "updatedAt": "2026-10-18T17:16:10Z",
+          "license": "MIT"
+        },
+        {
           "id": 1414685342,
           "name": "esp32-iphone-agent",
           "fullName": "onehumanbeing/esp32-iphone-agent",
           "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
           "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-          "stars": 3017,
-          "forks": 391,
-          "openIssues": 8,
+          "stars": 3094,
+          "forks": 403,
+          "openIssues": 9,
           "language": "C",
           "owner": {
             "login": "onehumanbeing",
@@ -64,92 +166,53 @@
             "usb-hid"
           ],
           "createdAt": "2026-10-11T19:10:25Z",
-          "pushedAt": "2026-10-18T00:06:23Z",
-          "updatedAt": "2026-10-18T04:45:13Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1396591019,
-          "name": "SCSKiller",
-          "fullName": "BlueHeisenberg/SCSKiller",
-          "url": "https://github.com/BlueHeisenberg/SCSKiller",
-          "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
-          "stars": 2973,
-          "forks": 77,
-          "openIssues": 81,
-          "language": "C#",
-          "owner": {
-            "login": "BlueHeisenberg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2033896?v=4",
-            "url": "https://github.com/BlueHeisenberg"
-          },
-          "topics": [
-            "amd",
-            "directx12",
-            "nvidia",
-            "pc-gaming",
-            "shader-compilation",
-            "stutter",
-            "windows"
-          ],
-          "createdAt": "2026-09-29T21:01:10Z",
-          "pushedAt": "2026-10-18T00:34:36Z",
-          "updatedAt": "2026-10-18T04:36:05Z",
-          "license": "GPL-3.0"
-        },
-        {
-          "id": 1389011744,
-          "name": "lemo-opuscar",
-          "fullName": "lemomo-ai/lemo-opuscar",
-          "url": "https://github.com/lemomo-ai/lemo-opuscar",
-          "description": "Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）",
-          "stars": 2919,
-          "forks": 319,
-          "openIssues": 0,
-          "language": "JavaScript",
-          "owner": {
-            "login": "lemomo-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/97503247?v=4",
-            "url": "https://github.com/lemomo-ai"
-          },
-          "topics": [
-            "agent-skills",
-            "ai-agents",
-            "ai-short-film",
-            "ai-video",
-            "animation",
-            "canvas",
-            "claude",
-            "claude-code",
-            "claude-code-plugin",
-            "claude-code-skill",
-            "creative-coding",
-            "ffmpeg",
-            "filmmaking",
-            "motion-graphics",
-            "opus-5-5",
-            "prompt-library",
-            "text-to-speech",
-            "threejs",
-            "video-production",
-            "webgl"
-          ],
-          "createdAt": "2026-09-26T10:10:41Z",
-          "pushedAt": "2026-10-17T08:04:53Z",
-          "updatedAt": "2026-10-18T04:47:42Z",
+          "pushedAt": "2026-10-18T15:47:34Z",
+          "updatedAt": "2026-10-18T16:32:53Z",
           "license": "MIT"
         }
       ],
       "risers": [
+        {
+          "id": 1409246014,
+          "name": "solidcraft",
+          "fullName": "tangency-labs/solidcraft",
+          "url": "https://github.com/tangency-labs/solidcraft",
+          "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+          "stars": 5200,
+          "forks": 619,
+          "openIssues": 984,
+          "language": "Rust",
+          "owner": {
+            "login": "tangency-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/343519248?v=4",
+            "url": "https://github.com/tangency-labs"
+          },
+          "topics": [
+            "3d-modeling",
+            "brep",
+            "cad",
+            "egui",
+            "mcp",
+            "parametric-cad",
+            "rust",
+            "step",
+            "wasm"
+          ],
+          "createdAt": "2026-10-07T18:57:48Z",
+          "pushedAt": "2026-10-18T17:10:23Z",
+          "updatedAt": "2026-10-18T17:18:15Z",
+          "license": "Apache-2.0",
+          "rankGain": 9
+        },
         {
           "id": 1381093165,
           "name": "sill",
           "fullName": "Saffsanity/sill",
           "url": "https://github.com/Saffsanity/sill",
           "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
-          "stars": 3218,
-          "forks": 168,
-          "openIssues": 70,
+          "stars": 3358,
+          "forks": 181,
+          "openIssues": 77,
           "language": "Swift",
           "owner": {
             "login": "Saffsanity",
@@ -176,41 +239,36 @@
           ],
           "createdAt": "2026-09-22T08:06:15Z",
           "pushedAt": "2026-10-15T15:32:04Z",
-          "updatedAt": "2026-10-18T04:49:57Z",
+          "updatedAt": "2026-10-18T17:14:45Z",
           "license": "Apache-2.0",
-          "rankGain": 7
+          "rankGain": 5
         },
         {
-          "id": 1409246014,
-          "name": "solidcraft",
-          "fullName": "tangency-labs/solidcraft",
-          "url": "https://github.com/tangency-labs/solidcraft",
-          "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-          "stars": 4427,
-          "forks": 521,
-          "openIssues": 743,
-          "language": "Rust",
+          "id": 1410124849,
+          "name": "anatomy",
+          "fullName": "wheresryan22/anatomy",
+          "url": "https://github.com/wheresryan22/anatomy",
+          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+          "stars": 15839,
+          "forks": 1217,
+          "openIssues": 50,
+          "language": "JavaScript",
           "owner": {
-            "login": "tangency-labs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/343519248?v=4",
-            "url": "https://github.com/tangency-labs"
+            "login": "wheresryan22",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/96392276?v=4",
+            "url": "https://github.com/wheresryan22"
           },
           "topics": [
-            "3d-modeling",
-            "brep",
-            "cad",
-            "egui",
-            "mcp",
-            "parametric-cad",
-            "rust",
-            "step",
-            "wasm"
+            "agent-skill",
+            "open-source",
+            "svg",
+            "vizualization"
           ],
-          "createdAt": "2026-10-07T18:57:48Z",
-          "pushedAt": "2026-10-18T04:29:15Z",
-          "updatedAt": "2026-10-18T04:49:48Z",
-          "license": "Apache-2.0",
-          "rankGain": 6
+          "createdAt": "2026-10-08T10:12:49Z",
+          "pushedAt": "2026-10-15T14:14:32Z",
+          "updatedAt": "2026-10-18T17:17:55Z",
+          "license": "MIT",
+          "rankGain": 4
         },
         {
           "id": 1403115747,
@@ -218,9 +276,9 @@
           "fullName": "Jakeschincariol/replica-skill",
           "url": "https://github.com/Jakeschincariol/replica-skill",
           "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-          "stars": 3198,
-          "forks": 497,
-          "openIssues": 7,
+          "stars": 3334,
+          "forks": 532,
+          "openIssues": 9,
           "language": "Python",
           "owner": {
             "login": "Jakeschincariol",
@@ -240,136 +298,38 @@
           ],
           "createdAt": "2026-10-03T12:07:49Z",
           "pushedAt": "2026-10-03T12:07:53Z",
-          "updatedAt": "2026-10-18T04:40:54Z",
+          "updatedAt": "2026-10-18T17:17:44Z",
           "license": "MIT",
-          "rankGain": 5
+          "rankGain": 3
         },
         {
-          "id": 1410124849,
-          "name": "anatomy",
-          "fullName": "wheresryan22/anatomy",
-          "url": "https://github.com/wheresryan22/anatomy",
-          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-          "stars": 15293,
-          "forks": 1173,
-          "openIssues": 49,
-          "language": "JavaScript",
+          "id": 1383809012,
+          "name": "magpie",
+          "fullName": "yetone/magpie",
+          "url": "https://github.com/yetone/magpie",
+          "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+          "stars": 15809,
+          "forks": 1138,
+          "openIssues": 1099,
+          "language": "Go",
           "owner": {
-            "login": "wheresryan22",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/96392276?v=4",
-            "url": "https://github.com/wheresryan22"
+            "login": "yetone",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1206493?v=4",
+            "url": "https://github.com/yetone"
           },
           "topics": [
-            "agent-skill",
-            "open-source",
-            "svg",
-            "vizualization"
+            "claude-code",
+            "codex",
+            "deepseek",
+            "gemini-cli",
+            "llm",
+            "macos"
           ],
-          "createdAt": "2026-10-08T10:12:49Z",
-          "pushedAt": "2026-10-15T14:14:32Z",
-          "updatedAt": "2026-10-18T04:51:18Z",
+          "createdAt": "2026-09-23T16:22:35Z",
+          "pushedAt": "2026-10-18T17:18:01Z",
+          "updatedAt": "2026-10-18T17:15:27Z",
           "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1408285582,
-          "name": "gridcraft",
-          "fullName": "storytold/gridcraft",
-          "url": "https://github.com/storytold/gridcraft",
-          "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-          "stars": 5626,
-          "forks": 2581,
-          "openIssues": 1122,
-          "language": "Rust",
-          "owner": {
-            "login": "storytold",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
-            "url": "https://github.com/storytold"
-          },
-          "topics": [],
-          "createdAt": "2026-10-07T05:18:16Z",
-          "pushedAt": "2026-10-18T03:13:04Z",
-          "updatedAt": "2026-10-18T04:47:22Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1415313946,
-          "name": "d2r-mobile",
-          "fullName": "jhaizhou-ops/d2r-mobile",
-          "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-          "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-          "stars": 3738,
-          "forks": 1062,
-          "openIssues": 30,
-          "language": "C",
-          "owner": {
-            "login": "jhaizhou-ops",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/258432107?v=4",
-            "url": "https://github.com/jhaizhou-ops"
-          },
-          "topics": [
-            "compatibility-layer",
-            "diablo-2-resurrected",
-            "diablo2",
-            "game-port",
-            "ios",
-            "ipad",
-            "iphone",
-            "mac",
-            "macos",
-            "metal",
-            "reign-of-the-warlock"
-          ],
-          "createdAt": "2026-10-12T08:41:19Z",
-          "pushedAt": "2026-10-17T14:08:55Z",
-          "updatedAt": "2026-10-18T04:43:38Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1386355153,
-          "name": "disktree",
-          "fullName": "tobi/disktree",
-          "url": "https://github.com/tobi/disktree",
-          "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-          "stars": 3064,
-          "forks": 186,
-          "openIssues": 54,
-          "language": "Rust",
-          "owner": {
-            "login": "tobi",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/347?v=4",
-            "url": "https://github.com/tobi"
-          },
-          "topics": [],
-          "createdAt": "2026-09-24T20:56:29Z",
-          "pushedAt": "2026-10-04T19:07:54Z",
-          "updatedAt": "2026-10-17T22:12:47Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1384094559,
-          "name": "CLM",
-          "fullName": "Contrastive-LM/CLM",
-          "url": "https://github.com/Contrastive-LM/CLM",
-          "description": "Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions.",
-          "stars": 3060,
-          "forks": 264,
-          "openIssues": 28,
-          "language": "Python",
-          "owner": {
-            "login": "Contrastive-LM",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/332430450?v=4",
-            "url": "https://github.com/Contrastive-LM"
-          },
-          "topics": [],
-          "createdAt": "2026-09-23T19:29:56Z",
-          "pushedAt": "2026-10-05T21:13:17Z",
-          "updatedAt": "2026-10-18T04:29:06Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
+          "rankGain": 2
         },
         {
           "id": 1385817306,
@@ -377,9 +337,9 @@
           "fullName": "shihabal3amri/DiPlay",
           "url": "https://github.com/shihabal3amri/DiPlay",
           "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-          "stars": 11334,
-          "forks": 1444,
-          "openIssues": 243,
+          "stars": 11456,
+          "forks": 1459,
+          "openIssues": 261,
           "language": "Kotlin",
           "owner": {
             "login": "shihabal3amri",
@@ -389,7 +349,7 @@
           "topics": [],
           "createdAt": "2026-09-24T15:36:38Z",
           "pushedAt": "2026-10-17T18:09:04Z",
-          "updatedAt": "2026-10-18T04:09:41Z",
+          "updatedAt": "2026-10-18T17:05:21Z",
           "license": "GPL-3.0",
           "rankGain": 2
         },
@@ -399,9 +359,9 @@
           "fullName": "Droid-Deck/DroidDeck",
           "url": "https://github.com/Droid-Deck/DroidDeck",
           "description": "DroidDeck brings the SteamOS experience to Android",
-          "stars": 10324,
-          "forks": 518,
-          "openIssues": 345,
+          "stars": 10730,
+          "forks": 533,
+          "openIssues": 367,
           "language": "Kotlin",
           "owner": {
             "login": "Droid-Deck",
@@ -410,9 +370,106 @@
           },
           "topics": [],
           "createdAt": "2026-09-24T15:14:13Z",
-          "pushedAt": "2026-10-18T03:57:54Z",
-          "updatedAt": "2026-10-18T04:49:38Z",
+          "pushedAt": "2026-10-18T15:39:07Z",
+          "updatedAt": "2026-10-18T17:16:54Z",
           "license": "GPL-3.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1398097510,
+          "name": "vectorcraft",
+          "fullName": "storytold/vectorcraft",
+          "url": "https://github.com/storytold/vectorcraft",
+          "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
+          "stars": 9798,
+          "forks": 4779,
+          "openIssues": 615,
+          "language": "Rust",
+          "owner": {
+            "login": "storytold",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
+            "url": "https://github.com/storytold"
+          },
+          "topics": [
+            "art",
+            "rust",
+            "rust-lang",
+            "svg",
+            "svg-editor",
+            "vector-graphics"
+          ],
+          "createdAt": "2026-09-30T13:43:03Z",
+          "pushedAt": "2026-10-18T17:10:12Z",
+          "updatedAt": "2026-10-18T17:11:02Z",
+          "license": "Apache-2.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1397016507,
+          "name": "universal-modder",
+          "fullName": "rehan-remade/universal-modder",
+          "url": "https://github.com/rehan-remade/universal-modder",
+          "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+          "stars": 8317,
+          "forks": 906,
+          "openIssues": 15,
+          "language": "Python",
+          "owner": {
+            "login": "rehan-remade",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/173837546?v=4",
+            "url": "https://github.com/rehan-remade"
+          },
+          "topics": [
+            "age-of-empires",
+            "claude-code",
+            "claude-code-plugin",
+            "fal",
+            "game-assets",
+            "game-modding",
+            "mcp",
+            "modding",
+            "reverse-engineering",
+            "tmodloader"
+          ],
+          "createdAt": "2026-09-30T05:00:35Z",
+          "pushedAt": "2026-10-18T15:49:51Z",
+          "updatedAt": "2026-10-18T17:11:49Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1393965829,
+          "name": "AIHOT",
+          "fullName": "KKKKhazix/AIHOT",
+          "url": "https://github.com/KKKKhazix/AIHOT",
+          "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+          "stars": 8006,
+          "forks": 1946,
+          "openIssues": 4,
+          "language": "TypeScript",
+          "owner": {
+            "login": "KKKKhazix",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/239590580?v=4",
+            "url": "https://github.com/KKKKhazix"
+          },
+          "topics": [
+            "ai",
+            "chinese",
+            "content-curation",
+            "daily-digest",
+            "docker-compose",
+            "llm",
+            "mcp",
+            "news-aggregator",
+            "postgresql",
+            "rss",
+            "self-hosted",
+            "typescript"
+          ],
+          "createdAt": "2026-09-28T23:40:05Z",
+          "pushedAt": "2026-10-17T19:33:38Z",
+          "updatedAt": "2026-10-18T17:07:10Z",
+          "license": "MIT",
           "rankGain": 2
         }
       ],
@@ -524,8 +581,8 @@
           "fullName": "deepseek-ai/deepseek-harness",
           "url": "https://github.com/deepseek-ai/deepseek-harness",
           "description": "DeepSeek Harness: Everything is a Plugin.",
-          "stars": 252348,
-          "forks": 30355,
+          "stars": 252970,
+          "forks": 30438,
           "openIssues": 0,
           "language": "TypeScript",
           "owner": {
@@ -541,8 +598,47 @@
           ],
           "createdAt": "2026-08-13T11:56:32Z",
           "pushedAt": "2026-10-17T08:16:09Z",
-          "updatedAt": "2026-10-18T04:49:39Z",
+          "updatedAt": "2026-10-18T17:15:22Z",
           "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 233472199,
+          "name": "Microsoft-Activation-Scripts",
+          "fullName": "massgravel/Microsoft-Activation-Scripts",
+          "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+          "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+          "stars": 194946,
+          "forks": 18487,
+          "openIssues": 5,
+          "language": "Batchfile",
+          "owner": {
+            "login": "massgravel",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/59795046?v=4",
+            "url": "https://github.com/massgravel"
+          },
+          "topics": [
+            "activator",
+            "hwid",
+            "kms",
+            "kms38",
+            "massgrave",
+            "massgravel",
+            "microsoft",
+            "microsoft365",
+            "office",
+            "office365",
+            "ohook",
+            "powershell",
+            "tsforge",
+            "windows",
+            "windows-10",
+            "windows-11"
+          ],
+          "createdAt": "2020-01-12T23:03:34Z",
+          "pushedAt": "2026-10-17T01:33:16Z",
+          "updatedAt": "2026-10-18T17:18:07Z",
+          "license": "GPL-3.0",
           "rankGain": 1
         }
       ],
@@ -736,51 +832,7 @@
     },
     "secAiCyber": {
       "newcomers": [],
-      "risers": [
-        {
-          "id": 1304960085,
-          "name": "guardana",
-          "fullName": "guardana/guardana",
-          "url": "https://github.com/guardana/guardana",
-          "description": "Open-source AI security verification for model artifacts, live endpoints, MCP servers, and recorded agent traces. Reproducible evidence for release decisions.",
-          "stars": 242,
-          "forks": 13,
-          "openIssues": 27,
-          "language": "Python",
-          "owner": {
-            "login": "guardana",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/304104089?v=4",
-            "url": "https://github.com/guardana"
-          },
-          "topics": [
-            "agent-security",
-            "ai-agents",
-            "ai-red-teaming",
-            "ai-safety",
-            "ai-security",
-            "devsecops",
-            "llm-security",
-            "mcp",
-            "ml-security",
-            "mlsecops",
-            "model-context-protocol",
-            "model-security",
-            "opentelemetry",
-            "owasp-llm",
-            "prompt-injection",
-            "python",
-            "red-teaming",
-            "sarif",
-            "security-tools",
-            "supply-chain-security"
-          ],
-          "createdAt": "2026-07-18T14:14:22Z",
-          "pushedAt": "2026-10-17T17:44:55Z",
-          "updatedAt": "2026-10-17T22:04:52Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
-        }
-      ],
+      "risers": [],
       "dropped": []
     }
   },
@@ -788,7 +840,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "breakout": {
@@ -800,7 +852,7 @@
     "activeWeek": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "aiEco": {
@@ -818,7 +870,7 @@
     "secAiCyber": {
       "total": 24,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 0,
       "dropped": 0
     }
   }
