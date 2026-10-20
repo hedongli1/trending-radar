@@ -1,23 +1,72 @@
 {
-  "generatedAt": "2026-10-20T05:04:18.083Z",
+  "generatedAt": "2026-10-20T18:26:40.018Z",
   "date": "2026-10-20",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1333065091,
+          "name": "deepseek-harness",
+          "fullName": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "stars": 255975,
+          "forks": 30899,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "deepseek-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
+            "url": "https://github.com/deepseek-ai"
+          },
+          "topics": [
+            "ai-agents",
+            "cordis",
+            "dsh",
+            "dsh-plugin"
+          ],
+          "createdAt": "2026-08-13T11:56:32Z",
+          "pushedAt": "2026-10-17T08:16:09Z",
+          "updatedAt": "2026-10-20T18:25:12Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
       "newcomers": [
+        {
+          "id": 1421825221,
+          "name": "DeepInfer",
+          "fullName": "deepseek-ai/DeepInfer",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+          "stars": 11034,
+          "forks": 969,
+          "openIssues": 109,
+          "language": "Python",
+          "owner": {
+            "login": "deepseek-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
+            "url": "https://github.com/deepseek-ai"
+          },
+          "topics": [],
+          "createdAt": "2026-10-16T07:47:23Z",
+          "pushedAt": "2026-10-20T11:03:36Z",
+          "updatedAt": "2026-10-20T18:26:16Z",
+          "license": "Apache-2.0"
+        },
         {
           "id": 1414685342,
           "name": "esp32-iphone-agent",
           "fullName": "onehumanbeing/esp32-iphone-agent",
           "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
           "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-          "stars": 3309,
-          "forks": 440,
-          "openIssues": 10,
+          "stars": 3384,
+          "forks": 451,
+          "openIssues": 12,
           "language": "C",
           "owner": {
             "login": "onehumanbeing",
@@ -36,9 +85,38 @@
             "usb-hid"
           ],
           "createdAt": "2026-10-11T19:10:25Z",
-          "pushedAt": "2026-10-19T21:10:19Z",
-          "updatedAt": "2026-10-20T04:47:49Z",
+          "pushedAt": "2026-10-20T10:28:41Z",
+          "updatedAt": "2026-10-20T18:08:27Z",
           "license": "MIT"
+        },
+        {
+          "id": 1396591019,
+          "name": "SCSKiller",
+          "fullName": "BlueHeisenberg/SCSKiller",
+          "url": "https://github.com/BlueHeisenberg/SCSKiller",
+          "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
+          "stars": 3202,
+          "forks": 81,
+          "openIssues": 94,
+          "language": "C#",
+          "owner": {
+            "login": "BlueHeisenberg",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2033896?v=4",
+            "url": "https://github.com/BlueHeisenberg"
+          },
+          "topics": [
+            "amd",
+            "directx12",
+            "nvidia",
+            "pc-gaming",
+            "shader-compilation",
+            "stutter",
+            "windows"
+          ],
+          "createdAt": "2026-09-29T21:01:10Z",
+          "pushedAt": "2026-10-19T22:02:42Z",
+          "updatedAt": "2026-10-20T18:19:20Z",
+          "license": "GPL-3.0"
         }
       ],
       "risers": [
@@ -48,9 +126,9 @@
           "fullName": "Gathin23/cleanyourtv",
           "url": "https://github.com/Gathin23/cleanyourtv",
           "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-          "stars": 6450,
-          "forks": 770,
-          "openIssues": 62,
+          "stars": 10712,
+          "forks": 1200,
+          "openIssues": 101,
           "language": "Java",
           "owner": {
             "login": "Gathin23",
@@ -77,10 +155,10 @@
             "xiaomi"
           ],
           "createdAt": "2026-10-17T08:12:35Z",
-          "pushedAt": "2026-10-20T03:57:28Z",
-          "updatedAt": "2026-10-20T05:04:12Z",
+          "pushedAt": "2026-10-20T15:21:58Z",
+          "updatedAt": "2026-10-20T18:26:27Z",
           "license": "NOASSERTION",
-          "rankGain": 8
+          "rankGain": 15
         },
         {
           "id": 1389011744,
@@ -88,8 +166,8 @@
           "fullName": "lemomo-ai/lemo-opuscar",
           "url": "https://github.com/lemomo-ai/lemo-opuscar",
           "description": "Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）",
-          "stars": 3934,
-          "forks": 442,
+          "stars": 4328,
+          "forks": 476,
           "openIssues": 0,
           "language": "JavaScript",
           "owner": {
@@ -121,8 +199,34 @@
           ],
           "createdAt": "2026-09-26T10:10:41Z",
           "pushedAt": "2026-10-19T12:11:41Z",
-          "updatedAt": "2026-10-20T05:02:24Z",
+          "updatedAt": "2026-10-20T18:25:57Z",
           "license": "MIT",
+          "rankGain": 6
+        },
+        {
+          "id": 1409893258,
+          "name": "dsh-ops",
+          "fullName": "T-Auto/dsh-ops",
+          "url": "https://github.com/T-Auto/dsh-ops",
+          "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+          "stars": 3470,
+          "forks": 95,
+          "openIssues": 69,
+          "language": "JavaScript",
+          "owner": {
+            "login": "T-Auto",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/183904010?v=4",
+            "url": "https://github.com/T-Auto"
+          },
+          "topics": [
+            "dsh",
+            "dsh-plugin",
+            "dsh-plugins"
+          ],
+          "createdAt": "2026-10-08T07:09:25Z",
+          "pushedAt": "2026-10-20T17:58:24Z",
+          "updatedAt": "2026-10-20T18:13:45Z",
+          "license": "NOASSERTION",
           "rankGain": 4
         },
         {
@@ -131,9 +235,9 @@
           "fullName": "google-research/harness2",
           "url": "https://github.com/google-research/harness2",
           "description": "暂无描述",
-          "stars": 12597,
-          "forks": 1159,
-          "openIssues": 90,
+          "stars": 14786,
+          "forks": 1353,
+          "openIssues": 107,
           "language": "Python",
           "owner": {
             "login": "google-research",
@@ -143,84 +247,9 @@
           "topics": [],
           "createdAt": "2026-10-06T21:48:11Z",
           "pushedAt": "2026-10-14T02:22:51Z",
-          "updatedAt": "2026-10-20T05:04:01Z",
+          "updatedAt": "2026-10-20T18:25:29Z",
           "license": "Apache-2.0",
-          "rankGain": 2
-        },
-        {
-          "id": 1409246014,
-          "name": "solidcraft",
-          "fullName": "tangency-labs/solidcraft",
-          "url": "https://github.com/tangency-labs/solidcraft",
-          "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-          "stars": 7488,
-          "forks": 855,
-          "openIssues": 1465,
-          "language": "Rust",
-          "owner": {
-            "login": "tangency-labs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/343519248?v=4",
-            "url": "https://github.com/tangency-labs"
-          },
-          "topics": [
-            "3d-modeling",
-            "brep",
-            "cad",
-            "egui",
-            "mcp",
-            "parametric-cad",
-            "rust",
-            "step",
-            "wasm"
-          ],
-          "createdAt": "2026-10-07T18:57:48Z",
-          "pushedAt": "2026-10-20T04:42:51Z",
-          "updatedAt": "2026-10-20T05:03:18Z",
-          "license": "Apache-2.0",
-          "rankGain": 2
-        },
-        {
-          "id": 1396526702,
-          "name": "Filee",
-          "fullName": "KnifeLemon/Filee",
-          "url": "https://github.com/KnifeLemon/Filee",
-          "description": "Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-          "stars": 6831,
-          "forks": 407,
-          "openIssues": 55,
-          "language": "C#",
-          "owner": {
-            "login": "KnifeLemon",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/13937016?v=4",
-            "url": "https://github.com/KnifeLemon"
-          },
-          "topics": [
-            "audio-converter",
-            "avalonia",
-            "batch-conversion",
-            "converter",
-            "csharp",
-            "document-converter",
-            "docx-to-pdf",
-            "dotnet",
-            "drag-and-drop",
-            "file-conversion",
-            "file-converter",
-            "heic-converter",
-            "hwp",
-            "hwpx",
-            "image-converter",
-            "linux",
-            "macos",
-            "pdf-converter",
-            "video-converter",
-            "windows"
-          ],
-          "createdAt": "2026-09-29T20:05:15Z",
-          "pushedAt": "2026-10-20T04:43:27Z",
-          "updatedAt": "2026-10-20T05:03:56Z",
-          "license": "MIT",
-          "rankGain": 2
+          "rankGain": 3
         },
         {
           "id": 1381093165,
@@ -228,9 +257,9 @@
           "fullName": "Saffsanity/sill",
           "url": "https://github.com/Saffsanity/sill",
           "description": "Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
-          "stars": 3654,
-          "forks": 199,
-          "openIssues": 81,
+          "stars": 3726,
+          "forks": 204,
+          "openIssues": 86,
           "language": "Swift",
           "owner": {
             "login": "Saffsanity",
@@ -257,126 +286,153 @@
           ],
           "createdAt": "2026-09-22T08:06:15Z",
           "pushedAt": "2026-10-20T00:33:19Z",
-          "updatedAt": "2026-10-20T04:21:51Z",
+          "updatedAt": "2026-10-20T18:25:51Z",
           "license": "Apache-2.0",
-          "rankGain": 2
+          "rankGain": 3
         },
         {
-          "id": 1379574728,
-          "name": "jev-chat-jarvis",
-          "fullName": "jev-chat/jev-chat-jarvis",
-          "url": "https://github.com/jev-chat/jev-chat-jarvis",
-          "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
-          "stars": 7923,
-          "forks": 1287,
-          "openIssues": 30,
-          "language": "Kotlin",
+          "id": 1403115747,
+          "name": "replica-skill",
+          "fullName": "Jakeschincariol/replica-skill",
+          "url": "https://github.com/Jakeschincariol/replica-skill",
+          "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+          "stars": 3712,
+          "forks": 626,
+          "openIssues": 11,
+          "language": "Python",
           "owner": {
-            "login": "jev-chat",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/332283779?v=4",
-            "url": "https://github.com/jev-chat"
+            "login": "Jakeschincariol",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/196724947?v=4",
+            "url": "https://github.com/Jakeschincariol"
           },
           "topics": [
-            "accessibility-service",
-            "ai-assistant",
-            "android",
-            "chat-assistant",
-            "chat-copilot",
-            "llm",
-            "ocr",
-            "qq",
-            "whatsapp"
+            "agent",
+            "agent-skills",
+            "app-clone",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "indie-hacker",
+            "reverse-engineering",
+            "saas"
           ],
-          "createdAt": "2026-09-21T11:12:53Z",
-          "pushedAt": "2026-10-16T09:46:28Z",
-          "updatedAt": "2026-10-20T03:37:06Z",
+          "createdAt": "2026-10-03T12:07:49Z",
+          "pushedAt": "2026-10-03T12:07:53Z",
+          "updatedAt": "2026-10-20T18:21:13Z",
           "license": "MIT",
-          "rankGain": 1
+          "rankGain": 3
         },
         {
-          "id": 1410929004,
-          "name": "DigUp",
-          "fullName": "ARahim3/DigUp",
-          "url": "https://github.com/ARahim3/DigUp",
-          "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
-          "stars": 5090,
-          "forks": 371,
-          "openIssues": 91,
-          "language": "Swift",
-          "owner": {
-            "login": "ARahim3",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/41390319?v=4",
-            "url": "https://github.com/ARahim3"
-          },
-          "topics": [
-            "embeddinggemma",
-            "embeddings",
-            "file-search",
-            "linux",
-            "llama-cpp",
-            "local-first",
-            "macos",
-            "menubar-app",
-            "multimodal",
-            "on-device",
-            "semantic-search",
-            "swift",
-            "tauri",
-            "windows"
-          ],
-          "createdAt": "2026-10-08T20:37:51Z",
-          "pushedAt": "2026-10-18T05:30:06Z",
-          "updatedAt": "2026-10-20T04:51:50Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1406706284,
-          "name": "huashu-art-motion",
-          "fullName": "alchaincyf/huashu-art-motion",
-          "url": "https://github.com/alchaincyf/huashu-art-motion",
-          "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-          "stars": 4534,
-          "forks": 493,
-          "openIssues": 7,
-          "language": "JavaScript",
-          "owner": {
-            "login": "alchaincyf",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/127714341?v=4",
-            "url": "https://github.com/alchaincyf"
-          },
-          "topics": [],
-          "createdAt": "2026-10-06T04:49:37Z",
-          "pushedAt": "2026-10-16T17:03:31Z",
-          "updatedAt": "2026-10-20T04:56:45Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1400018213,
-          "name": "designcraft",
-          "fullName": "storytold/designcraft",
-          "url": "https://github.com/storytold/designcraft",
-          "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
-          "stars": 4493,
-          "forks": 3105,
-          "openIssues": 365,
+          "id": 1412548284,
+          "name": "craft-launcher",
+          "fullName": "storytold/craft-launcher",
+          "url": "https://github.com/storytold/craft-launcher",
+          "description": "The Craft App Launcher",
+          "stars": 3621,
+          "forks": 1172,
+          "openIssues": 423,
           "language": "Rust",
           "owner": {
             "login": "storytold",
             "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
             "url": "https://github.com/storytold"
           },
-          "topics": [
-            "art",
-            "layout",
-            "print",
-            "rust"
-          ],
-          "createdAt": "2026-10-01T13:13:14Z",
-          "pushedAt": "2026-10-19T10:14:38Z",
-          "updatedAt": "2026-10-20T04:41:06Z",
+          "topics": [],
+          "createdAt": "2026-10-09T23:21:59Z",
+          "pushedAt": "2026-10-20T17:33:04Z",
+          "updatedAt": "2026-10-20T18:20:01Z",
           "license": "Apache-2.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1408465463,
+          "name": "nvidia-macos-driver",
+          "fullName": "nullmoth/nvidia-macos-driver",
+          "url": "https://github.com/nullmoth/nvidia-macos-driver",
+          "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+          "stars": 3491,
+          "forks": 341,
+          "openIssues": 220,
+          "language": "Rust",
+          "owner": {
+            "login": "nullmoth",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/333880792?v=4",
+            "url": "https://github.com/nullmoth"
+          },
+          "topics": [
+            "kext",
+            "macos",
+            "metal",
+            "nvidia",
+            "opencore",
+            "vulkan"
+          ],
+          "createdAt": "2026-10-07T08:13:12Z",
+          "pushedAt": "2026-10-20T18:14:36Z",
+          "updatedAt": "2026-10-20T18:14:40Z",
+          "license": "NOASSERTION",
+          "rankGain": 2
+        },
+        {
+          "id": 1416386910,
+          "name": "qwen21-nsfw-pose-skill",
+          "fullName": "Arekejoker/qwen21-nsfw-pose-skill",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+          "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+          "stars": 3490,
+          "forks": 629,
+          "openIssues": 4,
+          "language": "Python",
+          "owner": {
+            "login": "Arekejoker",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/131444687?v=4",
+            "url": "https://github.com/Arekejoker"
+          },
+          "topics": [
+            "agent-skill",
+            "comfyui",
+            "image-generation",
+            "openclaw",
+            "pose-control",
+            "qwen-image"
+          ],
+          "createdAt": "2026-10-13T03:09:42Z",
+          "pushedAt": "2026-10-20T07:03:30Z",
+          "updatedAt": "2026-10-20T18:20:42Z",
+          "license": "Apache-2.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1385896447,
+          "name": "dsh-our-free-model",
+          "fullName": "Ebony-Vinyl/dsh-our-free-model",
+          "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+          "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+          "stars": 30741,
+          "forks": 649,
+          "openIssues": 279,
+          "language": "JavaScript",
+          "owner": {
+            "login": "Ebony-Vinyl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/245557608?v=4",
+            "url": "https://github.com/Ebony-Vinyl"
+          },
+          "topics": [
+            "ai-agents",
+            "deepseek",
+            "deepseek-harness",
+            "developer-tools",
+            "dsh",
+            "dsh-plugin",
+            "free-model",
+            "llm",
+            "model-provider",
+            "openai-compatible"
+          ],
+          "createdAt": "2026-09-24T16:17:19Z",
+          "pushedAt": "2026-10-20T15:47:03Z",
+          "updatedAt": "2026-10-20T18:26:14Z",
+          "license": "MIT",
           "rankGain": 1
         }
       ],
@@ -401,6 +457,73 @@
           "pushedAt": "2026-10-19T02:35:04Z",
           "updatedAt": "2026-10-19T19:30:00Z",
           "license": "Apache-2.0"
+        },
+        {
+          "id": 1407873347,
+          "name": "aurelio-finance",
+          "fullName": "LosaLosSantos/aurelio-finance",
+          "url": "https://github.com/LosaLosSantos/aurelio-finance",
+          "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+          "stars": 3969,
+          "forks": 502,
+          "openIssues": 0,
+          "language": "Python",
+          "owner": {
+            "login": "LosaLosSantos",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/154470154?v=4",
+            "url": "https://github.com/LosaLosSantos"
+          },
+          "topics": [
+            "ai",
+            "dividends",
+            "etf",
+            "finance",
+            "financial-planning",
+            "fintech",
+            "investing",
+            "llm",
+            "net-worth",
+            "personal-finance",
+            "portfolio-tracker",
+            "self-hosted",
+            "stocks",
+            "wealth-management"
+          ],
+          "createdAt": "2026-10-06T20:14:19Z",
+          "pushedAt": "2026-10-19T15:03:04Z",
+          "updatedAt": "2026-10-19T19:05:08Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1393689296,
+          "name": "reelmimic",
+          "fullName": "edenfunf/reelmimic",
+          "url": "https://github.com/edenfunf/reelmimic",
+          "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+          "stars": 3657,
+          "forks": 373,
+          "openIssues": 45,
+          "language": "JavaScript",
+          "owner": {
+            "login": "edenfunf",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/146086744?v=4",
+            "url": "https://github.com/edenfunf"
+          },
+          "topics": [
+            "2d-animation",
+            "ai-agents",
+            "ai-video",
+            "animation",
+            "claude-code",
+            "codex",
+            "multi-agent",
+            "style-transfer",
+            "video-generation"
+          ],
+          "createdAt": "2026-09-28T19:14:59Z",
+          "pushedAt": "2026-10-19T19:36:19Z",
+          "updatedAt": "2026-10-19T19:36:25Z",
+          "license": "MIT"
         }
       ]
     },
@@ -412,9 +535,9 @@
           "fullName": "obra/superpowers",
           "url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
-          "stars": 302211,
-          "forks": 26980,
-          "openIssues": 386,
+          "stars": 302508,
+          "forks": 26994,
+          "openIssues": 391,
           "language": "Shell",
           "owner": {
             "login": "obra",
@@ -432,8 +555,8 @@
             "superpowers"
           ],
           "createdAt": "2025-10-09T19:45:18Z",
-          "pushedAt": "2026-10-20T03:54:16Z",
-          "updatedAt": "2026-10-20T05:03:06Z",
+          "pushedAt": "2026-10-20T15:30:53Z",
+          "updatedAt": "2026-10-20T18:25:40Z",
           "license": "MIT"
         }
       ],
@@ -475,9 +598,9 @@
           "fullName": "tt-a1i/archify",
           "url": "https://github.com/tt-a1i/archify",
           "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-          "stars": 85944,
-          "forks": 5851,
-          "openIssues": 261,
+          "stars": 86255,
+          "forks": 5862,
+          "openIssues": 267,
           "language": "JavaScript",
           "owner": {
             "login": "tt-a1i",
@@ -507,12 +630,75 @@
             "visualization"
           ],
           "createdAt": "2026-04-15T05:27:37Z",
-          "pushedAt": "2026-10-20T03:38:17Z",
-          "updatedAt": "2026-10-20T04:56:32Z",
+          "pushedAt": "2026-10-20T12:04:50Z",
+          "updatedAt": "2026-10-20T18:25:50Z",
           "license": "MIT"
         }
       ],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1333065091,
+          "name": "deepseek-harness",
+          "fullName": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "stars": 255975,
+          "forks": 30899,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "deepseek-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
+            "url": "https://github.com/deepseek-ai"
+          },
+          "topics": [
+            "ai-agents",
+            "cordis",
+            "dsh",
+            "dsh-plugin"
+          ],
+          "createdAt": "2026-08-13T11:56:32Z",
+          "pushedAt": "2026-10-17T08:16:09Z",
+          "updatedAt": "2026-10-20T18:25:12Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1130564872,
+          "name": "worldmonitor",
+          "fullName": "koala73/worldmonitor",
+          "url": "https://github.com/koala73/worldmonitor",
+          "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+          "stars": 88920,
+          "forks": 13651,
+          "openIssues": 344,
+          "language": "TypeScript",
+          "owner": {
+            "login": "koala73",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/996596?v=4",
+            "url": "https://github.com/koala73"
+          },
+          "topics": [
+            "agent",
+            "ai",
+            "dashboard",
+            "geopolitics",
+            "mcp",
+            "mcp-server",
+            "monitoring",
+            "news",
+            "opensource",
+            "osint",
+            "palantir",
+            "situation"
+          ],
+          "createdAt": "2026-01-08T17:26:06Z",
+          "pushedAt": "2026-10-20T17:37:35Z",
+          "updatedAt": "2026-10-20T18:24:31Z",
+          "license": "AGPL-3.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": [
         {
           "id": 798201435,
@@ -559,38 +745,41 @@
       "dropped": []
     },
     "secAiCyber": {
-      "newcomers": [
+      "newcomers": [],
+      "risers": [
         {
-          "id": 1425938162,
-          "name": "ai-jailbreaks",
-          "fullName": "AndreSzymanski15/ai-jailbreaks",
-          "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-          "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-          "stars": 422,
-          "forks": 50,
+          "id": 1334304098,
+          "name": "helm-d",
+          "fullName": "ADWMC/helm-d",
+          "url": "https://github.com/ADWMC/helm-d",
+          "description": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+          "stars": 263,
+          "forks": 42,
           "openIssues": 0,
-          "language": "Other",
+          "language": "Python",
           "owner": {
-            "login": "AndreSzymanski15",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/309140753?v=4",
-            "url": "https://github.com/AndreSzymanski15"
+            "login": "ADWMC",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/168635686?v=4",
+            "url": "https://github.com/ADWMC"
           },
           "topics": [
-            "ai",
-            "ai-safety",
+            "cordis",
+            "deepseek-harness",
+            "dsh",
+            "dsh-plugin",
+            "frida",
             "jailbreak",
-            "jailbreaking",
-            "privacy",
-            "safety",
+            "llm-jailbreak",
+            "reverse-engineering",
             "security"
           ],
-          "createdAt": "2026-10-19T17:14:07Z",
-          "pushedAt": "2026-10-19T17:20:03Z",
-          "updatedAt": "2026-10-20T05:04:00Z",
-          "license": null
+          "createdAt": "2026-08-14T15:09:38Z",
+          "pushedAt": "2026-10-20T13:23:29Z",
+          "updatedAt": "2026-10-20T17:52:37Z",
+          "license": "MIT",
+          "rankGain": 2
         }
       ],
-      "risers": [],
       "dropped": []
     }
   },
@@ -598,14 +787,14 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 1,
+      "newcomers": 3,
       "risers": 10,
-      "dropped": 1
+      "dropped": 3
     },
     "activeWeek": {
       "total": 50,
@@ -616,7 +805,7 @@
     "aiEco": {
       "total": 50,
       "newcomers": 1,
-      "risers": 0,
+      "risers": 2,
       "dropped": 1
     },
     "secTraffic": {
@@ -626,9 +815,9 @@
       "dropped": 0
     },
     "secAiCyber": {
-      "total": 25,
-      "newcomers": 1,
-      "risers": 0,
+      "total": 24,
+      "newcomers": 0,
+      "risers": 1,
       "dropped": 0
     }
   }
