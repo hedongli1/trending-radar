@@ -1,9 +1,50 @@
 {
-  "generatedAt": "2026-10-29T06:06:49.298Z",
+  "generatedAt": "2026-10-29T19:35:06.687Z",
   "date": "2026-10-29",
   "categories": {
     "allTime": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 574523116,
+          "name": "prompts.chat",
+          "fullName": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+          "stars": 175070,
+          "forks": 22340,
+          "openIssues": 79,
+          "language": "HTML",
+          "owner": {
+            "login": "f",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/196477?v=4",
+            "url": "https://github.com/f"
+          },
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "awesome-list",
+            "chatgpt",
+            "chatgpt-prompts",
+            "claude",
+            "gemini",
+            "gpt",
+            "gpt-4",
+            "llm",
+            "machine-learning",
+            "nextjs",
+            "open-source",
+            "openai",
+            "prompt-engineering",
+            "prompts",
+            "prompts-chat",
+            "typescript"
+          ],
+          "createdAt": "2022-12-05T13:54:13Z",
+          "pushedAt": "2026-10-29T13:19:57Z",
+          "updatedAt": "2026-10-29T19:32:47Z",
+          "license": "NOASSERTION"
+        }
+      ],
       "risers": [
         {
           "id": 233472199,
@@ -11,9 +52,9 @@
           "fullName": "massgravel/Microsoft-Activation-Scripts",
           "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
           "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
-          "stars": 196729,
-          "forks": 18659,
-          "openIssues": 3,
+          "stars": 196833,
+          "forks": 18665,
+          "openIssues": 5,
           "language": "Batchfile",
           "owner": {
             "login": "massgravel",
@@ -40,12 +81,84 @@
           ],
           "createdAt": "2020-01-12T23:03:34Z",
           "pushedAt": "2026-10-17T01:33:16Z",
-          "updatedAt": "2026-10-29T06:06:25Z",
+          "updatedAt": "2026-10-29T19:30:59Z",
           "license": "GPL-3.0",
+          "rankGain": 1
+        },
+        {
+          "id": 787076358,
+          "name": "firecrawl",
+          "fullName": "firecrawl/firecrawl",
+          "url": "https://github.com/firecrawl/firecrawl",
+          "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+          "stars": 196724,
+          "forks": 10381,
+          "openIssues": 706,
+          "language": "TypeScript",
+          "owner": {
+            "login": "firecrawl",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/135057108?v=4",
+            "url": "https://github.com/firecrawl"
+          },
+          "topics": [
+            "ai",
+            "ai-agents",
+            "ai-crawler",
+            "ai-scraping",
+            "ai-search",
+            "crawler",
+            "data-extraction",
+            "html-to-markdown",
+            "llm",
+            "markdown",
+            "scraper",
+            "scraping",
+            "web-crawler",
+            "web-data",
+            "web-data-extraction",
+            "web-scraper",
+            "web-scraping",
+            "web-search",
+            "webscraping"
+          ],
+          "createdAt": "2024-04-15T21:02:29Z",
+          "pushedAt": "2026-10-29T19:31:08Z",
+          "updatedAt": "2026-10-29T19:33:20Z",
+          "license": "AGPL-3.0",
           "rankGain": 1
         }
       ],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 2126244,
+          "name": "bootstrap",
+          "fullName": "twbs/bootstrap",
+          "url": "https://github.com/twbs/bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+          "stars": 175021,
+          "forks": 78506,
+          "openIssues": 282,
+          "language": "MDX",
+          "owner": {
+            "login": "twbs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4",
+            "url": "https://github.com/twbs"
+          },
+          "topics": [
+            "bootstrap",
+            "css",
+            "css-framework",
+            "html",
+            "javascript",
+            "sass",
+            "scss"
+          ],
+          "createdAt": "2011-07-29T21:19:00Z",
+          "pushedAt": "2026-10-28T17:51:37Z",
+          "updatedAt": "2026-10-28T19:24:31Z",
+          "license": "MIT"
+        }
+      ]
     },
     "breakout": {
       "newcomers": [
@@ -55,9 +168,9 @@
           "fullName": "horizon-rust/horizon",
           "url": "https://github.com/horizon-rust/horizon",
           "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-          "stars": 3817,
-          "forks": 301,
-          "openIssues": 593,
+          "stars": 4233,
+          "forks": 371,
+          "openIssues": 471,
           "language": "Rust",
           "owner": {
             "login": "horizon-rust",
@@ -78,8 +191,8 @@
             "wgpu"
           ],
           "createdAt": "2026-10-03T17:08:48Z",
-          "pushedAt": "2026-10-29T05:52:45Z",
-          "updatedAt": "2026-10-29T06:05:07Z",
+          "pushedAt": "2026-10-29T19:31:31Z",
+          "updatedAt": "2026-10-29T19:34:43Z",
           "license": "MIT"
         },
         {
@@ -88,9 +201,9 @@
           "fullName": "amosblomqvist/learnharness",
           "url": "https://github.com/amosblomqvist/learnharness",
           "description": "Agent harness for learning difficult things.",
-          "stars": 3686,
-          "forks": 572,
-          "openIssues": 198,
+          "stars": 3928,
+          "forks": 608,
+          "openIssues": 229,
           "language": "TypeScript",
           "owner": {
             "login": "amosblomqvist",
@@ -100,7 +213,7 @@
           "topics": [],
           "createdAt": "2026-10-16T19:35:33Z",
           "pushedAt": "2026-10-29T04:35:56Z",
-          "updatedAt": "2026-10-29T06:01:33Z",
+          "updatedAt": "2026-10-29T19:34:48Z",
           "license": "AGPL-3.0"
         },
         {
@@ -109,8 +222,8 @@
           "fullName": "aicodeking/leanrea",
           "url": "https://github.com/aicodeking/leanrea",
           "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-          "stars": 3477,
-          "forks": 533,
+          "stars": 3587,
+          "forks": 549,
           "openIssues": 8,
           "language": "Python",
           "owner": {
@@ -121,7 +234,7 @@
           "topics": [],
           "createdAt": "2026-10-17T02:53:24Z",
           "pushedAt": "2026-10-19T11:34:21Z",
-          "updatedAt": "2026-10-29T05:57:05Z",
+          "updatedAt": "2026-10-29T19:31:15Z",
           "license": "MIT"
         },
         {
@@ -130,9 +243,9 @@
           "fullName": "openfilm/openfilm",
           "url": "https://github.com/openfilm/openfilm",
           "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
-          "stars": 3420,
-          "forks": 322,
-          "openIssues": 15,
+          "stars": 3572,
+          "forks": 336,
+          "openIssues": 20,
           "language": "TypeScript",
           "owner": {
             "login": "openfilm",
@@ -150,42 +263,30 @@
             "video-editor"
           ],
           "createdAt": "2026-10-04T09:29:07Z",
-          "pushedAt": "2026-10-28T20:05:50Z",
-          "updatedAt": "2026-10-29T06:06:21Z",
+          "pushedAt": "2026-10-29T15:42:43Z",
+          "updatedAt": "2026-10-29T19:24:48Z",
           "license": "MIT"
         },
         {
-          "id": 1421822085,
-          "name": "dsh-purge",
-          "fullName": "kingcharleslzy-ai/dsh-purge",
-          "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
-          "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
-          "stars": 3279,
-          "forks": 1726,
-          "openIssues": 23,
-          "language": "JavaScript",
+          "id": 1433297111,
+          "name": "Zero-Breach-Toolkit",
+          "fullName": "interplains/Zero-Breach-Toolkit",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+          "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+          "stars": 3471,
+          "forks": 375,
+          "openIssues": 6,
+          "language": "Python",
           "owner": {
-            "login": "kingcharleslzy-ai",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/260348840?v=4",
-            "url": "https://github.com/kingcharleslzy-ai"
+            "login": "interplains",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/39777629?v=4",
+            "url": "https://github.com/interplains"
           },
-          "topics": [
-            "agent-tools",
-            "backup",
-            "deepseek",
-            "deepseek-harness",
-            "dsh",
-            "dsh-plugin",
-            "jailbreak",
-            "prompt-injection",
-            "prompt-management",
-            "purge-community",
-            "rollback"
-          ],
-          "createdAt": "2026-10-16T07:44:27Z",
-          "pushedAt": "2026-10-25T10:44:52Z",
-          "updatedAt": "2026-10-29T06:06:12Z",
-          "license": "MIT"
+          "topics": [],
+          "createdAt": "2026-10-25T14:41:34Z",
+          "pushedAt": "2026-10-29T18:02:15Z",
+          "updatedAt": "2026-10-29T19:33:29Z",
+          "license": "Apache-2.0"
         }
       ],
       "risers": [
@@ -195,9 +296,9 @@
           "fullName": "unclebob/ub-mode",
           "url": "https://github.com/unclebob/ub-mode",
           "description": "暂无描述",
-          "stars": 3979,
-          "forks": 219,
-          "openIssues": 5,
+          "stars": 4552,
+          "forks": 254,
+          "openIssues": 6,
           "language": "Other",
           "owner": {
             "login": "unclebob",
@@ -207,9 +308,9 @@
           "topics": [],
           "createdAt": "2026-10-25T16:04:09Z",
           "pushedAt": "2026-10-25T16:07:59Z",
-          "updatedAt": "2026-10-29T06:05:33Z",
+          "updatedAt": "2026-10-29T19:34:28Z",
           "license": null,
-          "rankGain": 12
+          "rankGain": 17
         },
         {
           "id": 1431851693,
@@ -217,9 +318,9 @@
           "fullName": "rddmwmddr/android-ad-cleaner",
           "url": "https://github.com/rddmwmddr/android-ad-cleaner",
           "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-          "stars": 4461,
-          "forks": 402,
-          "openIssues": 213,
+          "stars": 4702,
+          "forks": 423,
+          "openIssues": 120,
           "language": "Python",
           "owner": {
             "login": "rddmwmddr",
@@ -237,8 +338,8 @@
             "originos"
           ],
           "createdAt": "2026-10-24T05:35:47Z",
-          "pushedAt": "2026-10-29T04:59:28Z",
-          "updatedAt": "2026-10-29T06:06:18Z",
+          "pushedAt": "2026-10-29T19:24:53Z",
+          "updatedAt": "2026-10-29T19:28:16Z",
           "license": "MIT",
           "rankGain": 7
         },
@@ -248,8 +349,8 @@
           "fullName": "xiaoyang111222/cn-math-taxonomy",
           "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
           "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
-          "stars": 4964,
-          "forks": 1272,
+          "stars": 5177,
+          "forks": 1324,
           "openIssues": 18,
           "language": "Python",
           "owner": {
@@ -276,10 +377,36 @@
             "primary-school"
           ],
           "createdAt": "2026-10-18T09:04:43Z",
-          "pushedAt": "2026-10-28T23:26:45Z",
-          "updatedAt": "2026-10-29T06:03:15Z",
+          "pushedAt": "2026-10-29T11:53:00Z",
+          "updatedAt": "2026-10-29T18:59:30Z",
           "license": "NOASSERTION",
           "rankGain": 6
+        },
+        {
+          "id": 1409893258,
+          "name": "dsh-ops",
+          "fullName": "T-Auto/dsh-ops",
+          "url": "https://github.com/T-Auto/dsh-ops",
+          "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+          "stars": 4775,
+          "forks": 149,
+          "openIssues": 79,
+          "language": "JavaScript",
+          "owner": {
+            "login": "T-Auto",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/183904010?v=4",
+            "url": "https://github.com/T-Auto"
+          },
+          "topics": [
+            "dsh",
+            "dsh-plugin",
+            "dsh-plugins"
+          ],
+          "createdAt": "2026-10-08T07:09:25Z",
+          "pushedAt": "2026-10-29T13:08:14Z",
+          "updatedAt": "2026-10-29T18:20:43Z",
+          "license": "MIT",
+          "rankGain": 5
         },
         {
           "id": 1426080579,
@@ -287,9 +414,9 @@
           "fullName": "simbasjungles/free-my-tv",
           "url": "https://github.com/simbasjungles/free-my-tv",
           "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-          "stars": 5270,
-          "forks": 878,
-          "openIssues": 69,
+          "stars": 5369,
+          "forks": 895,
+          "openIssues": 72,
           "language": "Java",
           "owner": {
             "login": "simbasjungles",
@@ -310,8 +437,8 @@
             "webos"
           ],
           "createdAt": "2026-10-19T19:29:01Z",
-          "pushedAt": "2026-10-29T04:22:19Z",
-          "updatedAt": "2026-10-29T05:57:51Z",
+          "pushedAt": "2026-10-29T15:40:05Z",
+          "updatedAt": "2026-10-29T19:27:45Z",
           "license": "MIT",
           "rankGain": 4
         },
@@ -321,9 +448,9 @@
           "fullName": "HeyPuter/everything",
           "url": "https://github.com/HeyPuter/everything",
           "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-          "stars": 5022,
-          "forks": 576,
-          "openIssues": 54,
+          "stars": 5184,
+          "forks": 600,
+          "openIssues": 57,
           "language": "JavaScript",
           "owner": {
             "login": "HeyPuter",
@@ -340,56 +467,8 @@
             "spreadsheet"
           ],
           "createdAt": "2026-10-13T16:18:22Z",
-          "pushedAt": "2026-10-29T02:51:16Z",
-          "updatedAt": "2026-10-29T06:04:53Z",
-          "license": "MIT",
-          "rankGain": 4
-        },
-        {
-          "id": 1407504032,
-          "name": "iPhone-use",
-          "fullName": "zhongerxin/iPhone-use",
-          "url": "https://github.com/zhongerxin/iPhone-use",
-          "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-          "stars": 4747,
-          "forks": 474,
-          "openIssues": 32,
-          "language": "Python",
-          "owner": {
-            "login": "zhongerxin",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/8215057?v=4",
-            "url": "https://github.com/zhongerxin"
-          },
-          "topics": [],
-          "createdAt": "2026-10-06T15:09:33Z",
-          "pushedAt": "2026-10-22T13:45:15Z",
-          "updatedAt": "2026-10-29T05:47:35Z",
-          "license": "MIT",
-          "rankGain": 4
-        },
-        {
-          "id": 1409893258,
-          "name": "dsh-ops",
-          "fullName": "T-Auto/dsh-ops",
-          "url": "https://github.com/T-Auto/dsh-ops",
-          "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-          "stars": 4714,
-          "forks": 145,
-          "openIssues": 73,
-          "language": "JavaScript",
-          "owner": {
-            "login": "T-Auto",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/183904010?v=4",
-            "url": "https://github.com/T-Auto"
-          },
-          "topics": [
-            "dsh",
-            "dsh-plugin",
-            "dsh-plugins"
-          ],
-          "createdAt": "2026-10-08T07:09:25Z",
-          "pushedAt": "2026-10-28T08:46:36Z",
-          "updatedAt": "2026-10-29T05:50:34Z",
+          "pushedAt": "2026-10-29T17:37:04Z",
+          "updatedAt": "2026-10-29T19:23:41Z",
           "license": "MIT",
           "rankGain": 4
         },
@@ -399,9 +478,9 @@
           "fullName": "QingYunA/answer-me-with-html",
           "url": "https://github.com/QingYunA/answer-me-with-html",
           "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-          "stars": 4606,
-          "forks": 314,
-          "openIssues": 5,
+          "stars": 4706,
+          "forks": 319,
+          "openIssues": 2,
           "language": "JavaScript",
           "owner": {
             "login": "QingYunA",
@@ -424,54 +503,96 @@
             "ste100"
           ],
           "createdAt": "2026-10-02T09:57:40Z",
-          "pushedAt": "2026-10-28T03:11:44Z",
-          "updatedAt": "2026-10-29T05:58:32Z",
+          "pushedAt": "2026-10-29T16:31:06Z",
+          "updatedAt": "2026-10-29T19:34:20Z",
           "license": "MIT",
           "rankGain": 4
         },
         {
-          "id": 1431545439,
-          "name": "gpu-unlock-ada",
-          "fullName": "JustAResearcher/gpu-unlock-ada",
-          "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-          "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-          "stars": 4446,
-          "forks": 570,
-          "openIssues": 53,
-          "language": "C",
-          "owner": {
-            "login": "JustAResearcher",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/62031663?v=4",
-            "url": "https://github.com/JustAResearcher"
-          },
-          "topics": [],
-          "createdAt": "2026-10-23T21:00:53Z",
-          "pushedAt": "2026-10-26T04:24:46Z",
-          "updatedAt": "2026-10-29T05:58:27Z",
-          "license": "GPL-2.0",
-          "rankGain": 4
-        },
-        {
-          "id": 1412548284,
-          "name": "craft-launcher",
-          "fullName": "storytold/craft-launcher",
-          "url": "https://github.com/storytold/craft-launcher",
-          "description": "The Craft App Launcher",
-          "stars": 4264,
-          "forks": 1329,
-          "openIssues": 572,
+          "id": 1400018213,
+          "name": "designcraft",
+          "fullName": "storytold/designcraft",
+          "url": "https://github.com/storytold/designcraft",
+          "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
+          "stars": 4930,
+          "forks": 3401,
+          "openIssues": 781,
           "language": "Rust",
           "owner": {
             "login": "storytold",
             "avatarUrl": "https://avatars.githubusercontent.com/u/76897702?v=4",
             "url": "https://github.com/storytold"
           },
-          "topics": [],
-          "createdAt": "2026-10-09T23:21:59Z",
-          "pushedAt": "2026-10-29T04:05:28Z",
-          "updatedAt": "2026-10-29T05:12:02Z",
+          "topics": [
+            "art",
+            "layout",
+            "print",
+            "rust"
+          ],
+          "createdAt": "2026-10-01T13:13:14Z",
+          "pushedAt": "2026-10-29T10:08:00Z",
+          "updatedAt": "2026-10-29T19:18:09Z",
           "license": "Apache-2.0",
-          "rankGain": 4
+          "rankGain": 3
+        },
+        {
+          "id": 1415313946,
+          "name": "d2r-mobile",
+          "fullName": "jhaizhou-ops/d2r-mobile",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+          "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
+          "stars": 4866,
+          "forks": 1282,
+          "openIssues": 80,
+          "language": "C",
+          "owner": {
+            "login": "jhaizhou-ops",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/258432107?v=4",
+            "url": "https://github.com/jhaizhou-ops"
+          },
+          "topics": [
+            "android",
+            "compatibility-layer",
+            "diablo-2-resurrected",
+            "diablo2",
+            "game-port",
+            "harmonyos",
+            "ios",
+            "ipad",
+            "iphone",
+            "mac",
+            "macos",
+            "metal",
+            "reign-of-the-warlock",
+            "vulkan"
+          ],
+          "createdAt": "2026-10-12T08:41:19Z",
+          "pushedAt": "2026-10-29T01:09:02Z",
+          "updatedAt": "2026-10-29T19:00:17Z",
+          "license": "MIT",
+          "rankGain": 3
+        },
+        {
+          "id": 1407504032,
+          "name": "iPhone-use",
+          "fullName": "zhongerxin/iPhone-use",
+          "url": "https://github.com/zhongerxin/iPhone-use",
+          "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+          "stars": 4764,
+          "forks": 477,
+          "openIssues": 32,
+          "language": "Python",
+          "owner": {
+            "login": "zhongerxin",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8215057?v=4",
+            "url": "https://github.com/zhongerxin"
+          },
+          "topics": [],
+          "createdAt": "2026-10-06T15:09:33Z",
+          "pushedAt": "2026-10-22T13:45:15Z",
+          "updatedAt": "2026-10-29T18:37:55Z",
+          "license": "MIT",
+          "rankGain": 3
         }
       ],
       "dropped": [
@@ -633,9 +754,9 @@
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 179390,
-          "forks": 9833,
-          "openIssues": 127,
+          "stars": 180025,
+          "forks": 9870,
+          "openIssues": 135,
           "language": "JavaScript",
           "owner": {
             "login": "DietrichGebert",
@@ -655,8 +776,8 @@
             "yagni"
           ],
           "createdAt": "2026-06-12T00:52:37Z",
-          "pushedAt": "2026-10-29T03:06:08Z",
-          "updatedAt": "2026-10-29T06:06:23Z",
+          "pushedAt": "2026-10-29T11:59:31Z",
+          "updatedAt": "2026-10-29T19:33:29Z",
           "license": "MIT"
         }
       ],
@@ -699,9 +820,9 @@
           "fullName": "Leonxlnx/taste-skill",
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-          "stars": 104757,
-          "forks": 7086,
-          "openIssues": 5,
+          "stars": 105381,
+          "forks": 7120,
+          "openIssues": 7,
           "language": "JavaScript",
           "owner": {
             "login": "Leonxlnx",
@@ -722,8 +843,8 @@
             "web-design"
           ],
           "createdAt": "2026-02-19T21:44:05Z",
-          "pushedAt": "2026-10-29T03:44:25Z",
-          "updatedAt": "2026-10-29T06:06:24Z",
+          "pushedAt": "2026-10-29T17:14:24Z",
+          "updatedAt": "2026-10-29T19:34:58Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -733,9 +854,9 @@
           "fullName": "pbakaus/impeccable",
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-          "stars": 93347,
-          "forks": 5509,
-          "openIssues": 48,
+          "stars": 95010,
+          "forks": 5601,
+          "openIssues": 45,
           "language": "Rust",
           "owner": {
             "login": "pbakaus",
@@ -750,8 +871,8 @@
             "slop"
           ],
           "createdAt": "2025-11-16T01:52:04Z",
-          "pushedAt": "2026-10-29T04:51:37Z",
-          "updatedAt": "2026-10-29T06:06:27Z",
+          "pushedAt": "2026-10-29T18:41:45Z",
+          "updatedAt": "2026-10-29T19:34:34Z",
           "license": "Apache-2.0",
           "rankGain": 1
         }
@@ -760,7 +881,46 @@
     },
     "secTraffic": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1221607876,
+          "name": "SilentSniffer",
+          "fullName": "AhmadHassan-BTed/SilentSniffer",
+          "url": "https://github.com/AhmadHassan-BTed/SilentSniffer",
+          "description": "A professional, high-fidelity de-anonymization and vulnerability diagnostic framework. Features a zero-coupling modular architecture for browser-based intelligence gathering, hardware fingerprinting, and security research.",
+          "stars": 5152,
+          "forks": 0,
+          "openIssues": 0,
+          "language": "JavaScript",
+          "owner": {
+            "login": "AhmadHassan-BTed",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/123323526?v=4",
+            "url": "https://github.com/AhmadHassan-BTed"
+          },
+          "topics": [
+            "browser-security",
+            "cybersecurity",
+            "de-anonymization",
+            "ethical-hacking",
+            "ethical-hacking-tool",
+            "fingerprinting",
+            "forensics",
+            "intelligence-gathering",
+            "javascript",
+            "osint",
+            "penetration-testing",
+            "red-team",
+            "security-research",
+            "toolkit",
+            "vulnerability-assessment"
+          ],
+          "createdAt": "2026-04-26T12:54:53Z",
+          "pushedAt": "2026-10-22T09:04:46Z",
+          "updatedAt": "2026-10-29T19:31:11Z",
+          "license": "NOASSERTION",
+          "rankGain": 2
+        }
+      ],
       "dropped": []
     },
     "secAiCyber": {
@@ -771,7 +931,7 @@
           "fullName": "AISecurityConsortium/AIGoat",
           "url": "https://github.com/AISecurityConsortium/AIGoat",
           "description": "AIGoat - Open-source AI security playground for hands-on LLM red teaming. Explore prompt injection, RAG poisoning, AI agents, MCP security, and OWASP Top 10 for LLM Applications through practical attack labs, CTF challenges, and progressive defenses all running locally.",
-          "stars": 211,
+          "stars": 219,
           "forks": 78,
           "openIssues": 2,
           "language": "Python",
@@ -798,7 +958,7 @@
           ],
           "createdAt": "2025-08-29T05:32:04Z",
           "pushedAt": "2026-10-18T20:49:39Z",
-          "updatedAt": "2026-10-29T05:48:13Z",
+          "updatedAt": "2026-10-29T17:19:45Z",
           "license": "Apache-2.0"
         }
       ],
@@ -809,9 +969,9 @@
   "summary": {
     "allTime": {
       "total": 50,
-      "newcomers": 0,
-      "risers": 1,
-      "dropped": 0
+      "newcomers": 1,
+      "risers": 2,
+      "dropped": 1
     },
     "breakout": {
       "total": 50,
@@ -834,7 +994,7 @@
     "secTraffic": {
       "total": 40,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "secAiCyber": {
