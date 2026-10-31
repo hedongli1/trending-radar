@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:01:53.042Z",
+  "generatedAt": "2026-10-31T18:29:15.921Z",
   "date": "2026-10-31",
   "categories": {
     "allTime": {
@@ -11,9 +11,9 @@
           "fullName": "anthropics/skills",
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
-          "stars": 185483,
-          "forks": 21904,
-          "openIssues": 1450,
+          "stars": 185797,
+          "forks": 21933,
+          "openIssues": 1451,
           "language": "Python",
           "owner": {
             "login": "anthropics",
@@ -25,7 +25,7 @@
           ],
           "createdAt": "2025-09-22T15:53:31Z",
           "pushedAt": "2026-10-28T19:20:39Z",
-          "updatedAt": "2026-10-31T06:00:01Z",
+          "updatedAt": "2026-10-31T18:27:31Z",
           "license": null,
           "rankGain": 1
         }
@@ -35,13 +35,46 @@
     "breakout": {
       "newcomers": [
         {
+          "id": 1432967563,
+          "name": "dsh-Go",
+          "fullName": "ccch1mneyyy/dsh-Go",
+          "url": "https://github.com/ccch1mneyyy/dsh-Go",
+          "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+          "stars": 3505,
+          "forks": 161,
+          "openIssues": 183,
+          "language": "Dart",
+          "owner": {
+            "login": "ccch1mneyyy",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
+            "url": "https://github.com/ccch1mneyyy"
+          },
+          "topics": [
+            "ai-agent",
+            "android",
+            "android-app",
+            "coding-agent",
+            "deepseek",
+            "deepseek-harness",
+            "dsh",
+            "dsh-plugin",
+            "dsh-tui",
+            "flutter",
+            "llm"
+          ],
+          "createdAt": "2026-10-25T08:09:52Z",
+          "pushedAt": "2026-10-31T10:48:22Z",
+          "updatedAt": "2026-10-31T18:27:41Z",
+          "license": "AGPL-3.0"
+        },
+        {
           "id": 1420305104,
           "name": "earshot",
           "fullName": "Leonxlnx/earshot",
           "url": "https://github.com/Leonxlnx/earshot",
           "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-          "stars": 3332,
-          "forks": 212,
+          "stars": 3366,
+          "forks": 215,
           "openIssues": 14,
           "language": "Python",
           "owner": {
@@ -58,7 +91,7 @@
           ],
           "createdAt": "2026-10-15T06:52:46Z",
           "pushedAt": "2026-10-22T23:12:59Z",
-          "updatedAt": "2026-10-31T05:40:14Z",
+          "updatedAt": "2026-10-31T18:16:28Z",
           "license": "MIT"
         },
         {
@@ -67,8 +100,8 @@
           "fullName": "JoasASantos/REA-Prompts",
           "url": "https://github.com/JoasASantos/REA-Prompts",
           "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-          "stars": 3308,
-          "forks": 597,
+          "stars": 3337,
+          "forks": 606,
           "openIssues": 1,
           "language": "Batchfile",
           "owner": {
@@ -83,41 +116,101 @@
           ],
           "createdAt": "2026-10-19T22:20:47Z",
           "pushedAt": "2026-10-26T03:00:18Z",
-          "updatedAt": "2026-10-31T05:58:12Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1413898431,
-          "name": "CCBaga",
-          "fullName": "liseami/CCBaga",
-          "url": "https://github.com/liseami/CCBaga",
-          "description": "暂无描述",
-          "stars": 3307,
-          "forks": 343,
-          "openIssues": 1,
-          "language": "Rust",
-          "owner": {
-            "login": "liseami",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/51239614?v=4",
-            "url": "https://github.com/liseami"
-          },
-          "topics": [],
-          "createdAt": "2026-10-11T03:47:06Z",
-          "pushedAt": "2026-10-28T07:41:05Z",
-          "updatedAt": "2026-10-31T05:50:36Z",
+          "updatedAt": "2026-10-31T18:12:06Z",
           "license": "MIT"
         }
       ],
       "risers": [
+        {
+          "id": 1435695423,
+          "name": "ai-pose-gallery-zh",
+          "fullName": "anhao/ai-pose-gallery-zh",
+          "url": "https://github.com/anhao/ai-pose-gallery-zh",
+          "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+          "stars": 4618,
+          "forks": 1171,
+          "openIssues": 6,
+          "language": "TypeScript",
+          "owner": {
+            "login": "anhao",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/9844218?v=4",
+            "url": "https://github.com/anhao"
+          },
+          "topics": [
+            "ai-art",
+            "chinese",
+            "cloudflare-pages",
+            "gallery",
+            "i18n",
+            "pose",
+            "reference-images",
+            "static-site"
+          ],
+          "createdAt": "2026-10-27T12:24:37Z",
+          "pushedAt": "2026-10-31T17:53:51Z",
+          "updatedAt": "2026-10-31T18:22:13Z",
+          "license": "NOASSERTION",
+          "rankGain": 9
+        },
+        {
+          "id": 1433297111,
+          "name": "Zero-Breach-Toolkit",
+          "fullName": "interplains/Zero-Breach-Toolkit",
+          "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+          "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+          "stars": 3979,
+          "forks": 426,
+          "openIssues": 5,
+          "language": "Python",
+          "owner": {
+            "login": "interplains",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/39777629?v=4",
+            "url": "https://github.com/interplains"
+          },
+          "topics": [],
+          "createdAt": "2026-10-25T14:41:34Z",
+          "pushedAt": "2026-10-31T16:00:12Z",
+          "updatedAt": "2026-10-31T18:16:11Z",
+          "license": "Apache-2.0",
+          "rankGain": 7
+        },
+        {
+          "id": 1427126014,
+          "name": "day-trader-skill",
+          "fullName": "Jakeschincariol/day-trader-skill",
+          "url": "https://github.com/Jakeschincariol/day-trader-skill",
+          "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+          "stars": 3909,
+          "forks": 919,
+          "openIssues": 35,
+          "language": "Python",
+          "owner": {
+            "login": "Jakeschincariol",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/196724947?v=4",
+            "url": "https://github.com/Jakeschincariol"
+          },
+          "topics": [
+            "backtesting",
+            "claude",
+            "claude-skills",
+            "day-trading",
+            "stock-market"
+          ],
+          "createdAt": "2026-10-20T14:17:54Z",
+          "pushedAt": "2026-10-20T14:18:00Z",
+          "updatedAt": "2026-10-31T18:29:09Z",
+          "license": "MIT",
+          "rankGain": 7
+        },
         {
           "id": 1403446451,
           "name": "horizon",
           "fullName": "horizon-rust/horizon",
           "url": "https://github.com/horizon-rust/horizon",
           "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-          "stars": 4990,
-          "forks": 516,
-          "openIssues": 502,
+          "stars": 5274,
+          "forks": 591,
+          "openIssues": 445,
           "language": "Rust",
           "owner": {
             "login": "horizon-rust",
@@ -138,41 +231,45 @@
             "wgpu"
           ],
           "createdAt": "2026-10-03T17:08:48Z",
-          "pushedAt": "2026-10-31T05:55:37Z",
-          "updatedAt": "2026-10-31T05:57:58Z",
+          "pushedAt": "2026-10-31T18:25:31Z",
+          "updatedAt": "2026-10-31T18:29:03Z",
           "license": "MIT",
           "rankGain": 6
         },
         {
-          "id": 1435695423,
-          "name": "ai-pose-gallery-zh",
-          "fullName": "anhao/ai-pose-gallery-zh",
-          "url": "https://github.com/anhao/ai-pose-gallery-zh",
-          "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-          "stars": 4143,
-          "forks": 1058,
-          "openIssues": 5,
+          "id": 1432980411,
+          "name": "word-atlas",
+          "fullName": "designfuchen/word-atlas",
+          "url": "https://github.com/designfuchen/word-atlas",
+          "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+          "stars": 3541,
+          "forks": 772,
+          "openIssues": 28,
           "language": "TypeScript",
           "owner": {
-            "login": "anhao",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/9844218?v=4",
-            "url": "https://github.com/anhao"
+            "login": "designfuchen",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/17679892?v=4",
+            "url": "https://github.com/designfuchen"
           },
           "topics": [
-            "ai-art",
             "chinese",
-            "cloudflare-pages",
-            "gallery",
-            "i18n",
-            "pose",
-            "reference-images",
-            "static-site"
+            "dataset",
+            "english-learning",
+            "flashcards",
+            "fsrs",
+            "ielts",
+            "language-learning",
+            "pwa",
+            "react",
+            "spaced-repetition",
+            "vocabulary",
+            "webgl"
           ],
-          "createdAt": "2026-10-27T12:24:37Z",
-          "pushedAt": "2026-10-31T01:41:09Z",
-          "updatedAt": "2026-10-31T06:01:47Z",
+          "createdAt": "2026-10-25T08:27:22Z",
+          "pushedAt": "2026-10-31T11:37:01Z",
+          "updatedAt": "2026-10-31T18:24:58Z",
           "license": "NOASSERTION",
-          "rankGain": 6
+          "rankGain": 4
         },
         {
           "id": 1412112308,
@@ -180,9 +277,9 @@
           "fullName": "storytold/figcraft",
           "url": "https://github.com/storytold/figcraft",
           "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-          "stars": 3924,
-          "forks": 1533,
-          "openIssues": 178,
+          "stars": 3958,
+          "forks": 1551,
+          "openIssues": 199,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -195,30 +292,8 @@
             "tools"
           ],
           "createdAt": "2026-10-09T16:02:13Z",
-          "pushedAt": "2026-10-31T05:43:37Z",
-          "updatedAt": "2026-10-31T05:53:50Z",
-          "license": "Apache-2.0",
-          "rankGain": 3
-        },
-        {
-          "id": 1433297111,
-          "name": "Zero-Breach-Toolkit",
-          "fullName": "interplains/Zero-Breach-Toolkit",
-          "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-          "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-          "stars": 3900,
-          "forks": 418,
-          "openIssues": 8,
-          "language": "Python",
-          "owner": {
-            "login": "interplains",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/39777629?v=4",
-            "url": "https://github.com/interplains"
-          },
-          "topics": [],
-          "createdAt": "2026-10-25T14:41:34Z",
-          "pushedAt": "2026-10-30T23:33:43Z",
-          "updatedAt": "2026-10-31T06:01:37Z",
+          "pushedAt": "2026-10-31T14:38:47Z",
+          "updatedAt": "2026-10-31T17:47:02Z",
           "license": "Apache-2.0",
           "rankGain": 3
         },
@@ -228,9 +303,9 @@
           "fullName": "openfilm/openfilm",
           "url": "https://github.com/openfilm/openfilm",
           "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
-          "stars": 3797,
-          "forks": 352,
-          "openIssues": 19,
+          "stars": 3896,
+          "forks": 373,
+          "openIssues": 18,
           "language": "TypeScript",
           "owner": {
             "login": "openfilm",
@@ -248,30 +323,8 @@
             "video-editor"
           ],
           "createdAt": "2026-10-04T09:29:07Z",
-          "pushedAt": "2026-10-30T08:47:54Z",
-          "updatedAt": "2026-10-31T05:59:56Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1422883896,
-          "name": "leanrea",
-          "fullName": "aicodeking/leanrea",
-          "url": "https://github.com/aicodeking/leanrea",
-          "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-          "stars": 3758,
-          "forks": 564,
-          "openIssues": 8,
-          "language": "Python",
-          "owner": {
-            "login": "aicodeking",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/167222040?v=4",
-            "url": "https://github.com/aicodeking"
-          },
-          "topics": [],
-          "createdAt": "2026-10-17T02:53:24Z",
-          "pushedAt": "2026-10-19T11:34:21Z",
-          "updatedAt": "2026-10-31T05:21:56Z",
+          "pushedAt": "2026-10-31T17:59:51Z",
+          "updatedAt": "2026-10-31T17:54:49Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -281,9 +334,9 @@
           "fullName": "kingcharleslzy-ai/dsh-purge",
           "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
           "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
-          "stars": 3702,
-          "forks": 1924,
-          "openIssues": 21,
+          "stars": 3828,
+          "forks": 1983,
+          "openIssues": 22,
           "language": "JavaScript",
           "owner": {
             "login": "kingcharleslzy-ai",
@@ -304,36 +357,8 @@
             "rollback"
           ],
           "createdAt": "2026-10-16T07:44:27Z",
-          "pushedAt": "2026-10-31T04:20:41Z",
-          "updatedAt": "2026-10-31T05:56:32Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1427126014,
-          "name": "day-trader-skill",
-          "fullName": "Jakeschincariol/day-trader-skill",
-          "url": "https://github.com/Jakeschincariol/day-trader-skill",
-          "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-          "stars": 3696,
-          "forks": 850,
-          "openIssues": 35,
-          "language": "Python",
-          "owner": {
-            "login": "Jakeschincariol",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/196724947?v=4",
-            "url": "https://github.com/Jakeschincariol"
-          },
-          "topics": [
-            "backtesting",
-            "claude",
-            "claude-skills",
-            "day-trading",
-            "stock-market"
-          ],
-          "createdAt": "2026-10-20T14:17:54Z",
-          "pushedAt": "2026-10-20T14:18:00Z",
-          "updatedAt": "2026-10-31T05:59:09Z",
+          "pushedAt": "2026-10-31T08:58:30Z",
+          "updatedAt": "2026-10-31T18:19:36Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -343,7 +368,7 @@
           "fullName": "AhmadHassan-BTed/.github",
           "url": "https://github.com/AhmadHassan-BTed/.github",
           "description": "暂无描述",
-          "stars": 3531,
+          "stars": 3641,
           "forks": 0,
           "openIssues": 0,
           "language": "Other",
@@ -355,45 +380,39 @@
           "topics": [],
           "createdAt": "2026-10-09T13:13:36Z",
           "pushedAt": "2026-10-09T13:13:57Z",
-          "updatedAt": "2026-10-31T05:57:02Z",
+          "updatedAt": "2026-10-31T18:28:58Z",
           "license": null,
           "rankGain": 3
         },
         {
-          "id": 1403649056,
-          "name": "dossier",
-          "fullName": "AienTech/dossier",
-          "url": "https://github.com/AienTech/dossier",
-          "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-          "stars": 3425,
-          "forks": 722,
-          "openIssues": 7,
-          "language": "TypeScript",
+          "id": 1417456983,
+          "name": "everything",
+          "fullName": "HeyPuter/everything",
+          "url": "https://github.com/HeyPuter/everything",
+          "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+          "stars": 6095,
+          "forks": 656,
+          "openIssues": 62,
+          "language": "JavaScript",
           "owner": {
-            "login": "AienTech",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2676700?v=4",
-            "url": "https://github.com/AienTech"
+            "login": "HeyPuter",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/103972607?v=4",
+            "url": "https://github.com/HeyPuter"
           },
           "topics": [
-            "caprover",
-            "cover-letter",
-            "docker",
-            "job-application-tracker",
-            "job-search",
-            "llm",
-            "local-llm",
-            "nextjs",
-            "ollama",
-            "postgresql",
-            "resume",
-            "self-hosted",
-            "typescript"
+            "adobe",
+            "cad",
+            "microsoft",
+            "office",
+            "photoshop",
+            "saas",
+            "spreadsheet"
           ],
-          "createdAt": "2026-10-03T21:26:15Z",
-          "pushedAt": "2026-10-29T18:11:20Z",
-          "updatedAt": "2026-10-31T05:55:45Z",
-          "license": "AGPL-3.0",
-          "rankGain": 3
+          "createdAt": "2026-10-13T16:18:22Z",
+          "pushedAt": "2026-10-30T15:00:05Z",
+          "updatedAt": "2026-10-31T18:13:11Z",
+          "license": "MIT",
+          "rankGain": 2
         }
       ],
       "dropped": [
@@ -474,7 +493,43 @@
       ]
     },
     "activeWeek": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 14440270,
+          "name": "You-Dont-Know-JS",
+          "fullName": "getify/You-Dont-Know-JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS",
+          "description": "A book series (2 published editions) on the JS language.",
+          "stars": 184839,
+          "forks": 33359,
+          "openIssues": 2,
+          "language": "Other",
+          "owner": {
+            "login": "getify",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/150330?v=4",
+            "url": "https://github.com/getify"
+          },
+          "topics": [
+            "async",
+            "book",
+            "book-series",
+            "closures",
+            "education",
+            "es2015",
+            "es6",
+            "javascript",
+            "learn-to-code",
+            "programming",
+            "prototypes",
+            "training-materials",
+            "training-providers"
+          ],
+          "createdAt": "2013-11-16T02:37:24Z",
+          "pushedAt": "2026-10-31T16:14:40Z",
+          "updatedAt": "2026-10-31T18:12:55Z",
+          "license": "NOASSERTION"
+        }
+      ],
       "risers": [
         {
           "id": 1061953414,
@@ -482,9 +537,9 @@
           "fullName": "anthropics/skills",
           "url": "https://github.com/anthropics/skills",
           "description": "Public repository for Agent Skills",
-          "stars": 185483,
-          "forks": 21904,
-          "openIssues": 1450,
+          "stars": 185797,
+          "forks": 21933,
+          "openIssues": 1451,
           "language": "Python",
           "owner": {
             "login": "anthropics",
@@ -496,49 +551,62 @@
           ],
           "createdAt": "2025-09-22T15:53:31Z",
           "pushedAt": "2026-10-28T19:20:39Z",
-          "updatedAt": "2026-10-31T06:00:01Z",
+          "updatedAt": "2026-10-31T18:27:31Z",
           "license": null,
           "rankGain": 1
         }
       ],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 70107786,
+          "name": "next.js",
+          "fullName": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "description": "The React Framework",
+          "stars": 143213,
+          "forks": 34169,
+          "openIssues": 3780,
+          "language": "JavaScript",
+          "owner": {
+            "login": "vercel",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+            "url": "https://github.com/vercel"
+          },
+          "topics": [
+            "blog",
+            "browser",
+            "compiler",
+            "components",
+            "hybrid",
+            "nextjs",
+            "node",
+            "react",
+            "server-rendering",
+            "ssg",
+            "static",
+            "static-site-generator",
+            "universal",
+            "vercel"
+          ],
+          "createdAt": "2016-10-05T23:32:51Z",
+          "pushedAt": "2026-10-30T19:10:30Z",
+          "updatedAt": "2026-10-30T18:51:01Z",
+          "license": "MIT"
+        }
+      ]
     },
     "aiEco": {
       "newcomers": [],
       "risers": [
-        {
-          "id": 1061953414,
-          "name": "skills",
-          "fullName": "anthropics/skills",
-          "url": "https://github.com/anthropics/skills",
-          "description": "Public repository for Agent Skills",
-          "stars": 185483,
-          "forks": 21904,
-          "openIssues": 1450,
-          "language": "Python",
-          "owner": {
-            "login": "anthropics",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
-            "url": "https://github.com/anthropics"
-          },
-          "topics": [
-            "agent-skills"
-          ],
-          "createdAt": "2025-09-22T15:53:31Z",
-          "pushedAt": "2026-10-28T19:20:39Z",
-          "updatedAt": "2026-10-31T06:00:01Z",
-          "license": null,
-          "rankGain": 1
-        },
         {
           "id": 1048065319,
           "name": "claude-mem",
           "fullName": "thedotmack/claude-mem",
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-          "stars": 106609,
-          "forks": 9382,
-          "openIssues": 140,
+          "stars": 107503,
+          "forks": 9444,
+          "openIssues": 155,
           "language": "TypeScript",
           "owner": {
             "login": "thedotmack",
@@ -568,9 +636,33 @@
             "supermemory"
           ],
           "createdAt": "2025-08-31T20:50:03Z",
-          "pushedAt": "2026-10-31T02:09:54Z",
-          "updatedAt": "2026-10-31T06:00:01Z",
+          "pushedAt": "2026-10-31T08:56:15Z",
+          "updatedAt": "2026-10-31T18:29:01Z",
           "license": "Apache-2.0",
+          "rankGain": 2
+        },
+        {
+          "id": 1061953414,
+          "name": "skills",
+          "fullName": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "stars": 185797,
+          "forks": 21933,
+          "openIssues": 1451,
+          "language": "Python",
+          "owner": {
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
+          },
+          "topics": [
+            "agent-skills"
+          ],
+          "createdAt": "2025-09-22T15:53:31Z",
+          "pushedAt": "2026-10-28T19:20:39Z",
+          "updatedAt": "2026-10-31T18:27:31Z",
+          "license": null,
           "rankGain": 1
         }
       ],
@@ -583,7 +675,43 @@
     },
     "secAiCyber": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1339271188,
+          "name": "0",
+          "fullName": "0sec-labs/0",
+          "url": "https://github.com/0sec-labs/0",
+          "description": "Open-source AI security harness. Includes a web UI for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing + CLI and MCP for agents.",
+          "stars": 572,
+          "forks": 64,
+          "openIssues": 12,
+          "language": "TypeScript",
+          "owner": {
+            "login": "0sec-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/274613126?v=4",
+            "url": "https://github.com/0sec-labs"
+          },
+          "topics": [
+            "ai-agents",
+            "application-security",
+            "binary-analysis",
+            "code-review",
+            "cybersecurity",
+            "llm-agents",
+            "mcp",
+            "penetration-testing",
+            "security-research",
+            "security-tools",
+            "vulnerability-detection",
+            "vulnerability-scanner"
+          ],
+          "createdAt": "2026-08-19T07:54:37Z",
+          "pushedAt": "2026-10-30T20:08:42Z",
+          "updatedAt": "2026-10-31T18:19:18Z",
+          "license": "NOASSERTION",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     }
   },
@@ -602,9 +730,9 @@
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 1,
-      "dropped": 0
+      "dropped": 1
     },
     "aiEco": {
       "total": 50,
@@ -621,7 +749,7 @@
     "secAiCyber": {
       "total": 26,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     }
   }
