@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:03:53.735Z",
+  "generatedAt": "2026-11-03T20:29:04.919Z",
   "date": "2026-11-03",
   "categories": {
     "allTime": {
@@ -11,9 +11,9 @@
           "fullName": "521xueweihan/HelloGitHub",
           "url": "https://github.com/521xueweihan/HelloGitHub",
           "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-          "stars": 186481,
+          "stars": 186637,
           "forks": 13192,
-          "openIssues": 1234,
+          "openIssues": 1240,
           "language": "Python",
           "owner": {
             "login": "521xueweihan",
@@ -28,7 +28,7 @@
           ],
           "createdAt": "2016-05-04T06:24:11Z",
           "pushedAt": "2026-10-31T18:08:05Z",
-          "updatedAt": "2026-11-03T07:03:38Z",
+          "updatedAt": "2026-11-03T19:58:31Z",
           "license": null,
           "rankGain": 1
         }
@@ -43,9 +43,9 @@
           "fullName": "patch-gg/pixelfx",
           "url": "https://github.com/patch-gg/pixelfx",
           "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-          "stars": 3689,
-          "forks": 505,
-          "openIssues": 2,
+          "stars": 4061,
+          "forks": 553,
+          "openIssues": 3,
           "language": "JavaScript",
           "owner": {
             "login": "patch-gg",
@@ -64,7 +64,7 @@
           ],
           "createdAt": "2026-10-30T06:43:25Z",
           "pushedAt": "2026-10-31T08:44:14Z",
-          "updatedAt": "2026-11-03T07:03:11Z",
+          "updatedAt": "2026-11-03T20:09:02Z",
           "license": "MIT"
         }
       ],
@@ -75,9 +75,9 @@
           "fullName": "storytold/craft-anything",
           "url": "https://github.com/storytold/craft-anything",
           "description": "Craft Anything: understand how any software works, and craft your own.",
-          "stars": 5244,
-          "forks": 884,
-          "openIssues": 179,
+          "stars": 7833,
+          "forks": 1320,
+          "openIssues": 151,
           "language": "Rust",
           "owner": {
             "login": "storytold",
@@ -86,10 +86,10 @@
           },
           "topics": [],
           "createdAt": "2026-10-31T14:50:00Z",
-          "pushedAt": "2026-11-03T03:27:16Z",
-          "updatedAt": "2026-11-03T07:02:31Z",
+          "pushedAt": "2026-11-03T20:20:45Z",
+          "updatedAt": "2026-11-03T20:27:11Z",
           "license": "Apache-2.0",
-          "rankGain": 23
+          "rankGain": 38
         },
         {
           "id": 1438394948,
@@ -97,9 +97,9 @@
           "fullName": "valentderah/totk-pc-recomp",
           "url": "https://github.com/valentderah/totk-pc-recomp",
           "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-          "stars": 4158,
-          "forks": 334,
-          "openIssues": 237,
+          "stars": 4453,
+          "forks": 359,
+          "openIssues": 225,
           "language": "C",
           "owner": {
             "login": "valentderah",
@@ -114,10 +114,66 @@
             "windows"
           ],
           "createdAt": "2026-10-29T12:32:46Z",
-          "pushedAt": "2026-11-03T04:40:43Z",
-          "updatedAt": "2026-11-03T07:02:00Z",
+          "pushedAt": "2026-11-03T19:02:16Z",
+          "updatedAt": "2026-11-03T20:26:30Z",
           "license": "MIT",
-          "rankGain": 5
+          "rankGain": 9
+        },
+        {
+          "id": 1432967563,
+          "name": "dsh-Go",
+          "fullName": "ccch1mneyyy/dsh-Go",
+          "url": "https://github.com/ccch1mneyyy/dsh-Go",
+          "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+          "stars": 7349,
+          "forks": 354,
+          "openIssues": 260,
+          "language": "Dart",
+          "owner": {
+            "login": "ccch1mneyyy",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
+            "url": "https://github.com/ccch1mneyyy"
+          },
+          "topics": [
+            "ai-agent",
+            "android",
+            "android-app",
+            "coding-agent",
+            "deepseek",
+            "deepseek-harness",
+            "dsh",
+            "dsh-plugin",
+            "dsh-tui",
+            "flutter",
+            "llm"
+          ],
+          "createdAt": "2026-10-25T08:09:52Z",
+          "pushedAt": "2026-11-03T20:08:30Z",
+          "updatedAt": "2026-11-03T20:25:06Z",
+          "license": "AGPL-3.0",
+          "rankGain": 7
+        },
+        {
+          "id": 1438623288,
+          "name": "unslop",
+          "fullName": "heydamir/unslop",
+          "url": "https://github.com/heydamir/unslop",
+          "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+          "stars": 7370,
+          "forks": 373,
+          "openIssues": 2,
+          "language": "JavaScript",
+          "owner": {
+            "login": "heydamir",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/97800728?v=4",
+            "url": "https://github.com/heydamir"
+          },
+          "topics": [],
+          "createdAt": "2026-10-29T15:41:21Z",
+          "pushedAt": "2026-11-01T16:46:10Z",
+          "updatedAt": "2026-11-03T20:28:52Z",
+          "license": "CC-BY-4.0",
+          "rankGain": 4
         },
         {
           "id": 1428347546,
@@ -125,9 +181,9 @@
           "fullName": "l0ng-ai/openidea",
           "url": "https://github.com/l0ng-ai/openidea",
           "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
-          "stars": 5250,
-          "forks": 417,
-          "openIssues": 247,
+          "stars": 5565,
+          "forks": 452,
+          "openIssues": 206,
           "language": "TypeScript",
           "owner": {
             "login": "l0ng-ai",
@@ -152,43 +208,9 @@
             "terminal"
           ],
           "createdAt": "2026-10-21T12:23:14Z",
-          "pushedAt": "2026-11-03T06:56:56Z",
-          "updatedAt": "2026-11-03T07:02:16Z",
+          "pushedAt": "2026-11-03T20:24:55Z",
+          "updatedAt": "2026-11-03T20:28:50Z",
           "license": "Apache-2.0",
-          "rankGain": 4
-        },
-        {
-          "id": 1432967563,
-          "name": "dsh-Go",
-          "fullName": "ccch1mneyyy/dsh-Go",
-          "url": "https://github.com/ccch1mneyyy/dsh-Go",
-          "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-          "stars": 6289,
-          "forks": 310,
-          "openIssues": 271,
-          "language": "Dart",
-          "owner": {
-            "login": "ccch1mneyyy",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/268149062?v=4",
-            "url": "https://github.com/ccch1mneyyy"
-          },
-          "topics": [
-            "ai-agent",
-            "android",
-            "android-app",
-            "coding-agent",
-            "deepseek",
-            "deepseek-harness",
-            "dsh",
-            "dsh-plugin",
-            "dsh-tui",
-            "flutter",
-            "llm"
-          ],
-          "createdAt": "2026-10-25T08:09:52Z",
-          "pushedAt": "2026-11-03T06:48:58Z",
-          "updatedAt": "2026-11-03T07:01:15Z",
-          "license": "AGPL-3.0",
           "rankGain": 3
         },
         {
@@ -197,8 +219,8 @@
           "fullName": "deepseek-ai/dsh-superagent-prototype",
           "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
           "description": "Towards a More Autonomous Agent System",
-          "stars": 14531,
-          "forks": 1559,
+          "stars": 16459,
+          "forks": 1783,
           "openIssues": 0,
           "language": "TypeScript",
           "owner": {
@@ -208,32 +230,10 @@
           },
           "topics": [],
           "createdAt": "2026-10-31T09:32:46Z",
-          "pushedAt": "2026-10-31T12:05:51Z",
-          "updatedAt": "2026-11-03T07:03:28Z",
+          "pushedAt": "2026-11-03T09:29:14Z",
+          "updatedAt": "2026-11-03T20:28:03Z",
           "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1438623288,
-          "name": "unslop",
-          "fullName": "heydamir/unslop",
-          "url": "https://github.com/heydamir/unslop",
-          "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-          "stars": 6591,
-          "forks": 336,
-          "openIssues": 1,
-          "language": "JavaScript",
-          "owner": {
-            "login": "heydamir",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/97800728?v=4",
-            "url": "https://github.com/heydamir"
-          },
-          "topics": [],
-          "createdAt": "2026-10-29T15:41:21Z",
-          "pushedAt": "2026-11-01T16:46:10Z",
-          "updatedAt": "2026-11-03T07:01:19Z",
-          "license": "CC-BY-4.0",
-          "rankGain": 1
+          "rankGain": 2
         },
         {
           "id": 1438540053,
@@ -241,9 +241,9 @@
           "fullName": "wangzan101/Mika",
           "url": "https://github.com/wangzan101/Mika",
           "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-          "stars": 5654,
-          "forks": 1100,
-          "openIssues": 106,
+          "stars": 6014,
+          "forks": 1171,
+          "openIssues": 105,
           "language": "Kotlin",
           "owner": {
             "login": "wangzan101",
@@ -261,8 +261,8 @@
             "mobile-agent"
           ],
           "createdAt": "2026-10-29T14:34:07Z",
-          "pushedAt": "2026-11-02T19:08:44Z",
-          "updatedAt": "2026-11-03T07:02:26Z",
+          "pushedAt": "2026-11-03T18:00:52Z",
+          "updatedAt": "2026-11-03T20:10:56Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -272,8 +272,8 @@
           "fullName": "designfuchen/word-atlas",
           "url": "https://github.com/designfuchen/word-atlas",
           "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-          "stars": 3974,
-          "forks": 858,
+          "stars": 4050,
+          "forks": 874,
           "openIssues": 39,
           "language": "TypeScript",
           "owner": {
@@ -297,7 +297,7 @@
           ],
           "createdAt": "2026-10-25T08:27:22Z",
           "pushedAt": "2026-10-31T11:37:01Z",
-          "updatedAt": "2026-11-03T06:56:16Z",
+          "updatedAt": "2026-11-03T20:15:08Z",
           "license": "NOASSERTION",
           "rankGain": 1
         }
@@ -344,9 +344,9 @@
           "fullName": "521xueweihan/HelloGitHub",
           "url": "https://github.com/521xueweihan/HelloGitHub",
           "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
-          "stars": 186481,
+          "stars": 186637,
           "forks": 13192,
-          "openIssues": 1234,
+          "openIssues": 1240,
           "language": "Python",
           "owner": {
             "login": "521xueweihan",
@@ -361,7 +361,7 @@
           ],
           "createdAt": "2016-05-04T06:24:11Z",
           "pushedAt": "2026-10-31T18:08:05Z",
-          "updatedAt": "2026-11-03T07:03:38Z",
+          "updatedAt": "2026-11-03T19:58:31Z",
           "license": null,
           "rankGain": 1
         }
@@ -377,8 +377,8 @@
           "fullName": "Leonxlnx/taste-skill",
           "url": "https://github.com/Leonxlnx/taste-skill",
           "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-          "stars": 108978,
-          "forks": 7339,
+          "stars": 109414,
+          "forks": 7361,
           "openIssues": 10,
           "language": "JavaScript",
           "owner": {
@@ -400,8 +400,8 @@
             "web-design"
           ],
           "createdAt": "2026-02-19T21:44:05Z",
-          "pushedAt": "2026-11-03T01:53:39Z",
-          "updatedAt": "2026-11-03T07:03:35Z",
+          "pushedAt": "2026-11-03T14:12:47Z",
+          "updatedAt": "2026-11-03T20:20:30Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -414,46 +414,41 @@
       "dropped": []
     },
     "secAiCyber": {
-      "newcomers": [],
-      "risers": [
+      "newcomers": [
         {
-          "id": 1046712274,
-          "name": "AIGoat",
-          "fullName": "AISecurityConsortium/AIGoat",
-          "url": "https://github.com/AISecurityConsortium/AIGoat",
-          "description": "AIGoat - Open-source AI security playground for hands-on LLM red teaming. Explore prompt injection, RAG poisoning, AI agents, MCP security, and OWASP Top 10 for LLM Applications through practical attack labs, CTF challenges, and progressive defenses all running locally.",
-          "stars": 241,
-          "forks": 80,
-          "openIssues": 3,
-          "language": "Python",
+          "id": 1145642293,
+          "name": "claude-code-owasp",
+          "fullName": "agamm/claude-code-owasp",
+          "url": "https://github.com/agamm/claude-code-owasp",
+          "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
+          "stars": 428,
+          "forks": 38,
+          "openIssues": 1,
+          "language": "JavaScript",
           "owner": {
-            "login": "AISecurityConsortium",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/229268502?v=4",
-            "url": "https://github.com/AISecurityConsortium"
+            "login": "agamm",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1269911?v=4",
+            "url": "https://github.com/agamm"
           },
           "topics": [
-            "ai-goat",
-            "ai-playground",
             "ai-security",
-            "ai-security-lab",
-            "ai-vulnerabilities",
-            "aigoat",
-            "ctf-challenges",
-            "llm-attacks",
-            "llm-red-teaming",
-            "llm-security",
-            "owasp-llm",
-            "prompt-injection",
-            "prompt-injection-testing",
-            "red-teaming"
+            "appsec",
+            "asvs",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "owasp",
+            "secure-coding",
+            "security",
+            "vulnerability"
           ],
-          "createdAt": "2025-08-29T05:32:04Z",
-          "pushedAt": "2026-10-18T20:49:39Z",
-          "updatedAt": "2026-11-03T04:32:26Z",
-          "license": "Apache-2.0",
-          "rankGain": 1
+          "createdAt": "2026-01-30T03:13:47Z",
+          "pushedAt": "2026-11-03T19:29:21Z",
+          "updatedAt": "2026-11-03T19:29:27Z",
+          "license": "MIT"
         }
       ],
+      "risers": [],
       "dropped": []
     }
   },
@@ -489,9 +484,9 @@
       "dropped": 0
     },
     "secAiCyber": {
-      "total": 26,
-      "newcomers": 0,
-      "risers": 1,
+      "total": 27,
+      "newcomers": 1,
+      "risers": 0,
       "dropped": 0
     }
   }
