@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:25:22.883Z",
+  "generatedAt": "2026-11-08T18:48:41.135Z",
   "date": "2026-11-08",
   "categories": {
     "allTime": {
@@ -11,9 +11,9 @@
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 186499,
-          "forks": 10327,
-          "openIssues": 184,
+          "stars": 186805,
+          "forks": 10345,
+          "openIssues": 185,
           "language": "JavaScript",
           "owner": {
             "login": "DietrichGebert",
@@ -34,7 +34,7 @@
           ],
           "createdAt": "2026-06-12T00:52:37Z",
           "pushedAt": "2026-10-29T11:59:31Z",
-          "updatedAt": "2026-11-08T06:24:13Z",
+          "updatedAt": "2026-11-08T18:48:32Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -44,13 +44,94 @@
     "breakout": {
       "newcomers": [
         {
+          "id": 1437774066,
+          "name": "Eglantine",
+          "fullName": "Eglantine-Community/Eglantine",
+          "url": "https://github.com/Eglantine-Community/Eglantine",
+          "description": "VERY experimental Nintendo Switch 2 emulator",
+          "stars": 5387,
+          "forks": 593,
+          "openIssues": 354,
+          "language": "C++",
+          "owner": {
+            "login": "Eglantine-Community",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/353829115?v=4",
+            "url": "https://github.com/Eglantine-Community"
+          },
+          "topics": [],
+          "createdAt": "2026-10-29T00:25:18Z",
+          "pushedAt": "2026-11-08T18:32:56Z",
+          "updatedAt": "2026-11-08T18:44:51Z",
+          "license": "GPL-3.0"
+        },
+        {
+          "id": 1432859403,
+          "name": "bla",
+          "fullName": "qybaihe/bla",
+          "url": "https://github.com/qybaihe/bla",
+          "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+          "stars": 3618,
+          "forks": 446,
+          "openIssues": 2,
+          "language": "TypeScript",
+          "owner": {
+            "login": "qybaihe",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/137127051?v=4",
+            "url": "https://github.com/qybaihe"
+          },
+          "topics": [
+            "adversarial-ai",
+            "claude-code",
+            "cursor",
+            "electron-security",
+            "llm-security",
+            "mcp",
+            "mcp-server",
+            "obfuscation",
+            "reverse-engineering",
+            "webassembly"
+          ],
+          "createdAt": "2026-10-25T05:25:45Z",
+          "pushedAt": "2026-11-08T18:19:54Z",
+          "updatedAt": "2026-11-08T18:44:56Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1444372497,
+          "name": "HGhub",
+          "fullName": "Minireel/HGhub",
+          "url": "https://github.com/Minireel/HGhub",
+          "description": "YellowFruit third-party client",
+          "stars": 3131,
+          "forks": 1332,
+          "openIssues": 13,
+          "language": "TypeScript",
+          "owner": {
+            "login": "Minireel",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/328980256?v=4",
+            "url": "https://github.com/Minireel"
+          },
+          "topics": [
+            "android",
+            "drama",
+            "free",
+            "movie-web-app",
+            "reels",
+            "windows"
+          ],
+          "createdAt": "2026-11-03T14:04:27Z",
+          "pushedAt": "2026-11-08T02:42:53Z",
+          "updatedAt": "2026-11-08T18:47:59Z",
+          "license": "NOASSERTION"
+        },
+        {
           "id": 1441272552,
           "name": "NOIR",
           "fullName": "Verlintas/NOIR",
           "url": "https://github.com/Verlintas/NOIR",
           "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-          "stars": 3005,
-          "forks": 280,
+          "stars": 3082,
+          "forks": 287,
           "openIssues": 0,
           "language": "Kotlin",
           "owner": {
@@ -82,75 +163,7 @@
           ],
           "createdAt": "2026-10-31T21:34:39Z",
           "pushedAt": "2026-11-07T16:07:16Z",
-          "updatedAt": "2026-11-08T06:14:53Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1432859403,
-          "name": "bla",
-          "fullName": "qybaihe/bla",
-          "url": "https://github.com/qybaihe/bla",
-          "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-          "stars": 3003,
-          "forks": 378,
-          "openIssues": 9,
-          "language": "TypeScript",
-          "owner": {
-            "login": "qybaihe",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/137127051?v=4",
-            "url": "https://github.com/qybaihe"
-          },
-          "topics": [
-            "adversarial-ai",
-            "claude-code",
-            "cursor",
-            "electron-security",
-            "llm-security",
-            "mcp",
-            "mcp-server",
-            "obfuscation",
-            "reverse-engineering",
-            "webassembly"
-          ],
-          "createdAt": "2026-10-25T05:25:45Z",
-          "pushedAt": "2026-11-07T18:12:34Z",
-          "updatedAt": "2026-11-08T06:25:13Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1416044960,
-          "name": "net-merge",
-          "fullName": "net-merge/net-merge",
-          "url": "https://github.com/net-merge/net-merge",
-          "description": "Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers",
-          "stars": 2962,
-          "forks": 170,
-          "openIssues": 3,
-          "language": "Go",
-          "owner": {
-            "login": "net-merge",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/347272816?v=4",
-            "url": "https://github.com/net-merge"
-          },
-          "topics": [
-            "android",
-            "bandwidth-aggregation",
-            "downloader",
-            "golang",
-            "linux",
-            "load-balancing",
-            "macos",
-            "net-merge",
-            "networking",
-            "tethering",
-            "tun",
-            "wifi",
-            "windows",
-            "wintun"
-          ],
-          "createdAt": "2026-10-12T19:28:45Z",
-          "pushedAt": "2026-11-02T20:46:08Z",
-          "updatedAt": "2026-11-08T03:24:02Z",
+          "updatedAt": "2026-11-08T18:31:44Z",
           "license": "MIT"
         }
       ],
@@ -161,9 +174,9 @@
           "fullName": "anomalyco/rune",
           "url": "https://github.com/anomalyco/rune",
           "description": "Rune: Native UI framework",
-          "stars": 3970,
-          "forks": 120,
-          "openIssues": 108,
+          "stars": 4842,
+          "forks": 151,
+          "openIssues": 145,
           "language": "Rust",
           "owner": {
             "login": "anomalyco",
@@ -172,42 +185,20 @@
           },
           "topics": [],
           "createdAt": "2026-10-22T05:51:40Z",
-          "pushedAt": "2026-11-08T06:21:48Z",
-          "updatedAt": "2026-11-08T06:25:12Z",
+          "pushedAt": "2026-11-08T09:36:47Z",
+          "updatedAt": "2026-11-08T18:48:03Z",
           "license": "MIT",
-          "rankGain": 6
-        },
-        {
-          "id": 1440927503,
-          "name": "Lichii",
-          "fullName": "zortos293/Lichii",
-          "url": "https://github.com/zortos293/Lichii",
-          "description": "VERY experimental Nintendo Switch 2 emulator",
-          "stars": 5963,
-          "forks": 903,
-          "openIssues": 391,
-          "language": "C++",
-          "owner": {
-            "login": "zortos293",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/65777760?v=4",
-            "url": "https://github.com/zortos293"
-          },
-          "topics": [],
-          "createdAt": "2026-10-31T14:17:26Z",
-          "pushedAt": "2026-11-08T02:05:25Z",
-          "updatedAt": "2026-11-08T06:25:18Z",
-          "license": "GPL-3.0",
-          "rankGain": 4
+          "rankGain": 14
         },
         {
           "id": 1438661890,
           "name": "rea-video",
           "fullName": "JuneYaooo/rea-video",
           "url": "https://github.com/JuneYaooo/rea-video",
-          "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
-          "stars": 3781,
-          "forks": 538,
-          "openIssues": 1,
+          "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。",
+          "stars": 4270,
+          "forks": 603,
+          "openIssues": 2,
           "language": "Python",
           "owner": {
             "login": "JuneYaooo",
@@ -234,92 +225,101 @@
             "vlm"
           ],
           "createdAt": "2026-10-29T16:15:01Z",
-          "pushedAt": "2026-11-08T01:32:44Z",
-          "updatedAt": "2026-11-08T06:19:44Z",
+          "pushedAt": "2026-11-08T16:12:27Z",
+          "updatedAt": "2026-11-08T18:48:12Z",
           "license": "Apache-2.0",
-          "rankGain": 4
+          "rankGain": 9
         },
         {
-          "id": 1420305104,
-          "name": "earshot",
-          "fullName": "Leonxlnx/earshot",
-          "url": "https://github.com/Leonxlnx/earshot",
-          "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-          "stars": 4203,
-          "forks": 267,
-          "openIssues": 1,
-          "language": "Python",
+          "id": 1440927503,
+          "name": "Lichii",
+          "fullName": "zortos293/Lichii",
+          "url": "https://github.com/zortos293/Lichii",
+          "description": "VERY experimental Nintendo Switch 2 emulator",
+          "stars": 6607,
+          "forks": 1005,
+          "openIssues": 433,
+          "language": "C++",
           "owner": {
-            "login": "Leonxlnx",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?v=4",
-            "url": "https://github.com/Leonxlnx"
-          },
-          "topics": [
-            "ai-agents",
-            "audio",
-            "claude-code",
-            "mcp",
-            "sound-design"
-          ],
-          "createdAt": "2026-10-15T06:52:46Z",
-          "pushedAt": "2026-11-06T17:24:16Z",
-          "updatedAt": "2026-11-08T06:12:00Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1443985070,
-          "name": "agent-autoloop",
-          "fullName": "KKKKhazix/agent-autoloop",
-          "url": "https://github.com/KKKKhazix/agent-autoloop",
-          "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-          "stars": 3998,
-          "forks": 726,
-          "openIssues": 4,
-          "language": "TypeScript",
-          "owner": {
-            "login": "KKKKhazix",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/239590580?v=4",
-            "url": "https://github.com/KKKKhazix"
-          },
-          "topics": [
-            "ai-agents",
-            "automation",
-            "claude-code",
-            "cli",
-            "codex",
-            "event-driven",
-            "mcp",
-            "nodejs",
-            "self-hosted",
-            "typescript",
-            "workflow"
-          ],
-          "createdAt": "2026-11-03T08:02:11Z",
-          "pushedAt": "2026-11-08T01:20:15Z",
-          "updatedAt": "2026-11-08T06:15:43Z",
-          "license": "MIT",
-          "rankGain": 3
-        },
-        {
-          "id": 1413898431,
-          "name": "CCBaga",
-          "fullName": "liseami/CCBaga",
-          "url": "https://github.com/liseami/CCBaga",
-          "description": "暂无描述",
-          "stars": 3467,
-          "forks": 355,
-          "openIssues": 10,
-          "language": "Rust",
-          "owner": {
-            "login": "liseami",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/51239614?v=4",
-            "url": "https://github.com/liseami"
+            "login": "zortos293",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65777760?v=4",
+            "url": "https://github.com/zortos293"
           },
           "topics": [],
-          "createdAt": "2026-10-11T03:47:06Z",
-          "pushedAt": "2026-11-08T03:33:15Z",
-          "updatedAt": "2026-11-08T05:57:33Z",
+          "createdAt": "2026-10-31T14:17:26Z",
+          "pushedAt": "2026-11-08T18:25:43Z",
+          "updatedAt": "2026-11-08T18:46:03Z",
+          "license": "GPL-3.0",
+          "rankGain": 8
+        },
+        {
+          "id": 1421822085,
+          "name": "dsh-purge",
+          "fullName": "kingcharleslzy-ai/dsh-purge",
+          "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+          "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+          "stars": 5411,
+          "forks": 2505,
+          "openIssues": 18,
+          "language": "JavaScript",
+          "owner": {
+            "login": "kingcharleslzy-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/260348840?v=4",
+            "url": "https://github.com/kingcharleslzy-ai"
+          },
+          "topics": [
+            "agent-tools",
+            "backup",
+            "deepseek",
+            "deepseek-harness",
+            "dsh",
+            "dsh-plugin",
+            "jailbreak",
+            "prompt-injection",
+            "prompt-management",
+            "purge-community",
+            "rollback"
+          ],
+          "createdAt": "2026-10-16T07:44:27Z",
+          "pushedAt": "2026-11-08T16:31:02Z",
+          "updatedAt": "2026-11-08T18:47:07Z",
+          "license": "MIT",
+          "rankGain": 3
+        },
+        {
+          "id": 1427401105,
+          "name": "NX2Apple",
+          "fullName": "LNPANDY/NX2Apple",
+          "url": "https://github.com/LNPANDY/NX2Apple",
+          "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+          "stars": 5247,
+          "forks": 668,
+          "openIssues": 180,
+          "language": "Swift",
+          "owner": {
+            "login": "LNPANDY",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/90243050?v=4",
+            "url": "https://github.com/LNPANDY"
+          },
+          "topics": [
+            "apple-silicon",
+            "custom-format",
+            "homebrew",
+            "ios",
+            "ipa",
+            "ipad",
+            "ipados",
+            "iphone",
+            "metal",
+            "native-port",
+            "nintendo-switch",
+            "nxnative",
+            "romfs",
+            "switch-games"
+          ],
+          "createdAt": "2026-10-20T18:16:07Z",
+          "pushedAt": "2026-11-08T17:49:13Z",
+          "updatedAt": "2026-11-08T18:46:41Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -329,9 +329,9 @@
           "fullName": "Revivedx/SavageWindRecomp",
           "url": "https://github.com/Revivedx/SavageWindRecomp",
           "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.9.0) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
-          "stars": 3467,
-          "forks": 207,
-          "openIssues": 85,
+          "stars": 3555,
+          "forks": 216,
+          "openIssues": 86,
           "language": "C",
           "owner": {
             "login": "Revivedx",
@@ -340,8 +340,8 @@
           },
           "topics": [],
           "createdAt": "2026-10-16T17:34:55Z",
-          "pushedAt": "2026-11-08T01:57:53Z",
-          "updatedAt": "2026-11-08T06:04:49Z",
+          "pushedAt": "2026-11-08T17:42:49Z",
+          "updatedAt": "2026-11-08T18:29:04Z",
           "license": "NOASSERTION",
           "rankGain": 3
         },
@@ -351,8 +351,8 @@
           "fullName": "mmparko/dsh-purge",
           "url": "https://github.com/mmparko/dsh-purge",
           "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
-          "stars": 3389,
-          "forks": 3777,
+          "stars": 3554,
+          "forks": 3855,
           "openIssues": 5,
           "language": "JavaScript",
           "owner": {
@@ -373,9 +373,37 @@
           ],
           "createdAt": "2026-10-13T05:14:47Z",
           "pushedAt": "2026-10-13T05:50:46Z",
-          "updatedAt": "2026-11-08T06:21:52Z",
+          "updatedAt": "2026-11-08T18:25:18Z",
           "license": "MIT",
           "rankGain": 3
+        },
+        {
+          "id": 1420305104,
+          "name": "earshot",
+          "fullName": "Leonxlnx/earshot",
+          "url": "https://github.com/Leonxlnx/earshot",
+          "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+          "stars": 4255,
+          "forks": 272,
+          "openIssues": 2,
+          "language": "Python",
+          "owner": {
+            "login": "Leonxlnx",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/219127460?v=4",
+            "url": "https://github.com/Leonxlnx"
+          },
+          "topics": [
+            "ai-agents",
+            "audio",
+            "claude-code",
+            "mcp",
+            "sound-design"
+          ],
+          "createdAt": "2026-10-15T06:52:46Z",
+          "pushedAt": "2026-11-06T17:24:16Z",
+          "updatedAt": "2026-11-08T18:33:13Z",
+          "license": "MIT",
+          "rankGain": 2
         },
         {
           "id": 1431830406,
@@ -383,8 +411,8 @@
           "fullName": "t3dotgg/tstack",
           "url": "https://github.com/t3dotgg/tstack",
           "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-          "stars": 3249,
-          "forks": 243,
+          "stars": 3278,
+          "forks": 246,
           "openIssues": 15,
           "language": "Python",
           "owner": {
@@ -395,9 +423,9 @@
           "topics": [],
           "createdAt": "2026-10-24T05:00:20Z",
           "pushedAt": "2026-10-28T02:38:03Z",
-          "updatedAt": "2026-11-08T06:15:33Z",
+          "updatedAt": "2026-11-08T18:40:38Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 2
         },
         {
           "id": 1435672472,
@@ -405,8 +433,8 @@
           "fullName": "haydenschmitty/floorplan",
           "url": "https://github.com/haydenschmitty/floorplan",
           "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-          "stars": 3192,
-          "forks": 248,
+          "stars": 3229,
+          "forks": 254,
           "openIssues": 56,
           "language": "JavaScript",
           "owner": {
@@ -430,12 +458,33 @@
           ],
           "createdAt": "2026-10-27T12:03:01Z",
           "pushedAt": "2026-11-02T20:06:48Z",
-          "updatedAt": "2026-11-08T06:23:38Z",
+          "updatedAt": "2026-11-08T18:35:58Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 2
         }
       ],
       "dropped": [
+        {
+          "id": 1437774066,
+          "name": "Eglantine",
+          "fullName": "Djihads80/Eglantine",
+          "url": "https://github.com/Djihads80/Eglantine",
+          "description": "VERY experimental Nintendo Switch 2 emulator",
+          "stars": 5145,
+          "forks": 561,
+          "openIssues": 347,
+          "language": "C++",
+          "owner": {
+            "login": "Djihads80",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76681596?v=4",
+            "url": "https://github.com/Djihads80"
+          },
+          "topics": [],
+          "createdAt": "2026-10-29T00:25:18Z",
+          "pushedAt": "2026-11-07T17:56:10Z",
+          "updatedAt": "2026-11-07T18:42:00Z",
+          "license": "GPL-3.0"
+        },
         {
           "id": 1412548284,
           "name": "craft-launcher",
@@ -506,19 +555,209 @@
       ]
     },
     "activeWeek": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 132750724,
+          "name": "build-your-own-x",
+          "fullName": "codecrafters-io/build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Master programming by recreating your favorite technologies from scratch.",
+          "stars": 561017,
+          "forks": 52496,
+          "openIssues": 692,
+          "language": "Markdown",
+          "owner": {
+            "login": "codecrafters-io",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/58904235?v=4",
+            "url": "https://github.com/codecrafters-io"
+          },
+          "topics": [
+            "awesome-list",
+            "free",
+            "programming",
+            "tutorial-code",
+            "tutorial-exercises",
+            "tutorials"
+          ],
+          "createdAt": "2018-05-09T12:03:18Z",
+          "pushedAt": "2026-11-08T16:38:15Z",
+          "updatedAt": "2026-11-08T18:37:43Z",
+          "license": null
+        }
+      ],
       "risers": [],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 589831718,
+          "name": "ComfyUI",
+          "fullName": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+          "stars": 145570,
+          "forks": 17322,
+          "openIssues": 5455,
+          "language": "Python",
+          "owner": {
+            "login": "Comfy-Org",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/166579949?v=4",
+            "url": "https://github.com/Comfy-Org"
+          },
+          "topics": [
+            "ai",
+            "comfy",
+            "comfyui",
+            "python",
+            "pytorch",
+            "stable-diffusion"
+          ],
+          "createdAt": "2023-01-17T03:15:56Z",
+          "pushedAt": "2026-11-07T13:56:50Z",
+          "updatedAt": "2026-11-07T18:22:45Z",
+          "license": "GPL-3.0"
+        }
+      ]
     },
     "aiEco": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1200597263,
+          "name": "graphify",
+          "fullName": "Graphify-Labs/graphify",
+          "url": "https://github.com/Graphify-Labs/graphify",
+          "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "stars": 144379,
+          "forks": 13820,
+          "openIssues": 1636,
+          "language": "Python",
+          "owner": {
+            "login": "Graphify-Labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
+            "url": "https://github.com/Graphify-Labs"
+          },
+          "topics": [
+            "ai-agents",
+            "antigravity",
+            "ast",
+            "claude-code",
+            "code-analysis",
+            "code-search",
+            "codex",
+            "cursor",
+            "developer-tools",
+            "gemini",
+            "graphify",
+            "graphrag",
+            "knowledge-graph",
+            "leiden",
+            "llm",
+            "mcp",
+            "openclaw",
+            "rag",
+            "skills",
+            "tree-sitter"
+          ],
+          "createdAt": "2026-04-03T15:49:07Z",
+          "pushedAt": "2026-11-08T00:52:14Z",
+          "updatedAt": "2026-11-08T18:47:26Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        },
+        {
+          "id": 965415649,
+          "name": "codex",
+          "fullName": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "stars": 133775,
+          "forks": 21200,
+          "openIssues": 26942,
+          "language": "Rust",
+          "owner": {
+            "login": "openai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+            "url": "https://github.com/openai"
+          },
+          "topics": [],
+          "createdAt": "2025-04-13T05:37:54Z",
+          "pushedAt": "2026-11-08T17:26:56Z",
+          "updatedAt": "2026-11-08T18:31:36Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "secTraffic": {
-      "newcomers": [],
+      "newcomers": [
+        {
+          "id": 76649430,
+          "name": "esp_wifi_repeater",
+          "fullName": "martin-ger/esp_wifi_repeater",
+          "url": "https://github.com/martin-ger/esp_wifi_repeater",
+          "description": "A full functional WiFi NAT Router (and now also a WiFi Repeater)",
+          "stars": 5290,
+          "forks": 985,
+          "openIssues": 265,
+          "language": "C",
+          "owner": {
+            "login": "martin-ger",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24463755?v=4",
+            "url": "https://github.com/martin-ger"
+          },
+          "topics": [
+            "acls",
+            "esp8266",
+            "firewall",
+            "l2-bridge",
+            "nat",
+            "range-extender",
+            "repeater",
+            "router",
+            "sniffer",
+            "wireshark"
+          ],
+          "createdAt": "2016-12-16T11:41:52Z",
+          "pushedAt": "2026-11-08T09:46:35Z",
+          "updatedAt": "2026-11-08T16:02:06Z",
+          "license": "MIT"
+        }
+      ],
       "risers": [],
-      "dropped": []
+      "dropped": [
+        {
+          "id": 161474573,
+          "name": "AdGuardDNS",
+          "fullName": "AdguardTeam/AdGuardDNS",
+          "url": "https://github.com/AdguardTeam/AdGuardDNS",
+          "description": "Public DNS resolver that protects you from ad trackers",
+          "stars": 965,
+          "forks": 83,
+          "openIssues": 162,
+          "language": "Go",
+          "owner": {
+            "login": "AdguardTeam",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8361145?v=4",
+            "url": "https://github.com/AdguardTeam"
+          },
+          "topics": [
+            "adblock",
+            "adguard",
+            "dns",
+            "dns-over-https",
+            "dns-over-quic",
+            "dns-over-tls",
+            "dnscrypt",
+            "golang",
+            "open-source",
+            "privacy"
+          ],
+          "createdAt": "2018-12-12T10:52:24Z",
+          "pushedAt": "2026-10-19T14:10:02Z",
+          "updatedAt": "2026-11-07T11:17:39Z",
+          "license": "AGPL-3.0"
+        }
+      ]
     },
     "secAiCyber": {
       "newcomers": [],
@@ -535,27 +774,27 @@
     },
     "breakout": {
       "total": 50,
-      "newcomers": 3,
+      "newcomers": 4,
       "risers": 10,
-      "dropped": 3
+      "dropped": 4
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 0,
-      "dropped": 0
+      "dropped": 1
     },
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 2,
       "dropped": 0
     },
     "secTraffic": {
       "total": 40,
-      "newcomers": 0,
+      "newcomers": 1,
       "risers": 0,
-      "dropped": 0
+      "dropped": 1
     },
     "secAiCyber": {
       "total": 24,
