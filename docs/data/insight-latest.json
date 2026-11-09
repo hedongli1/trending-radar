@@ -1,10 +1,89 @@
 {
-  "generatedAt": "2026-11-09T06:57:37.408Z",
+  "generatedAt": "2026-11-09T23:24:59.318Z",
   "date": "2026-11-09",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
+      "risers": [
+        {
+          "id": 1333065091,
+          "name": "deepseek-harness",
+          "fullName": "deepseek-ai/deepseek-harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "DeepSeek Harness: Everything is a Plugin.",
+          "stars": 277345,
+          "forks": 33989,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "deepseek-ai",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
+            "url": "https://github.com/deepseek-ai"
+          },
+          "topics": [
+            "ai-agents",
+            "cordis",
+            "dsh",
+            "dsh-plugin"
+          ],
+          "createdAt": "2026-08-13T11:56:32Z",
+          "pushedAt": "2026-11-04T13:06:39Z",
+          "updatedAt": "2026-11-09T23:15:04Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1061953414,
+          "name": "skills",
+          "fullName": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "stars": 190897,
+          "forks": 22438,
+          "openIssues": 1505,
+          "language": "Python",
+          "owner": {
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
+          },
+          "topics": [
+            "agent-skills"
+          ],
+          "createdAt": "2025-09-22T15:53:31Z",
+          "pushedAt": "2026-11-06T22:32:32Z",
+          "updatedAt": "2026-11-09T23:24:42Z",
+          "license": null,
+          "rankGain": 1
+        },
+        {
+          "id": 58028038,
+          "name": "HelloGitHub",
+          "fullName": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+          "stars": 187823,
+          "forks": 13244,
+          "openIssues": 1294,
+          "language": "Python",
+          "owner": {
+            "login": "521xueweihan",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8255800?v=4",
+            "url": "https://github.com/521xueweihan"
+          },
+          "topics": [
+            "awesome",
+            "github",
+            "hellogithub",
+            "python"
+          ],
+          "createdAt": "2016-05-04T06:24:11Z",
+          "pushedAt": "2026-10-31T18:08:05Z",
+          "updatedAt": "2026-11-09T23:12:30Z",
+          "license": null,
+          "rankGain": 1
+        }
+      ],
       "dropped": []
     },
     "breakout": {
@@ -15,9 +94,9 @@
           "fullName": "NotRexed/Hookshot",
           "url": "https://github.com/NotRexed/Hookshot",
           "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-          "stars": 3412,
-          "forks": 325,
-          "openIssues": 77,
+          "stars": 4911,
+          "forks": 427,
+          "openIssues": 102,
           "language": "C++",
           "owner": {
             "login": "NotRexed",
@@ -26,8 +105,50 @@
           },
           "topics": [],
           "createdAt": "2026-11-05T12:18:58Z",
-          "pushedAt": "2026-11-09T06:51:28Z",
-          "updatedAt": "2026-11-09T06:56:53Z",
+          "pushedAt": "2026-11-09T23:20:51Z",
+          "updatedAt": "2026-11-09T23:24:07Z",
+          "license": "GPL-3.0"
+        },
+        {
+          "id": 1437814166,
+          "name": "misterdownloadmanager",
+          "fullName": "anefzaoui/misterdownloadmanager",
+          "url": "https://github.com/anefzaoui/misterdownloadmanager",
+          "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+          "stars": 3888,
+          "forks": 267,
+          "openIssues": 80,
+          "language": "Rust",
+          "owner": {
+            "login": "anefzaoui",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1832078?v=4",
+            "url": "https://github.com/anefzaoui"
+          },
+          "topics": [
+            "bittorrent-client",
+            "debrid",
+            "download-accelerator",
+            "download-manager",
+            "downloadmanager",
+            "egui",
+            "file-downloader",
+            "gallery-dl",
+            "idm",
+            "idm-alternative",
+            "internet-download-manager",
+            "m3u8-downloader",
+            "magnet",
+            "playlist-downloader",
+            "real-debrid",
+            "rust",
+            "torrent-client",
+            "video-downloader",
+            "youtube-downloader",
+            "yt-dlp"
+          ],
+          "createdAt": "2026-10-29T01:25:19Z",
+          "pushedAt": "2026-11-09T23:11:34Z",
+          "updatedAt": "2026-11-09T23:21:49Z",
           "license": "GPL-3.0"
         }
       ],
@@ -38,9 +159,9 @@
           "fullName": "Minireel/HGhub",
           "url": "https://github.com/Minireel/HGhub",
           "description": "YellowFruit third-party client",
-          "stars": 4059,
-          "forks": 1597,
-          "openIssues": 6,
+          "stars": 5828,
+          "forks": 2135,
+          "openIssues": 19,
           "language": "TypeScript",
           "owner": {
             "login": "Minireel",
@@ -57,9 +178,31 @@
           ],
           "createdAt": "2026-11-03T14:04:27Z",
           "pushedAt": "2026-11-09T02:09:10Z",
-          "updatedAt": "2026-11-09T06:56:13Z",
+          "updatedAt": "2026-11-09T23:24:29Z",
           "license": "NOASSERTION",
-          "rankGain": 9
+          "rankGain": 23
+        },
+        {
+          "id": 1422597771,
+          "name": "learnharness",
+          "fullName": "amosblomqvist/learnharness",
+          "url": "https://github.com/amosblomqvist/learnharness",
+          "description": "Agent harness for learning difficult things.",
+          "stars": 7662,
+          "forks": 1080,
+          "openIssues": 447,
+          "language": "TypeScript",
+          "owner": {
+            "login": "amosblomqvist",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/255718537?v=4",
+            "url": "https://github.com/amosblomqvist"
+          },
+          "topics": [],
+          "createdAt": "2026-10-16T19:35:33Z",
+          "pushedAt": "2026-11-09T18:55:21Z",
+          "updatedAt": "2026-11-09T23:24:42Z",
+          "license": "AGPL-3.0",
+          "rankGain": 6
         },
         {
           "id": 1429303647,
@@ -67,9 +210,9 @@
           "fullName": "anomalyco/rune",
           "url": "https://github.com/anomalyco/rune",
           "description": "Rune: Native UI framework",
-          "stars": 5436,
-          "forks": 166,
-          "openIssues": 186,
+          "stars": 5887,
+          "forks": 189,
+          "openIssues": 201,
           "language": "Rust",
           "owner": {
             "login": "anomalyco",
@@ -78,10 +221,10 @@
           },
           "topics": [],
           "createdAt": "2026-10-22T05:51:40Z",
-          "pushedAt": "2026-11-09T06:52:23Z",
-          "updatedAt": "2026-11-09T06:57:19Z",
+          "pushedAt": "2026-11-09T23:18:07Z",
+          "updatedAt": "2026-11-09T23:18:27Z",
           "license": "MIT",
-          "rankGain": 3
+          "rankGain": 5
         },
         {
           "id": 1438661890,
@@ -89,9 +232,9 @@
           "fullName": "JuneYaooo/rea-video",
           "url": "https://github.com/JuneYaooo/rea-video",
           "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。",
-          "stars": 4830,
-          "forks": 692,
-          "openIssues": 5,
+          "stars": 5454,
+          "forks": 784,
+          "openIssues": 4,
           "language": "Python",
           "owner": {
             "login": "JuneYaooo",
@@ -118,97 +261,32 @@
             "vlm"
           ],
           "createdAt": "2026-10-29T16:15:01Z",
-          "pushedAt": "2026-11-08T16:12:27Z",
-          "updatedAt": "2026-11-09T06:56:37Z",
+          "pushedAt": "2026-11-09T15:40:48Z",
+          "updatedAt": "2026-11-09T23:23:06Z",
           "license": "Apache-2.0",
-          "rankGain": 3
+          "rankGain": 4
         },
         {
-          "id": 1422597771,
-          "name": "learnharness",
-          "fullName": "amosblomqvist/learnharness",
-          "url": "https://github.com/amosblomqvist/learnharness",
-          "description": "Agent harness for learning difficult things.",
-          "stars": 6713,
-          "forks": 1019,
-          "openIssues": 432,
-          "language": "TypeScript",
+          "id": 1440927503,
+          "name": "Lichii",
+          "fullName": "zortos293/Lichii",
+          "url": "https://github.com/zortos293/Lichii",
+          "description": "VERY experimental Nintendo Switch 2 emulator",
+          "stars": 7587,
+          "forks": 1211,
+          "openIssues": 597,
+          "language": "C++",
           "owner": {
-            "login": "amosblomqvist",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/255718537?v=4",
-            "url": "https://github.com/amosblomqvist"
+            "login": "zortos293",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65777760?v=4",
+            "url": "https://github.com/zortos293"
           },
           "topics": [],
-          "createdAt": "2026-10-16T19:35:33Z",
-          "pushedAt": "2026-11-08T20:51:03Z",
-          "updatedAt": "2026-11-09T06:53:57Z",
-          "license": "AGPL-3.0",
-          "rankGain": 1
-        },
-        {
-          "id": 1439372976,
-          "name": "pixelfx",
-          "fullName": "patch-gg/pixelfx",
-          "url": "https://github.com/patch-gg/pixelfx",
-          "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-          "stars": 6158,
-          "forks": 807,
-          "openIssues": 11,
-          "language": "JavaScript",
-          "owner": {
-            "login": "patch-gg",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/337959018?v=4",
-            "url": "https://github.com/patch-gg"
-          },
-          "topics": [
-            "agent-skills",
-            "animation",
-            "canvas",
-            "claude-code-plugin",
-            "gamedev",
-            "pixel-art",
-            "sprite-sheet",
-            "vfx"
-          ],
-          "createdAt": "2026-10-30T06:43:25Z",
-          "pushedAt": "2026-10-31T08:44:14Z",
-          "updatedAt": "2026-11-09T06:57:28Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 1443985070,
-          "name": "agent-autoloop",
-          "fullName": "KKKKhazix/agent-autoloop",
-          "url": "https://github.com/KKKKhazix/agent-autoloop",
-          "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-          "stars": 4175,
-          "forks": 757,
-          "openIssues": 10,
-          "language": "TypeScript",
-          "owner": {
-            "login": "KKKKhazix",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/239590580?v=4",
-            "url": "https://github.com/KKKKhazix"
-          },
-          "topics": [
-            "ai-agents",
-            "automation",
-            "claude-code",
-            "cli",
-            "codex",
-            "event-driven",
-            "mcp",
-            "nodejs",
-            "self-hosted",
-            "typescript",
-            "workflow"
-          ],
-          "createdAt": "2026-11-03T08:02:11Z",
-          "pushedAt": "2026-11-09T01:14:42Z",
-          "updatedAt": "2026-11-09T06:51:27Z",
-          "license": "MIT",
-          "rankGain": 1
+          "createdAt": "2026-10-31T14:17:26Z",
+          "pushedAt": "2026-11-09T22:52:45Z",
+          "updatedAt": "2026-11-09T23:23:51Z",
+          "license": "GPL-3.0",
+          "rankGain": 3
         },
         {
           "id": 1432859403,
@@ -216,9 +294,9 @@
           "fullName": "qybaihe/bla",
           "url": "https://github.com/qybaihe/bla",
           "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-          "stars": 3928,
-          "forks": 484,
-          "openIssues": 1,
+          "stars": 4345,
+          "forks": 526,
+          "openIssues": 11,
           "language": "TypeScript",
           "owner": {
             "login": "qybaihe",
@@ -238,13 +316,65 @@
             "webassembly"
           ],
           "createdAt": "2026-10-25T05:25:45Z",
-          "pushedAt": "2026-11-09T06:23:35Z",
-          "updatedAt": "2026-11-09T06:54:47Z",
+          "pushedAt": "2026-11-09T18:13:55Z",
+          "updatedAt": "2026-11-09T23:19:57Z",
+          "license": "MIT",
+          "rankGain": 3
+        },
+        {
+          "id": 1439372976,
+          "name": "pixelfx",
+          "fullName": "patch-gg/pixelfx",
+          "url": "https://github.com/patch-gg/pixelfx",
+          "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+          "stars": 6319,
+          "forks": 830,
+          "openIssues": 11,
+          "language": "JavaScript",
+          "owner": {
+            "login": "patch-gg",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/337959018?v=4",
+            "url": "https://github.com/patch-gg"
+          },
+          "topics": [
+            "agent-skills",
+            "animation",
+            "canvas",
+            "claude-code-plugin",
+            "gamedev",
+            "pixel-art",
+            "sprite-sheet",
+            "vfx"
+          ],
+          "createdAt": "2026-10-30T06:43:25Z",
+          "pushedAt": "2026-11-09T09:51:43Z",
+          "updatedAt": "2026-11-09T23:24:40Z",
           "license": "MIT",
           "rankGain": 1
         }
       ],
       "dropped": [
+        {
+          "id": 1445802355,
+          "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+          "fullName": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+          "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+          "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+          "stars": 3222,
+          "forks": 1198,
+          "openIssues": 26,
+          "language": "Python",
+          "owner": {
+            "login": "worldonlyu",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/85034342?v=4",
+            "url": "https://github.com/worldonlyu"
+          },
+          "topics": [],
+          "createdAt": "2026-11-04T14:54:56Z",
+          "pushedAt": "2026-11-06T03:52:06Z",
+          "updatedAt": "2026-11-08T18:34:06Z",
+          "license": null
+        },
         {
           "id": 1441272552,
           "name": "NOIR",
@@ -297,9 +427,9 @@
           "fullName": "Comfy-Org/ComfyUI",
           "url": "https://github.com/Comfy-Org/ComfyUI",
           "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-          "stars": 145846,
-          "forks": 17369,
-          "openIssues": 5471,
+          "stars": 145993,
+          "forks": 17388,
+          "openIssues": 5483,
           "language": "Python",
           "owner": {
             "login": "Comfy-Org",
@@ -315,21 +445,45 @@
             "stable-diffusion"
           ],
           "createdAt": "2023-01-17T03:15:56Z",
-          "pushedAt": "2026-11-09T02:40:36Z",
-          "updatedAt": "2026-11-09T06:56:48Z",
+          "pushedAt": "2026-11-09T22:27:34Z",
+          "updatedAt": "2026-11-09T23:17:20Z",
           "license": "GPL-3.0"
         }
       ],
       "risers": [
+        {
+          "id": 1061953414,
+          "name": "skills",
+          "fullName": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Public repository for Agent Skills",
+          "stars": 190897,
+          "forks": 22438,
+          "openIssues": 1505,
+          "language": "Python",
+          "owner": {
+            "login": "anthropics",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/76263028?v=4",
+            "url": "https://github.com/anthropics"
+          },
+          "topics": [
+            "agent-skills"
+          ],
+          "createdAt": "2025-09-22T15:53:31Z",
+          "pushedAt": "2026-11-06T22:32:32Z",
+          "updatedAt": "2026-11-09T23:24:42Z",
+          "license": null,
+          "rankGain": 2
+        },
         {
           "id": 975734319,
           "name": "opencode",
           "fullName": "anomalyco/opencode",
           "url": "https://github.com/anomalyco/opencode",
           "description": "The open source coding agent.",
-          "stars": 225587,
-          "forks": 30468,
-          "openIssues": 4160,
+          "stars": 225668,
+          "forks": 30462,
+          "openIssues": 4212,
           "language": "TypeScript",
           "owner": {
             "login": "anomalyco",
@@ -338,8 +492,8 @@
           },
           "topics": [],
           "createdAt": "2025-04-30T20:08:00Z",
-          "pushedAt": "2026-11-09T06:57:12Z",
-          "updatedAt": "2026-11-09T06:56:15Z",
+          "pushedAt": "2026-11-09T23:04:56Z",
+          "updatedAt": "2026-11-09T23:23:58Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -349,8 +503,8 @@
           "fullName": "ossu/computer-science",
           "url": "https://github.com/ossu/computer-science",
           "description": "🎓 Path to a free self-taught education in Computer Science!",
-          "stars": 210998,
-          "forks": 26115,
+          "stars": 211042,
+          "forks": 26124,
           "openIssues": 29,
           "language": "HTML",
           "owner": {
@@ -366,7 +520,7 @@
           ],
           "createdAt": "2014-05-04T00:18:39Z",
           "pushedAt": "2026-11-09T06:27:27Z",
-          "updatedAt": "2026-11-09T06:46:40Z",
+          "updatedAt": "2026-11-09T21:17:10Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -376,9 +530,9 @@
           "fullName": "n8n-io/n8n",
           "url": "https://github.com/n8n-io/n8n",
           "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-          "stars": 209879,
-          "forks": 61414,
-          "openIssues": 1240,
+          "stars": 209932,
+          "forks": 61425,
+          "openIssues": 1258,
           "language": "TypeScript",
           "owner": {
             "login": "n8n-io",
@@ -408,8 +562,8 @@
             "workflow-automation"
           ],
           "createdAt": "2019-06-22T09:24:21Z",
-          "pushedAt": "2026-11-09T06:50:34Z",
-          "updatedAt": "2026-11-09T06:52:59Z",
+          "pushedAt": "2026-11-09T22:59:59Z",
+          "updatedAt": "2026-11-09T23:24:19Z",
           "license": "NOASSERTION",
           "rankGain": 1
         },
@@ -419,9 +573,9 @@
           "fullName": "yt-dlp/yt-dlp",
           "url": "https://github.com/yt-dlp/yt-dlp",
           "description": "A feature-rich command-line audio/video downloader",
-          "stars": 206310,
-          "forks": 18132,
-          "openIssues": 2775,
+          "stars": 206489,
+          "forks": 18156,
+          "openIssues": 2776,
           "language": "Python",
           "owner": {
             "login": "yt-dlp",
@@ -439,7 +593,7 @@
           ],
           "createdAt": "2020-10-26T04:22:55Z",
           "pushedAt": "2026-11-04T07:16:27Z",
-          "updatedAt": "2026-11-09T06:50:22Z",
+          "updatedAt": "2026-11-09T23:17:41Z",
           "license": "Unlicense",
           "rankGain": 1
         },
@@ -449,9 +603,9 @@
           "fullName": "tensorflow/tensorflow",
           "url": "https://github.com/tensorflow/tensorflow",
           "description": "An Open Source Machine Learning Framework for Everyone",
-          "stars": 201405,
-          "forks": 78178,
-          "openIssues": 3487,
+          "stars": 201425,
+          "forks": 77770,
+          "openIssues": 3421,
           "language": "C++",
           "owner": {
             "login": "tensorflow",
@@ -469,8 +623,8 @@
             "tensorflow"
           ],
           "createdAt": "2015-11-07T01:19:20Z",
-          "pushedAt": "2026-11-09T06:47:51Z",
-          "updatedAt": "2026-11-09T06:54:22Z",
+          "pushedAt": "2026-11-09T22:56:44Z",
+          "updatedAt": "2026-11-09T23:01:06Z",
           "license": "Apache-2.0",
           "rankGain": 1
         },
@@ -480,8 +634,8 @@
           "fullName": "firecrawl/firecrawl",
           "url": "https://github.com/firecrawl/firecrawl",
           "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-          "stars": 199894,
-          "forks": 10518,
+          "stars": 200151,
+          "forks": 10532,
           "openIssues": 773,
           "language": "TypeScript",
           "owner": {
@@ -511,8 +665,8 @@
             "webscraping"
           ],
           "createdAt": "2024-04-15T21:02:29Z",
-          "pushedAt": "2026-11-09T06:51:35Z",
-          "updatedAt": "2026-11-09T06:56:31Z",
+          "pushedAt": "2026-11-09T22:47:25Z",
+          "updatedAt": "2026-11-09T23:19:38Z",
           "license": "AGPL-3.0",
           "rankGain": 1
         },
@@ -522,9 +676,9 @@
           "fullName": "microsoft/vscode",
           "url": "https://github.com/microsoft/vscode",
           "description": "Visual Studio Code",
-          "stars": 195212,
-          "forks": 44190,
-          "openIssues": 21759,
+          "stars": 195242,
+          "forks": 43752,
+          "openIssues": 21896,
           "language": "TypeScript",
           "owner": {
             "login": "microsoft",
@@ -539,8 +693,8 @@
             "visual-studio-code"
           ],
           "createdAt": "2015-09-03T20:23:38Z",
-          "pushedAt": "2026-11-09T06:30:42Z",
-          "updatedAt": "2026-11-09T06:54:36Z",
+          "pushedAt": "2026-11-09T23:18:55Z",
+          "updatedAt": "2026-11-09T23:19:42Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -550,8 +704,8 @@
           "fullName": "ultraworkers/claw-code",
           "url": "https://github.com/ultraworkers/claw-code",
           "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-          "stars": 194935,
-          "forks": 107452,
+          "stars": 194805,
+          "forks": 107418,
           "openIssues": 1,
           "language": "Rust",
           "owner": {
@@ -561,8 +715,8 @@
           },
           "topics": [],
           "createdAt": "2026-03-31T08:58:08Z",
-          "pushedAt": "2026-11-09T03:07:43Z",
-          "updatedAt": "2026-11-09T06:53:02Z",
+          "pushedAt": "2026-11-09T12:02:36Z",
+          "updatedAt": "2026-11-09T22:28:14Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -572,8 +726,8 @@
           "fullName": "microsoft/markitdown",
           "url": "https://github.com/microsoft/markitdown",
           "description": "Python tool for converting files and office documents to Markdown.",
-          "stars": 194491,
-          "forks": 14651,
+          "stars": 194611,
+          "forks": 14665,
           "openIssues": 813,
           "language": "Python",
           "owner": {
@@ -592,36 +746,7 @@
           ],
           "createdAt": "2024-11-13T19:56:40Z",
           "pushedAt": "2026-11-07T00:14:01Z",
-          "updatedAt": "2026-11-09T06:49:23Z",
-          "license": "MIT",
-          "rankGain": 1
-        },
-        {
-          "id": 21540759,
-          "name": "awesome-go",
-          "fullName": "avelino/awesome-go",
-          "url": "https://github.com/avelino/awesome-go",
-          "description": "A curated list of awesome Go frameworks, libraries and software",
-          "stars": 192884,
-          "forks": 13728,
-          "openIssues": 116,
-          "language": "Go",
-          "owner": {
-            "login": "avelino",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/31996?v=4",
-            "url": "https://github.com/avelino"
-          },
-          "topics": [
-            "awesome",
-            "awesome-list",
-            "go",
-            "golang",
-            "golang-library",
-            "hacktoberfest"
-          ],
-          "createdAt": "2014-07-06T13:42:15Z",
-          "pushedAt": "2026-11-06T08:04:54Z",
-          "updatedAt": "2026-11-09T06:55:29Z",
+          "updatedAt": "2026-11-09T23:09:20Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -674,9 +799,9 @@
           "fullName": "Graphify-Labs/graphify",
           "url": "https://github.com/Graphify-Labs/graphify",
           "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-          "stars": 144626,
-          "forks": 13841,
-          "openIssues": 1643,
+          "stars": 145015,
+          "forks": 13882,
+          "openIssues": 1626,
           "language": "Python",
           "owner": {
             "login": "Graphify-Labs",
@@ -706,8 +831,36 @@
             "tree-sitter"
           ],
           "createdAt": "2026-04-03T15:49:07Z",
-          "pushedAt": "2026-11-08T00:52:14Z",
-          "updatedAt": "2026-11-09T06:57:22Z",
+          "pushedAt": "2026-11-09T17:04:04Z",
+          "updatedAt": "2026-11-09T23:22:13Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        },
+        {
+          "id": 1097346685,
+          "name": "impeccable",
+          "fullName": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+          "stars": 106865,
+          "forks": 6351,
+          "openIssues": 49,
+          "language": "Rust",
+          "owner": {
+            "login": "pbakaus",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/43004?v=4",
+            "url": "https://github.com/pbakaus"
+          },
+          "topics": [
+            "agent-skills",
+            "ai",
+            "anti-slop",
+            "design",
+            "slop"
+          ],
+          "createdAt": "2025-11-16T01:52:04Z",
+          "pushedAt": "2026-11-09T23:18:14Z",
+          "updatedAt": "2026-11-09T23:24:41Z",
           "license": "Apache-2.0",
           "rankGain": 1
         }
@@ -721,65 +874,232 @@
     },
     "secAiCyber": {
       "newcomers": [],
-      "risers": [],
-      "dropped": [
+      "risers": [
         {
-          "id": 1304960085,
-          "name": "guardana",
-          "fullName": "guardana/guardana",
-          "url": "https://github.com/guardana/guardana",
-          "description": "Open-source AI security verification for model artifacts, live endpoints, MCP servers, and recorded agent traces. Reproducible evidence for release decisions.",
-          "stars": 204,
-          "forks": 17,
-          "openIssues": 19,
-          "language": "Python",
+          "id": 1339271188,
+          "name": "0",
+          "fullName": "0sec-labs/0",
+          "url": "https://github.com/0sec-labs/0",
+          "description": "The open-source AI security harness. Includes a web interface for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing + CLI and MCP for agents.",
+          "stars": 1081,
+          "forks": 138,
+          "openIssues": 5,
+          "language": "TypeScript",
           "owner": {
-            "login": "guardana",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/304104089?v=4",
-            "url": "https://github.com/guardana"
+            "login": "0sec-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/274613126?v=4",
+            "url": "https://github.com/0sec-labs"
           },
           "topics": [
-            "agent-security",
             "ai-agents",
-            "ai-red-teaming",
-            "ai-safety",
-            "ai-security",
-            "devsecops",
-            "llm-security",
+            "application-security",
+            "binary-analysis",
+            "code-review",
+            "cybersecurity",
+            "llm-agents",
             "mcp",
-            "ml-security",
-            "mlsecops",
-            "model-context-protocol",
-            "model-security",
-            "opentelemetry",
-            "owasp-llm",
-            "prompt-injection",
-            "python",
-            "red-teaming",
-            "sarif",
+            "penetration-testing",
+            "security-research",
             "security-tools",
-            "supply-chain-security"
+            "vulnerability-detection",
+            "vulnerability-scanner"
           ],
-          "createdAt": "2026-07-18T14:14:22Z",
-          "pushedAt": "2026-11-08T17:59:13Z",
-          "updatedAt": "2026-11-08T17:35:48Z",
-          "license": "Apache-2.0"
+          "createdAt": "2026-08-19T07:54:37Z",
+          "pushedAt": "2026-11-09T22:44:02Z",
+          "updatedAt": "2026-11-09T23:08:33Z",
+          "license": "NOASSERTION",
+          "rankGain": 1
+        },
+        {
+          "id": 1145350046,
+          "name": "Zen-Ai-Pentest",
+          "fullName": "SHAdd0WTAka/Zen-Ai-Pentest",
+          "url": "https://github.com/SHAdd0WTAka/Zen-Ai-Pentest",
+          "description": "🛡⚔️AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting🛡⚔️",
+          "stars": 504,
+          "forks": 89,
+          "openIssues": 50,
+          "language": "Python",
+          "owner": {
+            "login": "SHAdd0WTAka",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/217851236?v=4",
+            "url": "https://github.com/SHAdd0WTAka"
+          },
+          "topics": [
+            "ai",
+            "automation",
+            "compliance",
+            "cybersecurity",
+            "ethical-hacking",
+            "framework",
+            "penetration-testing",
+            "pentesting",
+            "python",
+            "security",
+            "security-tools",
+            "vulnerability-scanner"
+          ],
+          "createdAt": "2026-01-29T17:54:27Z",
+          "pushedAt": "2026-11-03T12:48:51Z",
+          "updatedAt": "2026-11-06T15:20:49Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 622163915,
+          "name": "awesome-MLSecOps",
+          "fullName": "RiccardoBiosas/awesome-MLSecOps",
+          "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps",
+          "description": "A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security.",
+          "stars": 491,
+          "forks": 130,
+          "openIssues": 28,
+          "language": "Astro",
+          "owner": {
+            "login": "RiccardoBiosas",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/65150720?v=4",
+            "url": "https://github.com/RiccardoBiosas"
+          },
+          "topics": [
+            "adversarial-machine-learning",
+            "agentic-security",
+            "ai-agents",
+            "ai-governance",
+            "ai-red-teaming",
+            "ai-security",
+            "data-poisoning",
+            "large-language-model",
+            "llm-security",
+            "machine-learning-security",
+            "mcp-security",
+            "mlops",
+            "mlops-security",
+            "mlsecops",
+            "model-poisoning",
+            "owasp",
+            "prompt-injection",
+            "rag-security",
+            "supply-chain-security",
+            "threat-modeling"
+          ],
+          "createdAt": "2023-04-01T10:06:32Z",
+          "pushedAt": "2026-11-09T03:24:07Z",
+          "updatedAt": "2026-11-09T19:56:35Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1237232532,
+          "name": "agentgg",
+          "fullName": "agentgg-dev/agentgg",
+          "url": "https://github.com/agentgg-dev/agentgg",
+          "description": "Open source agentic SAST. The engine behind hundreds of disclosed zero-days. 100+ AI security agents, any repo or PR diff, bring your own model.",
+          "stars": 460,
+          "forks": 54,
+          "openIssues": 0,
+          "language": "TypeScript",
+          "owner": {
+            "login": "agentgg-dev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/284173600?v=4",
+            "url": "https://github.com/agentgg-dev"
+          },
+          "topics": [
+            "ai-agents",
+            "ai-hacking",
+            "ai-penetration-testing",
+            "appsec",
+            "cli",
+            "code-quality",
+            "code-review",
+            "cybersecurity",
+            "cybersecurity-tools",
+            "ethical-hacking",
+            "llm",
+            "llm-security",
+            "sast",
+            "security",
+            "security-automation",
+            "security-tools",
+            "static-analysis",
+            "vulnerability-scanner"
+          ],
+          "createdAt": "2026-05-13T02:04:55Z",
+          "pushedAt": "2026-11-03T03:32:14Z",
+          "updatedAt": "2026-11-07T09:20:53Z",
+          "license": "Apache-2.0",
+          "rankGain": 1
+        },
+        {
+          "id": 593285023,
+          "name": "www-project-ai-security-and-privacy-guide",
+          "fullName": "OWASP/www-project-ai-security-and-privacy-guide",
+          "url": "https://github.com/OWASP/www-project-ai-security-and-privacy-guide",
+          "description": "OWASP Foundation Web Respository",
+          "stars": 438,
+          "forks": 138,
+          "openIssues": 40,
+          "language": "HTML",
+          "owner": {
+            "login": "OWASP",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/155815?v=4",
+            "url": "https://github.com/OWASP"
+          },
+          "topics": [],
+          "createdAt": "2023-01-25T16:58:18Z",
+          "pushedAt": "2026-11-06T17:25:31Z",
+          "updatedAt": "2026-11-09T14:31:46Z",
+          "license": null,
+          "rankGain": 1
+        },
+        {
+          "id": 1145642293,
+          "name": "claude-code-owasp",
+          "fullName": "agamm/claude-code-owasp",
+          "url": "https://github.com/agamm/claude-code-owasp",
+          "description": "Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20+ language-specific security quirks.",
+          "stars": 437,
+          "forks": 39,
+          "openIssues": 0,
+          "language": "JavaScript",
+          "owner": {
+            "login": "agamm",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1269911?v=4",
+            "url": "https://github.com/agamm"
+          },
+          "topics": [
+            "ai-security",
+            "appsec",
+            "asvs",
+            "claude",
+            "claude-code",
+            "claude-skills",
+            "owasp",
+            "secure-coding",
+            "security",
+            "vulnerability"
+          ],
+          "createdAt": "2026-01-30T03:13:47Z",
+          "pushedAt": "2026-11-03T19:29:21Z",
+          "updatedAt": "2026-11-09T22:04:21Z",
+          "license": "MIT",
+          "rankGain": 1
         }
-      ]
+      ],
+      "dropped": []
     }
   },
   "summary": {
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 3,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 1,
+      "newcomers": 2,
       "risers": 7,
-      "dropped": 1
+      "dropped": 2
     },
     "activeWeek": {
       "total": 50,
@@ -790,7 +1110,7 @@
     "aiEco": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "secTraffic": {
@@ -800,10 +1120,10 @@
       "dropped": 0
     },
     "secAiCyber": {
-      "total": 23,
+      "total": 24,
       "newcomers": 0,
-      "risers": 0,
-      "dropped": 1
+      "risers": 6,
+      "dropped": 0
     }
   }
 }
