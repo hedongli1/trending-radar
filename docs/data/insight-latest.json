@@ -1,122 +1,19 @@
 {
-  "generatedAt": "2026-11-22T07:11:44.856Z",
+  "generatedAt": "2026-11-22T20:42:22.580Z",
   "date": "2026-11-22",
   "categories": {
     "allTime": {
       "newcomers": [],
-      "risers": [],
-      "dropped": []
-    },
-    "breakout": {
-      "newcomers": [
-        {
-          "id": 1465855400,
-          "name": "Leonida",
-          "fullName": "ItsNotRexed/Leonida",
-          "url": "https://github.com/ItsNotRexed/Leonida",
-          "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-          "stars": 7683,
-          "forks": 606,
-          "openIssues": 170,
-          "language": "Python",
-          "owner": {
-            "login": "ItsNotRexed",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/300290919?v=4",
-            "url": "https://github.com/ItsNotRexed"
-          },
-          "topics": [],
-          "createdAt": "2026-11-20T20:07:13Z",
-          "pushedAt": "2026-11-22T06:59:14Z",
-          "updatedAt": "2026-11-22T07:11:26Z",
-          "license": "GPL-3.0"
-        }
-      ],
       "risers": [
-        {
-          "id": 1447408881,
-          "name": "chimera-vocal-synth",
-          "fullName": "jamesondh/chimera-vocal-synth",
-          "url": "https://github.com/jamesondh/chimera-vocal-synth",
-          "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-          "stars": 2927,
-          "forks": 369,
-          "openIssues": 47,
-          "language": "Rust",
-          "owner": {
-            "login": "jamesondh",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4026659?v=4",
-            "url": "https://github.com/jamesondh"
-          },
-          "topics": [],
-          "createdAt": "2026-11-05T19:10:42Z",
-          "pushedAt": "2026-11-21T19:07:25Z",
-          "updatedAt": "2026-11-22T06:30:22Z",
-          "license": "MIT",
-          "rankGain": 1
-        }
-      ],
-      "dropped": [
-        {
-          "id": 1431545439,
-          "name": "gpu-unlock-ada",
-          "fullName": "JustAResearcher/gpu-unlock-ada",
-          "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-          "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-          "stars": 4954,
-          "forks": 646,
-          "openIssues": 88,
-          "language": "C",
-          "owner": {
-            "login": "JustAResearcher",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/62031663?v=4",
-            "url": "https://github.com/JustAResearcher"
-          },
-          "topics": [],
-          "createdAt": "2026-10-23T21:00:53Z",
-          "pushedAt": "2026-10-26T04:24:46Z",
-          "updatedAt": "2026-11-21T16:06:33Z",
-          "license": "GPL-2.0"
-        }
-      ]
-    },
-    "activeWeek": {
-      "newcomers": [
-        {
-          "id": 13491895,
-          "name": "free-programming-books",
-          "fullName": "EbookFoundation/free-programming-books",
-          "url": "https://github.com/EbookFoundation/free-programming-books",
-          "description": ":books: Freely available programming books",
-          "stars": 402049,
-          "forks": 67230,
-          "openIssues": 113,
-          "language": "Python",
-          "owner": {
-            "login": "EbookFoundation",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4",
-            "url": "https://github.com/EbookFoundation"
-          },
-          "topics": [
-            "books",
-            "education",
-            "hacktoberfest",
-            "list",
-            "resource"
-          ],
-          "createdAt": "2013-10-11T06:50:37Z",
-          "pushedAt": "2026-11-21T23:51:56Z",
-          "updatedAt": "2026-11-22T06:52:31Z",
-          "license": "CC-BY-4.0"
-        },
         {
           "id": 1266797999,
           "name": "ponytail",
           "fullName": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "stars": 196513,
-          "forks": 11077,
-          "openIssues": 312,
+          "stars": 196818,
+          "forks": 11098,
+          "openIssues": 315,
           "language": "JavaScript",
           "owner": {
             "login": "DietrichGebert",
@@ -137,12 +34,557 @@
           ],
           "createdAt": "2026-06-12T00:52:37Z",
           "pushedAt": "2026-11-22T02:31:58Z",
-          "updatedAt": "2026-11-22T07:09:41Z",
+          "updatedAt": "2026-11-22T20:41:56Z",
+          "license": "MIT",
+          "rankGain": 1
+        }
+      ],
+      "dropped": []
+    },
+    "breakout": {
+      "newcomers": [
+        {
+          "id": 1465855400,
+          "name": "Leonida",
+          "fullName": "ItsNotRexed/Leonida",
+          "url": "https://github.com/ItsNotRexed/Leonida",
+          "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+          "stars": 13735,
+          "forks": 1113,
+          "openIssues": 1058,
+          "language": "Python",
+          "owner": {
+            "login": "ItsNotRexed",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/300290919?v=4",
+            "url": "https://github.com/ItsNotRexed"
+          },
+          "topics": [],
+          "createdAt": "2026-11-20T20:07:13Z",
+          "pushedAt": "2026-11-22T20:00:43Z",
+          "updatedAt": "2026-11-22T20:42:09Z",
+          "license": "GPL-3.0"
+        },
+        {
+          "id": 1434992606,
+          "name": "toyxyz_RGBMocap",
+          "fullName": "toyxyz/toyxyz_RGBMocap",
+          "url": "https://github.com/toyxyz/toyxyz_RGBMocap",
+          "description": "Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.",
+          "stars": 2998,
+          "forks": 406,
+          "openIssues": 40,
+          "language": "Python",
+          "owner": {
+            "login": "toyxyz",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/8006000?v=4",
+            "url": "https://github.com/toyxyz"
+          },
+          "topics": [],
+          "createdAt": "2026-10-26T22:26:28Z",
+          "pushedAt": "2026-11-22T16:43:28Z",
+          "updatedAt": "2026-11-22T20:34:26Z",
+          "license": "NOASSERTION"
+        },
+        {
+          "id": 1434244891,
+          "name": "google-qr-sms-helper",
+          "fullName": "havenicec/google-qr-sms-helper",
+          "url": "https://github.com/havenicec/google-qr-sms-helper",
+          "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+          "stars": 2997,
+          "forks": 621,
+          "openIssues": 24,
+          "language": "JavaScript",
+          "owner": {
+            "login": "havenicec",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/97464823?v=4",
+            "url": "https://github.com/havenicec"
+          },
+          "topics": [
+            "browser-automation",
+            "chrome-extension",
+            "google-auth",
+            "manifest-v3",
+            "sms-verification"
+          ],
+          "createdAt": "2026-10-26T10:44:47Z",
+          "pushedAt": "2026-10-28T15:43:15Z",
+          "updatedAt": "2026-11-22T20:40:52Z",
+          "license": "MIT"
+        }
+      ],
+      "risers": [
+        {
+          "id": 1452175380,
+          "name": "linger",
+          "fullName": "simplexai-labs/linger",
+          "url": "https://github.com/simplexai-labs/linger",
+          "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+          "stars": 3793,
+          "forks": 360,
+          "openIssues": 136,
+          "language": "TypeScript",
+          "owner": {
+            "login": "simplexai-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/257494383?v=4",
+            "url": "https://github.com/simplexai-labs"
+          },
+          "topics": [
+            "agent-teams",
+            "local-llm",
+            "memory",
+            "personal-agent",
+            "proactive-agent",
+            "proactive-ai"
+          ],
+          "createdAt": "2026-11-10T03:50:38Z",
+          "pushedAt": "2026-11-22T17:53:23Z",
+          "updatedAt": "2026-11-22T20:37:42Z",
+          "license": "NOASSERTION",
+          "rankGain": 3
+        },
+        {
+          "id": 1449548089,
+          "name": "phonebox",
+          "fullName": "ersinkoc/phonebox",
+          "url": "https://github.com/ersinkoc/phonebox",
+          "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+          "stars": 4970,
+          "forks": 622,
+          "openIssues": 7,
+          "language": "JavaScript",
+          "owner": {
+            "login": "ersinkoc",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/408479?v=4",
+            "url": "https://github.com/ersinkoc"
+          },
+          "topics": [
+            "android",
+            "claude-code",
+            "codex",
+            "dashboard",
+            "desk-panel",
+            "dotnet",
+            "home-assistant",
+            "linux",
+            "macos",
+            "old-phone",
+            "smart-stack",
+            "stream-deck",
+            "system-monitor",
+            "tailscale",
+            "webhooks",
+            "widgets",
+            "windows"
+          ],
+          "createdAt": "2026-11-07T16:45:16Z",
+          "pushedAt": "2026-11-22T20:24:19Z",
+          "updatedAt": "2026-11-22T20:41:27Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1453132706,
+          "name": "yogurt",
+          "fullName": "FrigadeHQ/yogurt",
+          "url": "https://github.com/FrigadeHQ/yogurt",
+          "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
+          "stars": 2961,
+          "forks": 248,
+          "openIssues": 53,
+          "language": "TypeScript",
+          "owner": {
+            "login": "FrigadeHQ",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/117952255?v=4",
+            "url": "https://github.com/FrigadeHQ"
+          },
+          "topics": [
+            "ai-meeting-assistant",
+            "ai-notetaker",
+            "electron",
+            "granola-alternative",
+            "linux",
+            "llama-cpp",
+            "local-ai",
+            "local-first",
+            "macos",
+            "mcp",
+            "meeting-minutes",
+            "meeting-notes",
+            "offline-first",
+            "open-source",
+            "privacy",
+            "speech-to-text",
+            "transcription",
+            "whisper",
+            "whisper-cpp",
+            "windows"
+          ],
+          "createdAt": "2026-11-10T20:01:01Z",
+          "pushedAt": "2026-11-22T18:20:57Z",
+          "updatedAt": "2026-11-22T20:40:16Z",
+          "license": "MIT",
+          "rankGain": 2
+        },
+        {
+          "id": 1459971684,
+          "name": "rust-anything",
+          "fullName": "erkamyaman/rust-anything",
+          "url": "https://github.com/erkamyaman/rust-anything",
+          "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+          "stars": 7912,
+          "forks": 629,
+          "openIssues": 5,
+          "language": "Rust",
+          "owner": {
+            "login": "erkamyaman",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/88717125?v=4",
+            "url": "https://github.com/erkamyaman"
+          },
+          "topics": [
+            "agent-skills",
+            "claude-code",
+            "cli",
+            "code-migration",
+            "codex",
+            "ffi",
+            "golang",
+            "java",
+            "javascript",
+            "mcp",
+            "migration",
+            "napi",
+            "performance",
+            "porting",
+            "pyo3",
+            "python",
+            "rewrite",
+            "ruby",
+            "rust",
+            "typescript"
+          ],
+          "createdAt": "2026-11-16T12:10:36Z",
+          "pushedAt": "2026-11-22T20:06:02Z",
+          "updatedAt": "2026-11-22T20:37:19Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1441526188,
+          "name": "claude-animated-shorts",
+          "fullName": "mromidev/claude-animated-shorts",
+          "url": "https://github.com/mromidev/claude-animated-shorts",
+          "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+          "stars": 4576,
+          "forks": 953,
+          "openIssues": 23,
+          "language": "TypeScript",
+          "owner": {
+            "login": "mromidev",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/233344575?v=4",
+            "url": "https://github.com/mromidev"
+          },
+          "topics": [],
+          "createdAt": "2026-11-01T05:50:38Z",
+          "pushedAt": "2026-11-01T05:57:14Z",
+          "updatedAt": "2026-11-22T20:32:37Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1449231124,
+          "name": "NX2navi",
+          "fullName": "tangerineturtle1/NX2navi",
+          "url": "https://github.com/tangerineturtle1/NX2navi",
+          "description": "暂无描述",
+          "stars": 4342,
+          "forks": 351,
+          "openIssues": 793,
+          "language": "C",
+          "owner": {
+            "login": "tangerineturtle1",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/178368288?v=4",
+            "url": "https://github.com/tangerineturtle1"
+          },
+          "topics": [],
+          "createdAt": "2026-11-07T10:01:23Z",
+          "pushedAt": "2026-11-16T02:02:29Z",
+          "updatedAt": "2026-11-22T20:08:55Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1431830406,
+          "name": "tstack",
+          "fullName": "t3dotgg/tstack",
+          "url": "https://github.com/t3dotgg/tstack",
+          "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+          "stars": 4296,
+          "forks": 341,
+          "openIssues": 22,
+          "language": "Python",
+          "owner": {
+            "login": "t3dotgg",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6751787?v=4",
+            "url": "https://github.com/t3dotgg"
+          },
+          "topics": [],
+          "createdAt": "2026-10-24T05:00:20Z",
+          "pushedAt": "2026-11-11T11:33:03Z",
+          "updatedAt": "2026-11-22T20:38:54Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1448068371,
+          "name": "sheeridVerify",
+          "fullName": "JenkinWoo/sheeridVerify",
+          "url": "https://github.com/JenkinWoo/sheeridVerify",
+          "description": "暂无描述",
+          "stars": 4158,
+          "forks": 1833,
+          "openIssues": 0,
+          "language": "JavaScript",
+          "owner": {
+            "login": "JenkinWoo",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/51308528?v=4",
+            "url": "https://github.com/JenkinWoo"
+          },
+          "topics": [],
+          "createdAt": "2026-11-06T09:28:09Z",
+          "pushedAt": "2026-11-06T09:54:37Z",
+          "updatedAt": "2026-11-22T20:36:19Z",
+          "license": "ISC",
+          "rankGain": 1
+        },
+        {
+          "id": 1439522537,
+          "name": "teardown",
+          "fullName": "elvarofficial/teardown",
+          "url": "https://github.com/elvarofficial/teardown",
+          "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+          "stars": 4020,
+          "forks": 594,
+          "openIssues": 9,
+          "language": "JavaScript",
+          "owner": {
+            "login": "elvarofficial",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/350203459?v=4",
+            "url": "https://github.com/elvarofficial"
+          },
+          "topics": [],
+          "createdAt": "2026-10-30T09:29:01Z",
+          "pushedAt": "2026-10-31T14:01:06Z",
+          "updatedAt": "2026-11-22T20:16:51Z",
+          "license": "MIT",
+          "rankGain": 1
+        },
+        {
+          "id": 1433974029,
+          "name": "skills",
+          "fullName": "benjitaylor/skills",
+          "url": "https://github.com/benjitaylor/skills",
+          "description": "Skills for AI coding agents.",
+          "stars": 3998,
+          "forks": 256,
+          "openIssues": 1,
+          "language": "TypeScript",
+          "owner": {
+            "login": "benjitaylor",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30378142?v=4",
+            "url": "https://github.com/benjitaylor"
+          },
+          "topics": [],
+          "createdAt": "2026-10-26T06:08:56Z",
+          "pushedAt": "2026-11-05T03:34:26Z",
+          "updatedAt": "2026-11-22T19:15:57Z",
+          "license": null,
+          "rankGain": 1
+        }
+      ],
+      "dropped": [
+        {
+          "id": 1460469810,
+          "name": "Wireless-Device-Battery-Monitor",
+          "fullName": "krisgfx9/Wireless-Device-Battery-Monitor",
+          "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+          "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+          "stars": 5767,
+          "forks": 485,
+          "openIssues": 3590,
+          "language": "C++",
+          "owner": {
+            "login": "krisgfx9",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/85200472?v=4",
+            "url": "https://github.com/krisgfx9"
+          },
+          "topics": [],
+          "createdAt": "2026-11-16T19:28:29Z",
+          "pushedAt": "2026-11-21T20:10:51Z",
+          "updatedAt": "2026-11-21T20:27:49Z",
+          "license": "GPL-3.0"
+        },
+        {
+          "id": 1431545439,
+          "name": "gpu-unlock-ada",
+          "fullName": "JustAResearcher/gpu-unlock-ada",
+          "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+          "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+          "stars": 4954,
+          "forks": 646,
+          "openIssues": 88,
+          "language": "C",
+          "owner": {
+            "login": "JustAResearcher",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/62031663?v=4",
+            "url": "https://github.com/JustAResearcher"
+          },
+          "topics": [],
+          "createdAt": "2026-10-23T21:00:53Z",
+          "pushedAt": "2026-10-26T04:24:46Z",
+          "updatedAt": "2026-11-21T16:06:33Z",
+          "license": "GPL-2.0"
+        },
+        {
+          "id": 1443759946,
+          "name": "terminal-mac",
+          "fullName": "govijr/terminal-mac",
+          "url": "https://github.com/govijr/terminal-mac",
+          "description": "Entire MacOS running in your terminal.",
+          "stars": 2912,
+          "forks": 209,
+          "openIssues": 9,
+          "language": "Swift",
+          "owner": {
+            "login": "govijr",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/111436589?v=4",
+            "url": "https://github.com/govijr"
+          },
+          "topics": [
+            "cli",
+            "gui",
+            "macos",
+            "shell",
+            "swift",
+            "terminal",
+            "tui"
+          ],
+          "createdAt": "2026-11-03T03:22:56Z",
+          "pushedAt": "2026-11-10T06:06:50Z",
+          "updatedAt": "2026-11-21T20:14:14Z",
+          "license": "MIT"
+        }
+      ]
+    },
+    "activeWeek": {
+      "newcomers": [
+        {
+          "id": 13491895,
+          "name": "free-programming-books",
+          "fullName": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": ":books: Freely available programming books",
+          "stars": 402075,
+          "forks": 67230,
+          "openIssues": 115,
+          "language": "Python",
+          "owner": {
+            "login": "EbookFoundation",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/14127308?v=4",
+            "url": "https://github.com/EbookFoundation"
+          },
+          "topics": [
+            "books",
+            "education",
+            "hacktoberfest",
+            "list",
+            "resource"
+          ],
+          "createdAt": "2013-10-11T06:50:37Z",
+          "pushedAt": "2026-11-21T23:51:56Z",
+          "updatedAt": "2026-11-22T20:18:26Z",
+          "license": "CC-BY-4.0"
+        },
+        {
+          "id": 1266797999,
+          "name": "ponytail",
+          "fullName": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "stars": 196818,
+          "forks": 11098,
+          "openIssues": 315,
+          "language": "JavaScript",
+          "owner": {
+            "login": "DietrichGebert",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
+            "url": "https://github.com/DietrichGebert"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude",
+            "claude-code",
+            "claude-code-plugin",
+            "cursor-rules",
+            "developer-tools",
+            "llm",
+            "prompt-engineering",
+            "yagni"
+          ],
+          "createdAt": "2026-06-12T00:52:37Z",
+          "pushedAt": "2026-11-22T02:31:58Z",
+          "updatedAt": "2026-11-22T20:41:56Z",
+          "license": "MIT"
+        },
+        {
+          "id": 1197021090,
+          "name": "claw-code",
+          "fullName": "ultraworkers/claw-code",
+          "url": "https://github.com/ultraworkers/claw-code",
+          "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+          "stars": 194739,
+          "forks": 107149,
+          "openIssues": 1,
+          "language": "Rust",
+          "owner": {
+            "login": "ultraworkers",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/272961631?v=4",
+            "url": "https://github.com/ultraworkers"
+          },
+          "topics": [],
+          "createdAt": "2026-03-31T08:58:08Z",
+          "pushedAt": "2026-11-22T19:33:26Z",
+          "updatedAt": "2026-11-22T19:31:56Z",
           "license": "MIT"
         }
       ],
       "risers": [],
       "dropped": [
+        {
+          "id": 32484381,
+          "name": "free-for-dev",
+          "fullName": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "stars": 143333,
+          "forks": 15421,
+          "openIssues": 11,
+          "language": "HTML",
+          "owner": {
+            "login": "ripienaar",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/82342?v=4",
+            "url": "https://github.com/ripienaar"
+          },
+          "topics": [
+            "awesome-list",
+            "free-for-developers"
+          ],
+          "createdAt": "2015-03-18T21:06:26Z",
+          "pushedAt": "2026-11-21T19:01:38Z",
+          "updatedAt": "2026-11-21T20:03:39Z",
+          "license": null
+        },
         {
           "id": 1179264259,
           "name": "gstack",
@@ -230,6 +672,41 @@
         }
       ],
       "risers": [
+        {
+          "id": 232157758,
+          "name": "PCAPdroid",
+          "fullName": "emanuele-f/PCAPdroid",
+          "url": "https://github.com/emanuele-f/PCAPdroid",
+          "description": "No-root network monitor, firewall and PCAP dumper for Android",
+          "stars": 5242,
+          "forks": 592,
+          "openIssues": 46,
+          "language": "Java",
+          "owner": {
+            "login": "emanuele-f",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5488003?v=4",
+            "url": "https://github.com/emanuele-f"
+          },
+          "topics": [
+            "android",
+            "capture-traffic",
+            "decryption",
+            "firewall",
+            "network-analysis",
+            "no-root",
+            "pcap",
+            "pcap-files",
+            "sniffer",
+            "sniffing",
+            "traffic-monitor",
+            "wireshark"
+          ],
+          "createdAt": "2020-01-06T18:11:27Z",
+          "pushedAt": "2026-11-21T10:19:11Z",
+          "updatedAt": "2026-11-22T19:11:13Z",
+          "license": "GPL-3.0",
+          "rankGain": 1
+        },
         {
           "id": 48323090,
           "name": "coding-standard",
@@ -323,7 +800,7 @@
             "tcpdump-like"
           ],
           "createdAt": "2024-04-05T08:59:43Z",
-          "pushedAt": "2026-11-20T06:32:33Z",
+          "pushedAt": "2026-11-22T13:50:50Z",
           "updatedAt": "2026-11-17T06:16:08Z",
           "license": "MIT",
           "rankGain": 1
@@ -413,7 +890,7 @@
           "fullName": "alexch33/super-video-downloader",
           "url": "https://github.com/alexch33/super-video-downloader",
           "description": "Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOCKS proxy chains supported, encrypted DNS, Adblocker with lists managenment",
-          "stars": 1016,
+          "stars": 1018,
           "forks": 132,
           "openIssues": 9,
           "language": "Kotlin",
@@ -445,7 +922,7 @@
           ],
           "createdAt": "2024-08-16T13:33:09Z",
           "pushedAt": "2026-11-22T05:12:04Z",
-          "updatedAt": "2026-11-22T02:50:47Z",
+          "updatedAt": "2026-11-22T20:36:34Z",
           "license": "GPL-3.0",
           "rankGain": 1
         },
@@ -540,20 +1017,20 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 0,
+      "risers": 1,
       "dropped": 0
     },
     "breakout": {
       "total": 50,
-      "newcomers": 1,
-      "risers": 1,
-      "dropped": 1
+      "newcomers": 3,
+      "risers": 10,
+      "dropped": 3
     },
     "activeWeek": {
       "total": 50,
-      "newcomers": 2,
+      "newcomers": 3,
       "risers": 0,
-      "dropped": 2
+      "dropped": 3
     },
     "aiEco": {
       "total": 50,
@@ -564,7 +1041,7 @@
     "secTraffic": {
       "total": 40,
       "newcomers": 1,
-      "risers": 7,
+      "risers": 8,
       "dropped": 1
     },
     "secAiCyber": {
