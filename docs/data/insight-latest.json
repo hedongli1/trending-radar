@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:56:05.764Z",
+  "generatedAt": "2026-11-25T23:03:15.102Z",
   "date": "2026-11-25",
   "categories": {
     "allTime": {
@@ -11,9 +11,9 @@
           "fullName": "firecrawl/firecrawl",
           "url": "https://github.com/firecrawl/firecrawl",
           "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-          "stars": 209314,
-          "forks": 10940,
-          "openIssues": 921,
+          "stars": 209986,
+          "forks": 10985,
+          "openIssues": 920,
           "language": "TypeScript",
           "owner": {
             "login": "firecrawl",
@@ -42,9 +42,42 @@
             "webscraping"
           ],
           "createdAt": "2024-04-15T21:02:29Z",
-          "pushedAt": "2026-11-25T08:41:36Z",
-          "updatedAt": "2026-11-25T08:55:10Z",
+          "pushedAt": "2026-11-25T22:46:42Z",
+          "updatedAt": "2026-11-25T23:02:59Z",
           "license": "AGPL-3.0",
+          "rankGain": 1
+        },
+        {
+          "id": 1266797999,
+          "name": "ponytail",
+          "fullName": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "stars": 198685,
+          "forks": 11272,
+          "openIssues": 337,
+          "language": "JavaScript",
+          "owner": {
+            "login": "DietrichGebert",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
+            "url": "https://github.com/DietrichGebert"
+          },
+          "topics": [
+            "agent-skills",
+            "ai-agents",
+            "claude",
+            "claude-code",
+            "claude-code-plugin",
+            "cursor-rules",
+            "developer-tools",
+            "llm",
+            "prompt-engineering",
+            "yagni"
+          ],
+          "createdAt": "2026-06-12T00:52:37Z",
+          "pushedAt": "2026-11-22T02:31:58Z",
+          "updatedAt": "2026-11-25T23:02:55Z",
+          "license": "MIT",
           "rankGain": 1
         }
       ],
@@ -58,9 +91,9 @@
           "fullName": "4lwayz/portwatch-vi",
           "url": "https://github.com/4lwayz/portwatch-vi",
           "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-          "stars": 3164,
-          "forks": 85,
-          "openIssues": 71,
+          "stars": 4024,
+          "forks": 118,
+          "openIssues": 132,
           "language": "JavaScript",
           "owner": {
             "login": "4lwayz",
@@ -69,8 +102,8 @@
           },
           "topics": [],
           "createdAt": "2026-11-21T23:16:41Z",
-          "pushedAt": "2026-11-25T07:41:49Z",
-          "updatedAt": "2026-11-25T08:55:41Z",
+          "pushedAt": "2026-11-25T22:52:23Z",
+          "updatedAt": "2026-11-25T23:02:31Z",
           "license": null
         },
         {
@@ -79,9 +112,9 @@
           "fullName": "imxieyi/Kernarium",
           "url": "https://github.com/imxieyi/Kernarium",
           "description": "Run real Linux kernel natively on iOS",
-          "stars": 2997,
-          "forks": 325,
-          "openIssues": 15,
+          "stars": 3040,
+          "forks": 330,
+          "openIssues": 16,
           "language": "C++",
           "owner": {
             "login": "imxieyi",
@@ -99,8 +132,29 @@
           ],
           "createdAt": "2026-11-07T14:15:03Z",
           "pushedAt": "2026-11-22T18:45:39Z",
-          "updatedAt": "2026-11-25T08:43:31Z",
+          "updatedAt": "2026-11-25T22:26:06Z",
           "license": "GPL-2.0"
+        },
+        {
+          "id": 1470579726,
+          "name": "victory-fork",
+          "fullName": "fxceless/victory-fork",
+          "url": "https://github.com/fxceless/victory-fork",
+          "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+          "stars": 3037,
+          "forks": 869,
+          "openIssues": 1090,
+          "language": "Rust",
+          "owner": {
+            "login": "fxceless",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/36782933?v=4",
+            "url": "https://github.com/fxceless"
+          },
+          "topics": [],
+          "createdAt": "2026-11-24T18:02:37Z",
+          "pushedAt": "2026-11-25T23:02:06Z",
+          "updatedAt": "2026-11-25T23:02:58Z",
+          "license": "GPL-3.0"
         },
         {
           "id": 1453604719,
@@ -108,9 +162,9 @@
           "fullName": "Eynnzerr/TelemetryCleaner",
           "url": "https://github.com/Eynnzerr/TelemetryCleaner",
           "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
-          "stars": 2964,
-          "forks": 204,
-          "openIssues": 2,
+          "stars": 3033,
+          "forks": 205,
+          "openIssues": 3,
           "language": "Kotlin",
           "owner": {
             "login": "Eynnzerr",
@@ -120,28 +174,7 @@
           "topics": [],
           "createdAt": "2026-11-11T06:25:10Z",
           "pushedAt": "2026-11-24T05:02:26Z",
-          "updatedAt": "2026-11-25T08:40:28Z",
-          "license": "MIT"
-        },
-        {
-          "id": 1455374283,
-          "name": "abyssal-garden",
-          "fullName": "Noniv/abyssal-garden",
-          "url": "https://github.com/Noniv/abyssal-garden",
-          "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
-          "stars": 2953,
-          "forks": 436,
-          "openIssues": 15,
-          "language": "JavaScript",
-          "owner": {
-            "login": "Noniv",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/80125277?v=4",
-            "url": "https://github.com/Noniv"
-          },
-          "topics": [],
-          "createdAt": "2026-11-12T13:57:34Z",
-          "pushedAt": "2026-11-14T17:41:33Z",
-          "updatedAt": "2026-11-25T08:51:28Z",
+          "updatedAt": "2026-11-25T22:55:05Z",
           "license": "MIT"
         }
       ],
@@ -152,8 +185,8 @@
           "fullName": "XinaTian/MROffice",
           "url": "https://github.com/XinaTian/MROffice",
           "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-          "stars": 4296,
-          "forks": 457,
+          "stars": 4554,
+          "forks": 475,
           "openIssues": 0,
           "language": "TypeScript",
           "owner": {
@@ -185,38 +218,9 @@
           ],
           "createdAt": "2026-11-10T17:54:07Z",
           "pushedAt": "2026-11-24T15:50:44Z",
-          "updatedAt": "2026-11-25T08:48:46Z",
+          "updatedAt": "2026-11-25T22:22:39Z",
           "license": "AGPL-3.0",
-          "rankGain": 5
-        },
-        {
-          "id": 1452175380,
-          "name": "linger",
-          "fullName": "simplexai-labs/linger",
-          "url": "https://github.com/simplexai-labs/linger",
-          "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
-          "stars": 4527,
-          "forks": 425,
-          "openIssues": 129,
-          "language": "TypeScript",
-          "owner": {
-            "login": "simplexai-labs",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/257494383?v=4",
-            "url": "https://github.com/simplexai-labs"
-          },
-          "topics": [
-            "agent-teams",
-            "local-llm",
-            "memory",
-            "personal-agent",
-            "proactive-agent",
-            "proactive-ai"
-          ],
-          "createdAt": "2026-11-10T03:50:38Z",
-          "pushedAt": "2026-11-25T08:47:49Z",
-          "updatedAt": "2026-11-25T08:54:16Z",
-          "license": "NOASSERTION",
-          "rankGain": 4
+          "rankGain": 7
         },
         {
           "id": 1466635339,
@@ -224,9 +228,9 @@
           "fullName": "EL4CTEO/fast-anything",
           "url": "https://github.com/EL4CTEO/fast-anything",
           "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-          "stars": 3756,
-          "forks": 269,
-          "openIssues": 17,
+          "stars": 3939,
+          "forks": 282,
+          "openIssues": 4,
           "language": "Rust",
           "owner": {
             "login": "EL4CTEO",
@@ -256,10 +260,10 @@
             "typescript"
           ],
           "createdAt": "2026-11-21T14:40:27Z",
-          "pushedAt": "2026-11-24T15:28:28Z",
-          "updatedAt": "2026-11-25T08:54:34Z",
+          "pushedAt": "2026-11-25T16:23:36Z",
+          "updatedAt": "2026-11-25T22:53:24Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 5
         },
         {
           "id": 1465281397,
@@ -267,9 +271,9 @@
           "fullName": "AFK-surf/xnulinux",
           "url": "https://github.com/AFK-surf/xnulinux",
           "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-          "stars": 3636,
-          "forks": 170,
-          "openIssues": 7,
+          "stars": 3922,
+          "forks": 184,
+          "openIssues": 11,
           "language": "C",
           "owner": {
             "login": "AFK-surf",
@@ -278,8 +282,37 @@
           },
           "topics": [],
           "createdAt": "2026-11-20T10:18:31Z",
-          "pushedAt": "2026-11-25T07:47:21Z",
-          "updatedAt": "2026-11-25T08:55:45Z",
+          "pushedAt": "2026-11-25T21:58:00Z",
+          "updatedAt": "2026-11-25T23:02:50Z",
+          "license": "NOASSERTION",
+          "rankGain": 5
+        },
+        {
+          "id": 1452175380,
+          "name": "linger",
+          "fullName": "simplexai-labs/linger",
+          "url": "https://github.com/simplexai-labs/linger",
+          "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+          "stars": 4675,
+          "forks": 435,
+          "openIssues": 156,
+          "language": "TypeScript",
+          "owner": {
+            "login": "simplexai-labs",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/257494383?v=4",
+            "url": "https://github.com/simplexai-labs"
+          },
+          "topics": [
+            "agent-teams",
+            "local-llm",
+            "memory",
+            "personal-agent",
+            "proactive-agent",
+            "proactive-ai"
+          ],
+          "createdAt": "2026-11-10T03:50:38Z",
+          "pushedAt": "2026-11-25T23:00:59Z",
+          "updatedAt": "2026-11-25T23:01:20Z",
           "license": "NOASSERTION",
           "rankGain": 4
         },
@@ -289,9 +322,9 @@
           "fullName": "FrigadeHQ/yogurt",
           "url": "https://github.com/FrigadeHQ/yogurt",
           "description": "Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.",
-          "stars": 3432,
-          "forks": 300,
-          "openIssues": 66,
+          "stars": 3519,
+          "forks": 306,
+          "openIssues": 73,
           "language": "TypeScript",
           "owner": {
             "login": "FrigadeHQ",
@@ -321,10 +354,10 @@
             "windows"
           ],
           "createdAt": "2026-11-10T20:01:01Z",
-          "pushedAt": "2026-11-25T07:03:12Z",
-          "updatedAt": "2026-11-25T08:53:52Z",
+          "pushedAt": "2026-11-25T21:55:20Z",
+          "updatedAt": "2026-11-25T22:59:47Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 3
         },
         {
           "id": 1441521221,
@@ -332,8 +365,8 @@
           "fullName": "wquguru/cicada",
           "url": "https://github.com/wquguru/cicada",
           "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-          "stars": 3211,
-          "forks": 508,
+          "stars": 3306,
+          "forks": 525,
           "openIssues": 13,
           "language": "Swift",
           "owner": {
@@ -358,30 +391,8 @@
           ],
           "createdAt": "2026-11-01T05:41:23Z",
           "pushedAt": "2026-11-25T06:50:11Z",
-          "updatedAt": "2026-11-25T08:51:57Z",
+          "updatedAt": "2026-11-25T22:39:17Z",
           "license": "Apache-2.0",
-          "rankGain": 4
-        },
-        {
-          "id": 1443650212,
-          "name": "gputaskman",
-          "fullName": "shanselman/gputaskman",
-          "url": "https://github.com/shanselman/gputaskman",
-          "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights for NVIDIA, AMD, and Intel GPUs (plus Huawei Ascend on Linux).",
-          "stars": 3765,
-          "forks": 190,
-          "openIssues": 9,
-          "language": "Python",
-          "owner": {
-            "login": "shanselman",
-            "avatarUrl": "https://avatars.githubusercontent.com/u/2892?v=4",
-            "url": "https://github.com/shanselman"
-          },
-          "topics": [],
-          "createdAt": "2026-11-03T00:49:34Z",
-          "pushedAt": "2026-11-24T23:39:01Z",
-          "updatedAt": "2026-11-25T07:36:55Z",
-          "license": "MIT",
           "rankGain": 3
         },
         {
@@ -390,9 +401,9 @@
           "fullName": "jamesondh/chimera-vocal-synth",
           "url": "https://github.com/jamesondh/chimera-vocal-synth",
           "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-          "stars": 3147,
-          "forks": 399,
-          "openIssues": 52,
+          "stars": 3199,
+          "forks": 406,
+          "openIssues": 55,
           "language": "Rust",
           "owner": {
             "login": "jamesondh",
@@ -401,8 +412,8 @@
           },
           "topics": [],
           "createdAt": "2026-11-05T19:10:42Z",
-          "pushedAt": "2026-11-25T01:29:20Z",
-          "updatedAt": "2026-11-25T08:53:29Z",
+          "pushedAt": "2026-11-25T19:50:30Z",
+          "updatedAt": "2026-11-25T22:52:15Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -412,9 +423,9 @@
           "fullName": "Immortal-Protocols/lastbook",
           "url": "https://github.com/Immortal-Protocols/lastbook",
           "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
-          "stars": 3063,
-          "forks": 377,
-          "openIssues": 188,
+          "stars": 3075,
+          "forks": 380,
+          "openIssues": 183,
           "language": "Python",
           "owner": {
             "login": "Immortal-Protocols",
@@ -423,8 +434,8 @@
           },
           "topics": [],
           "createdAt": "2026-11-12T23:49:03Z",
-          "pushedAt": "2026-11-25T06:24:37Z",
-          "updatedAt": "2026-11-25T07:32:25Z",
+          "pushedAt": "2026-11-25T20:45:48Z",
+          "updatedAt": "2026-11-25T22:36:07Z",
           "license": "MIT",
           "rankGain": 3
         },
@@ -434,8 +445,8 @@
           "fullName": "paipiange/nvzhuang",
           "url": "https://github.com/paipiange/nvzhuang",
           "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-          "stars": 3035,
-          "forks": 728,
+          "stars": 3049,
+          "forks": 729,
           "openIssues": 0,
           "language": "Go",
           "owner": {
@@ -446,9 +457,31 @@
           "topics": [],
           "createdAt": "2026-10-29T06:08:00Z",
           "pushedAt": "2026-11-25T07:27:32Z",
-          "updatedAt": "2026-11-25T08:26:46Z",
+          "updatedAt": "2026-11-25T22:52:30Z",
           "license": "MIT",
           "rankGain": 3
+        },
+        {
+          "id": 1469344551,
+          "name": "VIctory",
+          "fullName": "Marvisak/VIctory",
+          "url": "https://github.com/Marvisak/VIctory",
+          "description": "An attempt at running GTA VI on PC",
+          "stars": 12573,
+          "forks": 2043,
+          "openIssues": 1714,
+          "language": "Rust",
+          "owner": {
+            "login": "Marvisak",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/60314886?v=4",
+            "url": "https://github.com/Marvisak"
+          },
+          "topics": [],
+          "createdAt": "2026-11-23T21:47:25Z",
+          "pushedAt": "2026-11-25T22:48:02Z",
+          "updatedAt": "2026-11-25T23:02:19Z",
+          "license": "GPL-3.0",
+          "rankGain": 2
         }
       ],
       "dropped": [
@@ -569,9 +602,9 @@
           "fullName": "ripienaar/free-for-dev",
           "url": "https://github.com/ripienaar/free-for-dev",
           "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-          "stars": 143609,
-          "forks": 15470,
-          "openIssues": 15,
+          "stars": 143667,
+          "forks": 15475,
+          "openIssues": 14,
           "language": "HTML",
           "owner": {
             "login": "ripienaar",
@@ -583,8 +616,8 @@
             "free-for-developers"
           ],
           "createdAt": "2015-03-18T21:06:26Z",
-          "pushedAt": "2026-11-25T06:11:22Z",
-          "updatedAt": "2026-11-25T08:23:49Z",
+          "pushedAt": "2026-11-25T21:18:35Z",
+          "updatedAt": "2026-11-25T22:50:45Z",
           "license": null
         }
       ],
@@ -595,9 +628,9 @@
           "fullName": "farion1231/cc-switch",
           "url": "https://github.com/farion1231/cc-switch",
           "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-          "stars": 157021,
-          "forks": 10251,
-          "openIssues": 753,
+          "stars": 157159,
+          "forks": 10257,
+          "openIssues": 765,
           "language": "Rust",
           "owner": {
             "login": "farion1231",
@@ -626,8 +659,8 @@
             "wsl-support"
           ],
           "createdAt": "2025-08-04T14:16:16Z",
-          "pushedAt": "2026-11-25T06:38:56Z",
-          "updatedAt": "2026-11-25T08:53:43Z",
+          "pushedAt": "2026-11-25T13:09:02Z",
+          "updatedAt": "2026-11-25T22:57:41Z",
           "license": "MIT",
           "rankGain": 2
         },
@@ -637,9 +670,9 @@
           "fullName": "harry0703/MoneyPrinterTurbo",
           "url": "https://github.com/harry0703/MoneyPrinterTurbo",
           "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-          "stars": 145577,
-          "forks": 23438,
-          "openIssues": 90,
+          "stars": 145688,
+          "forks": 23453,
+          "openIssues": 91,
           "language": "Python",
           "owner": {
             "login": "harry0703",
@@ -664,7 +697,7 @@
           ],
           "createdAt": "2024-03-11T02:57:34Z",
           "pushedAt": "2026-11-25T08:37:28Z",
-          "updatedAt": "2026-11-25T08:54:32Z",
+          "updatedAt": "2026-11-25T22:47:42Z",
           "license": "MIT",
           "rankGain": 1
         },
@@ -674,9 +707,9 @@
           "fullName": "iptv-org/iptv",
           "url": "https://github.com/iptv-org/iptv",
           "description": "Collection of publicly available IPTV channels from all over the world",
-          "stars": 144690,
-          "forks": 8626,
-          "openIssues": 214,
+          "stars": 144718,
+          "forks": 8634,
+          "openIssues": 326,
           "language": "TypeScript",
           "owner": {
             "login": "iptv-org",
@@ -691,8 +724,8 @@
             "tv"
           ],
           "createdAt": "2018-11-14T22:00:57Z",
-          "pushedAt": "2026-11-25T06:06:13Z",
-          "updatedAt": "2026-11-25T08:41:40Z",
+          "pushedAt": "2026-11-25T22:08:27Z",
+          "updatedAt": "2026-11-25T22:50:10Z",
           "license": "Unlicense",
           "rankGain": 1
         },
@@ -702,9 +735,9 @@
           "fullName": "vercel/next.js",
           "url": "https://github.com/vercel/next.js",
           "description": "The React Framework",
-          "stars": 143686,
-          "forks": 32698,
-          "openIssues": 4128,
+          "stars": 143721,
+          "forks": 32697,
+          "openIssues": 4143,
           "language": "JavaScript",
           "owner": {
             "login": "vercel",
@@ -728,8 +761,8 @@
             "vercel"
           ],
           "createdAt": "2016-10-05T23:32:51Z",
-          "pushedAt": "2026-11-25T08:43:13Z",
-          "updatedAt": "2026-11-25T08:15:09Z",
+          "pushedAt": "2026-11-25T23:03:01Z",
+          "updatedAt": "2026-11-25T22:40:38Z",
           "license": "MIT",
           "rankGain": 1
         }
@@ -772,9 +805,9 @@
           "fullName": "farion1231/cc-switch",
           "url": "https://github.com/farion1231/cc-switch",
           "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-          "stars": 157021,
-          "forks": 10251,
-          "openIssues": 753,
+          "stars": 157159,
+          "forks": 10257,
+          "openIssues": 765,
           "language": "Rust",
           "owner": {
             "login": "farion1231",
@@ -803,8 +836,8 @@
             "wsl-support"
           ],
           "createdAt": "2025-08-04T14:16:16Z",
-          "pushedAt": "2026-11-25T06:38:56Z",
-          "updatedAt": "2026-11-25T08:53:43Z",
+          "pushedAt": "2026-11-25T13:09:02Z",
+          "updatedAt": "2026-11-25T22:57:41Z",
           "license": "MIT",
           "rankGain": 2
         }
@@ -825,9 +858,9 @@
           "fullName": "secfoo-com/secfoo",
           "url": "https://github.com/secfoo-com/secfoo",
           "description": "AI security review CLI: SAST, secret scanning, SCA, threat modeling and architecture review with Claude Code, Copilot, Codex, Gemini, Cursor or an API key. Reads your design docs, Confluence and Jira through MCP. SARIF output for CI.",
-          "stars": 515,
-          "forks": 314,
-          "openIssues": 35,
+          "stars": 648,
+          "forks": 320,
+          "openIssues": 32,
           "language": "Python",
           "owner": {
             "login": "secfoo-com",
@@ -857,10 +890,10 @@
             "threat-modeling"
           ],
           "createdAt": "2026-08-23T16:15:08Z",
-          "pushedAt": "2026-11-25T08:28:59Z",
-          "updatedAt": "2026-11-25T08:54:12Z",
+          "pushedAt": "2026-11-25T21:39:31Z",
+          "updatedAt": "2026-11-25T21:57:53Z",
           "license": "MIT",
-          "rankGain": 4
+          "rankGain": 5
         }
       ],
       "dropped": []
@@ -870,7 +903,7 @@
     "allTime": {
       "total": 50,
       "newcomers": 0,
-      "risers": 1,
+      "risers": 2,
       "dropped": 0
     },
     "breakout": {
